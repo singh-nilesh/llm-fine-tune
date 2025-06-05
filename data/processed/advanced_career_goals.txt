@@ -1,0 +1,219 @@
+Goal: AWS Solutions Architect Certification | habit_count: 3 | task_count: 10 | Extra: 12-week cloud architecture mastery; senior computer science student targeting enterprise cloud solutions through VPC design, serverless architecture implementation, containerization with ECS/EKS, multi-region deployments, cost optimization strategies, security best practices, disaster recovery planning, infrastructure as code, monitoring setup, and certification exam preparation.
+
+Goal: Full-Stack JavaScript Development | habit_count: 3 | task_count: 10 | Extra: 12-week modern web development; computer science junior targeting startup opportunities through Node.js backend development, React patterns, GraphQL API design, database optimization, authentication systems, real-time communication, testing automation, deployment strategies, performance optimization, and portfolio application creation.
+
+Goal: Machine Learning Engineering | habit_count: 3 | task_count: 11 | Extra: 16-week AI specialization; data science graduate targeting ML engineer roles through model deployment pipelines, MLOps implementation, feature store development, model monitoring systems, A/B testing for ML, distributed training, model versioning, performance optimization, cloud ML services, and production system design.
+
+Goal: DevOps Engineering Pipeline Mastery | habit_count: 3 | task_count: 11 | Extra: 16-week automation expertise; software engineering senior targeting continuous integration through Docker containerization, Kubernetes orchestration, Jenkins pipeline creation, Terraform infrastructure provisioning, monitoring with Prometheus, log management, security scanning automation, performance testing integration, and production deployment strategies.
+
+Goal: Cybersecurity Analyst Certification (CISSP) | habit_count: 2 | task_count: 12 | Extra: 18-week security specialization; information technology graduate preparing for security roles through risk assessment methodologies, penetration testing techniques, incident response procedures, compliance framework understanding, threat modeling, vulnerability management, security architecture design, forensic analysis, and professional certification achievement.
+
+Goal: Python Data Science Specialization | habit_count: 2 | task_count: 9 | Extra: 14-week analytics specialization; statistics major preparing for tech industry roles through machine learning model development, pandas operations, statistical hypothesis testing, feature engineering techniques, neural network implementation, data visualization mastery, A/B testing frameworks, time series analysis, and portfolio project completion.
+
+Goal: React Native Mobile Development | habit_count: 2 | task_count: 9 | Extra: 12-week mobile specialization; computer science student targeting mobile developer roles through React Native mastery, native iOS/Android development, mobile backend integration, push notification systems, app store optimization, mobile analytics implementation, offline functionality, and cross-platform deployment strategies.
+
+Goal: Google Cloud Professional Certification | habit_count: 3 | task_count: 11 | Extra: 14-week cloud platform mastery; computer science senior targeting cloud architect role through GCP service integration, Kubernetes management, BigQuery analytics, Cloud Functions development, security implementation, cost optimization, monitoring setup, CI/CD pipeline creation, disaster recovery planning, and professional certification achievement.
+
+Goal: Blockchain Development Specialization | habit_count: 3 | task_count: 10 | Extra: 14-week cryptocurrency technology; computer science senior exploring emerging tech through smart contract development, Solidity programming, DeFi protocol understanding, NFT marketplace creation, blockchain security practices, consensus algorithm analysis, Web3 integration, cryptocurrency trading bot development, and decentralized application deployment.
+
+Goal: Azure DevOps Engineering | habit_count: 3 | task_count: 10 | Extra: 14-week Microsoft cloud expertise; software engineering student targeting DevOps role through Azure pipeline development, infrastructure as code, container orchestration, monitoring implementation, security scanning, release management, testing automation, performance optimization, and Azure DevOps certification.
+
+Goal: Computer Vision and Image Processing | habit_count: 3 | task_count: 11 | Extra: 16-week vision systems; computer science student specializing in computer vision through deep learning, image analysis, object detection, facial recognition, medical imaging, autonomous systems, performance optimization, and computer vision applications.
+
+Goal: Artificial Intelligence Ethics | habit_count: 3 | task_count: 9 | Extra: 12-week AI governance; philosophy student transitioning to tech ethics through algorithmic bias detection, privacy protection, ethical AI frameworks, regulatory compliance, stakeholder engagement, policy development, ethical review processes, and responsible AI implementation.
+
+Goal: Data Engineering Pipeline Development | habit_count: 3 | task_count: 11 | Extra: 16-week big data specialization; computer science graduate preparing for data engineer roles through Apache Spark mastery, data warehouse design, ETL pipeline automation, stream processing implementation, cloud data platforms, data quality monitoring, schema evolution management, and real-time analytics systems.
+
+Goal: Natural Language Processing | habit_count: 2 | task_count: 9 | Extra: 12-week NLP specialization; linguistics student transitioning to AI through language modeling, text analysis, sentiment analysis, machine translation, chatbot development, voice recognition, language generation, and NLP applications.
+
+Goal: Quality Assurance Automation | habit_count: 3 | task_count: 10 | Extra: 14-week testing specialization; software engineering student focusing on QA through automated testing framework development, Selenium WebDriver mastery, API testing implementation, performance testing execution, continuous integration testing, mobile testing strategies, security testing procedures, and defect tracking system management.
+
+Goal: Salesforce Administration | habit_count: 2 | task_count: 9 | Extra: 12-week CRM specialization; business administration student preparing for Salesforce career through custom object creation, workflow automation, report and dashboard development, user management, data migration, integration setup, mobile configuration, security customization, and administrator certification.
+
+Goal: Database Administration | habit_count: 2 | task_count: 8 | Extra: 10-week data management; information systems student targeting DBA roles through performance tuning optimization, backup and recovery strategies, security implementation, high availability setup, query optimization techniques, database migration planning, monitoring system configuration, and disaster recovery testing.
+
+Goal: IoT System Development | habit_count: 2 | task_count: 11 | Extra: 16-week embedded systems; electrical engineering student preparing for IoT roles through sensor integration, microcontroller programming, wireless communication protocols, cloud connectivity, data collection systems, real-time processing, security implementation, mobile app integration, and industrial IoT applications.
+
+Goal: Game Development with Unity | habit_count: 3 | task_count: 10 | Extra: 14-week game programming; computer science student targeting game industry through 3D game development, physics simulation, AI behavior programming, multiplayer networking, mobile game optimization, monetization strategy implementation, user experience design, performance profiling, and game publishing processes.
+
+Goal: E-commerce Development | habit_count: 3 | task_count: 9 | Extra: 12-week online business; computer science student targeting e-commerce specialization through Shopify development, payment gateway integration, inventory management systems, customer analytics implementation, conversion optimization, mobile commerce development, security compliance, and multi-channel integration.
+
+Goal: Digital Forensics and Incident Response | habit_count: 2 | task_count: 11 | Extra: 16-week cybersecurity specialization; criminal justice student transitioning to cybersecurity through digital evidence collection, malware analysis, network forensics, incident response procedures, legal compliance, chain of custody, report writing, expert testimony preparation, and professional certification pursuit.
+
+Goal: API Integration and Development | habit_count: 2 | task_count: 7 | Extra: 5-week web services; full-stack development student learning backend communication through HTTP methods, JSON parsing, authentication basics, error handling, response processing, documentation reading, and weather app creation.
+
+Goal: Network Engineering | habit_count: 3 | task_count: 10 | Extra: 14-week infrastructure specialization; information technology student targeting network architect roles through CCNP certification preparation, network security implementation, SD-WAN deployment, load balancing configuration, network monitoring setup, troubleshooting methodology, capacity planning, and disaster recovery design.
+
+Goal: Augmented Reality Development | habit_count: 2 | task_count: 9 | Extra: 12-week AR specialization; computer graphics student targeting AR industry through Unity3D mastery, ARCore/ARKit development, 3D modeling, user interface design, mobile optimization, computer vision, gesture recognition, and immersive experience creation.
+
+Goal: Virtual Reality Content Creation | habit_count: 3 | task_count: 8 | Extra: 10-week VR development; game design student transitioning to VR through VR application development, 3D environment design, user experience optimization, motion tracking, haptic feedback, performance optimization, content distribution, and VR storytelling techniques.
+
+Goal: UX/UI Design Professional Portfolio | habit_count: 2 | task_count: 9 | Extra: 12-week design mastery; graphic design student transitioning to digital through user research methodologies, wireframing techniques, prototyping tools mastery, usability testing execution, design system creation, accessibility compliance, interaction design, visual hierarchy principles, and comprehensive portfolio development.
+
+Goal: Autonomous Vehicle Technology | habit_count: 2 | task_count: 10 | Extra: 14-week automotive innovation; mechanical engineering student targeting autonomous systems through sensor fusion, machine learning, computer vision, control systems, safety validation, regulatory compliance, testing procedures, and autonomous vehicle deployment.
+
+Goal: Information Security Architecture | habit_count: 3 | task_count: 11 | Extra: 16-week security leadership; cybersecurity student targeting security architect roles through security framework design, threat modeling, risk assessment, compliance management, security controls, incident response, governance, and security architecture implementation.
+
+Goal: Python for Finance | habit_count: 3 | task_count: 9 | Extra: 12-week fintech development; finance and computer science double major through algorithmic trading system development, risk management automation, financial data analysis, derivatives pricing models, portfolio management tools, regulatory compliance automation, backtesting frameworks, and financial API integration.
+
+Goal: Cryptocurrency and DeFi Development | habit_count: 2 | task_count: 9 | Extra: 12-week blockchain finance; finance student exploring decentralized finance through smart contract development, DeFi protocol analysis, yield farming strategies, liquidity mining, governance token economics, risk assessment, regulatory compliance, and DeFi product development.
+
+Goal: Investment Banking Financial Analysis | habit_count: 3 | task_count: 9 | Extra: 12-week finance preparation; economics student targeting Wall Street through financial modeling, company valuation techniques, merger and acquisition analysis, pitch book creation, industry research methodologies, financial statement analysis, presentation skills development, and networking strategy execution.
+
+Goal: Corporate Finance and M&A | habit_count: 3 | task_count: 10 | Extra: 14-week investment banking preparation; finance student targeting corporate finance through financial modeling, valuation techniques, due diligence, deal structuring, negotiation strategies, market analysis, presentation development, and transaction execution.
+
+Goal: Financial Risk Management | habit_count: 2 | task_count: 10 | Extra: 14-week risk analytics; finance student specializing in risk through quantitative risk modeling, credit risk assessment, market risk analysis, operational risk management, regulatory compliance, stress testing, portfolio optimization, and risk management certification.
+
+Goal: Venture Capital and Startup Analysis | habit_count: 2 | task_count: 9 | Extra: 12-week investment strategy; economics student targeting VC career through startup evaluation, due diligence processes, financial modeling, market analysis, pitch deck creation, portfolio management, exit strategy planning, and investor relations.
+
+Goal: Financial Modeling | habit_count: 3 | task_count: 9 | Extra: 12-week quantitative finance; finance major preparing for investment banking through DCF model construction, Monte Carlo simulation, options pricing models, risk assessment frameworks, portfolio optimization, merger analysis, LBO modeling, sensitivity analysis, and presentation to stakeholders.
+
+Goal: Renewable Energy Finance | habit_count: 2 | task_count: 8 | Extra: 10-week clean energy economics; environmental economics student targeting green finance through project financing, renewable energy valuations, carbon credit markets, sustainability reporting, ESG analysis, green bond structuring, and clean energy investment strategies.
+
+Goal: International Trade and Logistics | habit_count: 3 | task_count: 7 | Extra: 8-week global commerce; international business student preparing for trade roles through customs regulations, supply chain management, trade finance, risk mitigation, documentation processes, cultural competency, negotiation skills, and logistics optimization.
+
+Goal: Pharmaceutical Data Analysis | habit_count: 3 | task_count: 9 | Extra: 12-week pharma analytics; chemistry student combining with data science through clinical trial analysis, drug discovery algorithms, regulatory compliance, adverse event monitoring, market research, competitive intelligence, quality control analytics, and pharmaceutical business intelligence.
+
+Goal: Healthcare Technology | habit_count: 2 | task_count: 10 | Extra: 14-week health informatics; biomedical engineering student targeting healthcare tech through electronic health record systems, medical device integration, healthcare analytics, HIPAA compliance implementation, telemedicine platform development, clinical decision support, patient data security, and regulatory approval processes.
+
+Goal: Telemedicine and Digital Health | habit_count: 2 | task_count: 10 | Extra: 14-week digital healthcare; pre-med student preparing for digital health through telehealth platform development, remote patient monitoring, health app creation, medical device integration, privacy compliance, clinical workflow optimization, patient engagement, and healthcare analytics.
+
+Goal: Biomedical Device Development | habit_count: 2 | task_count: 10 | Extra: 14-week medical device industry; biomedical engineering student targeting device development through regulatory compliance, clinical testing, device design, safety validation, manufacturing processes, quality systems, market analysis, and medical device commercialization.
+
+Goal: Precision Medicine and Genomics | habit_count: 2 | task_count: 11 | Extra: 16-week personalized healthcare; biomedical engineering student targeting precision medicine through genomic data analysis, personalized treatment algorithms, clinical decision support, regulatory compliance, patient privacy, bioinformatics tools, research collaboration, and healthcare innovation.
+
+Goal: Healthcare Administration | habit_count: 3 | task_count: 10 | Extra: 14-week healthcare management; health administration student preparing for leadership through healthcare operations, quality improvement, regulatory compliance, financial management, strategic planning, staff development, patient experience, and healthcare innovation.
+
+Goal: Pharmaceutical Regulatory Affairs | habit_count: 2 | task_count: 11 | Extra: 16-week regulatory specialization; chemistry student targeting pharma industry through FDA submission processes, clinical trial regulations, drug approval pathways, international regulatory compliance, quality assurance, risk management, regulatory strategy, and pharmaceutical law.
+
+Goal: Medical Imaging and Diagnostics | habit_count: 3 | task_count: 9 | Extra: 12-week diagnostic technology; biomedical engineering student specializing in imaging through image processing algorithms, diagnostic software development, medical device integration, quality control, regulatory compliance, clinical validation, and medical imaging innovation.
+
+Goal: Healthcare Data Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week health analytics; health informatics student preparing for analyst roles through electronic health record analysis, population health metrics, clinical outcome measurement, cost analysis, quality indicators, predictive modeling, and healthcare reporting.
+
+Goal: Medical Device Software Development | habit_count: 3 | task_count: 10 | Extra: 14-week medical software; computer science student targeting healthcare through medical device programming, FDA compliance, safety-critical systems, real-time processing, patient monitoring systems, clinical integration, validation procedures, and medical software certification.
+
+Goal: Biotechnology and Bioinformatics | habit_count: 3 | task_count: 11 | Extra: 16-week biotech specialization; biology student combining with technology through DNA sequence analysis, protein structure prediction, drug discovery algorithms, laboratory automation, clinical trial data analysis, regulatory compliance, research data management, and biotech startup development.
+
+Goal: Clinical Research and Data Management | habit_count: 2 | task_count: 9 | Extra: 12-week clinical research; biology student preparing for research roles through clinical trial design, data collection protocols, statistical analysis, regulatory compliance, patient recruitment, adverse event reporting, research ethics, and clinical data management.
+
+Goal: Hospital Information Systems | habit_count: 2 | task_count: 8 | Extra: 10-week health IT; information systems student targeting healthcare through EHR implementation, system integration, workflow optimization, data security, user training, system administration, technical support, and healthcare IT management.
+
+Goal: Medical Writing and Regulatory Documentation | habit_count: 3 | task_count: 7 | Extra: 8-week medical communications; English student transitioning to healthcare through regulatory document preparation, clinical study reports, medical device documentation, scientific writing, publication support, regulatory submission, and medical communications.
+
+Goal: Public Health Data Analysis | habit_count: 2 | task_count: 9 | Extra: 12-week epidemiology; public health student combining with analytics through disease surveillance, outbreak investigation, health outcome analysis, program evaluation, population health metrics, statistical modeling, and public health reporting.
+
+Goal: Medical Equipment Sales and Support | habit_count: 2 | task_count: 7 | Extra: 8-week medical sales; business student targeting healthcare through product knowledge development, clinical demonstration, customer relationship management, technical support, sales process optimization, market analysis, and healthcare industry networking.
+
+Goal: Web Development and E-commerce | habit_count: 3 | task_count: 8 | Extra: 10-week online business; web development student building commercial skills through responsive design, content management systems, online payment integration, SEO optimization, social media integration, performance optimization, security implementation, and client project management.
+
+Goal: Mobile App Development (iOS/Android) | habit_count: 2 | task_count: 9 | Extra: 12-week mobile development; computer science student specializing in mobile through native app development, cross-platform frameworks, user interface design, backend integration, app store deployment, performance optimization, user analytics, and mobile monetization strategies.
+
+Goal: Software Testing and Quality Assurance | habit_count: 3 | task_count: 8 | Extra: 10-week QA specialization; computer science student focusing on quality through test automation, manual testing procedures, bug tracking, performance testing, security testing, user acceptance testing, quality metrics, and testing tool implementation.
+
+Goal: Business Intelligence and Analytics | habit_count: 2 | task_count: 10 | Extra: 14-week analytics leadership; information systems graduate targeting BI architect roles through data warehouse design, OLAP cube development, reporting system architecture, self-service analytics implementation, governance framework creation, performance optimization, user training programs, and executive dashboard development.
+
+Goal: Digital Marketing Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week marketing technology; business student specializing in digital strategy through Google Analytics implementation, conversion tracking setup, A/B testing execution, customer journey mapping, attribution modeling, SEO optimization, social media analytics, and marketing automation.
+
+Goal: Project Management Professional (PMP) | habit_count: 2 | task_count: 9 | Extra: 14-week leadership preparation; MBA student targeting management roles through agile methodology mastery, stakeholder communication strategies, risk management planning, resource allocation optimization, budget tracking systems, team leadership development, quality assurance processes, and change management.
+
+Goal: Excel and Power BI Analytics | habit_count: 3 | task_count: 7 | Extra: 8-week business intelligence; finance major preparing for analyst positions through DAX formulas, Power Query transformations, dashboard design principles, interactive visualization creation, data modeling techniques, automated reporting systems, and executive presentation development.
+
+Goal: Sales Engineering Technical Expertise | habit_count: 2 | task_count: 7 | Extra: 8-week technical sales; engineering student combining technical and business skills through product demonstration mastery, technical presentation development, customer needs analysis, solution architecture design, competitive analysis, proposal writing, CRM system utilization, and revenue target achievement.
+
+Goal: Product Management Strategy | habit_count: 3 | task_count: 8 | Extra: 10-week product leadership; business student targeting product manager roles through market research, user experience design, product roadmap development, A/B testing, metrics analysis, stakeholder management, competitive analysis, and go-to-market strategy.
+
+Goal: Technical Writing and Documentation | habit_count: 2 | task_count: 7 | Extra: 8-week communication skills; computer science student enhancing career prospects through API documentation creation, user manual development, technical blog writing, video tutorial production, knowledge base management, style guide development, and cross-functional communication improvement.
+
+Goal: Systems Integration and Architecture | habit_count: 2 | task_count: 10 | Extra: 14-week enterprise systems; information systems student targeting integration roles through API development, middleware configuration, data integration, system interoperability, performance optimization, security implementation, documentation, and integration testing.
+
+Goal: Business Process Automation | habit_count: 2 | task_count: 9 | Extra: 12-week process optimization; business administration student embracing automation through workflow design, RPA development, process mapping, efficiency analysis, change management, stakeholder engagement, ROI measurement, and business transformation.
+
+Goal: Marketing Automation and CRM | habit_count: 2 | task_count: 8 | Extra: 10-week martech specialization; marketing student embracing technology through marketing automation, lead nurturing, customer segmentation, campaign optimization, analytics integration, CRM customization, performance tracking, and customer journey optimization.
+
+Goal: SEO and Content Marketing | habit_count: 2 | task_count: 9 | Extra: 12-week digital marketing; marketing student specializing in organic growth through keyword research automation, content optimization strategies, link building campaigns, technical SEO implementation, local SEO mastery, content calendar management, performance tracking systems, and competitor analysis frameworks.
+
+Goal: Social Media Strategy | habit_count: 2 | task_count: 8 | Extra: 10-week digital marketing; communications major targeting social media management through content calendar creation, influencer collaboration strategies, paid advertising optimization, community management techniques, brand voice development, crisis communication planning, analytics interpretation, and ROI measurement systems.
+
+Goal: Brand Strategy and Digital Identity | habit_count: 3 | task_count: 7 | Extra: 8-week brand development; communications student preparing for brand management through brand positioning, identity design, digital strategy, content creation, social media management, reputation monitoring, crisis communication, and brand measurement.
+
+Goal: Data Visualization and Dashboard Design | habit_count: 2 | task_count: 8 | Extra: 10-week data presentation; statistics student enhancing career prospects through interactive visualizations, dashboard development, storytelling with data, user experience design, performance optimization, accessibility compliance, mobile optimization, and data visualization strategy.
+
+Goal: Supply Chain Analytics Optimization | habit_count: 2 | task_count: 8 | Extra: 10-week operations research; industrial engineering student preparing for supply chain roles through demand forecasting models, inventory optimization algorithms, supplier performance analytics, logistics network design, cost analysis frameworks, sustainability metrics, and process improvement methodologies.
+
+Goal: Operations Research and Optimization | habit_count: 2 | task_count: 9 | Extra: 12-week analytical optimization; industrial engineering student specializing in operations through mathematical modeling, linear programming, simulation analysis, decision analysis, supply chain optimization, scheduling algorithms, quality improvement, and operational excellence.
+
+Goal: Human-Computer Interaction | habit_count: 3 | task_count: 8 | Extra: 10-week UX research; psychology student transitioning to UX through user research, usability testing, interaction design, prototype development, accessibility design, design thinking, user behavior analysis, and HCI research methods.
+
+Goal: 3D Printing and Additive Manufacturing | habit_count: 3 | task_count: 8 | Extra: 10-week manufacturing innovation; mechanical engineering student exploring 3D printing through additive manufacturing processes, material selection, design optimization, quality control, post-processing, cost analysis, market applications, and manufacturing transformation.
+
+Goal: Robotics and Automation Systems | habit_count: 2 | task_count: 9 | Extra: 12-week robotics specialization; robotics engineering student preparing for automation industry through robot programming, sensor integration, control systems, safety protocols, human-robot interaction, system integration, maintenance procedures, and robotics deployment.
+
+Goal: Semiconductor Technology | habit_count: 3 | task_count: 10 | Extra: 14-week semiconductor industry; electrical engineering student targeting chip industry through semiconductor physics, fabrication processes, testing procedures, yield optimization, quality control, supply chain management, market analysis, and semiconductor innovation.
+
+Goal: Energy Storage Systems | habit_count: 2 | task_count: 10 | Extra: 14-week energy storage; electrical engineering student specializing in energy through battery technology, grid-scale storage, energy management systems, performance optimization, safety protocols, cost analysis, market assessment, and energy storage deployment.
+
+Goal: Materials Science and Nanotechnology | habit_count: 2 | task_count: 10 | Extra: 14-week materials innovation; materials science student exploring nanotechnology through nanomaterial synthesis, characterization techniques, applications development, safety assessment, manufacturing scaling, intellectual property, commercialization, and research collaboration.
+
+Goal: Pharmaceutical Manufacturing | habit_count: 3 | task_count: 9 | Extra: 12-week pharma operations; chemical engineering student targeting pharmaceutical industry through process development, quality assurance, regulatory compliance, manufacturing optimization, contamination control, validation procedures, cost management, and pharmaceutical operations.
+
+Goal: Food Science and Technology | habit_count: 2 | task_count: 8 | Extra: 10-week food innovation; food science student preparing for food industry through product development, food safety systems, nutritional analysis, packaging technology, shelf life testing, sensory evaluation, regulatory compliance, and food technology commercialization.
+
+Goal: Environmental Engineering and Water Treatment | habit_count: 3 | task_count: 9 | Extra: 12-week environmental solutions; environmental engineering student focusing on water systems through treatment process design, water quality monitoring, membrane technology, desalination systems, wastewater treatment, regulatory compliance, sustainability assessment, and environmental consulting.
+
+Goal: Nuclear Technology and Safety | habit_count: 3 | task_count: 11 | Extra: 16-week nuclear specialization; nuclear engineering student targeting nuclear industry through reactor design, safety analysis, radiation protection, waste management, regulatory compliance, risk assessment, emergency planning, and nuclear technology advancement.
+
+Goal: Ocean Technology and Marine Engineering | habit_count: 2 | task_count: 9 | Extra: 12-week marine innovation; ocean engineering student preparing for marine industry through underwater robotics, ocean sensor networks, marine renewable energy, offshore platform design, environmental monitoring, maritime safety, ocean data analysis, and marine technology commercialization.
+
+Goal: Agricultural Biotechnology | habit_count: 3 | task_count: 8 | Extra: 10-week agbiotech specialization; biotechnology student targeting agriculture through crop genetic engineering, precision agriculture, soil microbiome analysis, sustainable farming, regulatory compliance, field testing, commercialization strategies, and agricultural innovation.
+
+Goal: Clean Technology Innovation | habit_count: 3 | task_count: 9 | Extra: 12-week cleantech entrepreneurship; engineering student targeting clean technology through innovation management, technology commercialization, patent research, investor pitch development, prototype development, market validation, regulatory navigation, and startup launch.
+
+Goal: Space Technology and Satellite Systems | habit_count: 2 | task_count: 11 | Extra: 16-week space industry preparation; physics student targeting space sector through satellite communication, orbital mechanics, ground station operations, space mission planning, regulatory compliance, international space law, commercial space markets, and space technology entrepreneurship.
+
+Goal: Quantum Computing Applications | habit_count: 3 | task_count: 10 | Extra: 14-week quantum technology; physics and computer science student exploring emerging field through quantum algorithm development, quantum hardware understanding, cryptography applications, optimization problems, quantum simulation, research methodology, academic publication, and industry collaboration.
+
+Goal: Climate Change Modeling | habit_count: 3 | task_count: 10 | Extra: 14-week climate science; environmental science student focusing on climate research through climate data analysis, predictive modeling, impact assessment, policy recommendation, stakeholder communication, research publication, grant writing, and international collaboration.
+
+Goal: Smart City Technology | habit_count: 3 | task_count: 9 | Extra: 12-week urban technology; urban planning student embracing smart cities through IoT sensor networks, traffic optimization, energy management, waste management systems, citizen engagement platforms, data privacy, sustainability metrics, and public-private partnerships.
+
+Goal: Manufacturing and Industry 4.0 | habit_count: 3 | task_count: 10 | Extra: 14-week smart manufacturing; industrial engineering student preparing for modern factories through IoT sensor integration, predictive maintenance systems, quality control automation, supply chain optimization, lean manufacturing, safety monitoring, cost analysis, and production planning.
+
+Goal: Telecommunications Engineering | habit_count: 2 | task_count: 9 | Extra: 12-week telecom specialization; electrical engineering student targeting telecom industry through 5G network design, fiber optic systems, wireless communication, network security, performance optimization, regulatory compliance, customer service systems, and emerging technology adoption.
+
+Goal: Wireless Communication Systems | habit_count: 3 | task_count: 10 | Extra: 14-week wireless technology; electrical engineering student targeting telecom through antenna design, signal processing, network protocols, 5G systems, IoT connectivity, wireless security, performance optimization, and wireless system deployment.
+
+Goal: Aerospace Materials and Manufacturing | habit_count: 2 | task_count: 11 | Extra: 16-week aerospace specialization; aerospace engineering student focusing on materials through composite materials, additive manufacturing, quality control, testing procedures, certification processes, supply chain management, cost optimization, and aerospace innovation.
+
+Goal: Renewable Energy Systems | habit_count: 2 | task_count: 9 | Extra: 12-week clean energy; electrical engineering student targeting renewable sector through solar system design, wind energy analysis, energy storage optimization, grid integration, smart grid technology, energy efficiency analysis, sustainability reporting, and clean energy policy analysis.
+
+Goal: Automation and Robotics | habit_count: 3 | task_count: 10 | Extra: 14-week engineering specialization; mechanical engineering student targeting automation roles through PLC programming, robotic system design, sensor integration, control system development, safety protocol implementation, manufacturing process optimization, predictive maintenance, and industrial automation deployment.
+
+Goal: Textile Technology and Smart Fabrics | habit_count: 3 | task_count: 7 | Extra: 8-week textile innovation; textile engineering student exploring smart textiles through fiber technology, wearable electronics, functional fabrics, sustainable textiles, manufacturing processes, quality control, market analysis, and textile innovation.
+
+Goal: Video Production and Editing | habit_count: 3 | task_count: 8 | Extra: 10-week multimedia creation; film student preparing for digital marketing roles through professional video editing, motion graphics design, color grading techniques, audio production, streaming setup optimization, social media video optimization, client project management, and portfolio reel development.
+
+Goal: Graphic Design and User Experience | habit_count: 3 | task_count: 9 | Extra: 12-week design specialization; graphic design student transitioning to UX through user interface design, wireframing, prototyping, user research, accessibility design, design systems, usability testing, and design thinking methodology.
+
+Goal: Photography Business and Digital Marketing | habit_count: 2 | task_count: 8 | Extra: 10-week photography business; photography student building commercial success through portfolio development, client acquisition, social media marketing, pricing strategies, contract management, post-processing workflow, studio management, and photography specialization.
+
+Goal: Animation and Motion Graphics | habit_count: 3 | task_count: 8 | Extra: 10-week animation specialization; animation student preparing for digital media through 2D/3D animation, motion graphics, character rigging, visual effects, storyboarding, client project management, animation software mastery, and animation portfolio development.
+
+Goal: Music Production and Audio Engineering | habit_count: 3 | task_count: 8 | Extra: 10-week audio technology; music student transitioning to digital through professional recording techniques, mixing and mastering, podcast production, audio software development, sound design, live sound engineering, music distribution, and audio post-production.
+
+Goal: Digital Publishing and Content Strategy | habit_count: 3 | task_count: 7 | Extra: 8-week digital publishing; journalism student adapting to digital through content management systems, SEO optimization, audience development, monetization strategies, social media marketing, analytics tracking, editorial workflow, and digital content creation.
+
+Goal: Event Management Technology | habit_count: 2 | task_count: 8 | Extra: 10-week event tech; hospitality student modernizing events through event planning software, registration systems, mobile event apps, virtual event platforms, attendee analytics, sponsor management, networking facilitation, and event ROI measurement.
+
+Goal: Fashion Design and Technology | habit_count: 3 | task_count: 9 | Extra: 12-week fashion innovation; fashion design student embracing technology through 3D fashion design, sustainable materials, supply chain optimization, digital marketing, e-commerce integration, trend forecasting, virtual fashion shows, and fashion technology entrepreneurship.
+
+Goal: Interior Design and Visualization | habit_count: 2 | task_count: 7 | Extra: 8-week design technology; interior design student modernizing practice through 3D rendering, virtual reality presentations, space planning software, sustainable design, client project management, cost estimation, material sourcing, and design business development.
+
+Goal: Culinary Arts and Food Innovation | habit_count: 3 | task_count: 8 | Extra: 10-week culinary technology; culinary arts student embracing innovation through molecular gastronomy, food photography, restaurant management systems, menu engineering, cost optimization, social media marketing, food truck operations, and culinary entrepreneurship.
+
+Goal: Personal Training and Fitness Technology | habit_count: 2 | task_count: 9 | Extra: 12-week fitness innovation; kinesiology student combining technology through fitness app development, wearable technology integration, nutrition planning, client management systems, virtual training, performance analytics, injury prevention, and fitness business development.
+
+Goal: Music Business and Digital Distribution | habit_count: 3 | task_count: 7 | Extra: 8-week music industry; music business student adapting to digital through streaming analytics, artist development, digital marketing, rights management, tour planning, merchandise strategies, fan engagement, and music entrepreneurship.
+
+Goal: HR Analytics and People Operations | habit_count: 2 | task_count: 8 | Extra: 10-week human resources technology; psychology major transitioning to HR tech through employee data analysis, predictive turnover modeling, performance analytics dashboards, recruitment optimization, compensation analysis, employee engagement measurement, HR system implementation, and diversity metrics tracking.
+
+Goal: Sports Management and Analytics | habit_count: 3 | task_count: 8 | Extra: 10-week sports business; sports management student combining analytics through revenue optimization, fan engagement strategies, athlete performance analysis, facility management,

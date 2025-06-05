@@ -1,0 +1,7 @@
+pandas
+numpy
+dill
+google-generativeai
+supabase
+python-dotenv
+-e .

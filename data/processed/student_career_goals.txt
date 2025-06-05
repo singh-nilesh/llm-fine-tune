@@ -1,0 +1,245 @@
+Goal: Python Programming Fundamentals | habit_count: 2 | task_count: 8 | Extra: 10-week programming foundation; freshman computer science student building coding fundamentals through syntax mastery, data structures understanding, algorithm implementation, debugging techniques, version control basics, project-based learning, coding interview preparation, and portfolio development.
+
+Goal: Microsoft Excel Advanced Certification | habit_count: 2 | task_count: 7 | Extra: 8-week spreadsheet mastery; business student enhancing analytical skills through pivot tables, VLOOKUP functions, macro programming, data visualization, financial modeling, dashboard creation, and professional certification achievement.
+
+Goal: Adobe Creative Suite Proficiency | habit_count: 3 | task_count: 9 | Extra: 12-week design skills; art student building creative portfolio through Photoshop mastery, Illustrator techniques, InDesign layouts, video editing basics, animation principles, brand identity creation, client project simulation, and creative portfolio development.
+
+Goal: Java Programming Certification | habit_count: 2 | task_count: 10 | Extra: 14-week programming advancement; sophomore developing enterprise skills through object-oriented programming, Spring framework, database connectivity, web service creation, testing methodologies, deployment strategies, performance optimization, and Oracle certification pursuit.
+
+Goal: Digital Marketing Fundamentals | habit_count: 2 | task_count: 8 | Extra: 10-week marketing foundation; marketing student learning modern strategies through social media marketing, content creation, email campaigns, SEO basics, analytics interpretation, paid advertising, conversion tracking, and Google Ads certification.
+
+Goal: Cisco Networking Certification (CCNA) | habit_count: 3 | task_count: 11 | Extra: 16-week networking expertise; IT student building infrastructure knowledge through network configuration, routing protocols, switching concepts, security fundamentals, troubleshooting methodology, lab exercises, and professional certification achievement.
+
+Goal: Financial Analysis and Modeling | habit_count: 3 | task_count: 9 | Extra: 12-week finance skills; economics student preparing for corporate roles through DCF modeling, ratio analysis, budgeting techniques, investment evaluation, risk assessment, presentation skills, and CFA level 1 preparation.
+
+Goal: Linux System Administration | habit_count: 2 | task_count: 10 | Extra: 14-week system management; computer science student gaining server expertise through command line mastery, shell scripting, system monitoring, security hardening, automation tools, containerization basics, cloud deployment, and Red Hat certification pursuit.
+
+Goal: Graphic Design Portfolio Development | habit_count: 3 | task_count: 8 | Extra: 10-week creative development; design student building professional presence through logo design, branding projects, web graphics, print materials, typography studies, color theory application, client communication, and portfolio presentation.
+
+Goal: SQL Database Management | habit_count: 2 | task_count: 9 | Extra: 12-week data foundation; information systems student mastering data skills through query optimization, database design, stored procedures, data analysis, reporting tools, performance tuning, backup strategies, and Microsoft SQL Server certification.
+
+Goal: Public Speaking and Presentation Skills | habit_count: 2 | task_count: 7 | Extra: 8-week communication mastery; communications student overcoming stage fright through speech preparation, audience engagement, visual aid design, storytelling techniques, persuasive speaking, conference presentations, and Toastmasters participation.
+
+Goal: CompTIA Security+ Certification | habit_count: 3 | task_count: 10 | Extra: 14-week cybersecurity foundation; IT student entering security field through threat assessment, vulnerability management, cryptography basics, incident response, compliance frameworks, risk management, security tools, and professional certification achievement.
+
+Goal: C++ Programming and Game Development | habit_count: 3 | task_count: 11 | Extra: 16-week game programming; computer science student targeting game industry through advanced programming, graphics programming, physics simulation, engine development, optimization techniques, debugging skills, portfolio projects, and Unity certification.
+
+Goal: Project Management Fundamentals | habit_count: 2 | task_count: 8 | Extra: 10-week leadership skills; business student developing management capabilities through agile methodologies, team coordination, timeline management, budget tracking, risk assessment, stakeholder communication, and PMI certification preparation.
+
+Goal: Web Development Full Stack | habit_count: 3 | task_count: 10 | Extra: 14-week web mastery; computer science student building complete applications through HTML/CSS mastery, JavaScript frameworks, backend development, database integration, API creation, deployment strategies, responsive design, and portfolio website creation.
+
+Goal: AutoCAD Mechanical Design | habit_count: 2 | task_count: 9 | Extra: 12-week engineering design; mechanical engineering student mastering technical drawing through 2D drafting, 3D modeling, assembly design, technical documentation, industry standards, parametric design, simulation basics, and Autodesk certification.
+
+Goal: Statistics and Data Analysis | habit_count: 2 | task_count: 10 | Extra: 14-week analytical foundation; psychology student adding quantitative skills through descriptive statistics, hypothesis testing, regression analysis, data visualization, research methodology, survey design, SPSS proficiency, and statistical consulting basics.
+
+Goal: Salesforce Administrator Certification | habit_count: 2 | task_count: 9 | Extra: 12-week CRM expertise; business student entering tech field through custom objects, workflow automation, report building, user management, data import, security settings, mobile configuration, and Salesforce certification achievement.
+
+Goal: Video Editing and Content Creation | habit_count: 3 | task_count: 8 | Extra: 10-week multimedia skills; communications student building digital presence through video editing software, motion graphics, audio production, storytelling techniques, social media optimization, live streaming, brand building, and YouTube channel growth.
+
+Goal: Tableau Data Visualization | habit_count: 2 | task_count: 8 | Extra: 10-week analytics visualization; statistics student enhancing presentation skills through dashboard creation, interactive visualizations, data storytelling, performance optimization, advanced calculations, mapping techniques, and Tableau certification pursuit.
+
+Goal: Android App Development | habit_count: 3 | task_count: 11 | Extra: 16-week mobile programming; computer science student targeting mobile market through Kotlin programming, UI design, database integration, API consumption, testing strategies, app store deployment, monetization strategies, and Google certification.
+
+Goal: SOLIDWORKS CAD Certification | habit_count: 3 | task_count: 10 | Extra: 14-week engineering design; mechanical engineering student mastering 3D modeling through part design, assembly modeling, drawing creation, simulation analysis, surface modeling, sheet metal design, weldments, and professional certification achievement.
+
+Goal: Content Writing and Copywriting | habit_count: 2 | task_count: 7 | Extra: 8-week writing skills; English student transitioning to digital marketing through SEO writing, social media content, email marketing, blog creation, conversion copywriting, client communication, portfolio development, and freelance business setup.
+
+Goal: Microsoft Power BI Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week business intelligence; finance student developing reporting skills through data modeling, DAX functions, interactive dashboards, automated reporting, data gateway setup, sharing strategies, and Microsoft certification pursuit.
+
+Goal: Photoshop Advanced Techniques | habit_count: 3 | task_count: 8 | Extra: 10-week photo editing mastery; photography student enhancing digital skills through advanced compositing, color correction, retouching techniques, digital art creation, batch processing, action development, print preparation, and Adobe certification.
+
+Goal: Google Analytics Certification | habit_count: 2 | task_count: 7 | Extra: 8-week web analytics; marketing student mastering digital measurement through traffic analysis, conversion tracking, audience segmentation, goal setting, attribution modeling, report creation, and Google certification achievement.
+
+Goal: Ethical Hacking and Penetration Testing | habit_count: 3 | task_count: 12 | Extra: 18-week cybersecurity specialization; IT student entering security field through vulnerability assessment, network scanning, exploitation techniques, report writing, legal compliance, tool mastery, lab environments, and CEH certification pursuit.
+
+Goal: MATLAB Programming and Engineering | habit_count: 3 | task_count: 10 | Extra: 14-week computational skills; engineering student enhancing problem-solving through algorithm development, data analysis, simulation modeling, signal processing, optimization techniques, visualization tools, toolbox utilization, and MathWorks certification.
+
+Goal: WordPress Website Development | habit_count: 2 | task_count: 8 | Extra: 10-week web development; marketing student building online presence through theme customization, plugin development, SEO optimization, e-commerce integration, security implementation, backup strategies, client project management, and freelance business development.
+
+Goal: Amazon Web Services (AWS) Fundamentals | habit_count: 2 | task_count: 11 | Extra: 16-week cloud foundation; computer science student preparing for cloud careers through EC2 management, S3 storage, database services, networking basics, security fundamentals, cost optimization, automation tools, and AWS certification achievement.
+
+Goal: iOS App Development Swift | habit_count: 3 | task_count: 11 | Extra: 16-week mobile development; computer science student targeting Apple ecosystem through Swift programming, UIKit framework, Core Data, networking, testing strategies, App Store submission, monetization planning, and Apple certification pursuit.
+
+Goal: French Language Proficiency | habit_count: 1 | task_count: 8 | Extra: 10-week language learning; international business student enhancing global opportunities through conversational fluency, business vocabulary, cultural understanding, listening comprehension, writing skills, pronunciation improvement, and DELF certification preparation.
+
+Goal: QuickBooks Accounting Software | habit_count: 2 | task_count: 7 | Extra: 8-week financial management; accounting student mastering small business tools through bookkeeping basics, invoice management, payroll processing, tax preparation, financial reporting, inventory tracking, and QuickBooks certification achievement.
+
+Goal: React.js Frontend Development | habit_count: 3 | task_count: 10 | Extra: 14-week modern web development; computer science student specializing in user interfaces through component architecture, state management, routing implementation, API integration, testing strategies, performance optimization, deployment methods, and portfolio project creation.
+
+Goal: Spanish Language Business Communication | habit_count: 1 | task_count: 9 | Extra: 12-week bilingual skills; business student expanding market opportunities through professional vocabulary, presentation skills, negotiation techniques, cultural competency, written communication, conference calls, and DELE certification pursuit.
+
+Goal: AutoDesk Inventor 3D Modeling | habit_count: 3 | task_count: 9 | Extra: 12-week mechanical design; engineering student mastering product development through parametric modeling, assembly design, technical drawings, stress analysis, motion simulation, rendering techniques, and Autodesk certification achievement.
+
+Goal: Google Ads Campaign Management | habit_count: 2 | task_count: 8 | Extra: 10-week digital advertising; marketing student developing paid marketing skills through keyword research, ad creation, bid management, conversion tracking, audience targeting, budget optimization, and Google Ads certification.
+
+Goal: Node.js Backend Development | habit_count: 3 | task_count: 11 | Extra: 16-week server-side programming; computer science student building scalable applications through Express framework, database integration, API development, authentication systems, testing methodologies, deployment strategies, and performance optimization techniques.
+
+Goal: Adobe After Effects Motion Graphics | habit_count: 3 | task_count: 9 | Extra: 12-week animation skills; film student enhancing post-production capabilities through motion graphics, visual effects, compositing techniques, 3D integration, color correction, audio synchronization, rendering optimization, and creative portfolio development.
+
+Goal: Mandarin Chinese Business Language | habit_count: 1 | task_count: 10 | Extra: 14-week language mastery; international business student accessing Asian markets through conversational fluency, business etiquette, cultural awareness, writing systems, listening skills, presentation abilities, and HSK certification preparation.
+
+Goal: Solidworks Simulation Analysis | habit_count: 3 | task_count: 11 | Extra: 16-week engineering analysis; mechanical engineering student advancing design validation through finite element analysis, stress testing, thermal analysis, flow simulation, optimization studies, material selection, and professional certification achievement.
+
+Goal: HubSpot Inbound Marketing | habit_count: 2 | task_count: 8 | Extra: 10-week marketing automation; marketing student mastering lead generation through content strategy, email marketing, social media management, lead nurturing, analytics tracking, CRM integration, and HubSpot certification achievement.
+
+Goal: Unity 3D Game Engine | habit_count: 3 | task_count: 12 | Extra: 18-week game development; computer science student creating interactive experiences through C# scripting, physics systems, animation controllers, UI design, mobile optimization, monetization strategies, app store deployment, and Unity certification.
+
+Goal: German Language Technical Communication | habit_count: 1 | task_count: 9 | Extra: 12-week engineering language; mechanical engineering student preparing for global careers through technical vocabulary, engineering concepts, documentation skills, presentation abilities, cultural understanding, and Goethe Institute certification.
+
+Goal: Maya 3D Animation and Modeling | habit_count: 3 | task_count: 11 | Extra: 16-week 3D artistry; animation student mastering digital content creation through character modeling, rigging techniques, animation principles, lighting setup, rendering optimization, texture mapping, and Autodesk certification pursuit.
+
+Goal: Hootsuite Social Media Management | habit_count: 2 | task_count: 7 | Extra: 8-week social strategy; communications student building brand management skills through content scheduling, community engagement, analytics interpretation, campaign planning, crisis management, and Hootsuite certification achievement.
+
+Goal: Python Django Web Framework | habit_count: 3 | task_count: 10 | Extra: 14-week web application development; computer science student building robust applications through MVC architecture, database modeling, user authentication, API development, security implementation, testing strategies, and deployment optimization.
+
+Goal: CATIA Aerospace Design | habit_count: 3 | task_count: 12 | Extra: 18-week advanced CAD; aerospace engineering student mastering complex modeling through surface design, assembly management, kinematic analysis, structural design, manufacturing preparation, and Dassault Systemes certification.
+
+Goal: Mailchimp Email Marketing | habit_count: 2 | task_count: 7 | Extra: 8-week email automation; marketing student developing direct marketing skills through list building, template design, automation workflows, A/B testing, analytics tracking, and email marketing certification achievement.
+
+Goal: Blender 3D Open Source Modeling | habit_count: 3 | task_count: 10 | Extra: 14-week 3D creation; art student mastering free software through modeling techniques, animation basics, material creation, lighting design, rendering optimization, video editing, and community project participation.
+
+Goal: Japanese Language Cultural Fluency | habit_count: 1 | task_count: 11 | Extra: 16-week cultural immersion; international studies student developing Asia-Pacific expertise through language mastery, business etiquette, cultural nuances, written communication, presentation skills, and JLPT certification preparation.
+
+Goal: Sketch UI/UX Design Software | habit_count: 3 | task_count: 8 | Extra: 10-week interface design; design student mastering digital design through wireframing, prototyping, symbol libraries, responsive design, collaboration tools, design systems, and professional portfolio development.
+
+Goal: Oracle Database Administration | habit_count: 3 | task_count: 11 | Extra: 16-week enterprise database; information systems student mastering corporate data management through installation procedures, performance tuning, backup strategies, security implementation, monitoring tools, and Oracle certification achievement.
+
+Goal: Canva Design and Branding | habit_count: 2 | task_count: 6 | Extra: 6-week visual communication; business student developing marketing materials through template customization, brand consistency, social media graphics, presentation design, print materials, and design portfolio creation.
+
+Goal: PHP Web Development | habit_count: 2 | task_count: 9 | Extra: 12-week server-side scripting; computer science student building dynamic websites through syntax mastery, database connectivity, content management, security practices, framework utilization, testing methodologies, and portfolio project development.
+
+Goal: Premiere Pro Video Editing | habit_count: 3 | task_count: 9 | Extra: 12-week video production; film student mastering post-production through editing techniques, color grading, audio mixing, title creation, effect application, export optimization, and professional certification pursuit.
+
+Goal: Russian Language International Relations | habit_count: 1 | task_count: 10 | Extra: 14-week diplomatic language; political science student enhancing global opportunities through conversational fluency, political vocabulary, cultural understanding, formal writing, presentation skills, and TORFL certification preparation.
+
+Goal: Figma Collaborative Design | habit_count: 3 | task_count: 8 | Extra: 10-week modern design workflow; UX student mastering team design through interface creation, prototyping, design systems, component libraries, collaboration features, version control, and design handoff processes.
+
+Goal: Microsoft Azure Cloud Platform | habit_count: 2 | task_count: 11 | Extra: 16-week cloud computing; IT student preparing for enterprise cloud through virtual machines, storage solutions, networking configuration, security implementation, monitoring setup, cost management, and Azure certification achievement.
+
+Goal: InDesign Layout and Publishing | habit_count: 3 | task_count: 8 | Extra: 10-week print design; graphic design student mastering publication creation through layout principles, typography management, image handling, color management, print preparation, digital publishing, and Adobe certification pursuit.
+
+Goal: Arabic Language Middle East Studies | habit_count: 1 | task_count: 12 | Extra: 18-week regional expertise; international relations student developing Middle East specialization through language proficiency, cultural understanding, political awareness, business communication, and Arabic proficiency certification.
+
+Goal: Vue.js Progressive Web Apps | habit_count: 3 | task_count: 10 | Extra: 14-week modern frontend; computer science student building responsive applications through reactive programming, component architecture, state management, routing, performance optimization, testing strategies, and progressive web app development.
+
+Goal: SAS Statistical Analysis | habit_count: 2 | task_count: 10 | Extra: 14-week advanced analytics; statistics student mastering enterprise analysis through data manipulation, statistical procedures, report generation, macro programming, predictive modeling, and SAS certification achievement.
+
+Goal: Shopify E-commerce Development | habit_count: 2 | task_count: 8 | Extra: 10-week online business; business student building digital commerce skills through store setup, theme customization, app integration, payment processing, inventory management, marketing automation, and Shopify certification.
+
+Goal: Korean Language K-Culture Business | habit_count: 1 | task_count: 9 | Extra: 12-week cultural fluency; international business student accessing Korean markets through language mastery, business etiquette, cultural trends, entertainment industry knowledge, and TOPIK certification preparation.
+
+Goal: Cinema 4D Motion Graphics | habit_count: 3 | task_count: 10 | Extra: 14-week 3D animation; film student mastering motion design through modeling techniques, animation principles, lighting setup, material creation, rendering optimization, and professional portfolio development.
+
+Goal: Selenium Test Automation | habit_count: 3 | task_count: 9 | Extra: 12-week quality assurance; computer science student mastering software testing through automated testing, web driver implementation, test framework design, continuous integration, reporting systems, and professional certification pursuit.
+
+Goal: Portuguese Language Latin America | habit_count: 1 | task_count: 8 | Extra: 10-week regional communication; international business student expanding market access through conversational fluency, business vocabulary, cultural awareness, and CELPE-Bras certification preparation.
+
+Goal: Flutter Mobile App Development | habit_count: 3 | task_count: 11 | Extra: 16-week cross-platform development; computer science student creating mobile solutions through Dart programming, widget customization, state management, API integration, testing strategies, app store deployment, and Google certification.
+
+Goal: R Programming Statistical Computing | habit_count: 2 | task_count: 10 | Extra: 14-week data science foundation; statistics student mastering analytical programming through data manipulation, statistical modeling, visualization techniques, package development, reproducible research, and R certification achievement.
+
+Goal: Lightroom Photo Management | habit_count: 2 | task_count: 7 | Extra: 8-week photography workflow; photography student optimizing image processing through catalog organization, editing techniques, batch processing, export optimization, metadata management, and Adobe certification pursuit.
+
+Goal: Italian Language European Business | habit_count: 1 | task_count: 8 | Extra: 10-week cultural fluency; international business student accessing European markets through conversational skills, business etiquette, cultural understanding, and CILS certification preparation.
+
+Goal: Docker Containerization Technology | habit_count: 3 | task_count: 10 | Extra: 14-week modern deployment; computer science student mastering application packaging through container creation, orchestration basics, security practices, networking configuration, volume management, and Docker certification achievement.
+
+Goal: Audacity Audio Production | habit_count: 2 | task_count: 7 | Extra: 8-week sound editing; music student developing audio skills through recording techniques, editing tools, effect application, mixing basics, podcast production, and audio portfolio creation.
+
+Goal: Hebrew Language Middle East Studies | habit_count: 1 | task_count: 10 | Extra: 14-week regional expertise; international relations student developing specialized knowledge through language proficiency, cultural understanding, historical context, and Hebrew proficiency certification.
+
+Goal: Angular Frontend Framework | habit_count: 3 | task_count: 11 | Extra: 16-week enterprise web development; computer science student building scalable applications through TypeScript mastery, component architecture, service implementation, routing configuration, testing strategies, and professional certification pursuit.
+
+Goal: SPSS Statistical Software | habit_count: 2 | task_count: 9 | Extra: 12-week research analysis; psychology student mastering quantitative research through data analysis, hypothesis testing, survey research, report generation, and statistical consulting capabilities.
+
+Goal: Wix Website Builder | habit_count: 2 | task_count: 6 | Extra: 6-week web presence; small business student creating online presence through template customization, SEO optimization, e-commerce integration, mobile responsiveness, and business website launch.
+
+Goal: Hindi Language South Asia Market | habit_count: 1 | task_count: 9 | Extra: 12-week regional communication; international business student accessing Indian markets through conversational fluency, business vocabulary, cultural awareness, and Hindi proficiency certification.
+
+Goal: Kubernetes Container Orchestration | habit_count: 3 | task_count: 12 | Extra: 18-week cloud native technology; computer science student mastering container management through cluster configuration, service deployment, scaling strategies, monitoring implementation, security practices, and CKA certification.
+
+Goal: Logic Pro Music Production | habit_count: 3 | task_count: 9 | Extra: 12-week audio engineering; music student mastering digital audio workstation through recording techniques, MIDI programming, mixing strategies, effect processing, mastering basics, and professional portfolio development.
+
+Goal: Turkish Language Regional Studies | habit_count: 1 | task_count: 9 | Extra: 12-week cultural fluency; international relations student developing regional expertise through language mastery, cultural understanding, geopolitical awareness, and Turkish proficiency certification.
+
+Goal: Laravel PHP Framework | habit_count: 3 | task_count: 10 | Extra: 14-week web application development; computer science student building robust applications through MVC architecture, database relationships, authentication systems, API development, and modern PHP practices.
+
+Goal: Stata Statistical Analysis Software | habit_count: 2 | task_count: 9 | Extra: 12-week econometric analysis; economics student mastering quantitative research through data management, regression analysis, time series analysis, panel data methods, and economic research capabilities.
+
+Goal: Webflow Visual Web Design | habit_count: 2 | task_count: 8 | Extra: 10-week no-code development; design student creating responsive websites through visual design interface, CMS integration, animation effects, SEO optimization, and client project delivery.
+
+Goal: Swahili Language African Markets | habit_count: 1 | task_count: 8 | Extra: 10-week regional communication; international business student accessing East African markets through conversational fluency, cultural awareness, business vocabulary, and language proficiency certification.
+
+Goal: Spring Boot Java Framework | habit_count: 3 | task_count: 11 | Extra: 16-week enterprise development; computer science student building microservices through REST API creation, database integration, security implementation, testing strategies, deployment automation, and Spring certification.
+
+Goal: Pro Tools Audio Engineering | habit_count: 3 | task_count: 10 | Extra: 14-week professional audio; music student mastering industry-standard software through recording techniques, editing capabilities, mixing console, plugin usage, and Avid certification achievement.
+
+Goal: Indonesian Language Southeast Asia | habit_count: 1 | task_count: 8 | Extra: 10-week regional fluency; international business student accessing Indonesian markets through conversational skills, cultural understanding, business etiquette, and BIPA certification preparation.
+
+Goal: MongoDB NoSQL Database | habit_count: 2 | task_count: 9 | Extra: 12-week modern database; computer science student mastering document databases through schema design, query optimization, aggregation pipelines, indexing strategies, and MongoDB certification achievement.
+
+Goal: Garageband Music Creation | habit_count: 2 | task_count: 7 | Extra: 8-week music production; music student developing digital audio skills through loop creation, MIDI recording, instrument simulation, basic mixing, and creative project portfolio.
+
+Goal: Thai Language Southeast Asian Business | habit_count: 1 | task_count: 9 | Extra: 12-week cultural communication; international business student accessing Thai markets through language proficiency, cultural etiquette, business practices, and Thai proficiency certification.
+
+Goal: Express.js Node Backend | habit_count: 3 | task_count: 10 | Extra: 14-week server development; computer science student creating scalable APIs through middleware implementation, routing configuration, database connectivity, authentication systems, and testing methodologies.
+
+Goal: GIMP Photo Editing | habit_count: 2 | task_count: 7 | Extra: 8-week image manipulation; art student mastering open-source editing through layer management, selection tools, color correction, effect application, and digital art creation.
+
+Goal: Vietnamese Language Emerging Markets | habit_count: 1 | task_count: 8 | Extra: 10-week regional communication; international business student accessing Vietnamese markets through conversational fluency, cultural awareness, business vocabulary, and Vietnamese proficiency certification.
+
+Goal: FastAPI Python Framework | habit_count: 3 | task_count: 10 | Extra: 14-week modern API development; computer science student building high-performance APIs through async programming, automatic documentation, validation systems, testing strategies, and deployment optimization.
+
+Goal: Final Cut Pro Video Editing | habit_count: 3 | task_count: 9 | Extra: 12-week professional video production; film student mastering Apple's editing suite through advanced editing, color grading, audio mixing, effect application, and certification pursuit.
+
+Goal: Czech Language Central European Markets | habit_count: 1 | task_count: 9 | Extra: 12-week regional fluency; international business student accessing Central European markets through language proficiency, cultural understanding, business communication, and Czech language certification.
+
+Goal: Redis Caching Database | habit_count: 2 | task_count: 8 | Extra: 10-week performance optimization; computer science student mastering in-memory storage through caching strategies, data structures, pub/sub messaging, clustering configuration, and Redis certification.
+
+Goal: Ableton Live Music Production | habit_count: 3 | task_count: 9 | Extra: 12-week electronic music creation; music student mastering digital audio workstation through live performance, loop creation, effect processing, MIDI control, and electronic music portfolio.
+
+Goal: Polish Language Eastern European Business | habit_count: 1 | task_count: 9 | Extra: 12-week cultural communication; international business student accessing Polish markets through conversational skills, business etiquette, cultural awareness, and Polish proficiency certification.
+
+Goal: GraphQL API Development | habit_count: 3 | task_count: 11 | Extra: 16-week modern API design; computer science student creating efficient data fetching through schema design, resolver implementation, subscription handling, optimization techniques, and Apollo certification.
+
+Goal: DaVinci Resolve Color Grading | habit_count: 3 | task_count: 10 | Extra: 14-week post-production mastery; film student developing professional color correction through primary correction, secondary grading, node-based workflow, HDR processing, and Blackmagic certification.
+
+Goal: Dutch Language European Union Markets | habit_count: 1 | task_count: 8 | Extra: 10-week regional communication; international business student accessing Dutch markets through language proficiency, cultural understanding, business practices, and Dutch language certification.
+
+Goal: PostgreSQL Advanced Database | habit_count: 3 | task_count: 10 | Extra: 14-week enterprise database management; computer science student mastering relational databases through performance tuning, advanced queries, stored procedures, replication setup, and PostgreSQL certification.
+
+Goal: Cubase Music Production | habit_count: 3 | task_count: 9 | Extra: 12-week digital audio workstation; music student mastering Steinberg's software through MIDI sequencing, audio recording, virtual instruments, mixing techniques, and professional music production.
+
+Goal: Norwegian Language Nordic Business | habit_count: 1 | task_count: 9 | Extra: 12-week Scandinavian communication; international business student accessing Nordic markets through conversational fluency, cultural understanding, business etiquette, and Norwegian proficiency certification.
+
+Goal: ElasticSearch Data Search | habit_count: 2 | task_count: 10 | Extra: 14-week search technology; computer science student mastering full-text search through index configuration, query optimization, aggregation analysis, cluster management, and Elastic certification achievement.
+
+Goal: Reason Music Production | habit_count: 3 | task_count: 8 | Extra: 10-week electronic music creation; music student exploring innovative DAW through rack-based interface, synthesizer programming, sequencing techniques, and creative sound design.
+
+Goal: Greek Language Mediterranean Markets | habit_count: 1 | task_count: 9 | Extra: 12-week cultural fluency; international business student accessing Greek markets through language mastery, cultural awareness, business communication, and Greek proficiency certification.
+
+Goal: Apache Kafka Streaming | habit_count: 3 | task_count: 11 | Extra: 16-week real-time data processing; computer science student mastering event streaming through producer/consumer implementation, stream processing, connector configuration, and Confluent certification.
+
+Goal: Reaper Audio Recording | habit_count: 2 | task_count: 8 | Extra: 10-week affordable audio production; music student mastering cost-effective DAW through recording techniques, editing capabilities, plugin integration, and home studio setup.
+
+Goal: Swedish Language Scandinavian Business | habit_count: 1 | task_count: 8 | Extra: 10-week Nordic communication; international business student accessing Swedish markets through conversational skills, cultural understanding, business practices, and Swedish proficiency certification.
+
+Goal: Apache Spark Big Data | habit_count: 3 | task_count: 12 | Extra: 18-week distributed computing; computer science student mastering large-scale data processing through RDD operations, DataFrame API, machine learning pipelines, and Databricks certification.
+
+Goal: Studio One Music Production | habit_count: 3 | task_count: 9 | Extra: 12-week integrated production; music student mastering PreSonus software through drag-and-drop workflow, integrated mastering, virtual instruments, and professional recording techniques.
+
+Goal: Romanian Language Eastern European Markets | habit_count: 1 | task_count: 9 | Extra: 12-week regional communication; international business student accessing Romanian markets through language proficiency, cultural awareness, business vocabulary, and Romanian language certification.
+
+Goal: TensorFlow Machine Learning | habit_count: 3 | task_count: 12 | Extra: 18-week AI development; computer science student mastering neural networks through model building, training optimization, deployment strategies, computer vision applications, and TensorFlow certification.
+
+Goal: FL Studio Beat Making | habit_count: 3 | task_count: 8 | Extra: 10-week electronic music production; music student mastering pattern-based sequencing through beat creation, synthesizer programming, arrangement techniques, and hip-hop production skills.
+
+Goal: Bulgarian Language Balkan Markets | habit_count: 1 | task_count: 8 | Extra: 10-week regional fluency; international business student accessing Bulgarian markets through conversational skills, cultural understanding, business etiquette, and Bulgarian proficiency certification.
+
+Goal: PyTorch Deep Learning | habit_count: 3 | task_count: 11 | Extra: 16-week neural network development; computer science student mastering research-oriented ML through dynamic computation graphs, custom datasets, model training, and PyTorch certification.
+
+Goal: Mixcraft Home Recording | habit_count: 2 | task_count: 7 | Extra: 8-week entry-level production; music student exploring affordable DAW through basic recording, loop arrangement, virtual instruments, and home studio fundamentals.
+
+Goal: Croatian Language Balkan Business | habit_count: 1 | task_count: 9 | Extra: 12-week cultural communication; international business student accessing Croatian markets through language mastery, cultural awareness, business practices, and Croatian language certification.
+
+Goal: Scikit-learn Machine Learning | habit_count: 2 | task_count: 10 | Extra: 14-week practical ML implementation; computer science student mastering classical algorithms through data preprocessing, model selection, evaluation metrics, and Python ML certification.

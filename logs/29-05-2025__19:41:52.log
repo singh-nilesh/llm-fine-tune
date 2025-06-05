@@ -1,0 +1,73 @@
+[ 2025-05-29 19:41:52,949 ] 28 root - INFO -  Gemini API init
+[ 2025-05-29 19:41:53,064 ] 31 root - INFO -  supabase init
+[ 2025-05-29 19:41:53,065 ] 119 root - INFO -  Roadmap list imported as DF from 
+		 /home/dk/code_base/ml_projects/llm_fine_tune/data/career_transfer_goals.txt
+[ 2025-05-29 19:41:53,938 ] 1025 httpx - INFO - HTTP Request: GET https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?select=id&order=id.desc&limit=1 "HTTP/2 206 Partial Content"
+[ 2025-05-29 19:41:53,948 ] 132 root - INFO - DB id fetch --> 1523
+[ 2025-05-29 19:41:53,948 ] 46 root - INFO - generator init --> index=5, start_row=0, last_db_id =1523
+[ 2025-05-29 19:41:53,950 ] 189 root - INFO -  made prompt for Goal: Software Engineer Transition to Machine Learning Engineer
+[ 2025-05-29 19:42:34,725 ] 57 root - INFO -  got Gemini response starting from  Goal: Software Engineer Transition to Machine Learning Engineer & 5 more...
+[ 2025-05-29 19:42:35,399 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:42:40,408 ] 189 root - INFO -  made prompt for Goal: Network Administrator to Cybersecurity Specialist
+[ 2025-05-29 19:43:19,552 ] 57 root - INFO -  got Gemini response starting from  Goal: Network Administrator to Cybersecurity Specialist & 5 more...
+[ 2025-05-29 19:43:19,996 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:43:25,002 ] 189 root - INFO -  made prompt for Goal: Junior Developer to Technical Lead
+[ 2025-05-29 19:43:59,643 ] 57 root - INFO -  got Gemini response starting from  Goal: Junior Developer to Technical Lead & 5 more...
+[ 2025-05-29 19:43:59,976 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:44:04,981 ] 189 root - INFO -  made prompt for Goal: Content Writer to Technical Documentation Manager
+[ 2025-05-29 19:44:39,372 ] 57 root - INFO -  got Gemini response starting from  Goal: Content Writer to Technical Documentation Manager & 5 more...
+[ 2025-05-29 19:44:40,266 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:44:45,271 ] 189 root - INFO -  made prompt for Goal: Mobile Developer to Principal Software Engineer
+[ 2025-05-29 19:45:08,522 ] 57 root - INFO -  got Gemini response starting from  Goal: Mobile Developer to Principal Software Engineer & 5 more...
+[ 2025-05-29 19:45:09,016 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:45:14,021 ] 189 root - INFO -  made prompt for Goal: Research Assistant to Clinical Data Manager
+[ 2025-05-29 19:45:47,732 ] 57 root - INFO -  got Gemini response starting from  Goal: Research Assistant to Clinical Data Manager & 5 more...
+[ 2025-05-29 19:45:47,982 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:45:52,985 ] 189 root - INFO -  made prompt for Goal: Technical Writer to Developer Relations Manager
+[ 2025-05-29 19:46:31,551 ] 57 root - INFO -  got Gemini response starting from  Goal: Technical Writer to Developer Relations Manager & 5 more...
+[ 2025-05-29 19:46:32,397 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:46:37,403 ] 189 root - INFO -  made prompt for Goal: Social Media Manager to Growth Marketing Lead
+[ 2025-05-29 19:47:14,136 ] 57 root - INFO -  got Gemini response starting from  Goal: Social Media Manager to Growth Marketing Lead & 5 more...
+[ 2025-05-29 19:47:14,562 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:47:19,567 ] 189 root - INFO -  made prompt for Goal: Network Technician to Cloud Security Architect
+[ 2025-05-29 19:47:57,830 ] 57 root - INFO -  got Gemini response starting from  Goal: Network Technician to Cloud Security Architect & 5 more...
+[ 2025-05-29 19:47:58,031 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:48:03,035 ] 189 root - INFO -  made prompt for Goal: Application Developer to Solutions Architect
+[ 2025-05-29 19:48:42,825 ] 57 root - INFO -  got Gemini response starting from  Goal: Application Developer to Solutions Architect & 5 more...
+[ 2025-05-29 19:48:43,708 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:48:48,709 ] 189 root - INFO -  made prompt for Goal: Content Creator to Head of Content Strategy
+[ 2025-05-29 19:49:28,453 ] 57 root - INFO -  got Gemini response starting from  Goal: Content Creator to Head of Content Strategy & 5 more...
+[ 2025-05-29 19:49:29,030 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:49:34,037 ] 189 root - INFO -  made prompt for Goal: Procurement Specialist to Supply Chain Technology Manager
+[ 2025-05-29 19:50:13,884 ] 57 root - INFO -  got Gemini response starting from  Goal: Procurement Specialist to Supply Chain Technology Manager & 5 more...
+[ 2025-05-29 19:50:14,603 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:50:19,608 ] 189 root - INFO -  made prompt for Goal: Medical Technologist to Laboratory Information Systems Manager
+[ 2025-05-29 19:50:46,241 ] 57 root - INFO -  got Gemini response starting from  Goal: Medical Technologist to Laboratory Information Systems Manager & 5 more...
+[ 2025-05-29 19:50:47,208 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:50:52,212 ] 189 root - INFO -  made prompt for Goal: Sales Associate to Revenue Operations Director
+[ 2025-05-29 19:51:41,246 ] 57 root - INFO -  got Gemini response starting from  Goal: Sales Associate to Revenue Operations Director & 5 more...
+[ 2025-05-29 19:51:41,796 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:51:46,801 ] 189 root - INFO -  made prompt for Goal: Bookkeeper to Financial Systems Manager
+[ 2025-05-29 19:52:24,418 ] 57 root - INFO -  got Gemini response starting from  Goal: Bookkeeper to Financial Systems Manager & 5 more...
+[ 2025-05-29 19:52:24,654 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:52:29,659 ] 189 root - INFO -  made prompt for Goal: Sales Development Representative to Head of Sales Development
+[ 2025-05-29 19:53:09,102 ] 57 root - INFO -  got Gemini response starting from  Goal: Sales Development Representative to Head of Sales Development & 5 more...
+[ 2025-05-29 19:53:10,146 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:53:15,151 ] 189 root - INFO -  made prompt for Goal: Junior Architect to Principal Solutions Architect
+[ 2025-05-29 19:53:39,388 ] 57 root - INFO -  got Gemini response starting from  Goal: Junior Architect to Principal Solutions Architect & 5 more...
+[ 2025-05-29 19:53:39,817 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:53:44,823 ] 189 root - INFO -  made prompt for Goal: Compliance Analyst to Chief Compliance Officer
+[ 2025-05-29 19:54:26,851 ] 57 root - INFO -  got Gemini response starting from  Goal: Compliance Analyst to Chief Compliance Officer & 5 more...
+[ 2025-05-29 19:54:27,422 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:54:32,426 ] 189 root - INFO -  made prompt for Goal: Junior Scientist to Research and Development Director
+[ 2025-05-29 19:55:12,859 ] 57 root - INFO -  got Gemini response starting from  Goal: Junior Scientist to Research and Development Director & 5 more...
+[ 2025-05-29 19:55:13,335 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:55:18,342 ] 189 root - INFO -  made prompt for Goal: Training Specialist to Chief Learning Officer
+[ 2025-05-29 19:55:52,089 ] 57 root - INFO -  got Gemini response starting from  Goal: Training Specialist to Chief Learning Officer & 5 more...
+[ 2025-05-29 19:55:52,312 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:55:57,319 ] 189 root - INFO -  made prompt for Goal: Junior Treasurer to Chief Financial Officer
+[ 2025-05-29 19:56:37,125 ] 57 root - INFO -  got Gemini response starting from  Goal: Junior Treasurer to Chief Financial Officer & 5 more...
+[ 2025-05-29 19:56:38,021 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"
+[ 2025-05-29 19:56:43,026 ] 189 root - INFO -  made prompt for Goal: Regulatory Specialist to Chief Regulatory Officer
+[ 2025-05-29 19:57:17,359 ] 57 root - INFO -  got Gemini response starting from  Goal: Regulatory Specialist to Chief Regulatory Officer & 5 more...
+[ 2025-05-29 19:57:18,055 ] 1025 httpx - INFO - HTTP Request: POST https://teapfuhassagydqswfyg.supabase.co/rest/v1/roadmap?columns=%22id%22%2C%22prompt%22%2C%22response%22 "HTTP/2 201 Created"

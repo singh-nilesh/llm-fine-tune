@@ -1,0 +1,219 @@
+Goal: Frontend Web Development Mastery | habit_count: 2 | task_count: 8 | Extra: 10-week modern web development; computer science sophomore building responsive websites through HTML5 semantics, CSS3 animations, JavaScript ES6+, DOM manipulation, API consumption, mobile-first design, browser compatibility, performance optimization, and portfolio showcase creation.
+
+Goal: Backend API Development with Node.js | habit_count: 3 | task_count: 9 | Extra: 12-week server-side programming; IT student creating scalable APIs through Express framework, middleware design, database connections, authentication logic, error handling, testing suites, documentation writing, deployment automation, and RESTful architecture principles.
+
+Goal: Mobile App Development with Flutter | habit_count: 2 | task_count: 10 | Extra: 14-week cross-platform development; software engineering junior building native apps through Dart programming, widget composition, state management, Firebase integration, platform channels, testing frameworks, app store deployment, performance profiling, and user experience optimization.
+
+Goal: Data Analysis with Python and Pandas | habit_count: 2 | task_count: 8 | Extra: 10-week analytics foundation; statistics major transitioning to tech through data cleaning, exploratory analysis, visualization creation, statistical modeling, Jupyter workflows, CSV processing, database connections, reporting automation, and insights presentation.
+
+Goal: Cloud Computing with Amazon Web Services | habit_count: 3 | task_count: 11 | Extra: 16-week cloud infrastructure; computer engineering student mastering AWS through EC2 deployment, S3 storage, RDS databases, Lambda functions, IAM security, VPC networking, monitoring setup, cost optimization, disaster recovery, backup strategies, and certification preparation.
+
+Goal: Digital Marketing Analytics and SEO | habit_count: 2 | task_count: 7 | Extra: 8-week online marketing; business student building digital presence through keyword research, content optimization, Google Analytics, social media metrics, A/B testing, conversion tracking, competitor analysis, and campaign performance measurement.
+
+Goal: Video Production and YouTube Content Creation | habit_count: 2 | task_count: 9 | Extra: 12-week multimedia skills; communications major developing video expertise through scriptwriting, filming techniques, lighting setup, audio recording, editing workflows, thumbnail design, channel optimization, audience engagement, and monetization strategies.
+
+Goal: Graphic Design with Adobe Creative Suite | habit_count: 2 | task_count: 8 | Extra: 10-week visual communication; art student mastering design tools through logo creation, branding projects, print layouts, digital illustrations, color theory, typography principles, client presentations, and professional portfolio development.
+
+Goal: Database Design and SQL Mastery | habit_count: 3 | task_count: 10 | Extra: 14-week data management; information systems student building database expertise through ERD modeling, normalization techniques, query optimization, stored procedures, indexing strategies, backup procedures, security implementation, performance tuning, migration planning, and enterprise deployment.
+
+Goal: Cybersecurity Fundamentals and Ethical Hacking | habit_count: 3 | task_count: 11 | Extra: 16-week security specialization; computer science senior developing defense skills through vulnerability assessment, penetration testing, network security, cryptography basics, incident response, security tools, compliance frameworks, risk analysis, threat modeling, forensic techniques, and certification pursuit.
+
+Goal: Machine Learning and AI Development | habit_count: 2 | task_count: 9 | Extra: 12-week artificial intelligence; data science student exploring ML through algorithm implementation, model training, feature engineering, performance evaluation, neural networks, deep learning basics, deployment strategies, ethical considerations, and practical project creation.
+
+Goal: Game Development with Unity Engine | habit_count: 3 | task_count: 10 | Extra: 14-week interactive entertainment; computer science junior creating games through C# scripting, physics systems, animation controllers, UI design, audio integration, multiplayer networking, performance optimization, platform deployment, monetization planning, and game portfolio building.
+
+Goal: DevOps and Continuous Integration | habit_count: 3 | task_count: 9 | Extra: 12-week automation pipeline; software engineering student implementing CI/CD through version control, automated testing, deployment scripts, containerization, monitoring setup, infrastructure as code, security scanning, rollback procedures, and team collaboration workflows.
+
+Goal: UX/UI Design and User Research | habit_count: 2 | task_count: 8 | Extra: 10-week user experience; design student creating intuitive interfaces through user personas, wireframing, prototyping, usability testing, accessibility compliance, design systems, interaction patterns, and user journey mapping.
+
+Goal: E-commerce Development and Online Business | habit_count: 2 | task_count: 9 | Extra: 12-week digital commerce; business student building online stores through platform selection, payment integration, inventory management, SEO optimization, customer analytics, marketing automation, conversion optimization, customer service, and growth strategies.
+
+Goal: Content Creation and Social Media Management | habit_count: 2 | task_count: 8 | Extra: 10-week digital marketing; communications student developing online presence through content planning, photography skills, video editing, hashtag strategies, engagement metrics, influencer collaboration, brand partnerships, and audience growth techniques.
+
+Goal: Blockchain Development and Cryptocurrency | habit_count: 3 | task_count: 10 | Extra: 14-week distributed technology; computer science student exploring blockchain through smart contracts, DApp development, cryptocurrency basics, wallet integration, consensus mechanisms, security protocols, tokenomics, decentralized finance, and blockchain architecture.
+
+Goal: Data Visualization and Business Intelligence | habit_count: 2 | task_count: 8 | Extra: 10-week analytics presentation; data science student creating compelling visuals through dashboard design, chart selection, storytelling techniques, interactive elements, performance optimization, stakeholder presentation, and business insight generation.
+
+Goal: Network Administration and Infrastructure | habit_count: 3 | task_count: 11 | Extra: 16-week systems management; IT student mastering networking through router configuration, switch management, firewall setup, VPN implementation, network monitoring, troubleshooting techniques, security protocols, documentation standards, capacity planning, disaster recovery, and certification preparation.
+
+Goal: Software Testing and Quality Assurance | habit_count: 2 | task_count: 9 | Extra: 12-week QA specialization; computer science student developing testing expertise through test case design, automated testing, bug reporting, performance testing, security testing, regression testing, test documentation, team collaboration, and quality metrics analysis.
+
+Goal: Mobile Game Development with Unity | habit_count: 2 | task_count: 8 | Extra: 10-week mobile gaming; game design student creating mobile experiences through touch controls, monetization strategies, player analytics, social features, performance optimization, app store optimization, user retention, and market research analysis.
+
+Goal: WordPress Development and Custom Themes | habit_count: 2 | task_count: 9 | Extra: 12-week CMS mastery; web development student building custom solutions through PHP programming, theme development, plugin creation, database optimization, security hardening, performance tuning, client management, and maintenance procedures.
+
+Goal: Python Automation and Scripting | habit_count: 2 | task_count: 7 | Extra: 8-week productivity enhancement; computer science student automating tasks through file processing, web scraping, API integration, task scheduling, system administration, data processing, report generation, and workflow optimization.
+
+Goal: Digital Photography and Photo Editing | habit_count: 2 | task_count: 8 | Extra: 10-week visual arts; media student developing photography skills through composition techniques, lighting mastery, RAW processing, color grading, retouching methods, portfolio creation, client communication, and business development.
+
+Goal: Podcast Production and Audio Engineering | habit_count: 2 | task_count: 9 | Extra: 12-week audio content; communications student creating professional podcasts through recording techniques, audio editing, sound design, episode planning, audience engagement, distribution strategies, monetization options, equipment selection, and brand building.
+
+Goal: Android App Development with Kotlin | habit_count: 3 | task_count: 10 | Extra: 14-week mobile programming; software engineering student building Android apps through Kotlin syntax, Android SDK, UI components, data persistence, network communication, testing frameworks, Play Store deployment, performance optimization, user analytics, and maintenance planning.
+
+Goal: iOS App Development with Swift | habit_count: 3 | task_count: 10 | Extra: 14-week Apple ecosystem; computer science student creating iPhone apps through Swift programming, UIKit framework, Core Data, networking, push notifications, App Store guidelines, testing procedures, performance monitoring, user feedback, and version management.
+
+Goal: Linux System Administration | habit_count: 3 | task_count: 11 | Extra: 16-week server management; IT student mastering Linux through command line, user management, file permissions, process control, network configuration, security hardening, log analysis, backup automation, performance monitoring, scripting, and certification preparation.
+
+Goal: Freelancing and Client Management | habit_count: 2 | task_count: 8 | Extra: 10-week independent business; business student developing entrepreneurial skills through service pricing, client acquisition, project management, contract negotiation, invoice processing, portfolio presentation, time management, and professional networking.
+
+Goal: Technical Writing and Documentation | habit_count: 2 | task_count: 7 | Extra: 8-week communication skills; computer science student improving documentation through API documentation, user guides, technical specifications, code commenting, markdown mastery, version control, style guides, and collaboration workflows.
+
+Goal: Cloud Security and Compliance | habit_count: 3 | task_count: 10 | Extra: 14-week security specialization; cybersecurity student implementing cloud protection through identity management, access controls, encryption protocols, compliance frameworks, audit procedures, incident response, risk assessment, security monitoring, threat detection, and certification pursuit.
+
+Goal: React Native Cross-Platform Development | habit_count: 2 | task_count: 9 | Extra: 12-week mobile framework; web development student building native apps through JavaScript, component lifecycle, navigation, state management, native modules, testing strategies, deployment automation, performance optimization, and code sharing.
+
+Goal: Java Enterprise Development | habit_count: 3 | task_count: 10 | Extra: 14-week enterprise programming; computer science student mastering Java through Spring framework, microservices architecture, database integration, security implementation, testing frameworks, performance optimization, deployment strategies, monitoring setup, scalability planning, and enterprise patterns.
+
+Goal: Digital Asset Creation and NFTs | habit_count: 2 | task_count: 8 | Extra: 10-week blockchain art; digital arts student exploring crypto art through asset creation, blockchain platforms, smart contracts, marketplace listing, community building, royalty systems, legal considerations, and market analysis.
+
+Goal: Voice Assistant Development | habit_count: 2 | task_count: 9 | Extra: 12-week conversational AI; computer science student building voice applications through speech recognition, natural language processing, intent mapping, response generation, platform integration, testing procedures, user experience design, analytics tracking, and skill optimization.
+
+Goal: 3D Modeling and Animation | habit_count: 2 | task_count: 8 | Extra: 10-week digital creation; animation student mastering 3D through modeling techniques, texturing, rigging, animation principles, lighting setup, rendering optimization, portfolio development, and industry networking.
+
+Goal: Augmented Reality Development | habit_count: 3 | task_count: 10 | Extra: 14-week immersive technology; computer science student creating AR experiences through spatial computing, object tracking, gesture recognition, user interface design, performance optimization, platform deployment, user testing, content creation, and market research.
+
+Goal: Virtual Reality Development | habit_count: 3 | task_count: 10 | Extra: 14-week VR programming; game development student building immersive experiences through 3D environments, interaction systems, motion controls, performance optimization, user comfort, platform deployment, testing procedures, content design, and user experience research.
+
+Goal: API Design and Development | habit_count: 2 | task_count: 9 | Extra: 12-week backend specialization; software engineering student creating robust APIs through RESTful design, GraphQL implementation, authentication systems, rate limiting, documentation generation, testing suites, version management, monitoring setup, and client integration.
+
+Goal: Microservices Architecture | habit_count: 3 | task_count: 11 | Extra: 16-week distributed systems; computer science senior implementing scalable architecture through service decomposition, inter-service communication, data consistency, fault tolerance, monitoring solutions, deployment automation, security protocols, performance optimization, testing strategies, configuration management, and operational excellence.
+
+Goal: Search Engine Optimization Mastery | habit_count: 2 | task_count: 8 | Extra: 10-week digital visibility; marketing student optimizing web presence through keyword research, on-page optimization, technical SEO, link building, content strategy, analytics tracking, competitor analysis, and performance measurement.
+
+Goal: Email Marketing and Automation | habit_count: 2 | task_count: 7 | Extra: 8-week digital communication; business student building email campaigns through list segmentation, template design, automation workflows, A/B testing, deliverability optimization, analytics tracking, and customer journey mapping.
+
+Goal: Project Management and Agile Methodologies | habit_count: 2 | task_count: 9 | Extra: 12-week team leadership; computer science student mastering project delivery through Scrum practices, sprint planning, backlog management, team coordination, risk assessment, stakeholder communication, progress tracking, quality assurance, and continuous improvement.
+
+Goal: Web Accessibility and Inclusive Design | habit_count: 2 | task_count: 8 | Extra: 10-week universal design; UX student creating accessible experiences through WCAG compliance, screen reader optimization, keyboard navigation, color contrast, semantic markup, testing procedures, user research, and inclusive design principles.
+
+Goal: Computer Vision and Image Processing | habit_count: 3 | task_count: 10 | Extra: 14-week AI specialization; computer science student implementing vision systems through image preprocessing, feature extraction, object detection, classification algorithms, neural networks, real-time processing, model deployment, performance optimization, and application development.
+
+Goal: Natural Language Processing | habit_count: 3 | task_count: 9 | Extra: 12-week language AI; data science student building text analysis through tokenization, sentiment analysis, language models, text classification, chatbot development, API integration, model training, evaluation metrics, and practical applications.
+
+Goal: Robotic Process Automation | habit_count: 2 | task_count: 8 | Extra: 10-week business automation; IT student streamlining workflows through bot development, process mapping, exception handling, scheduling automation, monitoring setup, maintenance procedures, ROI analysis, and organizational deployment.
+
+Goal: Internet of Things Development | habit_count: 3 | task_count: 10 | Extra: 14-week connected devices; computer engineering student building IoT solutions through sensor integration, microcontroller programming, wireless communication, data collection, cloud connectivity, security protocols, device management, analytics processing, and prototype development.
+
+Goal: Penetration Testing and Security Auditing | habit_count: 3 | task_count: 11 | Extra: 16-week ethical hacking; cybersecurity student developing offensive security through vulnerability scanning, exploit development, social engineering, network infiltration, web application testing, report writing, remediation planning, compliance assessment, tool mastery, client communication, and certification pursuit.
+
+Goal: Digital Forensics and Incident Response | habit_count: 3 | task_count: 10 | Extra: 14-week security investigation; cybersecurity student mastering evidence analysis through data recovery, network forensics, malware analysis, timeline reconstruction, chain of custody, legal procedures, tool utilization, report generation, testimony preparation, and case management.
+
+Goal: Cloud Migration and Modernization | habit_count: 3 | task_count: 9 | Extra: 12-week infrastructure transformation; IT student implementing cloud adoption through assessment planning, migration strategies, application modernization, cost optimization, security implementation, performance monitoring, staff training, change management, and operational excellence.
+
+Goal: Artificial Intelligence Ethics and Governance | habit_count: 2 | task_count: 8 | Extra: 10-week responsible AI; computer science student exploring ethical implications through bias detection, fairness metrics, transparency requirements, privacy protection, regulatory compliance, stakeholder engagement, policy development, and ethical framework implementation.
+
+Goal: Quantum Computing Programming | habit_count: 3 | task_count: 10 | Extra: 14-week quantum development; physics student exploring quantum algorithms through qubit manipulation, quantum gates, entanglement, superposition, quantum circuits, algorithm implementation, simulator usage, hardware access, error correction, and research applications.
+
+Goal: Edge Computing and Distributed Systems | habit_count: 3 | task_count: 9 | Extra: 12-week decentralized architecture; computer engineering student implementing edge solutions through distributed processing, latency optimization, data synchronization, fault tolerance, security protocols, monitoring systems, scalability planning, performance tuning, and real-world deployment.
+
+Goal: Sustainable Technology and Green Computing | habit_count: 2 | task_count: 8 | Extra: 10-week environmental computing; environmental science student optimizing technology impact through energy efficiency, carbon footprint analysis, sustainable coding practices, hardware lifecycle management, renewable energy integration, green data centers, and environmental reporting.
+
+Goal: Digital Twin Development | habit_count: 3 | task_count: 10 | Extra: 14-week simulation technology; engineering student creating virtual replicas through 3D modeling, sensor integration, real-time synchronization, predictive analytics, simulation algorithms, visualization interfaces, data processing, performance monitoring, and industrial applications.
+
+Goal: Conversational AI and Chatbot Development | habit_count: 2 | task_count: 9 | Extra: 12-week intelligent automation; computer science student building conversational interfaces through natural language understanding, dialog management, intent recognition, response generation, platform integration, training data, performance optimization, user experience, and deployment strategies.
+
+Goal: Bioinformatics and Computational Biology | habit_count: 3 | task_count: 11 | Extra: 16-week biological computing; biology student applying computation to life sciences through sequence analysis, protein structure prediction, genomic data processing, statistical modeling, database querying, visualization tools, algorithm implementation, research collaboration, publication writing, tool development, and interdisciplinary integration.
+
+Goal: Cryptocurrency Trading and Analysis | habit_count: 2 | task_count: 8 | Extra: 10-week digital finance; economics student exploring crypto markets through technical analysis, trading strategies, risk management, portfolio optimization, market research, regulatory compliance, wallet security, and investment planning.
+
+Goal: Streaming Technology and Live Broadcasting | habit_count: 2 | task_count: 9 | Extra: 12-week media technology; communications student mastering live content through streaming software, encoding optimization, audience engagement, monetization strategies, technical troubleshooting, content planning, brand building, community management, and platform optimization.
+
+Goal: Smart Contract Development | habit_count: 3 | task_count: 10 | Extra: 14-week blockchain programming; computer science student creating decentralized applications through Solidity programming, contract deployment, gas optimization, security auditing, testing frameworks, frontend integration, wallet connectivity, token standards, and DeFi protocols.
+
+Goal: Augmented Analytics and Self-Service BI | habit_count: 2 | task_count: 8 | Extra: 10-week intelligent analytics; data science student implementing automated insights through machine learning integration, natural language querying, automated visualization, anomaly detection, predictive modeling, business intelligence, user training, and organizational adoption.
+
+Goal: Multi-Cloud Strategy and Management | habit_count: 3 | task_count: 11 | Extra: 16-week cloud architecture; IT student implementing multi-provider solutions through vendor assessment, service integration, cost optimization, security harmonization, data governance, disaster recovery, compliance management, monitoring consolidation, staff training, migration planning, and strategic planning.
+
+Goal: Low-Code/No-Code Development | habit_count: 2 | task_count: 7 | Extra: 8-week rapid development; business student building applications through visual development, workflow automation, integration configuration, user interface design, data modeling, testing procedures, deployment processes, and citizen developer training.
+
+Goal: Serverless Computing Architecture | habit_count: 2 | task_count: 9 | Extra: 12-week event-driven development; computer science student implementing serverless solutions through function development, event triggers, API Gateway, database integration, monitoring setup, cost optimization, security implementation, deployment automation, and architectural patterns.
+
+Goal: Progressive Web App Development | habit_count: 2 | task_count: 8 | Extra: 10-week modern web; web development student creating app-like experiences through service workers, offline functionality, push notifications, responsive design, performance optimization, app store deployment, user engagement, and cross-platform compatibility.
+
+Goal: WebAssembly and High-Performance Web | habit_count: 3 | task_count: 10 | Extra: 14-week performance optimization; computer science student implementing native-speed web through WebAssembly compilation, memory management, JavaScript interop, performance profiling, browser compatibility, module packaging, debugging techniques, security considerations, and application porting.
+
+Goal: Rust Systems Programming | habit_count: 3 | task_count: 9 | Extra: 12-week memory-safe development; systems programming student mastering Rust through ownership concepts, memory safety, concurrency patterns, performance optimization, CLI tools, web services, testing frameworks, package management, and community contribution.
+
+Goal: Go Backend Development | habit_count: 2 | task_count: 8 | Extra: 10-week scalable services; backend developer student building efficient systems through goroutines, channels, web frameworks, database integration, testing suites, deployment automation, performance monitoring, and microservices architecture.
+
+Goal: TypeScript Full-Stack Development | habit_count: 2 | task_count: 9 | Extra: 12-week type-safe programming; web development student implementing robust applications through static typing, interface design, generic programming, React integration, Node.js backend, testing strategies, build optimization, error handling, and code maintainability.
+
+Goal: GraphQL API Development | habit_count: 2 | task_count: 8 | Extra: 10-week query language; backend student creating flexible APIs through schema design, resolver implementation, query optimization, subscription handling, authentication integration, caching strategies, testing procedures, and client integration.
+
+Goal: Svelte Frontend Framework | habit_count: 2 | task_count: 8 | Extra: 10-week reactive programming; frontend student building efficient interfaces through component architecture, state management, animation systems, build optimization, routing implementation, testing frameworks, deployment strategies, and performance monitoring.
+
+Goal: Deno Runtime Development | habit_count: 2 | task_count: 8 | Extra: 10-week secure JavaScript; backend student exploring modern runtime through security-first approach, TypeScript integration, standard library, web APIs, module system, testing tools, deployment options, and migration strategies.
+
+Goal: Blockchain Integration and Web3 | habit_count: 3 | task_count: 10 | Extra: 14-week decentralized web; computer science student implementing Web3 solutions through wallet integration, smart contract interaction, decentralized storage, identity management, token economics, governance systems, security protocols, user experience, and ecosystem participation.
+
+Goal: Computer Graphics and Shader Programming | habit_count: 3 | task_count: 11 | Extra: 16-week visual computing; computer graphics student creating stunning visuals through 3D mathematics, rendering pipelines, shader languages, texture mapping, lighting models, animation systems, performance optimization, tool development, portfolio creation, research projects, and industry collaboration.
+
+Goal: Embedded Systems Programming | habit_count: 3 | task_count: 10 | Extra: 14-week hardware programming; computer engineering student developing embedded solutions through microcontroller programming, real-time systems, hardware interfaces, power optimization, communication protocols, debugging techniques, testing procedures, documentation standards, and prototype development.
+
+Goal: Network Programming and Socket Development | habit_count: 3 | task_count: 9 | Extra: 12-week distributed communication; computer science student implementing network solutions through socket programming, protocol implementation, concurrent connections, data serialization, error handling, security protocols, performance optimization, testing strategies, and system integration.
+
+Goal: Compiler Design and Language Implementation | habit_count: 3 | task_count: 11 | Extra: 16-week language creation; computer science student building programming languages through lexical analysis, parsing techniques, semantic analysis, code generation, optimization strategies, runtime systems, garbage collection, error handling, language design, testing frameworks, and documentation development.
+
+Goal: Operating System Development | habit_count: 4 | task_count: 12 | Extra: 18-week system programming; computer engineering student creating operating systems through kernel development, memory management, process scheduling, file systems, device drivers, system calls, boot loaders, debugging tools, performance analysis, security implementation, documentation writing, and testing procedures.
+
+Goal: Distributed Database Systems | habit_count: 3 | task_count: 10 | Extra: 14-week scalable data; database engineering student implementing distributed storage through sharding strategies, replication protocols, consistency models, fault tolerance, query optimization, performance monitoring, backup procedures, security implementation, capacity planning, and operational management.
+
+Goal: High-Performance Computing | habit_count: 3 | task_count: 11 | Extra: 16-week parallel processing; computer science student optimizing computational performance through parallel algorithms, cluster computing, GPU programming, memory optimization, load balancing, performance profiling, benchmark analysis, scaling strategies, resource management, job scheduling, and scientific computing.
+
+Goal: Game Engine Development | habit_count: 4 | task_count: 12 | Extra: 18-week engine programming; game development student creating game engines through rendering systems, physics simulation, audio processing, input handling, scene management, scripting integration, tool development, performance optimization, platform abstraction, debugging systems, documentation creation, and developer experience.
+
+Goal: Virtual Machine Implementation | habit_count: 3 | task_count: 11 | Extra: 16-week runtime systems; systems programming student building virtual machines through bytecode interpretation, garbage collection, memory management, JIT compilation, stack management, exception handling, debugging support, performance optimization, security sandboxing, language integration, and testing frameworks.
+
+Goal: Real-Time Systems Programming | habit_count: 3 | task_count: 10 | Extra: 14-week time-critical computing; computer engineering student developing real-time applications through scheduling algorithms, timing analysis, interrupt handling, resource management, fault tolerance, performance guarantees, system validation, testing procedures, safety compliance, and embedded integration.
+
+Goal: Cryptocurrency Mining and Blockchain Infrastructure | habit_count: 3 | task_count: 9 | Extra: 12-week blockchain operations; computer science student implementing mining solutions through consensus algorithms, hash function optimization, pool management, hardware configuration, network participation, security protocols, monitoring systems, profitability analysis, and infrastructure management.
+
+Goal: Autonomous Vehicle Programming | habit_count: 4 | task_count: 12 | Extra: 18-week robotics programming; robotics engineering student developing self-driving systems through sensor fusion, computer vision, path planning, decision algorithms, safety systems, simulation testing, real-world validation, regulatory compliance, machine learning integration, hardware interfaces, system integration, and field testing.
+
+Goal: Space Technology and Satellite Programming | habit_count: 3 | task_count: 11 | Extra: 16-week aerospace computing; aerospace engineering student implementing space systems through satellite communication, orbital mechanics, ground station control, telemetry processing, command systems, fault tolerance, radiation hardening, mission planning, data analysis, system validation, and space protocols.
+
+Goal: Quantum Machine Learning | habit_count: 3 | task_count: 10 | Extra: 14-week quantum AI; physics student exploring quantum algorithms through quantum neural networks, variational circuits, quantum advantage, hybrid algorithms, error mitigation, quantum simulators, hardware access, algorithm optimization, research collaboration, and practical applications.
+
+Goal: Biometric Security Systems | habit_count: 3 | task_count: 10 | Extra: 14-week identity verification; cybersecurity student implementing biometric solutions through fingerprint recognition, facial authentication, iris scanning, voice recognition, behavioral analysis, security protocols, privacy protection, system integration, performance optimization, and compliance frameworks.
+
+Goal: Smart City Technology Integration | habit_count: 3 | task_count: 11 | Extra: 16-week urban computing; urban planning student developing smart infrastructure through IoT networks, traffic optimization, energy management, waste monitoring, citizen services, data analytics, privacy protection, system integration, scalability planning, public engagement, and sustainability metrics.
+
+Goal: Digital Health and Medical Informatics | habit_count: 3 | task_count: 10 | Extra: 14-week healthcare technology; biomedical engineering student implementing health solutions through electronic health records, medical imaging, telemedicine platforms, health analytics, regulatory compliance, patient privacy, interoperability standards, clinical workflows, and quality assurance.
+
+Goal: Financial Technology and Fintech Development | habit_count: 3 | task_count: 9 | Extra: 12-week financial innovation; finance student building fintech solutions through payment processing, fraud detection, risk assessment, regulatory compliance, mobile banking, investment platforms, cryptocurrency integration, security protocols, and user experience optimization.
+
+Goal: Educational Technology and E-Learning | habit_count: 2 | task_count: 8 | Extra: 10-week learning innovation; education student developing educational technology through learning management systems, interactive content, assessment tools, student analytics, accessibility features, mobile learning, gamification elements, and pedagogical integration.
+
+Goal: Agriculture Technology and Precision Farming | habit_count: 3 | task_count: 10 | Extra: 14-week agricultural innovation; agricultural engineering student implementing smart farming through sensor networks, drone technology, crop monitoring, yield optimization, weather analysis, automation systems, data collection, sustainability metrics, and farm management integration.
+
+Goal: Environmental Monitoring and Climate Technology | habit_count: 3 | task_count: 9 | Extra: 12-week environmental computing; environmental science student developing monitoring solutions through sensor deployment, data collection, climate modeling, pollution tracking, renewable energy optimization, carbon footprint analysis, sustainability reporting, and policy support systems.
+
+Goal: Energy Management and Smart Grid Technology | habit_count: 3 | task_count: 10 | Extra: 14-week energy systems; electrical engineering student implementing smart grid solutions through load balancing, renewable integration, energy storage, demand response, grid monitoring, fault detection, efficiency optimization, consumer interfaces, and regulatory compliance.
+
+Goal: Supply Chain Technology and Logistics | habit_count: 2 | task_count: 9 | Extra: 12-week logistics optimization; supply chain management student developing tracking solutions through RFID systems, blockchain verification, route optimization, inventory management, predictive analytics, vendor integration, quality assurance, and cost optimization.
+
+Goal: Manufacturing Automation and Industry 4.0 | habit_count: 3 | task_count: 11 | Extra: 16-week industrial technology; mechanical engineering student implementing smart manufacturing through robotics integration, predictive maintenance, quality control, production optimization, sensor networks, data analytics, human-machine interfaces, safety systems, efficiency metrics, process automation, and digital transformation.
+
+Goal: Retail Technology and E-Commerce Innovation | habit_count: 2 | task_count: 8 | Extra: 10-week retail transformation; business student developing retail solutions through point-of-sale systems, inventory management, customer analytics, personalization engines, omnichannel integration, payment processing, loyalty programs, and customer experience optimization.
+
+Goal: Transportation Technology and Mobility Solutions | habit_count: 3 | task_count: 10 | Extra: 14-week mobility innovation; transportation engineering student implementing smart transportation through traffic management, route optimization, ride-sharing platforms, public transit integration, vehicle tracking, safety systems, environmental impact, user interfaces, and urban planning integration.
+
+Goal: Construction Technology and Building Information Modeling | habit_count: 3 | task_count: 9 | Extra: 12-week construction innovation; civil engineering student developing construction technology through BIM implementation, project management, safety monitoring, resource optimization, quality control, collaboration platforms, regulatory compliance, sustainability metrics, and cost management.
+
+Goal: Sports Technology and Performance Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week sports innovation; sports science student implementing performance technology through athlete monitoring, biomechanical analysis, training optimization, injury prevention, performance metrics, video analysis, team strategy, and fan engagement platforms.
+
+Goal: Entertainment Technology and Media Production | habit_count: 2 | task_count: 9 | Extra: 12-week media innovation; media production student developing entertainment technology through content creation, streaming platforms, audience analytics, interactive media, virtual production, content management, distribution systems, monetization strategies, and user engagement.
+
+Goal: Tourism Technology and Travel Solutions | habit_count: 2 | task_count: 8 | Extra: 10-week travel innovation; hospitality management student implementing travel technology through booking platforms, mobile applications, location services, customer experience, payment processing, travel planning, review systems, and destination marketing.
+
+Goal: Food Technology and Restaurant Management | habit_count: 2 | task_count: 8 | Extra: 10-week culinary technology; culinary arts student developing food service technology through point-of-sale systems, inventory management, kitchen automation, delivery platforms, customer ordering, nutritional analysis, food safety, and restaurant analytics.
+
+Goal: Real Estate Technology and Property Management | habit_count: 2 | task_count: 9 | Extra: 12-week property innovation; real estate student implementing property technology through listing platforms, virtual tours, property management, tenant services, maintenance scheduling, financial tracking, market analysis, and customer relationship management.
+
+Goal: Legal Technology and Case Management | habit_count: 2 | task_count: 8 | Extra: 10-week legal innovation; pre-law student developing legal technology through case management systems, document automation, legal research, client communication, billing systems, compliance tracking, contract analysis, and practice management.
+
+Goal: Human Resources Technology and Workforce Management | habit_count: 2 | task_count: 8 | Extra: 10-week HR innovation; human resources student implementing workforce technology through applicant tracking, employee management, performance evaluation, payroll systems, benefits administration, training platforms, analytics dashboards, and employee engagement.
+
+Goal: Social Media Technology and Community Management | habit_count: 2 | task_count: 8 | Extra: 10-week social innovation; communications student developing social platforms through content management, community building, engagement analytics, influencer tools, advertising platforms, user safety, content moderation, and growth strategies.
+
+Goal: News Technology and Digital Journalism | habit_count: 2 | task_count: 8 | Extra: 10-week journalism

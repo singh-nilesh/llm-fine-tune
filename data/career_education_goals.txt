@@ -1,0 +1,243 @@
+Goal: Business Student to E-commerce Entrepreneur | habit_count: 3 | task_count: 10 | Extra: 16-week online business mastery; commerce student advancing through market research, product sourcing, digital marketing, customer acquisition, conversion optimization, inventory management, financial planning, scaling strategies, and launching profitable e-commerce venture.
+
+Goal: Marketing Student to Social Media Manager | habit_count: 2 | task_count: 8 | Extra: 12-week social media specialization; marketing major transitioning through content creation, community management, analytics interpretation, paid advertising, influencer partnerships, brand voice development, crisis management, and social media manager positions.
+
+Goal: Finance Student to Personal Finance Coach | habit_count: 2 | task_count: 9 | Extra: 14-week financial coaching certification; finance undergraduate progressing through budgeting strategies, investment planning, debt management, retirement planning, tax optimization, client communication, coaching methodologies, and financial advisory roles.
+
+Goal: Computer Science Student to Mobile App Developer | habit_count: 3 | task_count: 11 | Extra: 18-week mobile development bootcamp; CS major advancing through iOS/Android programming, UI/UX design, backend integration, app store optimization, user testing, performance monitoring, monetization strategies, and mobile developer careers.
+
+Goal: Management Student to Project Coordinator | habit_count: 2 | task_count: 7 | Extra: 10-week project management fundamentals; management major transitioning through task planning, team coordination, timeline management, stakeholder communication, risk assessment, quality control, and project coordination roles.
+
+Goal: Economics Student to Data Analyst | habit_count: 3 | task_count: 12 | Extra: 20-week data analytics specialization; economics undergraduate progressing through statistical analysis, data visualization, SQL programming, business intelligence, predictive modeling, report generation, dashboard creation, and data analyst positions.
+
+Goal: Communications Student to Content Creator | habit_count: 2 | task_count: 8 | Extra: 12-week content creation mastery; communications major advancing through video production, podcast development, blog writing, audience engagement, monetization strategies, brand partnerships, content calendars, and creator economy success.
+
+Goal: Accounting Student to Tax Consultant | habit_count: 2 | task_count: 9 | Extra: 14-week tax preparation specialization; accounting undergraduate transitioning through tax law understanding, return preparation, client consultation, deduction optimization, compliance requirements, software proficiency, and tax consulting services.
+
+Goal: Information Technology Student to Web Developer | habit_count: 3 | task_count: 10 | Extra: 16-week full-stack web development; IT major progressing through HTML/CSS mastery, JavaScript frameworks, database design, responsive design, API integration, testing methodologies, deployment strategies, and web developer careers.
+
+Goal: Business Administration Student to Startup Founder | habit_count: 3 | task_count: 12 | Extra: 20-week entrepreneurship accelerator; business student advancing through idea validation, business model design, funding strategies, team building, product development, market entry, scaling operations, and startup leadership.
+
+Goal: Psychology Student to HR Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week human resources certification; psychology major transitioning through recruitment strategies, employee relations, performance management, training development, labor law compliance, compensation planning, and HR specialist roles.
+
+Goal: English Student to Copywriter | habit_count: 2 | task_count: 9 | Extra: 14-week copywriting mastery; English major progressing through persuasive writing, brand messaging, email marketing, sales page creation, A/B testing, client acquisition, portfolio development, and freelance copywriting success.
+
+Goal: Statistics Student to Business Intelligence Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week BI specialization; statistics undergraduate advancing through data warehousing, ETL processes, reporting tools, KPI development, dashboard design, trend analysis, forecasting models, and BI analyst careers.
+
+Goal: Art Student to Graphic Designer | habit_count: 2 | task_count: 8 | Extra: 12-week design portfolio development; art major transitioning through design software mastery, brand identity creation, layout design, color theory application, client communication, project management, and graphic design careers.
+
+Goal: Philosophy Student to Business Ethics Consultant | habit_count: 2 | task_count: 10 | Extra: 16-week ethics consulting preparation; philosophy undergraduate progressing through corporate governance, compliance frameworks, ethical decision-making, stakeholder analysis, policy development, training facilitation, and ethics consulting roles.
+
+Goal: Sociology Student to Market Research Specialist | habit_count: 3 | task_count: 9 | Extra: 14-week market research certification; sociology major advancing through survey design, focus group facilitation, demographic analysis, consumer behavior study, trend identification, report writing, and market research careers.
+
+Goal: Mathematics Student to Financial Analyst | habit_count: 3 | task_count: 12 | Extra: 20-week financial modeling specialization; math undergraduate transitioning through Excel mastery, valuation techniques, ratio analysis, forecasting methods, investment analysis, presentation skills, and financial analyst positions.
+
+Goal: Liberal Arts Student to Digital Marketing Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week digital marketing bootcamp; liberal arts major progressing through SEO optimization, PPC advertising, content marketing, email campaigns, social media strategy, analytics tracking, and digital marketing roles.
+
+Goal: Political Science Student to Public Relations Manager | habit_count: 2 | task_count: 9 | Extra: 14-week PR specialization; political science undergraduate advancing through media relations, crisis communication, press release writing, event planning, stakeholder management, reputation building, and PR manager careers.
+
+Goal: History Student to Research Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week research methodology training; history major transitioning through data collection, source verification, trend analysis, report compilation, presentation development, client consultation, and research analyst roles.
+
+Goal: International Relations Student to Import/Export Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week trade compliance certification; IR undergraduate progressing through customs regulations, documentation requirements, logistics coordination, supplier relationships, cost analysis, risk management, and trade coordination careers.
+
+Goal: Journalism Student to Content Marketing Manager | habit_count: 2 | task_count: 11 | Extra: 18-week content strategy mastery; journalism major advancing through editorial planning, SEO writing, brand storytelling, campaign development, performance tracking, team management, and content marketing leadership.
+
+Goal: Anthropology Student to UX Researcher | habit_count: 3 | task_count: 9 | Extra: 14-week user experience research; anthropology undergraduate transitioning through user interviews, usability testing, persona development, journey mapping, research synthesis, design collaboration, and UX research careers.
+
+Goal: Criminal Justice Student to Compliance Officer | habit_count: 2 | task_count: 10 | Extra: 16-week regulatory compliance training; criminal justice major progressing through regulation understanding, audit procedures, risk assessment, policy development, training coordination, reporting systems, and compliance officer roles.
+
+Goal: Education Student to Corporate Trainer | habit_count: 2 | task_count: 8 | Extra: 12-week training development certification; education undergraduate advancing through curriculum design, adult learning principles, presentation skills, assessment creation, technology integration, program evaluation, and corporate training careers.
+
+Goal: Foreign Language Student to Localization Specialist | habit_count: 3 | task_count: 9 | Extra: 14-week localization expertise; language major transitioning through translation services, cultural adaptation, software localization, quality assurance, project coordination, client management, and localization specialist roles.
+
+Goal: Music Student to Audio Content Producer | habit_count: 2 | task_count: 11 | Extra: 18-week audio production mastery; music undergraduate progressing through podcast production, sound design, mixing techniques, client acquisition, content strategy, distribution platforms, and audio production careers.
+
+Goal: Theater Student to Event Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week event management certification; theater major advancing through venue selection, vendor coordination, timeline planning, budget management, attendee experience, problem-solving, and event coordination roles.
+
+Goal: Religious Studies Student to Nonprofit Program Manager | habit_count: 3 | task_count: 10 | Extra: 16-week nonprofit management training; religious studies undergraduate transitioning through grant writing, program development, volunteer coordination, impact measurement, fundraising strategies, board relations, and nonprofit leadership.
+
+Goal: Geography Student to GIS Analyst | habit_count: 3 | task_count: 12 | Extra: 20-week geographic information systems; geography major progressing through spatial analysis, mapping software, database management, cartographic design, field data collection, client consultation, and GIS analyst careers.
+
+Goal: Pre-Law Student to Legal Research Assistant | habit_count: 2 | task_count: 9 | Extra: 14-week legal research training; pre-law undergraduate advancing through case law analysis, document preparation, citation formatting, database searching, brief writing, client interview skills, and legal research roles.
+
+Goal: Environmental Studies Student to Sustainability Consultant | habit_count: 3 | task_count: 11 | Extra: 18-week sustainability consulting; environmental studies major transitioning through carbon footprint analysis, green certification processes, policy recommendation, stakeholder engagement, reporting standards, and sustainability consulting careers.
+
+Goal: Public Health Student to Health Education Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week health promotion certification; public health undergraduate progressing through program design, community outreach, health communication, evaluation methods, grant writing, partnership building, and health education roles.
+
+Goal: Engineering Student to Technical Sales Representative | habit_count: 2 | task_count: 10 | Extra: 16-week technical sales training; engineering major advancing through product knowledge, client needs assessment, proposal development, relationship building, negotiation skills, territory management, and technical sales careers.
+
+Goal: Architecture Student to CAD Specialist | habit_count: 3 | task_count: 9 | Extra: 14-week computer-aided design mastery; architecture undergraduate transitioning through software proficiency, technical drawing, 3D modeling, project collaboration, quality control, client presentation, and CAD specialist roles.
+
+Goal: Chemistry Student to Laboratory Technician | habit_count: 2 | task_count: 8 | Extra: 12-week lab certification program; chemistry major progressing through analytical procedures, equipment operation, quality control, safety protocols, data recording, troubleshooting, and laboratory technician careers.
+
+Goal: Physics Student to Data Scientist | habit_count: 3 | task_count: 12 | Extra: 20-week data science bootcamp; physics undergraduate advancing through machine learning, statistical modeling, programming languages, data visualization, business application, model deployment, and data scientist positions.
+
+Goal: Biology Student to Pharmaceutical Sales Representative | habit_count: 2 | task_count: 9 | Extra: 14-week pharma sales training; biology major transitioning through product knowledge, medical terminology, physician relations, sales presentations, territory planning, compliance requirements, and pharmaceutical sales careers.
+
+Goal: Social Work Student to Program Evaluator | habit_count: 3 | task_count: 10 | Extra: 16-week evaluation methodology; social work undergraduate progressing through outcome measurement, data collection, statistical analysis, report writing, stakeholder communication, improvement recommendations, and program evaluation roles.
+
+Goal: Nursing Student to Healthcare Quality Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week quality improvement certification; nursing major advancing through quality metrics, process improvement, compliance monitoring, staff training, documentation systems, patient safety, and quality coordinator careers.
+
+Goal: Hospitality Student to Revenue Manager | habit_count: 2 | task_count: 11 | Extra: 18-week revenue optimization; hospitality undergraduate transitioning through pricing strategies, demand forecasting, market analysis, competitor research, performance tracking, system management, and revenue management roles.
+
+Goal: Fashion Student to Brand Manager | habit_count: 3 | task_count: 9 | Extra: 14-week brand management specialization; fashion major progressing through brand strategy, market positioning, campaign development, influencer partnerships, consumer insights, trend analysis, and brand management careers.
+
+Goal: Film Student to Video Marketing Specialist | habit_count: 2 | task_count: 10 | Extra: 16-week video marketing mastery; film undergraduate advancing through video production, storytelling techniques, platform optimization, audience engagement, performance analytics, client acquisition, and video marketing roles.
+
+Goal: Sports Management Student to Athlete Marketing Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week sports marketing certification; sports management major transitioning through athlete branding, sponsorship coordination, social media management, event planning, contract negotiation, and athlete marketing careers.
+
+Goal: Culinary Arts Student to Food Blogger | habit_count: 3 | task_count: 9 | Extra: 14-week food content creation; culinary student progressing through recipe development, food photography, blog writing, social media strategy, monetization techniques, brand partnerships, and food blogging success.
+
+Goal: Textile Design Student to Product Development Coordinator | habit_count: 2 | task_count: 11 | Extra: 18-week product development process; textile design major advancing through material sourcing, quality testing, supplier coordination, production planning, cost analysis, timeline management, and product development roles.
+
+Goal: Interior Design Student to Real Estate Staging Consultant | habit_count: 2 | task_count: 8 | Extra: 12-week home staging certification; interior design undergraduate transitioning through property assessment, furniture selection, space optimization, photography coordination, client consultation, and staging consultant careers.
+
+Goal: Urban Planning Student to Community Development Specialist | habit_count: 3 | task_count: 10 | Extra: 16-week community development training; urban planning major progressing through needs assessment, stakeholder engagement, program development, grant writing, project coordination, impact evaluation, and community development roles.
+
+Goal: Kinesiology Student to Corporate Wellness Coordinator | habit_count: 2 | task_count: 9 | Extra: 14-week workplace wellness certification; kinesiology undergraduate advancing through program design, health screenings, fitness assessments, employee engagement, vendor management, and corporate wellness careers.
+
+Goal: Nutrition Student to Health Coach | habit_count: 3 | task_count: 8 | Extra: 12-week health coaching certification; nutrition major transitioning through client assessment, meal planning, behavior modification, goal setting, progress tracking, motivational interviewing, and health coaching practice.
+
+Goal: Recreation Student to Tourism Marketing Specialist | habit_count: 2 | task_count: 11 | Extra: 18-week tourism marketing mastery; recreation undergraduate progressing through destination promotion, experience packaging, digital marketing, partnership development, visitor analytics, and tourism marketing careers.
+
+Goal: Supply Chain Student to Procurement Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week procurement specialization; supply chain major advancing through vendor evaluation, cost analysis, contract negotiation, risk assessment, performance monitoring, relationship management, and procurement analyst roles.
+
+Goal: Real Estate Student to Property Investment Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week investment analysis training; real estate undergraduate transitioning through market research, financial modeling, property valuation, risk assessment, portfolio management, and investment analysis careers.
+
+Goal: Game Design Student to Community Manager | habit_count: 2 | task_count: 8 | Extra: 12-week community management certification; game design major progressing through player engagement, content creation, event coordination, feedback collection, social media management, and community manager roles.
+
+Goal: Graphic Design Student to Brand Identity Designer | habit_count: 3 | task_count: 11 | Extra: 18-week brand design specialization; graphic design undergraduate advancing through logo creation, visual identity systems, brand guidelines, client consultation, project management, and brand identity design careers.
+
+Goal: Web Design Student to UX/UI Designer | habit_count: 2 | task_count: 10 | Extra: 16-week user experience design; web design major transitioning through user research, wireframing, prototyping, usability testing, design systems, collaboration skills, and UX/UI design positions.
+
+Goal: Digital Media Student to Influencer Marketing Manager | habit_count: 2 | task_count: 8 | Extra: 12-week influencer marketing mastery; digital media undergraduate progressing through influencer identification, campaign development, contract negotiation, performance tracking, relationship management, and influencer marketing roles.
+
+Goal: Event Planning Student to Wedding Coordinator | habit_count: 3 | task_count: 9 | Extra: 14-week wedding planning certification; event planning major advancing through vendor coordination, timeline management, budget planning, client consultation, day-of coordination, and wedding planning careers.
+
+Goal: Public Relations Student to Crisis Communication Specialist | habit_count: 2 | task_count: 11 | Extra: 18-week crisis management training; PR undergraduate transitioning through crisis planning, media relations, stakeholder communication, reputation management, message development, and crisis communication roles.
+
+Goal: Human Resources Student to Talent Acquisition Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week recruitment specialization; HR major progressing through candidate sourcing, interview techniques, assessment methods, onboarding processes, employer branding, and talent acquisition careers.
+
+Goal: Operations Management Student to Process Improvement Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week continuous improvement training; operations major advancing through process mapping, efficiency analysis, lean methodologies, change management, team facilitation, and process improvement roles.
+
+Goal: International Business Student to Export Coordinator | habit_count: 2 | task_count: 9 | Extra: 14-week international trade certification; international business undergraduate transitioning through export documentation, shipping coordination, customs compliance, market research, client relations, and export coordination careers.
+
+Goal: Advertising Student to Media Planner | habit_count: 2 | task_count: 12 | Extra: 20-week media planning specialization; advertising major progressing through audience research, media buying, campaign optimization, budget allocation, performance analysis, and media planning roles.
+
+Goal: Retail Management Student to E-commerce Manager | habit_count: 3 | task_count: 8 | Extra: 12-week e-commerce mastery; retail management undergraduate advancing through online store management, inventory optimization, customer service, digital marketing, analytics tracking, and e-commerce management careers.
+
+Goal: Construction Management Student to Project Estimator | habit_count: 2 | task_count: 11 | Extra: 18-week construction estimating; construction management major transitioning through cost calculation, material sourcing, labor estimation, bid preparation, project analysis, and construction estimating roles.
+
+Goal: Logistics Student to Transportation Coordinator | habit_count: 2 | task_count: 9 | Extra: 14-week transportation management; logistics undergraduate progressing through route optimization, carrier selection, cost analysis, tracking systems, customer service, and transportation coordination careers.
+
+Goal: Finance Student to Investment Advisor | habit_count: 3 | task_count: 10 | Extra: 16-week investment advisory training; finance major advancing through portfolio management, client consultation, risk assessment, financial planning, regulatory compliance, and investment advisory roles.
+
+Goal: Marketing Student to Brand Strategist | habit_count: 2 | task_count: 8 | Extra: 12-week brand strategy development; marketing undergraduate transitioning through market positioning, competitive analysis, consumer insights, brand messaging, campaign planning, and brand strategy careers.
+
+Goal: Computer Information Systems Student to Database Administrator | habit_count: 3 | task_count: 11 | Extra: 18-week database management specialization; CIS major progressing through database design, performance optimization, backup procedures, security implementation, troubleshooting, and database administration roles.
+
+Goal: Economics Student to Economic Research Assistant | habit_count: 2 | task_count: 9 | Extra: 14-week economic research training; economics undergraduate advancing through data collection, statistical analysis, report writing, literature review, presentation skills, and economic research careers.
+
+Goal: Business Student to Management Trainee | habit_count: 2 | task_count: 8 | Extra: 12-week leadership development program; business major transitioning through team leadership, operational knowledge, strategic thinking, communication skills, performance management, and management trainee positions.
+
+Goal: Communications Student to Public Information Officer | habit_count: 3 | task_count: 10 | Extra: 16-week public communication training; communications undergraduate progressing through media relations, press release writing, crisis communication, community outreach, information dissemination, and public information roles.
+
+Goal: Information Technology Student to Network Administrator | habit_count: 2 | task_count: 12 | Extra: 20-week network management certification; IT major advancing through network configuration, security protocols, troubleshooting procedures, system monitoring, documentation standards, and network administration careers.
+
+Goal: Accounting Student to Forensic Accountant | habit_count: 3 | task_count: 9 | Extra: 14-week forensic accounting specialization; accounting undergraduate transitioning through fraud detection, financial investigation, legal procedures, evidence collection, report preparation, and forensic accounting roles.
+
+Goal: Management Student to Operations Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week operations analysis training; management major progressing through process evaluation, efficiency measurement, data analysis, improvement recommendations, implementation support, and operations analyst careers.
+
+Goal: Psychology Student to Employee Development Specialist | habit_count: 2 | task_count: 11 | Extra: 18-week talent development certification; psychology undergraduate advancing through training design, performance coaching, career planning, skill assessment, program evaluation, and employee development roles.
+
+Goal: Sociology Student to Social Media Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week social analytics specialization; sociology major transitioning through audience analysis, engagement metrics, trend identification, sentiment analysis, reporting systems, and social media analyst careers.
+
+Goal: Statistics Student to Quality Assurance Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week quality assurance training; statistics undergraduate progressing through testing procedures, defect tracking, process improvement, documentation standards, team collaboration, and QA analyst roles.
+
+Goal: English Student to Grant Writer | habit_count: 2 | task_count: 8 | Extra: 12-week grant writing certification; English major advancing through proposal development, research skills, budget preparation, narrative writing, submission processes, and grant writing careers.
+
+Goal: Art Student to Creative Director | habit_count: 3 | task_count: 12 | Extra: 20-week creative leadership development; art undergraduate transitioning through team management, creative strategy, project oversight, client relations, portfolio development, and creative director positions.
+
+Goal: Philosophy Student to Organizational Development Consultant | habit_count: 2 | task_count: 11 | Extra: 18-week OD consulting training; philosophy major progressing through change management, culture assessment, intervention design, facilitation skills, evaluation methods, and organizational development roles.
+
+Goal: History Student to Content Strategist | habit_count: 2 | task_count: 9 | Extra: 14-week content strategy mastery; history undergraduate advancing through editorial planning, audience research, content optimization, performance tracking, team coordination, and content strategy careers.
+
+Goal: Political Science Student to Campaign Manager | habit_count: 3 | task_count: 8 | Extra: 12-week political campaign training; political science major transitioning through voter outreach, fundraising strategies, volunteer coordination, message development, event planning, and campaign management roles.
+
+Goal: International Relations Student to Business Development Representative | habit_count: 2 | task_count: 10 | Extra: 16-week business development training; IR undergraduate progressing through lead generation, client prospecting, relationship building, proposal development, negotiation skills, and business development careers.
+
+Goal: Journalism Student to Communications Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week corporate communications; journalism major advancing through internal communications, external messaging, media coordination, content creation, stakeholder engagement, and communications coordination roles.
+
+Goal: Anthropology Student to Customer Success Manager | habit_count: 3 | task_count: 11 | Extra: 18-week customer success specialization; anthropology undergraduate transitioning through client onboarding, relationship management, retention strategies, problem resolution, account growth, and customer success careers.
+
+Goal: Criminal Justice Student to Risk Management Specialist | habit_count: 2 | task_count: 9 | Extra: 14-week risk assessment training; criminal justice major progressing through threat analysis, security protocols, compliance monitoring, incident response, policy development, and risk management roles.
+
+Goal: Education Student to Learning and Development Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week corporate training certification; education undergraduate advancing through program design, delivery methods, assessment creation, technology integration, performance tracking, and L&D coordination careers.
+
+Goal: Foreign Language Student to International Sales Representative | habit_count: 3 | task_count: 10 | Extra: 16-week international sales training; language major transitioning through cultural competency, market research, client relations, product presentation, contract negotiation, and international sales roles.
+
+Goal: Music Student to Event Marketing Coordinator | habit_count: 2 | task_count: 12 | Extra: 20-week event marketing specialization; music undergraduate progressing through audience development, promotional campaigns, partnership coordination, sponsor relations, performance tracking, and event marketing careers.
+
+Goal: Theater Student to Corporate Communications Specialist | habit_count: 2 | task_count: 9 | Extra: 14-week business communication training; theater major advancing through presentation skills, stakeholder engagement, message development, internal communications, crisis communication, and corporate communications roles.
+
+Goal: Religious Studies Student for Diversity and Inclusion Coordinator | habit_count: 3 | task_count: 8 | Extra: 12-week D&I specialization; religious studies undergraduate transitioning through cultural competency, program development, training facilitation, policy creation, community outreach, and diversity coordination roles.
+
+Goal: Geography Student to Market Research Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week market research certification; geography major progressing through demographic analysis, consumer behavior, survey design, data interpretation, trend identification, and market research careers.
+
+Goal: Pre-Law Student to Paralegal | habit_count: 2 | task_count: 10 | Extra: 16-week paralegal certification; pre-law undergraduate advancing through legal research, document preparation, case management, client interaction, court procedures, and paralegal careers.
+
+Goal: Environmental Studies Student to Corporate Social Responsibility Manager | habit_count: 3 | task_count: 9 | Extra: 14-week CSR specialization; environmental studies major transitioning through sustainability reporting, stakeholder engagement, program development, impact measurement, partnership coordination, and CSR management roles.
+
+Goal: Public Health Student to Program Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week program management certification; public health undergraduate progressing through project planning, stakeholder coordination, budget management, outcome tracking, community engagement, and program coordination careers.
+
+Goal: Engineering Student to Sales Engineer | habit_count: 2 | task_count: 12 | Extra: 20-week technical sales specialization; engineering major advancing through product expertise, client consultation, solution design, proposal development, relationship management, and sales engineering roles.
+
+Goal: Architecture Student to Space Planner | habit_count: 3 | task_count: 11 | Extra: 18-week space planning certification; architecture undergraduate transitioning through occupancy analysis, workflow optimization, furniture specification, cost estimation, project coordination, and space planning careers.
+
+Goal: Chemistry Student to Product Manager | habit_count: 2 | task_count: 9 | Extra: 14-week product management training; chemistry major progressing through market analysis, product development, launch strategies, performance tracking, cross-functional collaboration, and product management roles.
+
+Goal: Physics Student to Technical Consultant | habit_count: 2 | task_count: 8 | Extra: 12-week consulting skills development; physics undergraduate advancing through problem-solving methodologies, client engagement, solution presentation, project management, industry expertise, and technical consulting careers.
+
+Goal: Biology Student to Medical Writer | habit_count: 3 | task_count: 10 | Extra: 16-week medical writing specialization; biology major transitioning through scientific writing, regulatory documents, clinical trial protocols, publication development, client relations, and medical writing roles.
+
+Goal: Social Work Student to Community Outreach Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week community engagement training; social work undergraduate progressing through program development, volunteer coordination, partnership building, event planning, impact assessment, and outreach coordination careers.
+
+Goal: Nursing Student to Healthcare Administrator | habit_count: 2 | task_count: 11 | Extra: 18-week healthcare management certification; nursing major advancing through operations management, staff coordination, budget planning, quality improvement, regulatory compliance, and healthcare administration roles.
+
+Goal: Hospitality Student to Customer Experience Manager | habit_count: 3 | task_count: 9 | Extra: 14-week customer experience specialization; hospitality undergraduate transitioning through service design, feedback analysis, staff training, process improvement, performance metrics, and customer experience management careers.
+
+Goal: Fashion Student to Retail Buyer | habit_count: 2 | task_count: 12 | Extra: 20-week retail buying training; fashion major progressing through trend analysis, vendor relations, inventory planning, pricing strategies, sales forecasting, and retail buying careers.
+
+Goal: Film Student to Digital Content Manager | habit_count: 2 | task_count: 10 | Extra: 16-week content management specialization; film undergraduate advancing through content strategy, production coordination, platform management, audience engagement, performance analysis, and digital content management roles.
+
+Goal: Sports Management Student to Sponsorship Coordinator | habit_count: 3 | task_count: 8 | Extra: 12-week sponsorship development; sports management major transitioning through partner identification, proposal development, contract negotiation, activation planning, relationship management, and sponsorship coordination careers.
+
+Goal: Culinary Arts Student to Restaurant Manager | habit_count: 2 | task_count: 9 | Extra: 14-week restaurant management training; culinary student progressing through operations oversight, staff management, cost control, customer service, inventory management, and restaurant management roles.
+
+Goal: Textile Design Student to Fashion Merchandiser | habit_count: 2 | task_count: 11 | Extra: 18-week fashion merchandising specialization; textile design major advancing through trend forecasting, buying decisions, inventory management, visual merchandising, sales analysis, and fashion merchandising careers.
+
+Goal: Interior Design Student to Facilities Manager | habit_count: 3 | task_count: 8 | Extra: 12-week facilities management certification; interior design undergraduate transitioning through space utilization, maintenance coordination, vendor management, budget planning, safety compliance, and facilities management roles.
+
+Goal: Urban Planning Student to Economic Development Specialist | habit_count: 2 | task_count: 10 | Extra: 16-week economic development training; urban planning major progressing through business attraction, grant writing, project coordination, stakeholder engagement, impact analysis, and economic development careers.
+
+Goal: Kinesiology Student to Wellness Program Manager | habit_count: 2 | task_count: 12 | Extra: 20-week wellness program specialization; kinesiology undergraduate advancing through program design, health assessments, employee engagement, vendor coordination, outcome measurement, and wellness management roles.
+
+Goal: Nutrition Student to Food Service Manager | habit_count: 3 | task_count: 9 | Extra: 14-week food service management; nutrition major transitioning through menu planning, cost control, staff training, food safety, inventory management, and food service management careers.
+
+Goal: Recreation Student to Program Director | habit_count: 2 | task_count: 8 | Extra: 12-week recreation program management; recreation undergraduate progressing through activity planning, staff supervision, budget management, participant engagement, safety protocols, and program director roles.
+
+Goal: Supply Chain Student to Vendor Relations Manager | habit_count: 2 | task_count: 11 | Extra: 18-week supplier relationship management; supply chain major advancing through contract negotiation, performance monitoring, relationship building, cost optimization, risk management, and vendor relations careers.
+
+Goal: Real Estate Student to Commercial Leasing Agent | habit_count: 3 | task_count: 10 | Extra: 16-week commercial real estate training; real estate undergraduate transitioning through market analysis, property marketing, client prospecting, lease negotiation, relationship management, and commercial leasing careers.
+
+Goal: Game Design Student to Product Marketing Manager | habit_count: 2 | task_count: 9 | Extra: 14-week product marketing specialization; game design major progressing through market research, positioning strategies, launch planning, campaign development, performance tracking, and product marketing roles.
+
+Goal: Graphic Design Student to User Interface Designer | habit_count: 2 | task_count: 8 | Extra: 12-week UI design certification; graphic design undergraduate advancing through interface design, user experience, prototype development, design systems, usability testing, and UI design careers.
+
+Goal: Web Design Student to Digital Project Manager | habit_count: 3 | task_count: 12 | Extra: 20-week digital project management; web design major transitioning through project planning, team coordination, client communication, timeline management, quality assurance, and digital project management roles.
+
+Goal: Digital Media Student to Brand Content Manager | habit_count: 2 | task_count: 11 | Extra: 18-week brand content specialization; digital media undergraduate progressing through content strategy, brand guidelines, creative development, campaign management, performance analysis, and brand content management careers.
+
+Goal: Event Planning Student to Conference Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week conference management training; event planning major advancing through venue selection, speaker coordination, registration management, logistics planning, attendee experience, and conference coordination roles.
+
+Goal: Public Relations Student to Internal Communications Manager | habit_count: 3 | task_count: 9 | Extra: 14-week internal communications specialization; PR undergraduate transitioning through employee engagement, message development, channel management, feedback collection, culture building, and internal communications

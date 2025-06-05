@@ -1,0 +1,215 @@
+Goal: Software Engineering Internship Preparation | habit_count: 3 | task_count: 10 | Extra: 12-week career readiness; CS junior preparing for competitive internships through algorithm mastery, system design fundamentals, behavioral interview practice, resume optimization, portfolio development, GitHub showcase, technical communication, coding interview preparation, networking strategies, and application timeline management.
+
+Goal: Data Science Career Transition | habit_count: 2 | task_count: 9 | Extra: 14-week field transition; statistics major pivoting to data science through Python programming, statistical modeling, machine learning algorithms, data visualization, SQL proficiency, business analytics, portfolio projects, industry networking, and certification pursuit.
+
+Goal: Cybersecurity Analyst Certification Path | habit_count: 3 | task_count: 11 | Extra: 16-week security specialization; IT student pursuing cybersecurity career through CompTIA Security+, ethical hacking fundamentals, network security protocols, incident response procedures, vulnerability assessment, security frameworks, hands-on lab practice, industry mentorship, and job market preparation.
+
+Goal: Full-Stack Developer Bootcamp Preparation | habit_count: 2 | task_count: 8 | Extra: 10-week intensive prep; computer science sophomore preparing for coding bootcamp through JavaScript mastery, React fundamentals, Node.js basics, database concepts, version control proficiency, project planning, learning strategies, and bootcamp selection research.
+
+Goal: Cloud Solutions Architect Pathway | habit_count: 3 | task_count: 12 | Extra: 18-week cloud expertise; IT senior pursuing cloud architecture through AWS certification study, multi-cloud understanding, infrastructure design, cost optimization strategies, security implementation, migration planning, case study analysis, professional networking, hands-on projects, enterprise solutions, industry trends, and career positioning.
+
+Goal: Machine Learning Engineer Roadmap | habit_count: 2 | task_count: 9 | Extra: 14-week ML specialization; CS student transitioning to ML engineering through mathematical foundations, algorithm implementation, model deployment, MLOps practices, production systems, performance optimization, industry applications, research paper analysis, and practical project development.
+
+Goal: DevOps Engineer Career Development | habit_count: 3 | task_count: 10 | Extra: 16-week automation expertise; software engineering student pursuing DevOps through containerization mastery, CI/CD pipeline design, infrastructure as code, monitoring implementation, collaboration tools, agile methodologies, cloud platforms, security integration, performance optimization, and team leadership skills.
+
+Goal: Product Management Entry Strategy | habit_count: 2 | task_count: 8 | Extra: 12-week product focus; business student transitioning to tech product management through market research, user experience design, agile methodologies, stakeholder communication, data-driven decisions, competitive analysis, product roadmapping, and industry networking.
+
+Goal: UX/UI Designer Portfolio Development | habit_count: 2 | task_count: 9 | Extra: 14-week design mastery; design student building UX career through user research methodologies, prototyping tools, design systems creation, accessibility standards, portfolio curation, client communication, industry trends, networking events, and freelance experience.
+
+Goal: Backend Systems Architect Training | habit_count: 3 | task_count: 11 | Extra: 16-week architecture focus; CS senior developing backend expertise through distributed systems design, database architecture, API design patterns, scalability planning, performance optimization, security implementation, code review practices, technical leadership, system monitoring, documentation standards, and team collaboration.
+
+Goal: Frontend Framework Specialization | habit_count: 2 | task_count: 8 | Extra: 10-week framework mastery; web development student specializing in modern frontend through React ecosystem, state management, testing strategies, performance optimization, accessibility compliance, responsive design, build tools, deployment automation.
+
+Goal: Database Administrator Career Path | habit_count: 3 | task_count: 10 | Extra: 14-week database expertise; information systems student pursuing DBA role through advanced SQL, database optimization, backup strategies, security implementation, performance tuning, disaster recovery, compliance frameworks, vendor certification, industry networking, and operational excellence.
+
+Goal: Technical Writing Specialization | habit_count: 2 | task_count: 7 | Extra: 10-week communication focus; CS student developing technical writing skills through API documentation, user guides, tutorial creation, style guide mastery, content management, collaboration workflows, industry standards, and portfolio development.
+
+Goal: Quality Assurance Engineer Development | habit_count: 2 | task_count: 9 | Extra: 12-week QA specialization; computer science student transitioning to QA through test automation, manual testing strategies, bug tracking systems, performance testing, security testing, agile testing, tool mastery, documentation skills, and career progression planning.
+
+Goal: Mobile Development Specialization | habit_count: 3 | task_count: 10 | Extra: 14-week mobile expertise; software engineering student focusing on mobile through cross-platform development, native programming, app store optimization, user experience design, performance optimization, testing frameworks, deployment automation, market analysis, monetization strategies, and portfolio building.
+
+Goal: Network Engineer Certification Journey | habit_count: 3 | task_count: 11 | Extra: 16-week networking mastery; IT student pursuing network engineering through Cisco certification, network protocols, security implementation, troubleshooting methodologies, infrastructure design, monitoring tools, documentation standards, vendor relations, industry networking, professional development, and career advancement.
+
+Goal: Artificial Intelligence Research Preparation | habit_count: 2 | task_count: 9 | Extra: 14-week research readiness; CS student preparing for AI research through mathematical foundations, research paper analysis, experimental design, publication writing, conference participation, academic networking, thesis preparation, advisor relationships, and graduate school preparation.
+
+Goal: Blockchain Developer Specialization | habit_count: 3 | task_count: 10 | Extra: 16-week blockchain focus; computer science student specializing in blockchain through smart contract development, DApp creation, consensus mechanisms, security protocols, tokenomics understanding, community engagement, project contribution, portfolio development, industry networking, and emerging technology tracking.
+
+Goal: Systems Administrator Career Development | habit_count: 3 | task_count: 11 | Extra: 18-week systems mastery; IT student pursuing system administration through server management, automation scripting, monitoring implementation, security hardening, backup procedures, disaster recovery, user support, documentation creation, vendor management, budget planning, and team leadership.
+
+Goal: Software Test Engineer Pathway | habit_count: 2 | task_count: 8 | Extra: 12-week testing expertise; CS student focusing on software testing through automation frameworks, test case design, continuous integration, performance testing, security validation, defect management, tool evaluation, process improvement.
+
+Goal: IT Project Manager Development | habit_count: 2 | task_count: 9 | Extra: 14-week management focus; information systems student transitioning to project management through PMP certification study, agile methodologies, stakeholder management, risk assessment, budget planning, team leadership, communication skills, vendor management, and success metrics.
+
+Goal: Data Engineer Pipeline Specialization | habit_count: 3 | task_count: 10 | Extra: 16-week data engineering; CS student specializing in data pipelines through ETL processes, stream processing, data warehousing, cloud platforms, automation tools, data quality, monitoring systems, scalability design, performance optimization, and business intelligence integration.
+
+Goal: Information Security Analyst Training | habit_count: 3 | task_count: 11 | Extra: 18-week security analysis; cybersecurity student developing analyst skills through threat intelligence, security monitoring, incident response, forensic analysis, compliance auditing, risk assessment, security tools, vendor evaluation, policy development, team coordination, and continuous learning.
+
+Goal: Enterprise Software Consultant Preparation | habit_count: 2 | task_count: 8 | Extra: 12-week consulting readiness; business information systems student preparing for consulting through enterprise software understanding, client communication, solution design, implementation planning, training delivery, change management, relationship building, and industry expertise.
+
+Goal: Research and Development Engineer Path | habit_count: 2 | task_count: 9 | Extra: 14-week R&D focus; engineering student pursuing research through innovation methodologies, patent research, prototype development, experimental design, technical documentation, collaboration skills, funding acquisition, intellectual property, and commercialization strategies.
+
+Goal: Cloud Security Specialist Development | habit_count: 3 | task_count: 10 | Extra: 16-week cloud security; cybersecurity student specializing in cloud security through platform security, identity management, compliance frameworks, threat modeling, security automation, incident response, audit procedures, policy development, vendor assessment, and certification pursuit.
+
+Goal: Technical Product Manager Transition | habit_count: 2 | task_count: 8 | Extra: 12-week product transition; CS student moving to technical product management through market analysis, technical requirements, user story creation, roadmap planning, stakeholder communication, data analysis, competitive research, and cross-functional collaboration.
+
+Goal: Solutions Engineer Career Preparation | habit_count: 2 | task_count: 9 | Extra: 14-week solutions focus; computer engineering student preparing for solutions engineering through technical sales, customer engagement, solution design, proof of concept, presentation skills, industry knowledge, relationship building, problem solving, and revenue generation.
+
+Goal: Site Reliability Engineer Development | habit_count: 3 | task_count: 11 | Extra: 16-week SRE specialization; software engineering student pursuing SRE through monitoring systems, incident management, automation development, performance optimization, capacity planning, disaster recovery, service level objectives, on-call procedures, postmortem analysis, reliability engineering, and operational excellence.
+
+Goal: Business Intelligence Analyst Path | habit_count: 2 | task_count: 8 | Extra: 12-week BI specialization; data science student focusing on business intelligence through dashboard creation, data modeling, reporting automation, stakeholder communication, business process understanding, SQL mastery, visualization tools, and strategic analysis.
+
+Goal: Platform Engineer Specialization | habit_count: 3 | task_count: 10 | Extra: 14-week platform focus; CS student specializing in platform engineering through infrastructure automation, developer experience, tooling development, service mesh, container orchestration, monitoring systems, security integration, scalability design, cost optimization, and team enablement.
+
+Goal: Application Security Engineer Training | habit_count: 3 | task_count: 11 | Extra: 18-week application security; cybersecurity student focusing on application security through secure coding practices, vulnerability assessment, penetration testing, security testing automation, threat modeling, code review, security architecture, compliance validation, incident response, training delivery, and industry certification.
+
+Goal: Technical Architect Career Development | habit_count: 3 | task_count: 12 | Extra: 20-week architecture mastery; senior CS student pursuing technical architecture through system design, technology evaluation, architectural patterns, scalability planning, security design, performance optimization, documentation standards, stakeholder communication, team mentoring, industry trends, strategic planning, and leadership development.
+
+Goal: Integration Engineer Specialization | habit_count: 2 | task_count: 9 | Extra: 14-week integration focus; information systems student specializing in system integration through API design, middleware technologies, data transformation, workflow automation, error handling, monitoring implementation, documentation creation, testing strategies, and vendor coordination.
+
+Goal: Automation Engineer Development | habit_count: 3 | task_count: 10 | Extra: 16-week automation expertise; IT student pursuing automation engineering through scripting languages, process automation, testing automation, infrastructure automation, monitoring automation, tool development, workflow optimization, maintenance procedures, cost analysis, and efficiency metrics.
+
+Goal: Customer Success Engineer Path | habit_count: 2 | task_count: 8 | Extra: 12-week customer focus; computer science student transitioning to customer success through technical support, customer onboarding, relationship management, product training, issue resolution, feedback collection, account growth, and retention strategies.
+
+Goal: Performance Engineer Specialization | habit_count: 3 | task_count: 9 | Extra: 14-week performance focus; software engineering student specializing in performance through load testing, bottleneck analysis, optimization strategies, monitoring implementation, capacity planning, scalability testing, reporting mechanisms, troubleshooting techniques, and system tuning.
+
+Goal: Compliance Officer Tech Focus | habit_count: 2 | task_count: 8 | Extra: 12-week compliance specialization; information systems student focusing on tech compliance through regulatory frameworks, audit procedures, policy development, risk assessment, documentation standards, training programs, vendor management, and continuous monitoring.
+
+Goal: Infrastructure Engineer Development | habit_count: 3 | task_count: 11 | Extra: 16-week infrastructure mastery; computer engineering student pursuing infrastructure engineering through server management, network design, virtualization, cloud migration, automation scripting, monitoring systems, disaster recovery, security implementation, capacity planning, vendor relations, and operational procedures.
+
+Goal: Release Engineer Specialization | habit_count: 2 | task_count: 9 | Extra: 14-week release management; software engineering student focusing on release engineering through deployment automation, version control, build systems, testing integration, rollback procedures, environment management, documentation creation, team coordination, and process improvement.
+
+Goal: Security Consultant Career Path | habit_count: 3 | task_count: 10 | Extra: 16-week consulting preparation; cybersecurity student preparing for security consulting through assessment methodologies, client communication, report writing, solution design, implementation planning, training delivery, industry expertise, business development, and professional networking.
+
+Goal: Field Application Engineer Development | habit_count: 2 | task_count: 8 | Extra: 12-week field engineering; electrical engineering student transitioning to field applications through technical sales support, customer training, product demonstration, troubleshooting assistance, feedback collection, relationship building, travel coordination, and market intelligence.
+
+Goal: Developer Relations Engineer Path | habit_count: 2 | task_count: 9 | Extra: 14-week developer advocacy; CS student pursuing developer relations through community building, content creation, technical evangelism, event speaking, developer feedback, product advocacy, documentation improvement, ecosystem development, and relationship management.
+
+Goal: Systems Integration Analyst Training | habit_count: 3 | task_count: 10 | Extra: 16-week integration analysis; information systems student focusing on systems integration through requirements analysis, solution design, vendor evaluation, testing coordination, implementation planning, user training, change management, project management, documentation creation, and post-implementation support.
+
+Goal: Technical Support Engineer Development | habit_count: 2 | task_count: 8 | Extra: 12-week support specialization; IT student pursuing technical support through troubleshooting methodologies, customer communication, escalation procedures, knowledge base development, tool mastery, problem resolution, documentation creation, and team collaboration.
+
+Goal: Build and Release Engineer Path | habit_count: 3 | task_count: 9 | Extra: 14-week build engineering; software engineering student specializing in build systems through automation scripting, pipeline design, version management, dependency resolution, testing integration, deployment coordination, environment configuration, monitoring implementation, and process optimization.
+
+Goal: Configuration Management Engineer | habit_count: 3 | task_count: 10 | Extra: 16-week configuration focus; CS student specializing in configuration management through infrastructure as code, version control, environment consistency, deployment automation, change tracking, compliance monitoring, documentation standards, tool evaluation, process improvement, and team training.
+
+Goal: Software Quality Engineer Development | habit_count: 2 | task_count: 9 | Extra: 14-week quality assurance; computer science student pursuing quality engineering through quality metrics, process improvement, testing strategies, defect prevention, root cause analysis, team training, tool evaluation, standard compliance, and continuous improvement.
+
+Goal: Technical Writer Career Transition | habit_count: 2 | task_count: 7 | Extra: 10-week writing specialization; English major transitioning to technical writing through software documentation, API guides, user manuals, tutorial creation, content management, collaboration tools, industry standards, and portfolio development.
+
+Goal: Implementation Consultant Preparation | habit_count: 2 | task_count: 8 | Extra: 12-week consulting readiness; business systems student preparing for implementation consulting through software configuration, client training, change management, project planning, stakeholder communication, process mapping, solution customization, and go-live support.
+
+Goal: Presales Engineer Development | habit_count: 2 | task_count: 9 | Extra: 14-week presales focus; computer engineering student pursuing presales engineering through technical presentations, solution design, proof of concept, customer engagement, competitive analysis, proposal development, sales support, relationship building, and revenue contribution.
+
+Goal: Verification Engineer Specialization | habit_count: 3 | task_count: 10 | Extra: 16-week verification focus; electrical engineering student specializing in verification through test planning, testbench development, coverage analysis, debugging techniques, protocol verification, simulation tools, methodology development, documentation standards, team collaboration, and quality assurance.
+
+Goal: Network Security Engineer Path | habit_count: 3 | task_count: 11 | Extra: 18-week network security; cybersecurity student pursuing network security through firewall management, intrusion detection, VPN implementation, network monitoring, incident response, security policies, threat analysis, compliance auditing, vendor coordination, training delivery, and continuous monitoring.
+
+Goal: Systems Engineer Career Development | habit_count: 3 | task_count: 10 | Extra: 16-week systems engineering; computer engineering student pursuing systems engineering through requirements analysis, system architecture, integration planning, testing coordination, documentation development, stakeholder communication, project management, risk assessment, quality assurance, and lifecycle management.
+
+Goal: Cloud DevOps Engineer Training | habit_count: 3 | task_count: 11 | Extra: 18-week cloud DevOps; IT student specializing in cloud DevOps through containerization, orchestration, monitoring, automation, security integration, cost optimization, multi-cloud strategies, disaster recovery, performance tuning, team collaboration, and continuous improvement.
+
+Goal: Software Architect Career Preparation | habit_count: 3 | task_count: 12 | Extra: 20-week architecture preparation; senior software engineering student pursuing software architecture through design patterns, architectural styles, technology evaluation, scalability planning, security architecture, performance design, documentation standards, team leadership, stakeholder communication, strategic planning, innovation driving, and mentorship skills.
+
+Goal: Technical Account Manager Path | habit_count: 2 | task_count: 8 | Extra: 12-week account management; computer science student transitioning to technical account management through customer relationship building, technical consultation, account growth, issue resolution, product advocacy, cross-functional collaboration, business development, and retention strategies.
+
+Goal: Deployment Engineer Specialization | habit_count: 2 | task_count: 9 | Extra: 14-week deployment focus; software engineering student specializing in deployment through automated deployment, environment management, rollback procedures, monitoring integration, configuration management, testing coordination, documentation creation, team training, and process optimization.
+
+Goal: Security Operations Analyst Development | habit_count: 3 | task_count: 10 | Extra: 16-week security operations; cybersecurity student pursuing SOC analyst role through threat detection, incident analysis, security monitoring, alert triage, threat hunting, forensic analysis, report generation, tool management, procedure development, and team coordination.
+
+Goal: Platform Product Manager Training | habit_count: 2 | task_count: 8 | Extra: 12-week platform management; CS student with business minor pursuing platform product management through developer experience, API strategy, platform adoption, ecosystem development, partner relations, technical roadmapping, metrics analysis, and stakeholder communication.
+
+Goal: Reliability Engineer Career Path | habit_count: 3 | task_count: 9 | Extra: 14-week reliability focus; systems engineering student pursuing reliability engineering through failure analysis, preventive maintenance, monitoring systems, performance optimization, capacity planning, incident management, documentation standards, team training, and continuous improvement.
+
+Goal: Technical Marketing Engineer Development | habit_count: 2 | task_count: 8 | Extra: 12-week technical marketing; computer engineering student pursuing technical marketing through product positioning, competitive analysis, content creation, demo development, customer engagement, sales enablement, market research, and campaign development.
+
+Goal: Integration Architect Specialization | habit_count: 3 | task_count: 11 | Extra: 16-week integration architecture; information systems student specializing in integration architecture through enterprise architecture, API strategy, data flow design, security integration, performance optimization, vendor evaluation, documentation standards, team leadership, project coordination, stakeholder communication, and strategic planning.
+
+Goal: Test Automation Engineer Path | habit_count: 2 | task_count: 9 | Extra: 14-week test automation; software engineering student focusing on test automation through framework development, script creation, continuous integration, test data management, reporting systems, maintenance procedures, tool evaluation, team training, and process improvement.
+
+Goal: Business Systems Analyst Development | habit_count: 2 | task_count: 8 | Extra: 12-week business analysis; information systems student pursuing business analysis through requirements gathering, process mapping, stakeholder communication, solution design, gap analysis, documentation creation, change management, and user acceptance testing.
+
+Goal: Cloud Migration Specialist Training | habit_count: 3 | task_count: 10 | Extra: 16-week migration specialization; IT student focusing on cloud migration through assessment methodologies, migration planning, application modernization, data transfer, security implementation, performance optimization, cost analysis, team training, documentation creation, and post-migration support.
+
+Goal: DevSecOps Engineer Development | habit_count: 3 | task_count: 11 | Extra: 18-week DevSecOps focus; cybersecurity student pursuing DevSecOps through security automation, secure coding practices, vulnerability scanning, compliance integration, security testing, incident response, policy enforcement, team training, tool evaluation, process improvement, and security culture.
+
+Goal: Technical Program Manager Path | habit_count: 2 | task_count: 9 | Extra: 14-week program management; CS student with MBA pursuing technical program management through cross-functional coordination, strategic planning, stakeholder communication, risk management, delivery optimization, resource allocation, process improvement, team leadership, and organizational impact.
+
+Goal: Database Reliability Engineer Specialization | habit_count: 3 | task_count: 10 | Extra: 16-week database reliability; computer science student specializing in database reliability through performance optimization, backup strategies, disaster recovery, monitoring implementation, capacity planning, security hardening, automation development, troubleshooting procedures, documentation creation, and team collaboration.
+
+Goal: Software Development Engineer in Test | habit_count: 2 | task_count: 9 | Extra: 14-week SDET focus; software engineering student pursuing SDET role through test framework development, automation scripting, quality metrics, continuous testing, performance validation, security testing, tool development, team collaboration, and process optimization.
+
+Goal: Identity and Access Management Engineer | habit_count: 3 | task_count: 10 | Extra: 16-week IAM specialization; cybersecurity student focusing on identity management through authentication systems, authorization frameworks, directory services, single sign-on, privilege management, compliance auditing, security policies, user provisioning, monitoring systems, and incident response.
+
+Goal: Embedded Software Engineer Development | habit_count: 3 | task_count: 11 | Extra: 18-week embedded focus; computer engineering student pursuing embedded software through real-time systems, hardware interfaces, low-level programming, debugging techniques, testing procedures, documentation standards, power optimization, safety compliance, regulatory requirements, team collaboration, and product lifecycle.
+
+Goal: API Product Manager Training | habit_count: 2 | task_count: 8 | Extra: 12-week API management; CS student transitioning to API product management through developer experience, API strategy, documentation standards, adoption metrics, partner relations, pricing models, technical roadmapping, and ecosystem development.
+
+Goal: Compliance Engineer Specialization | habit_count: 2 | task_count: 9 | Extra: 14-week compliance focus; information systems student specializing in compliance engineering through regulatory frameworks, audit procedures, control implementation, risk assessment, documentation standards, testing protocols, remediation planning, training programs, and continuous monitoring.
+
+Goal: Cloud Cost Optimization Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week cost optimization; IT student focusing on cloud cost management through usage analysis, right-sizing strategies, reserved instance planning, automation implementation, monitoring setup, reporting systems, vendor negotiation, and optimization recommendations.
+
+Goal: Technical Recruiter Development | habit_count: 2 | task_count: 7 | Extra: 10-week technical recruiting; human resources student specializing in tech recruiting through technical screening, candidate assessment, market research, sourcing strategies, interview coordination, offer negotiation, relationship building, and talent pipeline development.
+
+Goal: Incident Response Engineer Path | habit_count: 3 | task_count: 10 | Extra: 16-week incident response; cybersecurity student pursuing incident response through threat analysis, forensic investigation, containment procedures, recovery planning, communication protocols, documentation standards, tool utilization, team coordination, lessons learned, and process improvement.
+
+Goal: Application Performance Engineer | habit_count: 3 | task_count: 9 | Extra: 14-week performance engineering; software engineering student specializing in application performance through profiling techniques, bottleneck identification, optimization strategies, monitoring implementation, load testing, capacity planning, troubleshooting procedures, reporting systems, and performance culture.
+
+Goal: Technical Documentation Specialist | habit_count: 2 | task_count: 7 | Extra: 10-week documentation focus; technical communication student specializing in software documentation through API documentation, user guides, tutorial creation, video content, knowledge management, collaboration workflows, content strategy, and user experience.
+
+Goal: Disaster Recovery Specialist Training | habit_count: 3 | task_count: 10 | Extra: 16-week disaster recovery; IT student focusing on disaster recovery through business continuity planning, backup strategies, recovery procedures, testing protocols, risk assessment, vendor coordination, documentation standards, team training, communication plans, and compliance requirements.
+
+Goal: Technical Sales Engineer Development | habit_count: 2 | task_count: 8 | Extra: 12-week technical sales; engineering student pursuing technical sales through product expertise, customer engagement, solution design, proposal development, competitive positioning, relationship building, sales process, and revenue generation.
+
+Goal: Software Delivery Manager Path | habit_count: 2 | task_count: 9 | Extra: 14-week delivery management; software engineering student transitioning to delivery management through agile coaching, team coordination, process optimization, stakeholder communication, risk management, quality assurance, metrics analysis, continuous improvement, and organizational impact.
+
+Goal: Enterprise Architect Career Preparation | habit_count: 3 | task_count: 12 | Extra: 20-week enterprise architecture; senior information systems student pursuing enterprise architecture through business alignment, technology strategy, architectural governance, standards development, portfolio management, vendor relations, transformation planning, stakeholder engagement, risk management, innovation leadership, strategic planning, and organizational influence.
+
+Goal: Privacy Engineer Specialization | habit_count: 3 | task_count: 10 | Extra: 16-week privacy focus; cybersecurity student specializing in privacy engineering through data protection frameworks, privacy by design, compliance implementation, risk assessment, policy development, training programs, audit procedures, breach response, stakeholder communication, and regulatory tracking.
+
+Goal: Technical Project Coordinator Development | habit_count: 2 | task_count: 8 | Extra: 12-week project coordination; information technology student pursuing project coordination through scheduling management, resource coordination, communication facilitation, documentation maintenance, status reporting, risk tracking, vendor coordination, and team support.
+
+Goal: Platform Reliability Engineer Training | habit_count: 3 | task_count: 11 | Extra: 18-week platform reliability; computer science student focusing on platform reliability through service level objectives, error budget management, monitoring systems, incident response, capacity planning, performance optimization, automation development, documentation standards, team collaboration, process improvement, and reliability culture.
+
+Goal: Technical Trainer Career Path | habit_count: 2 | task_count: 8 | Extra: 12-week training specialization; education technology student pursuing technical training through curriculum development, instructional design, delivery methods, assessment creation, learning management, student engagement, feedback collection, and continuous improvement.
+
+Goal: Solutions Architect Development | habit_count: 3 | task_count: 11 | Extra: 16-week solutions architecture; computer engineering student pursuing solutions architecture through customer requirements, technical design, proposal development, proof of concept, implementation planning, team coordination, documentation standards, client communication, competitive analysis, industry expertise, and relationship building.
+
+Goal: Quality Engineering Manager Path | habit_count: 2 | task_count: 9 | Extra: 14-week quality management; software engineering student with leadership focus pursuing quality management through team leadership, process improvement, quality metrics, strategic planning, stakeholder communication, resource management, training coordination, tool evaluation, and organizational impact.
+
+Goal: Technical Community Manager | habit_count: 2 | task_count: 8 | Extra: 12-week community focus; communications student with technical background pursuing community management through developer engagement, content creation, event coordination, feedback collection, relationship building, platform management, metrics analysis, and growth strategies.
+
+Goal: Field Engineer Career Development | habit_count: 2 | task_count: 9 | Extra: 14-week field engineering; mechanical engineering student pursuing field engineering through on-site support, customer training, troubleshooting assistance, installation guidance, maintenance procedures, documentation creation, travel coordination, relationship building, and problem resolution.
+
+Goal: Technical Operations Manager Training | habit_count: 3 | task_count: 10 | Extra: 16-week operations management; IT student pursuing operations management through team leadership, process optimization, incident management, capacity planning, vendor relations, budget management, strategic planning, performance metrics, continuous improvement, and organizational development.
+
+Goal: Research Engineer Specialization | habit_count: 2 | task_count: 9 | Extra: 14-week research focus; computer science student pursuing research engineering through literature review, experimental design, prototype development, data analysis, publication writing, collaboration skills, funding acquisition, patent research, and innovation methodologies.
+
+Goal: Security Architect Career Path | habit_count: 3 | task_count: 12 | Extra: 20-week security architecture; senior cybersecurity student pursuing security architecture through threat modeling, security design patterns, architecture review, compliance frameworks, risk assessment, security standards, team leadership, stakeholder communication, strategic planning, technology evaluation, innovation driving, and organizational influence.
+
+Goal: Technical Consultant Development | habit_count: 2 | task_count: 8 | Extra: 12-week consulting preparation; computer engineering student pursuing technical consulting through domain expertise, client communication, solution design, implementation planning, change management, project delivery, relationship building, and business development.
+
+Goal: Application Integration Specialist | habit_count: 3 | task_count: 10 | Extra: 16-week integration focus; information systems student specializing in application integration through middleware technologies, API design, data transformation, workflow automation, error handling, monitoring systems, documentation creation, testing strategies, vendor coordination, and performance optimization.
+
+Goal: Technical Lead Career Preparation | habit_count: 2 | task_count: 9 | Extra: 14-week leadership development; senior software engineering student preparing for technical leadership through team mentoring, technical decision making, code review processes, architecture guidance, project planning, stakeholder communication, skill development, conflict resolution, and career guidance.
+
+Goal: Systems Performance Analyst Training | habit_count: 3 | task_count: 10 | Extra: 16-week performance analysis; computer science student focusing on systems performance through monitoring implementation, bottleneck identification, optimization strategies, capacity planning, trend analysis, reporting systems, troubleshooting procedures, tool evaluation, process improvement, and performance culture.
+
+Goal: Database Engineer Specialization | habit_count: 3 | task_count: 11 | Extra: 18-week database engineering; information systems student specializing in database engineering through schema design, query optimization, replication setup, backup strategies, monitoring implementation, security hardening, performance tuning, capacity planning, disaster recovery, automation development, and documentation standards.
+
+Goal: Infrastructure Architect Development | habit_count: 3 | task_count: 12 | Extra: 20-week infrastructure architecture; computer engineering student pursuing infrastructure architecture through capacity planning, scalability design, technology evaluation, cost optimization, security architecture, disaster recovery, vendor relations, team leadership, documentation standards, strategic planning, innovation implementation, and organizational impact.
+
+Goal: Technical Business Analyst Path | habit_count: 2 | task_count: 8 | Extra: 12-week business analysis; information systems student pursuing technical business analysis through requirements elicitation, process mapping, gap analysis, solution design, stakeholder communication, documentation creation, change management, and user acceptance coordination.
+
+Goal: Cloud Native Engineer Training | habit_count: 3 | task_count: 10 | Extra: 16-week cloud native focus; software engineering student specializing in cloud native development through containerization, microservices, service mesh, observability, security implementation, CI/CD integration, scalability design, cost optimization, performance monitoring, and ecosystem mastery.
+
+Goal: Technical Product Owner Development | habit_count: 2 | task_count: 8 | Extra: 12-week product ownership; CS student with business acumen pursuing technical product ownership through backlog management, user story creation, stakeholder communication, sprint planning, acceptance criteria, market research, competitive analysis, and product strategy.
+
+Goal: Automation Architect Specialization | habit_count: 3 | task_count: 11 | Extra: 18-week automation architecture; computer science student specializing in automation architecture through process analysis, tool evaluation, framework design, integration planning, scalability considerations, maintenance strategies, team training, documentation standards, ROI analysis, continuous improvement, and strategic alignment.
+
+Goal: Technical Risk Manager Career Path | habit_count: 2 | task_count: 9 | Extra: 14-week risk management; information systems student with finance background pursuing technical risk management through risk assessment, mitigation strategies, compliance monitoring, audit coordination, policy development, incident analysis, reporting systems, stakeholder communication, and regulatory tracking.
+
+Goal: Platform Support Engineer Development | habit_count: 2 | task_count: 8 | Extra: 12-week platform support; IT student pursuing platform support engineering through troubleshooting methodologies, escalation procedures, documentation maintenance, customer communication, issue tracking, knowledge sharing, tool mastery, and process improvement.
+
+Goal: Technical Content Manager Training | habit_count: 2 | task_count: 8 | Extra: 12-week content management; communications student with technical focus pursuing content management through technical writing, content strategy, documentation systems, collaboration workflows, publishing processes, audience analysis, metrics tracking, and content optimization.
+
+Goal: Service Delivery Manager Path | habit_count: 2 | task_count: 9 | Extra: 14-week service delivery; information technology student pursuing service delivery management through service level management, customer relationship

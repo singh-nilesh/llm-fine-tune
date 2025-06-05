@@ -1,0 +1,269 @@
+Goal: Software Quality Assurance Engineer Specialization | habit_count: 2 | task_count: 9 | Extra: 12-week testing mastery; manual tester transitioning to automation through Selenium WebDriver, API testing frameworks, performance testing tools, test strategy development, bug lifecycle management, continuous integration testing, mobile testing protocols, and defect prevention methodologies.
+
+Goal: Technical Project Manager Certification | habit_count: 3 | task_count: 10 | Extra: 14-week agile leadership; software developer advancing to project management through PMP certification, Scrum Master training, stakeholder communication, resource planning, risk assessment, team leadership, budget management, and delivery optimization.
+
+Goal: Frontend Performance Optimization Specialist | habit_count: 2 | task_count: 8 | Extra: 10-week web performance; frontend developer specializing in Core Web Vitals optimization, bundle analysis, lazy loading implementation, image optimization, caching strategies, CDN configuration, and lighthouse auditing.
+
+Goal: Backend Microservices Architecture | habit_count: 3 | task_count: 11 | Extra: 16-week distributed systems; monolith developer transitioning through service decomposition, API gateway implementation, event-driven architecture, service mesh deployment, distributed tracing, circuit breaker patterns, and containerized deployment.
+
+Goal: Cloud Cost Optimization Analyst | habit_count: 2 | task_count: 8 | Extra: 10-week FinOps specialization; infrastructure engineer advancing through cloud billing analysis, resource rightsizing, reserved instance optimization, spot instance utilization, cost allocation tagging, and automated cost monitoring.
+
+Goal: Data Privacy and Compliance Officer | habit_count: 2 | task_count: 9 | Extra: 12-week privacy governance; security analyst transitioning through GDPR implementation, data classification, privacy impact assessments, consent management, breach response procedures, vendor risk assessment, and compliance auditing.
+
+Goal: API Product Manager Transition | habit_count: 2 | task_count: 8 | Extra: 10-week API strategy; backend developer moving to product management through API design principles, developer experience optimization, monetization strategies, documentation standards, versioning policies, and ecosystem development.
+
+Goal: Technical Content Marketing Specialist | habit_count: 2 | task_count: 7 | Extra: 8-week developer marketing; software engineer transitioning through technical blogging, developer community engagement, webinar presentation, case study development, SEO optimization, and content strategy planning.
+
+Goal: Site Reliability Engineering Leadership | habit_count: 3 | task_count: 10 | Extra: 14-week SRE management; operations engineer advancing through team leadership, incident command, reliability metrics, capacity planning, automation strategy, on-call optimization, post-mortem culture, and organizational resilience.
+
+Goal: Mobile App Security Specialist | habit_count: 2 | task_count: 9 | Extra: 12-week mobile security; mobile developer transitioning through OWASP Mobile Top 10, penetration testing, secure coding practices, certificate pinning, reverse engineering protection, and security audit procedures.
+
+Goal: Healthcare IT Integration Specialist | habit_count: 2 | task_count: 8 | Extra: 10-week health informatics; IT professional moving to healthcare through HL7 FHIR standards, EHR integration, HIPAA compliance, medical imaging systems, interoperability protocols, and clinical workflow optimization.
+
+Goal: Financial Trading System Developer | habit_count: 3 | task_count: 11 | Extra: 16-week quantitative development; software engineer transitioning to finance through low-latency programming, market data processing, algorithmic trading strategies, risk management systems, regulatory compliance, order management, and backtesting frameworks.
+
+Goal: Bioinformatics Data Analyst | habit_count: 2 | task_count: 9 | Extra: 12-week computational biology; data analyst moving to life sciences through genomic data analysis, protein structure prediction, phylogenetic analysis, NGS pipeline development, statistical genetics, and biological database management.
+
+Goal: Medical Device Validation Engineer | habit_count: 3 | task_count: 10 | Extra: 14-week regulatory compliance; software engineer transitioning to medical devices through FDA 21 CFR Part 820, IEC 62304 software lifecycle, risk management ISO 14971, design controls, verification protocols, and clinical evaluation.
+
+Goal: Clinical Trial Data Manager | habit_count: 2 | task_count: 8 | Extra: 10-week clinical research; healthcare professional advancing through EDC system management, CDASH standards, data cleaning procedures, query resolution, regulatory submissions, and GCP compliance.
+
+Goal: Pharmaceutical Regulatory Affairs | habit_count: 2 | task_count: 9 | Extra: 12-week drug development; life sciences professional transitioning through FDA submission processes, CMC documentation, clinical protocol review, labeling requirements, post-market surveillance, and international harmonization.
+
+Goal: Investment Banking Technology Analyst | habit_count: 2 | task_count: 8 | Extra: 10-week financial technology; finance professional moving to technology through trading platform development, risk analytics, market data integration, portfolio optimization, regulatory reporting, and quantitative modeling.
+
+Goal: Corporate Finance Automation Specialist | habit_count: 2 | task_count: 9 | Extra: 12-week finance technology; accountant transitioning through RPA implementation, financial close automation, budget planning systems, variance analysis tools, cash flow forecasting, and dashboard development.
+
+Goal: Credit Risk Modeling Analyst | habit_count: 3 | task_count: 10 | Extra: 14-week risk analytics; finance professional advancing through probability of default modeling, loss given default estimation, stress testing, regulatory capital calculation, model validation, and Basel III compliance.
+
+Goal: InsurTech Product Development | habit_count: 2 | task_count: 8 | Extra: 10-week insurance innovation; insurance professional transitioning through digital product design, actuarial modeling, claims automation, underwriting algorithms, customer portal development, and regulatory compliance.
+
+Goal: Blockchain Financial Applications | habit_count: 3 | task_count: 11 | Extra: 16-week decentralized finance; financial developer advancing through smart contract development, DeFi protocol creation, tokenomics design, cross-chain integration, security auditing, yield farming strategies, and regulatory compliance.
+
+Goal: Real Estate Technology Platform | habit_count: 2 | task_count: 8 | Extra: 10-week PropTech development; real estate professional moving to technology through property valuation algorithms, market analysis platforms, transaction management systems, CRM integration, and mobile application development.
+
+Goal: Supply Chain Analytics Manager | habit_count: 2 | task_count: 9 | Extra: 12-week logistics optimization; operations manager transitioning through demand forecasting, inventory optimization, supplier risk assessment, transportation analytics, sustainability metrics, and predictive maintenance.
+
+Goal: Digital Health Platform Developer | habit_count: 2 | task_count: 8 | Extra: 10-week health technology; healthcare professional advancing through telemedicine platforms, patient engagement apps, wearable device integration, health data analytics, and regulatory compliance.
+
+Goal: EdTech Learning Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week educational technology; educator transitioning through learning outcome measurement, adaptive learning algorithms, student engagement analytics, curriculum optimization, and accessibility compliance.
+
+Goal: Environmental Data Science | habit_count: 2 | task_count: 8 | Extra: 10-week climate analytics; environmental scientist moving to data science through climate modeling, carbon footprint analysis, sustainability reporting, renewable energy forecasting, and environmental impact assessment.
+
+Goal: Sports Performance Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week sports technology; athletics professional transitioning through player performance tracking, injury prediction modeling, game strategy optimization, fan engagement analytics, and revenue optimization.
+
+Goal: Agriculture Technology Systems | habit_count: 2 | task_count: 9 | Extra: 12-week precision agriculture; agricultural professional advancing through IoT sensor networks, crop yield prediction, soil analysis systems, weather pattern modeling, and farm management platforms.
+
+Goal: Energy Trading and Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week energy markets; energy professional transitioning through commodity trading systems, price forecasting models, grid optimization, renewable energy integration, and regulatory compliance.
+
+Goal: Transportation Optimization Engineer | habit_count: 2 | task_count: 9 | Extra: 12-week logistics technology; transportation manager advancing through route optimization algorithms, fleet management systems, demand prediction, autonomous vehicle integration, and sustainability metrics.
+
+Goal: Retail Personalization Specialist | habit_count: 2 | task_count: 8 | Extra: 10-week customer analytics; retail manager transitioning through recommendation engines, customer segmentation, pricing optimization, inventory management, and omnichannel integration.
+
+Goal: Manufacturing IoT Implementation | habit_count: 3 | task_count: 10 | Extra: 14-week Industry 4.0; manufacturing engineer advancing through sensor integration, predictive maintenance, quality control automation, supply chain connectivity, and production optimization.
+
+Goal: Legal Technology Analyst | habit_count: 2 | task_count: 7 | Extra: 8-week legal tech; legal professional moving to technology through contract automation, legal research platforms, case management systems, compliance monitoring, and document analysis.
+
+Goal: Media Streaming Technology | habit_count: 2 | task_count: 9 | Extra: 12-week content delivery; media professional transitioning through video streaming platforms, content recommendation systems, audience analytics, monetization strategies, and global distribution.
+
+Goal: Telecommunications 5G Specialist | habit_count: 3 | task_count: 10 | Extra: 14-week network evolution; network engineer advancing through 5G architecture, edge computing deployment, network slicing, IoT connectivity, security implementation, and performance optimization.
+
+Goal: Automotive Connected Systems | habit_count: 2 | task_count: 8 | Extra: 10-week vehicle technology; automotive engineer transitioning through connected car platforms, over-the-air updates, vehicle-to-everything communication, cybersecurity implementation, and data analytics.
+
+Goal: Gaming Monetization Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week game economics; game developer advancing through player lifetime value, in-app purchase optimization, retention modeling, A/B testing frameworks, and market analysis.
+
+Goal: Construction Project Technology | habit_count: 2 | task_count: 9 | Extra: 12-week construction tech; project manager transitioning through BIM implementation, progress tracking systems, safety monitoring, resource optimization, and collaboration platforms.
+
+Goal: Hospitality Revenue Optimization | habit_count: 2 | task_count: 8 | Extra: 10-week hotel technology; hospitality manager advancing through dynamic pricing algorithms, guest experience platforms, operational analytics, mobile integration, and customer relationship management.
+
+Goal: Food Safety Technology Systems | habit_count: 2 | task_count: 8 | Extra: 10-week food tech; food safety professional transitioning through traceability systems, quality monitoring, compliance automation, supply chain transparency, and risk assessment platforms.
+
+Goal: Pharmaceutical Quality Assurance | habit_count: 2 | task_count: 9 | Extra: 12-week drug quality; quality professional advancing through validation protocols, deviation management, CAPA systems, supplier qualification, and regulatory compliance.
+
+Goal: Medical Imaging AI Specialist | habit_count: 3 | task_count: 11 | Extra: 16-week medical AI; radiologist transitioning through deep learning models, image segmentation, diagnostic algorithms, PACS integration, regulatory approval, validation studies, clinical implementation, performance monitoring, and research collaboration.
+
+Goal: Telemedicine Platform Development | habit_count: 2 | task_count: 8 | Extra: 10-week telehealth; healthcare IT professional advancing through video conferencing integration, patient portal development, electronic prescribing, remote monitoring, and HIPAA compliance.
+
+Goal: Clinical Decision Support Systems | habit_count: 2 | task_count: 9 | Extra: 12-week clinical informatics; healthcare analyst transitioning through evidence-based algorithms, risk stratification, alert optimization, workflow integration, and outcome measurement.
+
+Goal: Population Health Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week public health; epidemiologist moving to analytics through disease surveillance, health outcome prediction, resource allocation optimization, intervention effectiveness, and policy impact analysis.
+
+Goal: Healthcare Revenue Cycle Management | habit_count: 2 | task_count: 9 | Extra: 12-week healthcare finance; healthcare administrator transitioning through billing automation, denial management, coding optimization, revenue forecasting, and compliance monitoring.
+
+Goal: Medical Research Data Platform | habit_count: 3 | task_count: 10 | Extra: 14-week research informatics; clinical researcher advancing through research data management, statistical analysis platforms, collaboration tools, regulatory compliance, and publication workflows.
+
+Goal: Personalized Medicine Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week precision medicine; geneticist transitioning through genomic data analysis, biomarker discovery, treatment response prediction, clinical trial matching, and therapeutic optimization.
+
+Goal: Healthcare Supply Chain Optimization | habit_count: 2 | task_count: 9 | Extra: 12-week medical logistics; supply chain manager advancing through inventory management, demand forecasting, vendor management, cost optimization, and quality assurance.
+
+Goal: Digital Therapeutics Development | habit_count: 2 | task_count: 8 | Extra: 10-week therapeutic apps; healthcare professional moving to digital health through mobile app development, clinical validation, regulatory submission, patient engagement, and outcome measurement.
+
+Goal: Healthcare Cybersecurity Specialist | habit_count: 3 | task_count: 10 | Extra: 14-week medical security; IT security professional transitioning through HIPAA compliance, medical device security, threat detection, incident response, risk assessment, and staff training.
+
+Goal: Investment Portfolio Optimization | habit_count: 2 | task_count: 9 | Extra: 12-week quantitative finance; financial advisor advancing through modern portfolio theory, risk-return optimization, factor modeling, backtesting strategies, and performance attribution.
+
+Goal: Algorithmic Trading System Design | habit_count: 3 | task_count: 11 | Extra: 16-week automated trading; trader transitioning through strategy development, backtesting frameworks, risk management, order execution, market microstructure, latency optimization, compliance monitoring, and performance analysis.
+
+Goal: Financial Risk Management Technology | habit_count: 2 | task_count: 8 | Extra: 10-week risk systems; risk analyst advancing through Monte Carlo simulation, stress testing, value-at-risk calculation, scenario analysis, and regulatory reporting.
+
+Goal: Cryptocurrency and DeFi Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week digital assets; finance professional transitioning through blockchain analysis, DeFi protocol evaluation, yield farming strategies, market making, and regulatory compliance.
+
+Goal: Corporate Treasury Management | habit_count: 2 | task_count: 8 | Extra: 10-week treasury systems; finance professional advancing through cash management, liquidity forecasting, foreign exchange hedging, debt management, and investment optimization.
+
+Goal: Credit Scoring and Underwriting | habit_count: 2 | task_count: 9 | Extra: 12-week lending technology; credit analyst transitioning through machine learning models, alternative data sources, automated underwriting, portfolio monitoring, and regulatory compliance.
+
+Goal: Financial Planning Software Development | habit_count: 2 | task_count: 8 | Extra: 10-week FinTech applications; financial planner moving to technology through retirement planning algorithms, tax optimization, estate planning tools, and client portal development.
+
+Goal: Insurance Claims Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week insurance technology; claims adjuster advancing through fraud detection, automated processing, damage assessment, predictive modeling, and customer experience optimization.
+
+Goal: Regulatory Technology Implementation | habit_count: 2 | task_count: 9 | Extra: 12-week RegTech solutions; compliance officer transitioning through automated reporting, transaction monitoring, KYC/AML systems, regulatory change management, and audit trail optimization.
+
+Goal: Wealth Management Digital Platform | habit_count: 2 | task_count: 8 | Extra: 10-week private banking technology; wealth advisor moving to digital platforms through robo-advisory development, client onboarding automation, portfolio rebalancing, and performance reporting.
+
+Goal: Financial Market Data Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week market intelligence; financial analyst advancing through real-time data processing, market sentiment analysis, news analytics, technical indicators, and trading signal generation.
+
+Goal: Banking Operations Automation | habit_count: 2 | task_count: 8 | Extra: 10-week digital banking; bank operations manager transitioning through robotic process automation, workflow optimization, exception handling, and customer service enhancement.
+
+Goal: Trade Finance Technology | habit_count: 2 | task_count: 9 | Extra: 12-week trade systems; trade finance specialist advancing through letter of credit automation, supply chain financing, document processing, compliance checking, and blockchain integration.
+
+Goal: Financial Data Governance | habit_count: 2 | task_count: 8 | Extra: 10-week data management; data analyst transitioning to finance through data quality frameworks, lineage tracking, privacy compliance, access controls, and metadata management.
+
+Goal: Actuarial Modeling Specialist | habit_count: 3 | task_count: 10 | Extra: 14-week actuarial science; actuary advancing through predictive modeling, mortality analysis, pricing optimization, reserve calculation, regulatory compliance, and model validation.
+
+Goal: ESG Investment Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week sustainable finance; investment analyst transitioning through ESG scoring, impact measurement, sustainable portfolio construction, climate risk assessment, and reporting frameworks.
+
+Goal: Alternative Investment Platform | habit_count: 2 | task_count: 9 | Extra: 12-week alternative assets; investment professional advancing through private equity analytics, real estate investment platforms, commodity trading systems, and hedge fund operations.
+
+Goal: Payment Systems Integration | habit_count: 2 | task_count: 8 | Extra: 10-week payment technology; banking professional transitioning through API development, fraud prevention, mobile wallets, cryptocurrency payments, and compliance management.
+
+Goal: Financial Reporting Automation | habit_count: 2 | task_count: 9 | Extra: 12-week automated reporting; financial controller advancing through consolidation systems, variance analysis, management reporting, regulatory filings, and dashboard development.
+
+Goal: Credit Risk Portfolio Management | habit_count: 2 | task_count: 8 | Extra: 10-week portfolio optimization; credit manager transitioning through concentration risk, correlation modeling, capital allocation, stress testing, and performance monitoring.
+
+Goal: Digital Identity Verification | habit_count: 2 | task_count: 8 | Extra: 10-week identity technology; compliance professional advancing through biometric authentication, document verification, KYC automation, fraud detection, and privacy protection.
+
+Goal: Software Architecture Design Patterns | habit_count: 3 | task_count: 11 | Extra: 16-week system design; senior developer transitioning through distributed architecture, scalability patterns, performance optimization, security architecture, monitoring strategies, database design, caching layers, API design, and technology selection.
+
+Goal: Mobile DevOps and CI/CD | habit_count: 2 | task_count: 9 | Extra: 12-week mobile automation; mobile developer advancing through automated testing, app store deployment, crash reporting, performance monitoring, A/B testing, and release management.
+
+Goal: Cloud Native Application Development | habit_count: 3 | task_count: 10 | Extra: 14-week cloud expertise; traditional developer transitioning through containerization, service mesh, serverless architecture, cloud storage, message queues, and monitoring systems.
+
+Goal: Database Performance Optimization | habit_count: 2 | task_count: 8 | Extra: 10-week database tuning; database developer advancing through query optimization, index strategies, partitioning, replication, backup strategies, and monitoring tools.
+
+Goal: API Security and Gateway Management | habit_count: 2 | task_count: 9 | Extra: 12-week API governance; backend developer transitioning through OAuth implementation, rate limiting, API versioning, documentation, monitoring, and security testing.
+
+Goal: Test Automation Framework Development | habit_count: 2 | task_count: 8 | Extra: 10-week automation engineering; manual tester advancing through framework design, CI/CD integration, test data management, reporting, and maintenance strategies.
+
+Goal: Performance Engineering Specialist | habit_count: 3 | task_count: 10 | Extra: 14-week performance optimization; software engineer transitioning through load testing, profiling, bottleneck analysis, capacity planning, monitoring, and scalability testing.
+
+Goal: Data Engineering Pipeline Architecture | habit_count: 3 | task_count: 11 | Extra: 16-week data infrastructure; software engineer moving to data engineering through stream processing, batch processing, data lake design, ETL optimization, data quality, monitoring, orchestration, and real-time analytics.
+
+Goal: Machine Learning Operations (MLOps) | habit_count: 2 | task_count: 9 | Extra: 12-week ML engineering; data scientist transitioning through model deployment, experiment tracking, feature stores, model monitoring, A/B testing, and production optimization.
+
+Goal: Cybersecurity Architecture Design | habit_count: 3 | task_count: 10 | Extra: 14-week security architecture; security analyst advancing through threat modeling, security patterns, zero-trust architecture, compliance frameworks, incident response, and security automation.
+
+Goal: Developer Relations and Advocacy | habit_count: 2 | task_count: 8 | Extra: 10-week developer marketing; software engineer transitioning through community building, technical content creation, conference speaking, product feedback, and developer experience optimization.
+
+Goal: Engineering Management Transition | habit_count: 3 | task_count: 11 | Extra: 16-week leadership development; senior engineer advancing through team leadership, project management, performance evaluation, hiring processes, technical strategy, budget management, stakeholder communication, and organizational development.
+
+Goal: Product Security Engineer | habit_count: 2 | task_count: 9 | Extra: 12-week product security; security professional transitioning through secure coding practices, vulnerability assessment, security testing, threat modeling, and security requirements.
+
+Goal: Platform Engineering Specialist | habit_count: 3 | task_count: 10 | Extra: 14-week platform development; infrastructure engineer advancing through developer tooling, internal platforms, self-service systems, automation frameworks, and developer productivity.
+
+Goal: Technical Documentation Architect | habit_count: 2 | task_count: 8 | Extra: 10-week documentation systems; technical writer transitioning through docs-as-code, API documentation, user experience, content strategy, and collaborative writing.
+
+Goal: Full-Stack Cloud Developer | habit_count: 2 | task_count: 9 | Extra: 12-week cloud development; frontend developer expanding through serverless backends, cloud databases, authentication systems, deployment automation, and monitoring.
+
+Goal: Data Visualization Specialist | habit_count: 2 | task_count: 8 | Extra: 10-week visualization engineering; data analyst advancing through interactive dashboards, custom visualizations, storytelling with data, and business intelligence.
+
+Goal: Embedded Systems IoT Developer | habit_count: 3 | task_count: 10 | Extra: 14-week embedded programming; software developer transitioning through microcontroller programming, sensor integration, wireless communication, real-time systems, and edge computing.
+
+Goal: Blockchain Infrastructure Engineer | habit_count: 3 | task_count: 11 | Extra: 16-week distributed systems; backend engineer advancing through consensus mechanisms, peer-to-peer networks, cryptocurrency protocols, smart contract platforms, security auditing, scalability solutions, and decentralized applications.
+
+Goal: AR/VR Application Developer | habit_count: 2 | task_count: 9 | Extra: 12-week immersive technology; game developer transitioning through 3D mathematics, spatial computing, user interaction design, performance optimization, and cross-platform development.
+
+Goal: Search Engine Optimization Specialist | habit_count: 2 | task_count: 8 | Extra: 10-week technical SEO; web developer advancing through crawl optimization, structured data, page speed optimization, mobile-first indexing, and analytics implementation.
+
+Goal: Conversational AI Developer | habit_count: 2 | task_count: 9 | Extra: 12-week chatbot development; software engineer transitioning through natural language processing, dialogue management, intent recognition, voice interfaces, and integration platforms.
+
+Goal: Edge Computing Architecture | habit_count: 3 | task_count: 10 | Extra: 14-week edge systems; cloud engineer advancing through distributed computing, latency optimization, offline capabilities, synchronization strategies, and IoT integration.
+
+Goal: Quantum Computing Programmer | habit_count: 4 | task_count: 12 | Extra: 18-week quantum development; research engineer transitioning through quantum algorithms, quantum gates, error correction, quantum simulators, hybrid systems, and practical applications.
+
+Goal: Computer Vision Engineer | habit_count: 3 | task_count: 10 | Extra: 14-week visual computing; machine learning engineer advancing through image processing, object detection, facial recognition, medical imaging, and real-time video analysis.
+
+Goal: Natural Language Processing Specialist | habit_count: 2 | task_count: 9 | Extra: 12-week NLP engineering; data scientist transitioning through text processing, sentiment analysis, language models, information extraction, and multilingual systems.
+
+Goal: Robotics Software Developer | habit_count: 3 | task_count: 11 | Extra: 16-week robotics programming; embedded developer advancing through motion planning, sensor fusion, computer vision, real-time control, simulation, testing, and human-robot interaction.
+
+Goal: Fintech Security Architect | habit_count: 3 | task_count: 10 | Extra: 14-week financial security; cybersecurity professional transitioning through payment security, fraud detection, regulatory compliance, threat intelligence, and secure architecture design.
+
+Goal: Healthcare Data Interoperability | habit_count: 2 | task_count: 8 | Extra: 10-week health informatics; healthcare IT professional advancing through HL7 FHIR, data standardization, API integration, workflow optimization, and compliance management.
+
+Goal: Medical Device Software Validation | habit_count: 3 | task_count: 11 | Extra: 16-week regulatory compliance; software engineer transitioning through IEC 62304, risk management, verification protocols, clinical evaluation, FDA submission, quality systems, and post-market surveillance.
+
+Goal: Bioinformatics Pipeline Developer | habit_count: 2 | task_count: 9 | Extra: 12-week computational biology; data engineer moving to life sciences through genomics workflows, protein analysis, phylogenetics, statistical genetics, and research collaboration.
+
+Goal: Clinical Trial Technology Manager | habit_count: 2 | task_count: 8 | Extra: 10-week clinical research; project manager transitioning through EDC systems, protocol optimization, data management, regulatory compliance, and site coordination.
+
+Goal: Pharmaceutical Data Science | habit_count: 2 | task_count: 9 | Extra: 12-week drug development; data scientist advancing through clinical analytics, real-world evidence, regulatory submissions, market access, and competitive intelligence.
+
+Goal: Healthcare Revenue Optimization | habit_count: 2 | task_count: 8 | Extra: 10-week healthcare analytics; financial analyst transitioning through value-based care, population health, risk adjustment, and outcome measurement.
+
+Goal: Medical Imaging Informatics | habit_count: 2 | task_count: 9 | Extra: 12-week imaging technology; radiologic technologist advancing through PACS administration, image analysis, AI integration, and workflow optimization.
+
+Goal: Digital Health Product Management | habit_count: 2 | task_count: 8 | Extra: 10-week health product; healthcare professional transitioning through user research, regulatory strategy, clinical validation, and market adoption.
+
+Goal: Telehealth Platform Architecture | habit_count: 2 | task_count: 9 | Extra: 12-week telemedicine; software architect advancing through video conferencing, patient monitoring, integration standards, and security compliance.
+
+Goal: Healthcare AI Ethics Specialist | habit_count: 2 | task_count: 8 | Extra: 10-week medical AI governance; healthcare professional transitioning through algorithmic bias, clinical validation, regulatory compliance, and ethical frameworks.
+
+Goal: Population Health Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week public health informatics; epidemiologist advancing through disease surveillance, outcome prediction, intervention effectiveness, and policy impact analysis.
+
+Goal: Medical Research Database Management | habit_count: 2 | task_count: 8 | Extra: 10-week research informatics; database administrator transitioning through clinical data management, research protocols, statistical analysis, and regulatory compliance.
+
+Goal: Healthcare Quality Improvement | habit_count: 2 | task_count: 9 | Extra: 12-week quality analytics; quality manager advancing through outcome measurement, process optimization, risk assessment, and performance improvement.
+
+Goal: Digital Therapeutics Validation | habit_count: 2 | task_count: 8 | Extra: 10-week therapeutic apps; clinical researcher transitioning through mobile health validation, clinical endpoints, regulatory pathways, and evidence generation.
+
+Goal: Healthcare Supply Chain Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week medical logistics; supply chain analyst advancing through demand forecasting, inventory optimization, cost analysis, and quality assurance.
+
+Goal: Medical Device Cybersecurity | habit_count: 3 | task_count: 10 | Extra: 14-week device security; cybersecurity professional transitioning through FDA guidance, threat modeling, vulnerability assessment, incident response, and regulatory compliance.
+
+Goal: Clinical Decision Support Development | habit_count: 2 | task_count: 8 | Extra: 10-week clinical informatics; software developer advancing through evidence-based algorithms, workflow integration, alert optimization, and outcome measurement.
+
+Goal: Healthcare Blockchain Implementation | habit_count: 2 | task_count: 9 | Extra: 12-week health blockchain; blockchain developer transitioning through patient data sharing, supply chain traceability, credential verification, and regulatory compliance.
+
+Goal: Medical Practice Management Systems | habit_count: 2 | task_count: 8 | Extra: 10-week practice technology; practice administrator transitioning through EHR optimization, billing automation, scheduling systems, and patient engagement.
+
+Goal: Healthcare Data Governance | habit_count: 2 | task_count: 9 | Extra: 12-week health data management; data governance specialist advancing through privacy compliance, data quality, access controls, and audit procedures.
+
+Goal: Alternative Investment Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week alternative assets; investment analyst transitioning through private equity valuation, real estate modeling, commodity analysis, and hedge fund strategies.
+
+Goal: Quantitative Risk Management | habit_count: 3 | task_count: 10 | Extra: 14-week financial risk; risk analyst advancing through Monte Carlo modeling, stress testing, value-at-risk calculation, and regulatory capital.
+
+Goal: Digital Banking Platform Development | habit_count: 2 | task_count: 8 | Extra: 10-week banking technology; bank IT professional transitioning through mobile banking, API development, customer onboarding, and security implementation.
+
+Goal: Insurance Technology Innovation | habit_count: 2 | task_count: 9 | Extra: 12-week InsurTech development; insurance professional advancing through automated underwriting, claims processing, telematics, and customer experience.
+
+Goal: Corporate Finance Automation | habit_count: 2 | task_count: 8 | Extra: 10-week finance technology; financial controller transitioning through consolidation systems, reporting automation, variance analysis, and dashboard development.
+
+Goal: Investment Portfolio Construction | habit_count: 2 | task_count: 9 | Extra: 12-week portfolio management; financial advisor advancing through asset allocation, risk budgeting, factor modeling, and performance attribution.
+
+Goal: Financial Market Making Systems | habit_count: 3 | task_count: 11 | Extra: 16-week trading technology; trader transitioning through order book management, latency optimization, risk controls, inventory management, pricing algorithms, and market microstructure.
+
+Goal: Regulatory Reporting Automation | habit_count: 2 | task_count: 8 | Extra: 10-week RegTech solutions; compliance analyst advancing through automated reporting, data validation, exception handling, and audit trail management.
+
+Goal: Wealth Management Robo-Advisory | habit_count: 2 | task_count: 9 | Extra: 12-week digital wealth; wealth advisor transitioning through algorithmic portfolio management, rebalancing automation, tax optimization, and client communication.
+
+Goal: Credit Analytics and Modeling | habit_count: 2 | task_count: 8 | Extra: 10-week credit risk; credit analyst advancing through default prediction, loss forecasting, portfolio optimization, and stress testing.
+
+Goal: Financial Data Engineering | habit_count: 3 | task_count: 10 | Extra: 14-week financial data; data engineer transitioning through market data processing, real-time analytics, data quality, and regulatory compliance.
+
+Goal: ESG Investment Strategy | habit_count: 2 | task_count: 9 | Extra: 12-week sustainable finance; investment manager advancing through ESG integration, impact measurement, climate risk assessment, and reporting standards.
+
+Goal: Trade Settlement and Clearing | habit_count: 2 | task_count: 8 | Extra: 10-week post-trade processing; operations analyst transitioning through settlement systems, counterparty risk, collateral management, and regulatory compliance.
+
+Goal: Financial Planning Technology | habit_count: 2 | task_count: 9 | Extra: 12-week FinTech planning; financial planner advancing through goal-based planning, retirement modeling, tax strategies, and client portal development.
+
+Goal:

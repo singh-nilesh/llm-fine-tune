@@ -1,0 +1,243 @@
+Goal: Computer Science Student to Software Development Engineer | habit_count: 2 | task_count: 8 | Extra: 12-week full-stack development; CS undergraduate building portfolio through React/Node.js mastery, database design, version control systems, algorithmic problem solving, system design fundamentals, code review practices, technical interview preparation, and entry-level SDE position targeting.
+
+Goal: Biology Major to Bioinformatics Specialist | habit_count: 3 | task_count: 10 | Extra: 16-week computational biology transition; life sciences student advancing through Python programming, genomic data analysis, statistical computing with R, molecular modeling software, database management, research methodology, scientific writing, and bioinformatics career preparation.
+
+Goal: Finance Student to Investment Banking Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week IB preparation; finance undergraduate progressing through financial modeling, valuation techniques, Excel mastery, industry research, networking strategies, interview preparation, deal analysis, and investment banking entry positions.
+
+Goal: Engineering Student to Data Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week data infrastructure specialization; engineering major transitioning through SQL mastery, Python/Spark programming, cloud platforms, ETL pipeline development, data warehousing, distributed systems, DevOps practices, and data engineering roles.
+
+Goal: Medical Student to Clinical Research Coordinator | habit_count: 2 | task_count: 8 | Extra: 12-week clinical research transition; med student advancing through GCP certification, protocol development, regulatory compliance, patient recruitment, data collection, statistical analysis, research ethics, and clinical coordinator positions.
+
+Goal: Mathematics Major to Quantitative Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week quantitative finance specialization; math student progressing through derivatives pricing, risk modeling, Python/C++ programming, statistical analysis, financial markets, backtesting strategies, portfolio optimization, and quant analyst roles.
+
+Goal: Information Technology Student to Cloud Engineer | habit_count: 2 | task_count: 9 | Extra: 14-week cloud specialization; IT undergraduate advancing through AWS/Azure certification, infrastructure automation, containerization, monitoring systems, security practices, CI/CD pipelines, cost optimization, and cloud engineering positions.
+
+Goal: Business Student to Product Manager | habit_count: 2 | task_count: 8 | Extra: 12-week product management foundation; business major transitioning through user research, agile methodologies, market analysis, wireframing tools, A/B testing, stakeholder management, roadmap planning, and PM entry roles.
+
+Goal: Chemistry Student to Pharmaceutical Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week pharma analytics specialization; chemistry major advancing through analytical instrumentation, method validation, regulatory compliance, quality control, statistical analysis, laboratory informatics, research documentation, and pharmaceutical analyst positions.
+
+Goal: Psychology Major to UX Researcher | habit_count: 2 | task_count: 9 | Extra: 14-week UX research transition; psychology student progressing through user research methods, usability testing, survey design, data analysis, prototyping tools, design thinking, statistical software, and UX researcher roles.
+
+Goal: Statistics Student to Machine Learning Engineer | habit_count: 3 | task_count: 12 | Extra: 20-week ML engineering specialization; statistics major advancing through deep learning frameworks, MLOps practices, model deployment, feature engineering, algorithm optimization, cloud ML platforms, monitoring systems, and ML engineer positions.
+
+Goal: Accounting Student to Financial Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week financial analysis foundation; accounting undergraduate transitioning through financial modeling, ratio analysis, budgeting processes, forecasting techniques, Excel advanced functions, presentation skills, and financial analyst roles.
+
+Goal: Physics Student to Software Engineer | habit_count: 2 | task_count: 10 | Extra: 16-week software development transition; physics major progressing through programming languages, software architecture, testing methodologies, debugging techniques, version control, agile practices, system design, and software engineering positions.
+
+Goal: Biomedical Engineering Student to Medical Device Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week medical device specialization; BME student advancing through FDA regulations, design controls, risk management, clinical trials, product development, quality systems, biocompatibility testing, and medical device engineer roles.
+
+Goal: Economics Student to Market Research Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week market research specialization; economics major transitioning through survey methodology, statistical analysis, consumer behavior, market segmentation, data visualization, report writing, presentation skills, and market research analyst positions.
+
+Goal: Electrical Engineering Student to Embedded Systems Engineer | habit_count: 3 | task_count: 10 | Extra: 16-week embedded systems specialization; EE student progressing through microcontroller programming, RTOS concepts, hardware debugging, PCB design, communication protocols, real-time systems, IoT development, and embedded engineer roles.
+
+Goal: Nursing Student to Clinical Informatics Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week healthcare informatics transition; nursing student advancing through EHR systems, healthcare data analysis, workflow optimization, user training, quality improvement, technology assessment, and clinical informatics positions.
+
+Goal: Liberal Arts Student to Technical Writer | habit_count: 2 | task_count: 9 | Extra: 14-week technical communication specialization; liberal arts major transitioning through API documentation, user guides, content management, markdown/HTML, information architecture, user experience writing, editing processes, and technical writing roles.
+
+Goal: Mechanical Engineering Student to Robotics Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week robotics specialization; ME student progressing through ROS programming, computer vision, motion planning, sensor integration, control systems, machine learning applications, simulation tools, and robotics engineer positions.
+
+Goal: Marketing Student to Digital Marketing Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week digital marketing foundation; marketing major advancing through SEO/SEM practices, social media marketing, analytics platforms, content strategy, email marketing, conversion optimization, campaign management, and digital marketing roles.
+
+Goal: Computer Engineering Student to Cybersecurity Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week cybersecurity specialization; CE student transitioning through penetration testing, incident response, security frameworks, threat analysis, vulnerability assessment, forensic analysis, compliance standards, and security analyst positions.
+
+Goal: Biochemistry Student to Clinical Laboratory Scientist | habit_count: 2 | task_count: 9 | Extra: 14-week clinical lab specialization; biochemistry major progressing through laboratory techniques, quality control, instrumentation, pathology fundamentals, regulatory compliance, safety protocols, data analysis, and clinical lab scientist roles.
+
+Goal: Information Systems Student to Business Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week business analysis foundation; IS student advancing through requirements gathering, process mapping, stakeholder management, documentation standards, system analysis, project coordination, and business analyst positions.
+
+Goal: Pharmaceutical Sciences Student to Regulatory Affairs Specialist | habit_count: 3 | task_count: 11 | Extra: 18-week regulatory specialization; pharma sciences major transitioning through FDA regulations, drug development process, clinical trial documentation, submission preparation, compliance monitoring, regulatory strategy, and regulatory affairs roles.
+
+Goal: Data Science Student to Research Scientist | habit_count: 3 | task_count: 12 | Extra: 20-week research specialization; data science major progressing through experimental design, statistical inference, publication writing, research methodology, grant applications, peer review, scientific communication, and research scientist positions.
+
+Goal: Human Resources Student to People Analytics Specialist | habit_count: 2 | task_count: 9 | Extra: 14-week HR analytics transition; HR major advancing through workforce analytics, survey design, statistical analysis, HRIS systems, predictive modeling, data visualization, reporting dashboards, and people analytics roles.
+
+Goal: Environmental Science Student to Sustainability Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week sustainability specialization; environmental science major transitioning through ESG reporting, carbon accounting, life cycle assessment, environmental compliance, data analysis, stakeholder engagement, and sustainability analyst positions.
+
+Goal: Civil Engineering Student to Infrastructure Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week infrastructure analysis specialization; CE student progressing through GIS software, structural analysis, project management, cost estimation, risk assessment, regulatory compliance, technology integration, and infrastructure analyst roles.
+
+Goal: Microbiology Student to Quality Assurance Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week QA specialization; microbiology major advancing through quality systems, validation protocols, documentation standards, audit processes, corrective actions, risk assessment, and quality assurance positions.
+
+Goal: Operations Research Student to Business Intelligence Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week BI specialization; OR student transitioning through SQL development, data warehousing, reporting tools, dashboard creation, KPI design, data modeling, performance analysis, and BI analyst roles.
+
+Goal: Journalism Student to Content Marketing Manager | habit_count: 2 | task_count: 9 | Extra: 14-week content marketing transition; journalism major progressing through content strategy, SEO optimization, social media management, analytics tracking, brand storytelling, campaign development, and content marketing positions.
+
+Goal: Industrial Engineering Student to Supply Chain Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week supply chain specialization; IE student advancing through demand forecasting, inventory optimization, supplier analysis, logistics planning, cost analysis, process improvement, and supply chain analyst roles.
+
+Goal: Public Health Student to Epidemiologist | habit_count: 3 | task_count: 11 | Extra: 18-week epidemiology specialization; public health major transitioning through statistical software, disease surveillance, outbreak investigation, study design, data collection, health informatics, research methods, and epidemiologist positions.
+
+Goal: Software Engineering Student to DevOps Engineer | habit_count: 2 | task_count: 10 | Extra: 16-week DevOps transition; software engineering major progressing through containerization, infrastructure automation, monitoring systems, CI/CD pipelines, cloud platforms, configuration management, and DevOps engineer roles.
+
+Goal: Graphic Design Student to UI/UX Designer | habit_count: 2 | task_count: 9 | Extra: 14-week UI/UX specialization; design student advancing through user research, wireframing, prototyping tools, design systems, usability testing, interaction design, accessibility standards, and UI/UX designer positions.
+
+Goal: Criminal Justice Student to Fraud Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week fraud analysis foundation; CJ major transitioning through data analysis, pattern recognition, investigative techniques, risk assessment, compliance monitoring, reporting systems, and fraud analyst roles.
+
+Goal: Geology Student to GIS Specialist | habit_count: 3 | task_count: 10 | Extra: 16-week GIS specialization; geology major progressing through spatial analysis, remote sensing, database management, cartographic design, programming languages, field data collection, and GIS specialist positions.
+
+Goal: Health Administration Student to Healthcare Data Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week healthcare analytics transition; health admin major advancing through clinical data analysis, population health metrics, quality indicators, statistical software, database management, reporting systems, and healthcare analyst roles.
+
+Goal: Mathematics Education Student to Learning Analytics Specialist | habit_count: 3 | task_count: 11 | Extra: 18-week educational technology specialization; math education major transitioning through learning management systems, educational data mining, assessment analytics, student performance modeling, and learning analytics positions.
+
+Goal: International Business Student to Trade Compliance Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week trade compliance foundation; IB student progressing through import/export regulations, customs procedures, documentation requirements, risk assessment, audit processes, and trade compliance analyst roles.
+
+Goal: Cognitive Science Student to AI Ethics Researcher | habit_count: 3 | task_count: 12 | Extra: 20-week AI ethics specialization; cognitive science major advancing through machine learning bias, algorithmic fairness, research methodology, policy analysis, stakeholder engagement, ethical frameworks, and AI ethics researcher positions.
+
+Goal: Agricultural Engineering Student to Precision Agriculture Specialist | habit_count: 2 | task_count: 10 | Extra: 16-week precision agriculture transition; ag engineering major progressing through sensor technologies, data analytics, GPS systems, crop modeling, farm management software, and precision agriculture specialist roles.
+
+Goal: Social Work Student to Program Evaluation Specialist | habit_count: 2 | task_count: 9 | Extra: 14-week program evaluation specialization; social work major advancing through evaluation methodology, data collection, statistical analysis, report writing, stakeholder engagement, and program evaluation specialist positions.
+
+Goal: Chemical Engineering Student to Process Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week process engineering specialization; ChE student transitioning through process optimization, safety analysis, equipment design, simulation software, quality control, regulatory compliance, and process engineer roles.
+
+Goal: Communications Student to Social Media Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week social media analytics foundation; communications major progressing through platform analytics, sentiment analysis, content performance, audience insights, campaign measurement, and social media analyst positions.
+
+Goal: Biotechnology Student to Bioprocess Engineer | habit_count: 3 | task_count: 10 | Extra: 16-week bioprocess specialization; biotech major advancing through upstream/downstream processing, scale-up operations, quality control, regulatory compliance, process validation, and bioprocess engineer roles.
+
+Goal: Pre-Med Student to Medical Scribe | habit_count: 2 | task_count: 9 | Extra: 14-week medical documentation transition; pre-med student progressing through medical terminology, EHR systems, clinical workflows, documentation standards, patient privacy, and medical scribe positions.
+
+Goal: Information Technology Student to Systems Administrator | habit_count: 2 | task_count: 8 | Extra: 12-week systems administration foundation; IT major advancing through server management, network configuration, security protocols, backup systems, troubleshooting, and systems administrator roles.
+
+Goal: Materials Science Student to Quality Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week quality engineering specialization; materials science major transitioning through statistical process control, failure analysis, testing protocols, quality systems, supplier management, and quality engineer positions.
+
+Goal: Philosophy Student to Ethics Consultant | habit_count: 2 | task_count: 10 | Extra: 16-week ethics consulting transition; philosophy major progressing through corporate ethics, compliance frameworks, risk assessment, training development, policy analysis, and ethics consultant roles.
+
+Goal: Sports Management Student to Sports Analytics Specialist | habit_count: 2 | task_count: 9 | Extra: 14-week sports analytics foundation; sports management major advancing through performance metrics, statistical analysis, data visualization, scouting analytics, fan engagement, and sports analytics positions.
+
+Goal: Neuroscience Student to Clinical Research Associate | habit_count: 3 | task_count: 8 | Extra: 12-week clinical research specialization; neuroscience major transitioning through GCP training, monitoring procedures, data management, regulatory compliance, site management, and CRA positions.
+
+Goal: Architecture Student to Building Information Modeling Specialist | habit_count: 2 | task_count: 11 | Extra: 18-week BIM specialization; architecture major progressing through 3D modeling software, construction documentation, project coordination, clash detection, sustainability analysis, and BIM specialist roles.
+
+Goal: Film Student to Video Content Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week content analytics transition; film major advancing through audience analytics, content performance, engagement metrics, platform optimization, trend analysis, and video content analyst positions.
+
+Goal: Supply Chain Management Student to Logistics Coordinator | habit_count: 2 | task_count: 9 | Extra: 14-week logistics specialization; SCM student progressing through transportation planning, warehouse management, inventory control, vendor coordination, cost analysis, and logistics coordinator roles.
+
+Goal: Kinesiology Student to Biomechanics Analyst | habit_count: 3 | task_count: 8 | Extra: 12-week biomechanics specialization; kinesiology major transitioning through motion analysis, force measurement, data collection, statistical analysis, research methodology, and biomechanics analyst positions.
+
+Goal: Music Technology Student to Audio Engineer | habit_count: 2 | task_count: 11 | Extra: 18-week audio engineering transition; music tech major advancing through recording techniques, mixing/mastering, acoustic design, equipment operation, post-production, and audio engineer roles.
+
+Goal: Hospitality Management Student to Revenue Management Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week revenue management specialization; hospitality major progressing through pricing strategies, demand forecasting, market analysis, booking patterns, competitive intelligence, and revenue analyst positions.
+
+Goal: Political Science Student to Policy Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week policy analysis foundation; poli sci major advancing through research methodology, statistical analysis, report writing, stakeholder engagement, legislative processes, and policy analyst roles.
+
+Goal: Game Design Student to Game Data Analyst | habit_count: 3 | task_count: 8 | Extra: 12-week game analytics specialization; game design major transitioning through player behavior analysis, monetization metrics, A/B testing, retention analysis, engagement tracking, and game data analyst positions.
+
+Goal: Fashion Merchandising Student to E-commerce Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week e-commerce analytics transition; fashion merchandising major progressing through web analytics, conversion optimization, customer journey mapping, inventory analysis, and e-commerce analyst roles.
+
+Goal: Theater Student to User Experience Writer | habit_count: 2 | task_count: 10 | Extra: 16-week UX writing specialization; theater major advancing through content strategy, interface copy, user research, information architecture, design collaboration, and UX writer positions.
+
+Goal: Earth Science Student to Environmental Data Analyst | habit_count: 3 | task_count: 9 | Extra: 14-week environmental analytics foundation; earth science major transitioning through environmental monitoring, data collection, statistical analysis, GIS applications, and environmental data analyst roles.
+
+Goal: Real Estate Student to Market Research Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week real estate analytics specialization; real estate major progressing through market analysis, property valuation, demographic research, investment analysis, and market research analyst positions.
+
+Goal: Education Student to Instructional Designer | habit_count: 2 | task_count: 11 | Extra: 18-week instructional design transition; education major advancing through curriculum development, learning technologies, assessment design, multimedia production, and instructional designer roles.
+
+Goal: Aerospace Engineering Student to Flight Test Engineer | habit_count: 3 | task_count: 10 | Extra: 16-week flight test specialization; aerospace major progressing through flight testing procedures, data analysis, safety protocols, instrumentation, regulatory compliance, and flight test engineer positions.
+
+Goal: Anthropology Student to User Researcher | habit_count: 2 | task_count: 9 | Extra: 14-week user research foundation; anthropology major transitioning through ethnographic methods, user interviews, observational studies, data synthesis, research reporting, and user researcher roles.
+
+Goal: Food Science Student to Quality Control Analyst | habit_count: 3 | task_count: 8 | Extra: 12-week food quality specialization; food science major advancing through analytical testing, HACCP principles, regulatory compliance, sensory evaluation, and quality control analyst positions.
+
+Goal: Geography Student to Transportation Planner | habit_count: 2 | task_count: 11 | Extra: 18-week transportation planning transition; geography major progressing through traffic analysis, route optimization, GIS applications, urban planning, and transportation planner roles.
+
+Goal: Art History Student to Digital Asset Manager | habit_count: 2 | task_count: 10 | Extra: 16-week digital asset management specialization; art history major advancing through metadata standards, content organization, digital preservation, database management, and digital asset manager positions.
+
+Goal: Actuarial Science Student to Risk Analyst | habit_count: 3 | task_count: 9 | Extra: 14-week risk analysis foundation; actuarial science major transitioning through risk modeling, statistical analysis, insurance principles, regulatory compliance, and risk analyst roles.
+
+Goal: Library Science Student to Information Architect | habit_count: 2 | task_count: 8 | Extra: 12-week information architecture specialization; library science major progressing through taxonomy design, content organization, user experience, database design, and information architect positions.
+
+Goal: Forensic Science Student to Digital Forensics Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week digital forensics transition; forensic science major advancing through computer forensics, mobile device analysis, network investigations, evidence handling, and digital forensics analyst roles.
+
+Goal: Interior Design Student to Space Planning Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week space analytics specialization; interior design major progressing through space utilization, occupancy analysis, workplace planning, data visualization, and space planning analyst positions.
+
+Goal: Veterinary Science Student to Animal Health Data Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week veterinary analytics foundation; vet science major transitioning through epidemiological studies, animal health databases, statistical analysis, and animal health data analyst roles.
+
+Goal: Linguistics Student to Natural Language Processing Engineer | habit_count: 3 | task_count: 8 | Extra: 12-week NLP specialization; linguistics major advancing through machine learning, text processing, language models, computational linguistics, and NLP engineer positions.
+
+Goal: Renewable Energy Student to Energy Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week energy analytics transition; renewable energy major progressing through energy modeling, grid analysis, market research, policy analysis, and energy analyst roles.
+
+Goal: Textile Engineering Student to Product Development Specialist | habit_count: 3 | task_count: 10 | Extra: 16-week product development specialization; textile engineering major advancing through material testing, quality control, manufacturing processes, and product development specialist positions.
+
+Goal: Peace Studies Student to Conflict Resolution Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week conflict analysis foundation; peace studies major transitioning through data collection, trend analysis, risk assessment, stakeholder mapping, and conflict resolution analyst roles.
+
+Goal: Recreation Management Student to Event Analytics Specialist | habit_count: 2 | task_count: 8 | Extra: 12-week event analytics specialization; recreation management major progressing through attendance tracking, engagement metrics, ROI analysis, and event analytics specialist positions.
+
+Goal: Urban Planning Student to Smart City Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week smart city transition; urban planning major advancing through IoT systems, data analytics, urban informatics, citizen engagement, and smart city analyst roles.
+
+Goal: Packaging Engineering Student to Sustainability Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week packaging sustainability specialization; packaging engineering major progressing through life cycle assessment, material analysis, environmental impact, and sustainability analyst positions.
+
+Goal: Dance Student to Movement Analysis Specialist | habit_count: 2 | task_count: 9 | Extra: 14-week movement analytics foundation; dance major transitioning through motion capture, biomechanical analysis, performance metrics, and movement analysis specialist roles.
+
+Goal: Energy Engineering Student to Grid Operations Analyst | habit_count: 3 | task_count: 8 | Extra: 12-week grid operations specialization; energy engineering major advancing through power systems, load forecasting, reliability analysis, and grid operations analyst positions.
+
+Goal: Women's Studies Student to Diversity Analytics Specialist | habit_count: 2 | task_count: 11 | Extra: 18-week diversity analytics transition; women's studies major progressing through workforce analytics, inclusion metrics, survey design, and diversity analytics specialist roles.
+
+Goal: Fire Science Student to Emergency Management Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week emergency management specialization; fire science major advancing through risk assessment, response planning, resource allocation, and emergency management analyst positions.
+
+Goal: Culinary Arts Student to Food Service Analyst | habit_count: 3 | task_count: 9 | Extra: 14-week food service analytics foundation; culinary arts major transitioning through cost analysis, menu optimization, customer preferences, and food service analyst roles.
+
+Goal: Marine Biology Student to Aquaculture Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week aquaculture analytics specialization; marine biology major progressing through production optimization, water quality monitoring, species performance, and aquaculture analyst positions.
+
+Goal: Advertising Student to Campaign Performance Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week campaign analytics transition; advertising major advancing through media measurement, attribution modeling, audience analysis, and campaign performance analyst roles.
+
+Goal: Construction Management Student to Project Controls Specialist | habit_count: 3 | task_count: 10 | Extra: 16-week project controls specialization; construction management major progressing through schedule analysis, cost tracking, risk management, and project controls specialist positions.
+
+Goal: Public Relations Student to Brand Sentiment Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week brand analytics foundation; PR major transitioning through sentiment analysis, media monitoring, reputation metrics, and brand sentiment analyst roles.
+
+Goal: Aviation Management Student to Flight Operations Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week flight operations specialization; aviation management major advancing through route optimization, fuel efficiency, safety metrics, and flight operations analyst positions.
+
+Goal: Meteorology Student to Climate Data Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week climate analytics transition; meteorology major progressing through climate modeling, statistical analysis, trend identification, and climate data analyst roles.
+
+Goal: Occupational Therapy Student to Workplace Ergonomics Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week ergonomics specialization; OT major advancing through workplace assessment, injury prevention, productivity analysis, and ergonomics analyst positions.
+
+Goal: Religious Studies Student to Cultural Analytics Specialist | habit_count: 2 | task_count: 9 | Extra: 14-week cultural analytics foundation; religious studies major transitioning through demographic analysis, cultural trends, community engagement, and cultural analytics specialist roles.
+
+Goal: Transportation Engineering Student to Traffic Data Analyst | habit_count: 3 | task_count: 8 | Extra: 12-week traffic analytics specialization; transportation engineering major progressing through traffic flow analysis, congestion modeling, safety evaluation, and traffic data analyst positions.
+
+Goal: Wine Business Student to Beverage Market Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week beverage analytics transition; wine business major advancing through market research, consumer preferences, sales analysis, and beverage market analyst roles.
+
+Goal: Broadcast Journalism Student to Media Analytics Specialist | habit_count: 2 | task_count: 10 | Extra: 16-week media analytics specialization; broadcast journalism major progressing through audience measurement, content performance, engagement tracking, and media analytics specialist positions.
+
+Goal: Emergency Medical Services Student to Healthcare Quality Analyst | habit_count: 3 | task_count: 9 | Extra: 14-week healthcare quality foundation; EMS major transitioning through quality metrics, patient outcomes, performance improvement, and healthcare quality analyst roles.
+
+Goal: International Relations Student to Trade Data Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week trade analytics specialization; IR major advancing through import/export analysis, market intelligence, economic indicators, and trade data analyst positions.
+
+Goal: Landscape Architecture Student to Green Infrastructure Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week green infrastructure transition; landscape architecture major progressing through environmental benefits, cost analysis, project evaluation, and green infrastructure analyst roles.
+
+Goal: Hotel Management Student to Hospitality Revenue Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week hospitality analytics specialization; hotel management major advancing through pricing optimization, demand forecasting, competitive analysis, and hospitality revenue analyst positions.
+
+Goal: Fisheries Science Student to Aquatic Resource Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week aquatic analytics foundation; fisheries science major transitioning through population assessment, habitat analysis, sustainability metrics, and aquatic resource analyst roles.
+
+Goal: Homeland Security Student to Threat Intelligence Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week threat intelligence specialization; homeland security major progressing through threat assessment, intelligence gathering, risk analysis, and threat intelligence analyst positions.
+
+Goal: Parks and Recreation Student to Visitor Experience Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week visitor analytics transition; parks and recreation major advancing through visitor tracking, satisfaction metrics, usage patterns, and visitor experience analyst roles.
+
+Goal: Fashion Design Student to Trend Forecasting Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week trend analytics specialization; fashion design major progressing through market research, consumer behavior, trend identification, and trend forecasting analyst positions.
+
+Goal: Nuclear Engineering Student to Radiation Safety Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week radiation safety foundation; nuclear engineering major transitioning through safety protocols, dose monitoring, compliance assessment, and radiation safety analyst roles.
+
+Goal: Pharmacy Student to Pharmaceutical Market Analyst | habit_count: 3 | task_count: 8 | Extra: 12-week pharma market specialization; pharmacy major advancing through market research, competitive intelligence, pricing analysis, and pharmaceutical market analyst positions.
+
+Goal: Social Media Student to Influencer Marketing Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week influencer analytics transition; social media major progressing through influencer metrics, campaign ROI, audience analysis, and influencer marketing analyst roles.
+
+Goal: Game Development Student to Player Behavior Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week player analytics specialization; game development major advancing through behavioral analysis, retention metrics, monetization optimization, and player behavior analyst positions.
+
+Goal: Special Education Student to Learning Assessment Specialist | habit_count: 3 | task_count: 9 | Extra: 14-week assessment analytics foundation; special education major transitioning through assessment design, progress monitoring, data interpretation, and learning assessment specialist roles.
+
+Goal: Sports Medicine Student to Athletic Performance Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week performance analytics specialization; sports medicine major progressing through biomechanical analysis, injury prevention, performance metrics, and athletic performance analyst positions.
+
+Goal: Web Development Student to Conversion Rate Optimization Specialist | habit_count: 2 | task_count: 11 | Extra: 18-week CRO transition; web development major advancing through A/B testing, user behavior analysis, funnel optimization, and CRO specialist roles.
+
+Goal: Alternative Energy Student to Energy Efficiency Analyst | habit_count: 3 | task_count: 10 | Extra: 16-week energy efficiency specialization; alternative energy major progressing through energy audits, efficiency modeling, cost-benefit analysis, and energy efficiency analyst positions.
+
+Goal: Digital Arts Student to Visual Content Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week visual analytics foundation; digital arts major transitioning through content performance, visual engagement metrics, design effectiveness, and visual content analyst roles.
+
+Goal: Risk Management Student to Operational Risk Analyst | habit_count: 2 | task_count: 8 | Extra: 12-week operational risk specialization; risk management major advancing through risk assessment, control testing, loss analysis, and operational risk analyst positions.
+
+Goal: Public Administration Student to Government Data Analyst | habit_count: 3 | task_count: 11 | Extra: 18-week government analytics transition; public administration major progressing through policy analysis, performance metrics, citizen services, and government data analyst roles.
+
+Goal: Exercise Science Student to Fitness Program Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week fitness analytics specialization; exercise science major advancing through program effectiveness, member engagement, outcome measurement, and fitness program analyst positions.
+
+Goal: International Business Student to Global Market Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week global market foundation; international business major transitioning through market entry analysis, competitive landscape, economic indicators, and global market analyst roles.
+
+Goal: Event Planning Student to Event ROI Analyst | habit_count: 3 | task_count: 8 | Extra: 12-week event analytics specialization; event planning major progressing through cost analysis, attendance tracking, engagement measurement, and event ROI analyst positions.
+
+Goal: Cybersecurity Student to Security Operations Analyst | habit_count: 2 | task_count: 11 | Extra: 18-week SOC analyst transition; cybersecurity major advancing through threat detection, incident response, security monitoring, and security operations analyst roles.
+
+Goal: Environmental Engineering Student to Carbon Footprint Analyst |

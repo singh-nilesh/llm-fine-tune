@@ -1,0 +1,219 @@
+Goal: Software Engineer Transition to Machine Learning Engineer | habit_count: 3 | task_count: 11 | Extra: 16-week AI career transition; backend developer pivoting to ML through advanced Python programming, TensorFlow mastery, statistical modeling, deep learning architectures, MLOps implementation, model deployment, data pipeline creation, research paper analysis, portfolio project development, technical interview preparation, and industry networking for machine learning engineer positions.
+
+Goal: Finance Professional to Quantitative Analyst | habit_count: 2 | task_count: 9 | Extra: 14-week quant finance specialization; traditional finance analyst transitioning through mathematical modeling, Python for finance, statistical arbitrage, risk management algorithms, derivatives pricing, backtesting strategies, financial data analysis, quantitative research methods, and CQF certification preparation for quantitative analyst roles.
+
+Goal: IT Support to Cloud Solutions Architect | habit_count: 3 | task_count: 10 | Extra: 18-week cloud architecture mastery; help desk technician advancing through AWS Solutions Architect certification, Azure fundamentals, multi-cloud strategies, infrastructure design, security architecture, cost optimization, migration planning, disaster recovery, enterprise solutions, and technical leadership for cloud architect positions.
+
+Goal: Web Developer to Full Stack Product Manager | habit_count: 2 | task_count: 8 | Extra: 12-week product management transition; frontend developer pivoting through product strategy, user research methodologies, agile frameworks, data-driven decision making, stakeholder management, roadmap planning, A/B testing, market analysis, and technical product management for senior product manager roles.
+
+Goal: Data Analyst to Senior Data Scientist | habit_count: 3 | task_count: 12 | Extra: 20-week advanced analytics progression; SQL analyst advancing through machine learning algorithms, deep learning frameworks, statistical inference, experimental design, feature engineering, model optimization, MLOps practices, business intelligence, research methodology, technical communication, and senior data scientist role preparation.
+
+Goal: Network Administrator to Cybersecurity Specialist | habit_count: 2 | task_count: 10 | Extra: 16-week security specialization; network admin transitioning through ethical hacking, penetration testing, incident response, threat analysis, security frameworks, compliance standards, forensic analysis, vulnerability assessment, security architecture, and cybersecurity analyst certification preparation.
+
+Goal: Business Analyst to Data Engineering Lead | habit_count: 3 | task_count: 11 | Extra: 18-week data platform mastery; BA professional advancing through big data technologies, data pipeline architecture, ETL optimization, cloud data platforms, streaming analytics, data governance, team leadership, project management, technical architecture, stakeholder communication, and senior data engineering positions.
+
+Goal: Software Tester to DevOps Engineer | habit_count: 2 | task_count: 9 | Extra: 14-week DevOps transformation; QA engineer transitioning through CI/CD pipelines, infrastructure automation, containerization, monitoring systems, cloud platforms, configuration management, deployment strategies, site reliability engineering, automation scripting, and DevOps engineer role preparation.
+
+Goal: Marketing Analyst to Growth Product Manager | habit_count: 2 | task_count: 8 | Extra: 12-week growth strategy specialization; marketing professional pivoting through product analytics, growth hacking, experimentation frameworks, user acquisition, retention strategies, funnel optimization, data-driven marketing, product-led growth, cross-functional collaboration, and growth PM positions.
+
+Goal: System Administrator to Site Reliability Engineer | habit_count: 3 | task_count: 10 | Extra: 16-week SRE advancement; sysadmin evolving through service reliability, monitoring architecture, incident management, automation engineering, performance optimization, distributed systems, chaos engineering, on-call practices, reliability metrics, and senior SRE role preparation.
+
+Goal: Junior Developer to Technical Lead | habit_count: 2 | task_count: 9 | Extra: 14-week leadership development; entry-level programmer advancing through advanced coding practices, system architecture, team mentoring, project management, technical decision making, code review processes, agile leadership, stakeholder communication, career coaching, and tech lead positions.
+
+Goal: Financial Advisor to Fintech Product Manager | habit_count: 2 | task_count: 8 | Extra: 12-week fintech transition; advisor pivoting through digital banking, payment systems, regulatory compliance, user experience design, financial APIs, blockchain basics, product strategy, market research, customer journey mapping, and fintech PM roles.
+
+Goal: Database Administrator to Data Architect | habit_count: 3 | task_count: 11 | Extra: 18-week data architecture mastery; DBA advancing through data modeling, enterprise architecture, data governance, cloud databases, distributed systems, data security, performance optimization, strategic planning, technical leadership, vendor evaluation, and senior data architect positions.
+
+Goal: Frontend Developer to UX Engineering Lead | habit_count: 2 | task_count: 9 | Extra: 14-week UX engineering specialization; UI developer transitioning through design systems, user research, prototyping tools, accessibility standards, interaction design, usability testing, cross-functional collaboration, team leadership, design thinking, and UX engineering management roles.
+
+Goal: Sales Representative to Sales Engineer | habit_count: 2 | task_count: 8 | Extra: 12-week technical sales transition; sales professional advancing through technical product knowledge, solution architecture, demo preparation, technical presentations, customer engineering, pre-sales support, competitive analysis, proposal writing, relationship building, and senior sales engineering positions.
+
+Goal: Content Writer to Technical Documentation Manager | habit_count: 2 | task_count: 9 | Extra: 14-week technical communication advancement; writer transitioning through API documentation, developer experience, information architecture, content strategy, documentation tools, user research, process optimization, team management, stakeholder coordination, and technical writing leadership roles.
+
+Goal: Quality Assurance to Test Automation Architect | habit_count: 3 | task_count: 10 | Extra: 16-week test automation mastery; manual tester advancing through automation frameworks, CI/CD integration, performance testing, security testing, test strategy, tool evaluation, team mentoring, process improvement, quality metrics, and senior test architect positions.
+
+Goal: Project Coordinator to Agile Coach | habit_count: 2 | task_count: 8 | Extra: 12-week agile transformation; coordinator evolving through Scrum mastery, agile frameworks, team facilitation, organizational change, coaching techniques, metrics analysis, training delivery, conflict resolution, culture transformation, and senior agile coaching roles.
+
+Goal: Desktop Support to Information Security Analyst | habit_count: 2 | task_count: 10 | Extra: 16-week cybersecurity transition; support technician advancing through security monitoring, threat detection, incident response, vulnerability management, risk assessment, compliance auditing, security tools, forensic analysis, policy development, and information security analyst positions.
+
+Goal: Business Intelligence Analyst to Chief Data Officer | habit_count: 3 | task_count: 12 | Extra: 24-week executive data leadership; BI analyst advancing through data strategy, organizational leadership, digital transformation, data governance, analytics team building, executive communication, board presentations, technology roadmaps, budget management, strategic partnerships, and C-level data executive preparation.
+
+Goal: Mobile Developer to Principal Software Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week senior engineering advancement; app developer progressing through system design, architectural patterns, technical leadership, code quality standards, performance optimization, mentoring practices, strategic planning, cross-platform expertise, innovation projects, and principal engineer responsibilities.
+
+Goal: Insurance Underwriter to Risk Analytics Manager | habit_count: 2 | task_count: 9 | Extra: 14-week analytics leadership transition; underwriter advancing through predictive modeling, statistical analysis, risk quantification, data visualization, team management, regulatory compliance, model validation, business intelligence, strategic planning, and senior risk analytics positions.
+
+Goal: Help Desk Technician to IT Operations Manager | habit_count: 2 | task_count: 10 | Extra: 16-week IT management progression; support tech advancing through infrastructure management, team leadership, process optimization, vendor management, budget planning, strategic initiatives, performance metrics, change management, disaster recovery, and IT operations leadership roles.
+
+Goal: Graphic Designer to Product Design Director | habit_count: 2 | task_count: 9 | Extra: 14-week design leadership evolution; visual designer transitioning through UX research, product strategy, design systems, user testing, team management, stakeholder alignment, design processes, career development, innovation leadership, and senior product design positions.
+
+Goal: Account Manager to Customer Success Executive | habit_count: 2 | task_count: 8 | Extra: 12-week customer success advancement; account manager evolving through customer health metrics, retention strategies, expansion planning, success frameworks, team leadership, data analysis, process optimization, executive relationships, and customer success leadership roles.
+
+Goal: Research Assistant to Clinical Data Manager | habit_count: 3 | task_count: 10 | Extra: 16-week clinical research specialization; research assistant advancing through regulatory compliance, data integrity, clinical trial management, statistical analysis, database design, quality assurance, team coordination, vendor management, protocol development, and senior clinical data positions.
+
+Goal: Marketing Coordinator to Digital Marketing Director | habit_count: 2 | task_count: 9 | Extra: 14-week digital marketing leadership; coordinator advancing through performance marketing, marketing automation, analytics platforms, team management, budget optimization, strategy development, channel expertise, ROI measurement, brand management, and marketing executive roles.
+
+Goal: Software Engineer to Engineering Manager | habit_count: 2 | task_count: 8 | Extra: 12-week engineering leadership transition; developer advancing through people management, technical strategy, team building, performance coaching, project planning, stakeholder communication, career development, process improvement, budget management, and engineering management positions.
+
+Goal: Data Entry Clerk to Business Intelligence Developer | habit_count: 3 | task_count: 11 | Extra: 18-week BI transformation; clerk advancing through SQL mastery, data warehousing, ETL development, reporting tools, dashboard creation, data modeling, performance optimization, user training, system integration, technical documentation, and BI developer roles.
+
+Goal: Customer Service Representative to Product Owner | habit_count: 2 | task_count: 8 | Extra: 12-week product ownership transition; service rep pivoting through agile methodologies, user story creation, backlog management, stakeholder communication, market research, competitive analysis, requirements gathering, sprint planning, and product owner certification.
+
+Goal: Technical Writer to Developer Relations Manager | habit_count: 2 | task_count: 9 | Extra: 14-week developer advocacy advancement; writer transitioning through community building, developer experience, content strategy, event management, technical evangelism, partnership development, feedback analysis, program management, and developer relations leadership roles.
+
+Goal: Operations Analyst to Process Automation Lead | habit_count: 3 | task_count: 10 | Extra: 16-week automation leadership; analyst advancing through RPA development, workflow optimization, change management, tool evaluation, team training, process mapping, efficiency metrics, stakeholder management, project delivery, and automation program management.
+
+Goal: Web Designer to Frontend Architecture Lead | habit_count: 2 | task_count: 9 | Extra: 14-week frontend leadership evolution; designer advancing through JavaScript mastery, framework expertise, performance optimization, team mentoring, architecture decisions, code standards, tooling selection, technical strategy, and senior frontend architecture positions.
+
+Goal: Financial Analyst to Investment Banking Associate | habit_count: 2 | task_count: 10 | Extra: 16-week investment banking transition; analyst advancing through financial modeling, valuation techniques, due diligence, pitch preparation, client presentations, deal execution, regulatory knowledge, market analysis, networking skills, and investment banking career preparation.
+
+Goal: System Analyst to Enterprise Architect | habit_count: 3 | task_count: 11 | Extra: 18-week enterprise architecture mastery; analyst advancing through solution architecture, technology strategy, governance frameworks, digital transformation, stakeholder management, architectural patterns, vendor evaluation, roadmap planning, and senior enterprise architect positions.
+
+Goal: Social Media Manager to Growth Marketing Lead | habit_count: 2 | task_count: 8 | Extra: 12-week growth marketing specialization; social media professional transitioning through growth frameworks, experimentation design, analytics mastery, funnel optimization, user acquisition, retention strategies, cross-channel marketing, and growth marketing leadership roles.
+
+Goal: Database Analyst to Machine Learning Platform Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week ML platform development; analyst transitioning through MLOps practices, cloud platforms, data pipeline engineering, model deployment, monitoring systems, infrastructure automation, performance optimization, team collaboration, and ML platform engineering positions.
+
+Goal: Business Development Representative to Sales Operations Manager | habit_count: 2 | task_count: 9 | Extra: 14-week sales operations advancement; BDR evolving through CRM optimization, sales analytics, process automation, pipeline management, forecasting systems, team enablement, technology evaluation, performance metrics, and sales operations leadership roles.
+
+Goal: QA Analyst to Product Quality Director | habit_count: 2 | task_count: 10 | Extra: 16-week quality leadership progression; analyst advancing through quality strategy, process improvement, team management, risk assessment, compliance frameworks, automation initiatives, stakeholder alignment, metrics development, and senior quality management positions.
+
+Goal: Junior Data Scientist to Principal AI Researcher | habit_count: 3 | task_count: 12 | Extra: 20-week AI research advancement; junior scientist progressing through research methodology, publication writing, conference presentations, grant applications, team leadership, innovation projects, industry partnerships, technical mentoring, and principal researcher positions.
+
+Goal: Network Technician to Cloud Security Architect | habit_count: 3 | task_count: 11 | Extra: 18-week cloud security mastery; technician advancing through security architecture, compliance frameworks, threat modeling, identity management, encryption technologies, incident response, audit processes, risk assessment, and senior security architect roles.
+
+Goal: Marketing Analyst to Chief Marketing Officer | habit_count: 3 | task_count: 12 | Extra: 24-week marketing executive preparation; analyst advancing through strategic planning, brand management, team leadership, budget management, market expansion, digital transformation, board communications, P&L responsibility, and C-level marketing positions.
+
+Goal: Software Support to Technical Product Manager | habit_count: 2 | task_count: 9 | Extra: 14-week technical PM transition; support engineer pivoting through product strategy, roadmap planning, feature prioritization, user research, technical requirements, stakeholder management, agile processes, market analysis, and technical product management roles.
+
+Goal: Data Coordinator to Analytics Engineering Manager | habit_count: 3 | task_count: 10 | Extra: 16-week analytics engineering leadership; coordinator advancing through data modeling, pipeline architecture, team management, tool evaluation, performance optimization, data governance, stakeholder communication, career development, and analytics engineering management positions.
+
+Goal: UX Designer to Head of Design | habit_count: 2 | task_count: 9 | Extra: 14-week design leadership advancement; designer progressing through design strategy, team building, creative direction, process optimization, stakeholder management, career development, design systems, innovation leadership, and head of design responsibilities.
+
+Goal: Application Developer to Solutions Architect | habit_count: 2 | task_count: 10 | Extra: 16-week solution architecture mastery; developer advancing through enterprise patterns, system integration, technical consulting, client engagement, proposal development, architecture documentation, technology evaluation, and senior solutions architect positions.
+
+Goal: Digital Marketer to Marketing Technology Manager | habit_count: 2 | task_count: 8 | Extra: 12-week MarTech specialization; marketer transitioning through marketing automation, technology stack optimization, data integration, campaign optimization, vendor management, team training, process improvement, and marketing technology leadership roles.
+
+Goal: Junior Consultant to Principal Management Consultant | habit_count: 3 | task_count: 11 | Extra: 18-week consulting advancement; junior consultant progressing through client management, project leadership, business analysis, strategy development, presentation skills, team mentoring, practice building, thought leadership, and principal consultant positions.
+
+Goal: Security Guard to Cybersecurity Operations Center Manager | habit_count: 3 | task_count: 12 | Extra: 20-week cybersecurity transformation; guard transitioning through security monitoring, incident response, threat analysis, team leadership, SOC processes, compliance management, vendor coordination, budget planning, strategic initiatives, and SOC management roles.
+
+Goal: Receptionist to Human Resources Information Systems Manager | habit_count: 2 | task_count: 10 | Extra: 16-week HRIS advancement; receptionist advancing through HR processes, system administration, data analysis, process automation, compliance management, user training, vendor management, project coordination, and HRIS management positions.
+
+Goal: Content Creator to Head of Content Strategy | habit_count: 2 | task_count: 9 | Extra: 14-week content leadership evolution; creator advancing through content strategy, team management, editorial processes, brand voice, content marketing, analytics interpretation, stakeholder alignment, budget management, and content executive roles.
+
+Goal: Junior Accountant to Financial Planning and Analysis Director | habit_count: 3 | task_count: 11 | Extra: 18-week FP&A leadership; accountant advancing through financial modeling, budgeting processes, variance analysis, strategic planning, investor relations, team management, system optimization, executive reporting, and FP&A director positions.
+
+Goal: Customer Support to Chief Customer Officer | habit_count: 3 | task_count: 12 | Extra: 24-week customer executive preparation; support rep advancing through customer success strategy, team leadership, retention programs, experience optimization, voice of customer, cross-functional collaboration, executive communication, and C-level customer positions.
+
+Goal: IT Intern to Chief Technology Officer | habit_count: 3 | task_count: 12 | Extra: 36-week technology executive journey; intern advancing through technical leadership, strategic planning, team building, innovation management, technology roadmaps, budget responsibility, board presentations, digital transformation, and CTO preparation.
+
+Goal: Research Technician to Clinical Research Director | habit_count: 3 | task_count: 11 | Extra: 18-week clinical leadership advancement; technician progressing through protocol development, regulatory compliance, team management, vendor oversight, budget planning, quality assurance, strategic initiatives, and clinical research executive roles.
+
+Goal: Procurement Specialist to Supply Chain Technology Manager | habit_count: 2 | task_count: 9 | Extra: 14-week supply chain tech advancement; specialist transitioning through supply chain analytics, ERP systems, vendor management platforms, process automation, data analysis, technology evaluation, team coordination, and supply chain technology leadership.
+
+Goal: Event Coordinator to Head of Digital Events | habit_count: 2 | task_count: 8 | Extra: 12-week digital events leadership; coordinator advancing through virtual event platforms, audience engagement, content strategy, technology integration, team management, budget optimization, measurement analytics, and digital events executive roles.
+
+Goal: Junior Analyst to Chief Data Officer | habit_count: 3 | task_count: 12 | Extra: 30-week data executive transformation; analyst advancing through data strategy, governance frameworks, team leadership, digital transformation, executive communication, board presentations, technology investments, organizational change, and C-level data positions.
+
+Goal: Help Desk Agent to Director of IT Operations | habit_count: 3 | task_count: 11 | Extra: 20-week IT operations leadership; agent advancing through infrastructure management, team leadership, strategic planning, vendor management, budget responsibility, process optimization, technology roadmaps, and IT operations executive roles.
+
+Goal: Junior Designer to Creative Director | habit_count: 2 | task_count: 9 | Extra: 14-week creative leadership evolution; designer advancing through creative strategy, team management, brand development, client relationships, creative processes, talent development, portfolio building, and creative director positions.
+
+Goal: Medical Technologist to Laboratory Information Systems Manager | habit_count: 2 | task_count: 10 | Extra: 16-week lab systems management; technologist transitioning through LIS administration, regulatory compliance, quality management, workflow optimization, staff training, vendor coordination, budget planning, and laboratory systems leadership roles.
+
+Goal: Junior Trader to Quantitative Trading Manager | habit_count: 3 | task_count: 11 | Extra: 18-week quant trading advancement; trader progressing through algorithmic trading, risk management, quantitative analysis, strategy development, team leadership, system optimization, regulatory compliance, and quantitative trading management positions.
+
+Goal: Administrative Assistant to Operations Excellence Manager | habit_count: 2 | task_count: 9 | Extra: 14-week operations leadership transition; assistant advancing through process improvement, project management, team coordination, efficiency optimization, change management, quality initiatives, stakeholder communication, and operations excellence roles.
+
+Goal: Technical Support to Developer Experience Manager | habit_count: 2 | task_count: 8 | Extra: 12-week DevEx leadership transition; support engineer advancing through developer advocacy, documentation strategy, tool optimization, community building, feedback analysis, process improvement, team management, and developer experience leadership roles.
+
+Goal: Junior Pharmacist to Clinical Informatics Director | habit_count: 3 | task_count: 11 | Extra: 18-week healthcare informatics leadership; pharmacist advancing through clinical systems, data analysis, workflow optimization, regulatory compliance, team management, technology evaluation, strategic planning, and clinical informatics executive positions.
+
+Goal: Sales Associate to Revenue Operations Director | habit_count: 2 | task_count: 10 | Extra: 16-week RevOps leadership advancement; associate progressing through sales analytics, process optimization, technology stack management, forecasting systems, team enablement, strategic planning, cross-functional collaboration, and revenue operations executive roles.
+
+Goal: Quality Control Technician to Regulatory Affairs Manager | habit_count: 2 | task_count: 9 | Extra: 14-week regulatory advancement; technician transitioning through compliance frameworks, regulatory submissions, quality systems, audit management, cross-functional collaboration, documentation standards, strategic planning, and regulatory affairs leadership positions.
+
+Goal: Junior Engineer to VP of Engineering | habit_count: 3 | task_count: 12 | Extra: 24-week engineering executive preparation; engineer advancing through technical leadership, team building, strategic planning, technology roadmaps, cross-functional collaboration, budget management, organizational scaling, and VP engineering responsibilities.
+
+Goal: Customer Success Associate to Head of Customer Success | habit_count: 2 | task_count: 9 | Extra: 14-week customer success leadership; associate advancing through success strategy, team management, retention programs, customer health metrics, cross-functional collaboration, process optimization, executive reporting, and customer success executive roles.
+
+Goal: Junior Researcher to Principal Data Scientist | habit_count: 3 | task_count: 11 | Extra: 18-week data science advancement; researcher progressing through advanced analytics, machine learning expertise, research methodology, team mentoring, strategic projects, stakeholder communication, innovation leadership, and principal data scientist positions.
+
+Goal: Bookkeeper to Financial Systems Manager | habit_count: 2 | task_count: 10 | Extra: 16-week financial systems leadership; bookkeeper advancing through ERP systems, process automation, financial reporting, system integration, team management, compliance oversight, technology evaluation, and financial systems management roles.
+
+Goal: Marketing Assistant to Chief Growth Officer | habit_count: 3 | task_count: 12 | Extra: 30-week growth executive transformation; assistant advancing through growth strategy, team leadership, data-driven marketing, expansion planning, partnership development, investor relations, board communications, and C-level growth positions.
+
+Goal: Junior Developer to Staff Software Engineer | habit_count: 3 | task_count: 11 | Extra: 18-week senior engineering advancement; developer progressing through system architecture, technical leadership, code quality standards, mentoring practices, cross-team collaboration, innovation projects, strategic planning, and staff engineer responsibilities.
+
+Goal: Administrative Clerk to Business Process Manager | habit_count: 2 | task_count: 9 | Extra: 14-week process management transition; clerk advancing through process mapping, improvement methodologies, change management, team coordination, efficiency metrics, stakeholder engagement, project management, and business process leadership roles.
+
+Goal: Junior Nurse to Clinical Informatics Specialist | habit_count: 2 | task_count: 10 | Extra: 16-week healthcare informatics transition; nurse advancing through clinical systems, workflow optimization, user training, data analysis, quality improvement, technology evaluation, interdisciplinary collaboration, and clinical informatics specialist positions.
+
+Goal: Sales Development Representative to Head of Sales Development | habit_count: 2 | task_count: 9 | Extra: 14-week sales development leadership; SDR advancing through team management, process optimization, technology stack, performance metrics, training programs, strategic planning, cross-functional collaboration, and sales development executive roles.
+
+Goal: Junior Consultant to Partner | habit_count: 3 | task_count: 12 | Extra: 36-week consulting partnership track; consultant advancing through client leadership, business development, practice building, thought leadership, team management, strategic initiatives, firm growth, and partnership responsibilities.
+
+Goal: Technical Writer to Head of Documentation | habit_count: 2 | task_count: 8 | Extra: 12-week documentation leadership; writer advancing through content strategy, team management, process optimization, user experience, tool evaluation, cross-functional collaboration, quality standards, and documentation executive roles.
+
+Goal: Junior Actuary to Chief Risk Officer | habit_count: 3 | task_count: 12 | Extra: 24-week risk executive preparation; actuary advancing through risk modeling, regulatory compliance, team leadership, strategic planning, board reporting, enterprise risk management, stakeholder communication, and C-level risk positions.
+
+Goal: Operations Coordinator to Chief Operating Officer | habit_count: 3 | task_count: 12 | Extra: 36-week operations executive journey; coordinator advancing through operational excellence, strategic planning, team leadership, process optimization, cross-functional collaboration, P&L responsibility, organizational scaling, and COO preparation.
+
+Goal: Junior Architect to Principal Solutions Architect | habit_count: 3 | task_count: 11 | Extra: 18-week architecture advancement; architect progressing through enterprise patterns, client engagement, technical strategy, team mentoring, innovation projects, thought leadership, practice development, and principal architect positions.
+
+Goal: HR Coordinator to Chief Human Resources Officer | habit_count: 3 | task_count: 12 | Extra: 30-week HR executive transformation; coordinator advancing through people strategy, organizational development, culture transformation, talent management, executive leadership, board communications, change management, and CHRO responsibilities.
+
+Goal: Junior Statistician to Head of Data Science | habit_count: 3 | task_count: 11 | Extra: 18-week data science leadership; statistician advancing through advanced analytics, machine learning, team management, strategic planning, stakeholder communication, research methodology, innovation projects, and data science executive roles.
+
+Goal: Field Service Technician to Director of Field Operations | habit_count: 2 | task_count: 10 | Extra: 16-week field operations leadership; technician advancing through team management, process optimization, technology deployment, performance metrics, strategic planning, budget responsibility, cross-functional collaboration, and field operations executive positions.
+
+Goal: Junior Product Manager to Chief Product Officer | habit_count: 3 | task_count: 12 | Extra: 24-week product executive preparation; PM advancing through product strategy, team leadership, roadmap planning, market analysis, cross-functional collaboration, P&L responsibility, innovation management, and CPO responsibilities.
+
+Goal: Compliance Analyst to Chief Compliance Officer | habit_count: 3 | task_count: 11 | Extra: 20-week compliance executive advancement; analyst progressing through regulatory frameworks, risk assessment, team leadership, audit management, policy development, stakeholder communication, strategic planning, and CCO preparation.
+
+Goal: Junior Investigator to Fraud Analytics Manager | habit_count: 2 | task_count: 9 | Extra: 14-week fraud analytics leadership; investigator advancing through data analysis, pattern recognition, machine learning applications, team management, process optimization, technology evaluation, stakeholder reporting, and fraud analytics management roles.
+
+Goal: Technical Recruiter to Head of Talent Acquisition | habit_count: 2 | task_count: 8 | Extra: 12-week talent acquisition leadership; recruiter advancing through recruitment strategy, team management, diversity initiatives, candidate experience, technology optimization, metrics analysis, stakeholder partnership, and talent acquisition executive roles.
+
+Goal: Junior Attorney to Legal Technology Manager | habit_count: 2 | task_count: 9 | Extra: 14-week legal technology advancement; attorney transitioning through legal tech platforms, process automation, contract management systems, compliance technology, team coordination, vendor management, strategic planning, and legal technology leadership positions.
+
+Goal: Budget Analyst to Chief Financial Officer | habit_count: 3 | task_count: 12 | Extra: 30-week finance executive transformation; analyst advancing through financial strategy, team leadership, investor relations, board communications, strategic planning, M&A support, risk management, and CFO preparation.
+
+Goal: Junior Scientist to Research and Development Director | habit_count: 3 | task_count: 11 | Extra: 18-week R&D leadership advancement; scientist progressing through research strategy, team management, innovation processes, project portfolio, intellectual property, collaboration partnerships, budget planning, and R&D executive roles.
+
+Goal: Security Analyst to Chief Information Security Officer | habit_count: 3 | task_count: 12 | Extra: 24-week cybersecurity executive preparation; analyst advancing through security strategy, team leadership, risk management, compliance frameworks, incident response, board reporting, technology roadmaps, and CISO responsibilities.
+
+Goal: Junior Economist to Chief Economist | habit_count: 3 | task_count: 11 | Extra: 20-week economics leadership advancement; economist progressing through economic modeling, policy analysis, team management, strategic advisory, research publications, stakeholder communication, thought leadership, and chief economist positions.
+
+Goal: Program Coordinator to Chief Strategy Officer | habit_count: 3 | task_count: 12 | Extra: 30-week strategy executive transformation; coordinator advancing through strategic planning, competitive analysis, market research, team leadership, executive communication, board presentations, transformation initiatives, and CSO preparation.
+
+Goal: Junior Auditor to Chief Audit Executive | habit_count: 3 | task_count: 11 | Extra: 20-week audit leadership advancement; auditor progressing through audit strategy, team management, risk assessment, compliance oversight, stakeholder communication, technology integration, governance frameworks, and CAE responsibilities.
+
+Goal: Training Specialist to Chief Learning Officer | habit_count: 2 | task_count: 10 | Extra: 16-week learning leadership advancement; specialist advancing through learning strategy, team management, technology platforms, curriculum development, performance measurement, organizational development, talent development, and CLO positions.
+
+Goal: Junior Planner to Head of Strategic Planning | habit_count: 2 | task_count: 9 | Extra: 14-week strategic planning leadership; planner advancing through strategic analysis, scenario planning, team coordination, stakeholder engagement, performance measurement, competitive intelligence, execution planning, and strategic planning executive roles.
+
+Goal: Communications Specialist to Chief Communications Officer | habit_count: 2 | task_count: 10 | Extra: 16-week communications executive advancement; specialist progressing through communications strategy, crisis management, stakeholder relations, team leadership, brand management, media relations, executive communications, and CCO responsibilities.
+
+Goal: Junior Investor Relations Analyst to Head of Investor Relations | habit_count: 2 | task_count: 9 | Extra: 14-week IR leadership advancement; analyst advancing through investor strategy, earnings communications, roadshow management, stakeholder relations, financial analysis, presentation skills, team coordination, and IR executive roles.
+
+Goal: Sustainability Coordinator to Chief Sustainability Officer | habit_count: 3 | task_count: 11 | Extra: 18-week sustainability leadership; coordinator advancing through sustainability strategy, ESG reporting, stakeholder engagement, team management, program development, regulatory compliance, innovation initiatives, and CSO positions.
+
+Goal: Junior Treasurer to Chief Financial Officer | habit_count: 3 | task_count: 12 | Extra: 24-week finance executive preparation; treasurer advancing through financial strategy, capital management, risk oversight, team leadership, investor relations, strategic planning, board communications, and CFO responsibilities.
+
+Goal: Privacy Analyst to Chief Privacy Officer | habit_count: 2 | task_count: 10 | Extra: 16-week privacy leadership advancement; analyst progressing through privacy strategy, regulatory compliance, risk assessment, team management, policy development, training programs, incident response, and CPO positions.
+
+Goal: Junior Business Development to Chief Revenue Officer | habit_count: 3 | task_count: 12 | Extra: 24-week revenue executive transformation; BD professional advancing through revenue strategy, sales leadership, marketing alignment, customer success, strategic partnerships, team building, performance optimization, and CRO preparation.
+
+Goal: Innovation Analyst to Chief Innovation Officer | habit_count: 3 | task_count: 11 | Extra: 18-week innovation leadership advancement; analyst progressing through innovation strategy, ecosystem development, team management, startup partnerships, technology scouting, investment decisions, culture transformation, and CIO positions.
+
+Goal: Junior Portfolio Manager to Chief Investment Officer | habit_count: 3 | task_count: 12 | Extra: 20-week investment leadership advancement; manager progressing through investment strategy, portfolio optimization, risk management, team leadership, client relations, performance analysis, market research, and CIO responsibilities.
+
+Goal: Regulatory Specialist to Chief Regulatory Officer | habit_count: 2 | task_count: 10 | Extra: 16-week regulatory leadership advancement; specialist advancing through regulatory strategy, compliance frameworks, team management, agency relations, policy advocacy, risk assessment, strategic planning, and CRO positions.
+
+Goal: Junior Credit Analyst to Chief Credit Officer | habit_count: 3 | task_count: 11 | Extra: 18-week credit leadership advancement; analyst progressing through credit strategy, risk modeling, team management, portfolio oversight, regulatory compliance, policy development, stakeholder communication, and CCO responsibilities.
+
+Goal: Environmental Analyst to Chief Environmental Officer | habit_count: 2 | task_count: 9 | Extra: 14-week environmental leadership advancement; analyst advancing through environmental strategy, sustainability programs, regulatory compliance, team coordination, stakeholder engagement, reporting systems, innovation initiatives, and CEO positions.
+
+Goal: Junior Brand Manager to Chief Brand Officer | habit_count: 2 | task_count: 10 | Extra: 16-week brand leadership advancement; manager progressing through brand strategy, team management, creative direction, market research, customer insights, partnership development, global expansion, and CBO responsibilities.
+
+Goal: Digital Analyst to Chief Digital Officer | habit_count: 3 | task_count: 11 | Extra: 18-week digital leadership advancement; analyst advancing

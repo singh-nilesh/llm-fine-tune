@@ -1,0 +1,434 @@
+Goal,habit,task,extra 
+Goal: Learn HTML and CSS Basics,habit_count: 3,task_count: 8,"Extra: 6-week web development foundation; computer science freshman with zero coding experience, targeting first website creation through daily HTML practice, CSS styling exercises, responsive design basics, flexbox learning, grid layouts, color theory study, typography fundamentals, and portfolio page completion."
+,,,
+Goal: Master JavaScript Fundamentals,habit_count: 3,task_count: 9,"Extra: 8-week programming introduction; information systems student switching from business major, targeting interactive web development through variable practice, function creation, DOM manipulation, event handling, array methods, object basics, debugging techniques, browser console usage, and simple calculator project."
+,,,
+Goal: Understand Git Version Control,habit_count: 2,task_count: 6,"Extra: 3-week development workflow; software engineering sophomore collaborating on group projects, targeting version control mastery through repository creation, commit practice, branch management, merge conflict resolution, GitHub account setup, and team collaboration simulation."
+,,,
+Goal: Learn Python Programming Basics,habit_count: 3,task_count: 7,"Extra: 10-week coding foundation; data science freshman with no programming background, targeting Python proficiency through daily syntax practice, variable manipulation, loop structures, function writing, list operations, dictionary usage, and simple data analysis project."
+,,,
+Goal: Master SQL Database Queries,habit_count: 2,task_count: 8,"Extra: 5-week database foundation; business analytics student learning data management, targeting query writing through SELECT statement practice, JOIN operations, WHERE clause filtering, GROUP BY aggregation, table creation, data insertion, relationship understanding, and business report generation."
+,,,
+Goal: Understand Object-Oriented Programming,habit_count: 3,task_count: 6,"Extra: 7-week Java concepts; computer science sophomore struggling with OOP principles, targeting class design through object creation, inheritance practice, encapsulation understanding, polymorphism examples, method overriding, and simple game development."
+,,,
+Goal: Learn React.js Components,habit_count: 2,task_count: 9,"Extra: 6-week frontend framework; web development student building modern interfaces, targeting component mastery through JSX syntax, props passing, state management, event handling, conditional rendering, list rendering, form creation, styling integration, and todo app project."
+,,,
+Goal: Master Command Line Interface,habit_count: 3,task_count: 5,"Extra: 4-week terminal skills; computer science freshman intimidated by command line, targeting CLI proficiency through daily navigation practice, file manipulation, directory operations, permission changes, and script execution."
+,,,
+Goal: Understand API Integration Basics,habit_count: 2,task_count: 7,"Extra: 5-week web services; full-stack development student learning backend communication, targeting API usage through HTTP methods, JSON parsing, authentication basics, error handling, response processing, documentation reading, and weather app creation."
+,,,
+Goal: Learn C++ Programming Fundamentals,habit_count: 3,task_count: 8,"Extra: 9-week systems programming; computer engineering student preparing for advanced courses, targeting C++ mastery through syntax learning, pointer understanding, memory management, class implementation, inheritance practice, file operations, debugging skills, and console application development."
+,,,
+Goal: Master Excel for Data Analysis,habit_count: 2,task_count: 6,"Extra: 4-week spreadsheet skills; business student preparing for internships, targeting Excel proficiency through formula creation, pivot table construction, chart generation, data cleaning, VLOOKUP usage, and financial model building."
+,,,
+Goal: Understand Network Security Basics,habit_count: 2,task_count: 7,"Extra: 6-week cybersecurity introduction; information technology student interested in security, targeting security awareness through password management, encryption understanding, firewall basics, malware recognition, secure browsing habits, vulnerability assessment, and security audit simulation."
+,,,
+Goal: Learn Mobile App Development Basics,habit_count: 3,task_count: 9,"Extra: 8-week app creation; computer science student wanting mobile skills, targeting Android development through Java basics, XML layouts, activity lifecycle, user interface design, event handling, data storage, API integration, testing procedures, and simple utility app publication."
+,,,
+Goal: Master Data Structures and Algorithms,habit_count: 3,task_count: 8,"Extra: 10-week computer science foundation; software engineering student preparing for technical interviews, targeting algorithmic thinking through array manipulation, linked list implementation, stack and queue operations, sorting algorithms, searching techniques, time complexity analysis, space optimization, and coding challenge practice."
+,,,
+Goal: Understand Cloud Computing Basics,habit_count: 2,task_count: 6,"Extra: 5-week cloud introduction; information systems student learning modern infrastructure, targeting cloud literacy through AWS account setup, virtual machine creation, storage configuration, service exploration, cost monitoring, and simple web application deployment."
+,,,
+Goal: Learn WordPress Website Creation,habit_count: 2,task_count: 7,"Extra: 4-week content management; digital marketing student building online presence, targeting WordPress mastery through theme installation, plugin configuration, content creation, SEO optimization, security setup, backup procedures, and business website launch."
+,,,
+Goal: Master Adobe Creative Suite Basics,habit_count: 3,task_count: 8,"Extra: 7-week design foundation; graphic design student learning industry tools, targeting creative software through Photoshop basics, Illustrator fundamentals, InDesign layouts, color correction, vector graphics, typography design, logo creation, and portfolio development."
+,,,
+Goal: Understand Machine Learning Concepts,habit_count: 2,task_count: 9,"Extra: 8-week AI introduction; data science student exploring artificial intelligence, targeting ML understanding through Python libraries, data preprocessing, model training, algorithm comparison, prediction accuracy, visualization techniques, feature selection, supervised learning, and simple classification project."
+,,,
+Goal: Learn Cybersecurity Fundamentals,habit_count: 3,task_count: 7,"Extra: 6-week security awareness; computer science student concerned about digital safety, targeting security knowledge through threat identification, penetration testing basics, encryption implementation, secure coding practices, risk assessment, incident response, and security certification preparation."
+,,,
+Goal: Master Agile Development Methodology,habit_count: 2,task_count: 6,"Extra: 5-week project management; software engineering student learning industry practices, targeting Agile understanding through sprint planning, user story creation, daily standups, retrospective meetings, collaboration tools, and team project simulation."
+,,,
+Goal: Understand Blockchain Technology Basics,habit_count: 2,task_count: 8,"Extra: 7-week cryptocurrency foundation; finance student exploring digital currencies, targeting blockchain literacy through concept understanding, cryptocurrency basics, smart contract introduction, wallet setup, transaction tracking, mining concepts, security considerations, and investment analysis."
+,,,
+Goal: Learn UI/UX Design Principles,habit_count: 3,task_count: 7,"Extra: 6-week design thinking; computer science student wanting better interfaces, targeting user experience through wireframe creation, prototype development, user research, accessibility guidelines, color theory, typography selection, and usability testing."
+,,,
+Goal: Master PowerBI Data Visualization,habit_count: 2,task_count: 6,"Extra: 4-week business intelligence; data analytics student preparing for internships, targeting visualization skills through dashboard creation, data connection, chart selection, interactive features, report sharing, and business presentation preparation."
+,,,
+Goal: Understand Docker Containerization,habit_count: 2,task_count: 7,"Extra: 5-week DevOps introduction; software engineering student learning deployment, targeting containerization through Docker installation, image creation, container management, volume mounting, network configuration, compose files, and application deployment."
+,,,
+Goal: Learn Tableau for Data Analysis,habit_count: 3,task_count: 8,"Extra: 6-week visualization mastery; business analytics student creating compelling charts, targeting Tableau proficiency through data connection, chart creation, dashboard building, calculated fields, parameter usage, story telling, filter implementation, and client presentation."
+,,,
+Goal: Master Google Analytics Setup,habit_count: 2,task_count: 5,"Extra: 3-week web analytics; digital marketing student tracking website performance, targeting analytics understanding through account setup, tracking code installation, goal configuration, audience analysis, and traffic reporting."
+,,,
+Goal: Understand Selenium Test Automation,habit_count: 3,task_count: 7,"Extra: 7-week quality assurance; computer science student learning testing, targeting automation skills through tool installation, script writing, element identification, test case creation, framework setup, continuous integration, and bug reporting."
+,,,
+Goal: Learn Figma Design Tool,habit_count: 2,task_count: 6,"Extra: 4-week design software; graphic design student creating digital mockups, targeting Figma mastery through interface design, component creation, prototyping basics, collaboration features, version control, and client presentation."
+,,,
+Goal: Master Jenkins CI/CD Pipeline,habit_count: 2,task_count: 8,"Extra: 6-week DevOps automation; software engineering student learning deployment automation, targeting pipeline creation through Jenkins installation, job configuration, build automation, testing integration, deployment scripting, monitoring setup, notification configuration, and rollback procedures."
+,,,
+Goal: Understand TensorFlow Machine Learning,habit_count: 3,task_count: 9,"Extra: 8-week deep learning introduction; computer science student exploring AI frameworks, targeting TensorFlow usage through library installation, neural network creation, model training, data preprocessing, performance optimization, visualization techniques, model saving, prediction implementation, and image classification project."
+,,,
+Goal: Learn Shopify E-commerce Setup,habit_count: 2,task_count: 7,"Extra: 5-week online business; entrepreneurship student launching online store, targeting e-commerce mastery through store creation, product listing, payment setup, shipping configuration, theme customization, SEO optimization, and marketing integration."
+,,,
+Goal: Master Unity Game Development,habit_count: 3,task_count: 8,"Extra: 9-week game creation; computer science student interested in gaming industry, targeting Unity skills through engine installation, scene creation, scripting basics, physics implementation, animation setup, UI design, sound integration, and simple 2D game publication."
+,,,
+Goal: Understand Kubernetes Orchestration,habit_count: 2,task_count: 9,"Extra: 7-week container management; DevOps student learning scalability, targeting Kubernetes deployment through cluster setup, pod configuration, service creation, volume management, scaling automation, monitoring implementation, security policies, troubleshooting techniques, and microservices deployment."
+,,,
+Goal: Learn Photoshop Digital Art,habit_count: 3,task_count: 6,"Extra: 6-week digital creativity; art student transitioning to digital medium, targeting Photoshop artistry through brush techniques, layer management, color blending, digital painting, photo manipulation, and portfolio creation."
+,,,
+Goal: Master Zoom Integration Development,habit_count: 2,task_count: 7,"Extra: 4-week video conferencing; software development student building communication tools, targeting Zoom API through SDK installation, meeting creation, participant management, recording features, webhook setup, authentication implementation, and custom application development."
+,,,
+Goal: Understand IoT Device Programming,habit_count: 3,task_count: 8,"Extra: 8-week embedded systems; electrical engineering student learning connected devices, targeting IoT development through Arduino programming, sensor integration, wireless communication, data collection, cloud connectivity, mobile app interface, security implementation, and smart home project."
+,,,
+Goal: Learn MongoDB Database Management,habit_count: 2,task_count: 6,"Extra: 5-week NoSQL databases; full-stack developer student exploring document storage, targeting MongoDB skills through database creation, document insertion, query optimization, indexing strategies, aggregation pipelines, and web application integration."
+,,,
+Goal: Master Slack Bot Development,habit_count: 2,task_count: 7,"Extra: 4-week workplace automation; computer science student building productivity tools, targeting bot creation through API integration, command handling, message processing, workflow automation, user interaction, deployment setup, and team collaboration enhancement."
+,,,
+Goal: Understand Raspberry Pi Programming,habit_count: 3,task_count: 8,"Extra: 7-week hardware programming; computer engineering student learning embedded development, targeting Pi mastery through Linux setup, GPIO programming, sensor interfacing, camera integration, network configuration, automation scripts, remote access, and IoT project creation."
+,,,
+Goal: Learn Sketch App Design,habit_count: 2,task_count: 5,"Extra: 5-week interface design; UX design student creating mobile mockups, targeting Sketch proficiency through symbol creation, artboard management, plugin usage, prototype linking, and design system development."
+,,,
+Goal: Master Apache Web Server Setup,habit_count: 2,task_count: 8,"Extra: 6-week server administration; information technology student learning web hosting, targeting Apache configuration through installation process, virtual host setup, SSL certificate installation, performance optimization, security hardening, log analysis, module configuration, and website deployment."
+,,,
+Goal: Understand Flutter Mobile Development,habit_count: 3,task_count: 9,"Extra: 8-week cross-platform apps; software engineering student targeting iOS and Android, mastering Flutter through Dart language learning, widget composition, state management, navigation setup, API integration, database connectivity, testing implementation, performance optimization, and app store publication."
+,,,
+Goal: Learn Jira Project Management,habit_count: 2,task_count: 6,"Extra: 4-week agile tools; project management student organizing development workflows, targeting Jira mastery through project setup, issue tracking, sprint planning, board configuration, reporting features, and team collaboration."
+,,,
+Goal: Master Postman API Testing,habit_count: 2,task_count: 7,"Extra: 3-week API development; full-stack student testing backend services, targeting Postman skills through request creation, response validation, test scripting, environment variables, collection organization, automation setup, and documentation generation."
+,,,
+Goal: Understand Salesforce CRM Basics,habit_count: 2,task_count: 8,"Extra: 6-week customer management; business student preparing for CRM roles, targeting Salesforce proficiency through account setup, contact management, opportunity tracking, report generation, dashboard creation, workflow automation, user permissions, and certification preparation."
+,,,
+Goal: Learn Blender 3D Modeling,habit_count: 3,task_count: 7,"Extra: 9-week 3D creation; digital arts student exploring 3D graphics, targeting Blender mastery through interface navigation, modeling techniques, texturing basics, lighting setup, animation principles, rendering optimization, and creative project completion."
+,,,
+Goal: Master GitHub Actions Automation,habit_count: 2,task_count: 8,"Extra: 5-week workflow automation; software development student streamlining deployment, targeting GitHub Actions through workflow creation, trigger configuration, action marketplace, secrets management, matrix builds, artifact handling, deployment automation, and continuous integration setup."
+,,,
+Goal: Understand PowerShell Scripting,habit_count: 3,task_count: 6,"Extra: 6-week Windows automation; information technology student managing systems, targeting PowerShell proficiency through command basics, variable usage, function creation, file manipulation, system administration, and automation script development."
+,,,
+Goal: Learn Sketch to Code Conversion,habit_count: 2,task_count: 9,"Extra: 7-week design implementation; frontend developer student bridging design and development, targeting conversion skills through design analysis, HTML structure, CSS styling, responsive adaptation, component creation, interaction implementation, browser testing, performance optimization, and pixel-perfect execution."
+,,,
+Goal: Master Contentful CMS Management,habit_count: 2,task_count: 7,"Extra: 4-week headless CMS; web development student building modern websites, targeting Contentful usage through space setup, content modeling, entry creation, API integration, webhook configuration, localization setup, and frontend implementation."
+,,,
+Goal: Understand Stripe Payment Integration,habit_count: 2,task_count: 8,"Extra: 5-week e-commerce payments; full-stack student building online stores, targeting payment processing through API setup, checkout creation, subscription handling, webhook processing, security implementation, testing procedures, compliance understanding, and customer management."
+,,,
+Goal: Learn Adobe XD Prototyping,habit_count: 3,task_count: 6,"Extra: 5-week interaction design; UX student creating interactive prototypes, targeting XD mastery through artboard creation, component design, micro-interactions, user flow mapping, prototype sharing, and stakeholder feedback collection."
+,,,
+Goal: Master Notion Workspace Organization,habit_count: 2,task_count: 5,"Extra: 3-week productivity setup; business student organizing academic life, targeting Notion proficiency through database creation, template design, automation setup, collaboration features, and workflow optimization."
+,,,
+Goal: Understand Linux Server Administration,habit_count: 3,task_count: 9,"Extra: 8-week system management; computer science student learning server operations, targeting Linux skills through command line mastery, file permissions, user management, service configuration, network setup, security hardening, backup procedures, monitoring implementation, and troubleshooting techniques."
+,,,
+Goal: Learn Zapier Workflow Automation,habit_count: 2,task_count: 6,"Extra: 4-week process automation; business student connecting applications, targeting Zapier mastery through trigger setup, action configuration, multi-step workflows, error handling, testing procedures, and productivity enhancement."
+,,,
+Goal: Master Canva Design Templates,habit_count: 2,task_count: 7,"Extra: 3-week visual content; marketing student creating social media graphics, targeting Canva proficiency through template customization, brand kit setup, element library usage, animation features, collaboration tools, publishing options, and content calendar management."
+,,,
+Goal: Understand Firebase App Backend,habit_count: 3,task_count: 8,"Extra: 7-week serverless development; mobile app student building backend services, targeting Firebase implementation through project setup, authentication integration, database configuration, cloud functions, file storage, hosting deployment, analytics tracking, and security rules."
+,,,
+Goal: Learn Trello Project Boards,habit_count: 2,task_count: 5,"Extra: 2-week task management; project management student organizing team workflows, targeting Trello mastery through board creation, card organization, team collaboration, automation rules, and productivity tracking."
+,,,
+Goal: Master Webflow Visual Development,habit_count: 2,task_count: 8,"Extra: 6-week no-code websites; design student building responsive sites, targeting Webflow skills through visual editor, CMS setup, interaction design, responsive breakpoints, SEO optimization, form creation, e-commerce integration, and client handoff."
+,,,
+Goal: Understand Discord Bot Creation,habit_count: 3,task_count: 7,"Extra: 5-week community automation; computer science student building server tools, targeting bot development through Discord API, command handling, event listeners, database integration, moderation features, deployment setup, and community engagement."
+,,,
+Goal: Learn Airtable Database Design,habit_count: 2,task_count: 6,"Extra: 4-week relational data; business student organizing complex information, targeting Airtable proficiency through base creation, field configuration, view customization, automation setup, form creation, and team collaboration."
+,,,
+Goal: Master Twilio Communication APIs,habit_count: 2,task_count: 8,"Extra: 6-week messaging integration; software development student building communication features, targeting Twilio implementation through SMS sending, voice calls, WhatsApp integration, video conferencing, authentication services, webhook handling, error management, and customer communication."
+,,,
+Goal: Understand HubSpot Marketing Automation,habit_count: 2,task_count: 7,"Extra: 5-week inbound marketing; marketing student learning lead generation, targeting HubSpot usage through contact management, email campaigns, landing pages, workflow automation, analytics tracking, lead scoring, and sales pipeline management."
+,,,
+Goal: Learn Squarespace Website Building,habit_count: 2,task_count: 6,"Extra: 4-week website creation; entrepreneurship student launching business site, targeting Squarespace mastery through template selection, content customization, e-commerce setup, SEO optimization, analytics integration, and domain connection."
+,,,
+Goal: Master Mailchimp Email Marketing,habit_count: 3,task_count: 7,"Extra: 5-week email campaigns; marketing student building subscriber relationships, targeting Mailchimp proficiency through audience segmentation, campaign creation, automation workflows, A/B testing, performance analytics, template design, and subscriber growth strategies."
+,,,
+Goal: Understand Heroku App Deployment,habit_count: 2,task_count: 8,"Extra: 4-week cloud hosting; web development student deploying applications, targeting Heroku mastery through app creation, database integration, environment variables, scaling configuration, monitoring setup, CI/CD pipelines, troubleshooting deployment, and cost optimization."
+,,,
+Goal: Learn Shopify Liquid Templating,habit_count: 3,task_count: 6,"Extra: 6-week theme customization; e-commerce student personalizing online stores, targeting Liquid programming through syntax understanding, template modification, data manipulation, loop structures, conditional logic, and custom functionality development."
+,,,
+Goal: Master Google Ads Campaign Setup,habit_count: 2,task_count: 9,"Extra: 7-week digital advertising; marketing student driving online traffic, targeting Google Ads through keyword research, ad creation, bidding strategies, audience targeting, conversion tracking, budget optimization, performance analysis, quality score improvement, and ROI measurement."
+,,,
+Goal: Understand Elasticsearch Data Search,habit_count: 2,task_count: 7,"Extra: 6-week search engine; data science student building search functionality, targeting Elasticsearch through index creation, document mapping, query construction, aggregation analysis, performance optimization, cluster management, and search interface development."
+,,,
+Goal: Learn ClickFunnels Sales Pages,habit_count: 2,task_count: 6,"Extra: 4-week conversion optimization; marketing student building sales funnels, targeting ClickFunnels mastery through funnel design, page templates, A/B testing, payment integration, email automation, and conversion tracking."
+,,,
+Goal: Master Gutenberg WordPress Blocks,habit_count: 3,task_count: 8,"Extra: 5-week content creation; web development student customizing WordPress sites, targeting Gutenberg proficiency through block editor, custom blocks, pattern creation, theme integration, responsive design, accessibility features, SEO optimization, and client training."
+,,,
+Goal: Understand Netlify Static Hosting,habit_count: 2,task_count: 7,"Extra: 3-week JAMstack deployment; frontend student deploying static sites, targeting Netlify usage through Git integration, build configuration, form handling, function deployment, domain setup, performance optimization, and continuous deployment."
+,,,
+Goal: Learn Bubble No-Code Development,habit_count: 2,task_count: 9,"Extra: 8-week visual programming; entrepreneurship student building web applications, targeting Bubble mastery through visual editor, database design, workflow creation, user authentication, responsive layouts, API connections, payment processing, app publishing, and user testing."
+,,,
+Goal: Master Klaviyo Email Automation,habit_count: 3,task_count: 7,"Extra: 6-week e-commerce marketing; marketing student driving sales through email, targeting Klaviyo proficiency through customer segmentation, automated flows, personalization strategies, A/B testing, performance analytics, integration setup, and revenue attribution."
+,,,
+Goal: Understand Vercel Frontend Deployment,habit_count: 2,task_count: 6,"Extra: 4-week modern hosting; React developer student deploying applications, targeting Vercel mastery through project deployment, environment variables, preview deployments, domain configuration, analytics setup, and performance optimization."
+,,,
+Goal: Learn Webex Integration Development,habit_count: 2,task_count: 8,"Extra: 5-week video conferencing; software engineering student building meeting tools, targeting Webex API through SDK integration, meeting scheduling, participant management, recording features, webhook implementation, authentication setup, custom applications, and enterprise integration."
+,,,
+Goal: Master ConvertKit Email Marketing,habit_count: 2,task_count: 7,"Extra: 5-week creator marketing; content creation student building audience, targeting ConvertKit usage through subscriber management, automated sequences, landing page creation, tag organization, broadcast campaigns, integration setup, and audience growth strategies."
+,,,
+Goal: Understand Supabase Backend Services,habit_count: 3,task_count: 8,"Extra: 6-week Firebase alternative; full-stack student building modern applications, targeting Supabase implementation through database setup, authentication integration, real-time subscriptions, file storage, edge functions, API generation, security policies, and frontend integration."
+,,,
+Goal: Learn Loom Video Recording,habit_count: 2,task_count: 5,"Extra: 3-week content creation; education student creating instructional videos, targeting Loom proficiency through screen recording, video editing, sharing options, viewer analytics, team collaboration, and educational content creation."
+,,,
+Goal: Master Typeform Survey Creation,habit_count: 2,task_count: 6,"Extra: 4-week data collection; research student gathering feedback, targeting Typeform usage through form design, logic branching, response analysis, integration setup, custom branding, and survey optimization strategies."
+,,,
+Goal: Understand PlanetScale Database Scaling,habit_count: 2,task_count: 9,"Extra: 7-week database management; backend development student learning scalable databases, targeting PlanetScale through branching workflows, schema migrations, query optimization, connection management, monitoring setup, backup procedures, scaling strategies, performance tuning, and production deployment."
+,,,
+Goal: Learn Calendly Scheduling Automation,habit_count: 2,task_count: 6,"Extra: 3-week appointment booking; business student streamlining meetings, targeting Calendly mastery through availability setup, meeting types, integration connections, automated reminders, team scheduling, and workflow optimization."
+,,,
+Goal: Master Framer Motion Animations,habit_count: 3,task_count: 7,"Extra: 6-week React animations; frontend student creating engaging interfaces, targeting Framer Motion through component animations, gesture handling, layout transitions, scroll-triggered effects, variant management, performance optimization, and interactive prototypes."
+,,,
+Goal: Understand Stripe Connect Marketplace,habit_count: 2,task_count: 8,"Extra: 7-week platform payments; fintech student building marketplace platforms, targeting Connect implementation through account onboarding, payment splitting, fee collection, payout management, compliance handling, dispute resolution, KYC verification, and platform economics."
+,,,
+Goal: Learn Ghost CMS Publishing,habit_count: 2,task_count: 6,"Extra: 4-week content management; journalism student building publication platform, targeting Ghost mastery through content creation, theme customization, membership setup, newsletter integration, SEO optimization, and audience building."
+,,,
+Goal: Master Algolia Search Implementation,habit_count: 2,task_count: 7,"Extra: 5-week search optimization; e-commerce student improving site search, targeting Algolia integration through index configuration, search interface, filtering options, analytics tracking, autocomplete features, personalization setup, and performance monitoring."
+,,,
+Goal: Understand Railway App Deployment,habit_count: 2,task_count: 8,"Extra: 4-week cloud deployment; full-stack student hosting applications, targeting Railway usage through project setup, database connection, environment configuration, scaling options, monitoring tools, CI/CD integration, custom domains, and cost management."
+,,,
+Goal: Learn Tally Form Creation,habit_count: 2,task_count: 5,"Extra: 3-week form building; UX researcher student collecting user feedback, targeting Tally mastery through form design, response collection, data analysis, integration setup, and user experience optimization."
+,,,
+Goal: Master Plausible Analytics Setup,habit_count: 2,task_count: 6,"Extra: 3-week privacy analytics; web developer student implementing cookieless tracking, targeting Plausible through script installation, goal configuration, dashboard customization, data interpretation, team sharing, and privacy-first analytics."
+,,,
+Goal: Understand Sanity CMS Integration,habit_count: 3,task_count: 8,"Extra: 6-week headless content; JAMstack developer student building flexible websites, targeting Sanity implementation through studio setup, schema design, content modeling, API integration, real-time preview, collaborative editing, deployment automation, and frontend consumption."
+,,,
+Goal: Learn Luma Event Management,habit_count: 2,task_count: 7,"Extra: 5-week event organization; community management student hosting virtual events, targeting Luma proficiency through event creation, attendee management, ticketing setup, networking features, analytics tracking, integration options, and community building."
+,,,
+Goal: Master Linear Issue Tracking,habit_count: 2,task_count: 6,"Extra: 4-week project management; software team student organizing development workflow, targeting Linear usage through issue creation, sprint planning, team collaboration, workflow automation, reporting features, and productivity optimization."
+,,,
+Goal: Understand Prisma Database Toolkit,habit_count: 3,task_count: 9,"Extra: 7-week database abstraction; backend development student simplifying database operations, targeting Prisma mastery through schema definition, migration management, type safety, query optimization, relation handling, database seeding, performance monitoring, multi-database support, and ORM best practices."
+,,,
+Goal: Learn Retool Internal Tools,habit_count: 2,task_count: 8,"Extra: 6-week admin dashboard; startup student building internal applications, targeting Retool development through drag-drop interface, database connections, API integrations, user permissions, workflow automation, custom components, team collaboration, and business process optimization."
+,,,
+Goal: Master Clerk User Authentication,habit_count: 2,task_count: 7,"Extra: 4-week secure login; web application student implementing user management, targeting Clerk integration through authentication setup, user profiles, social logins, session management, security features, customization options, and seamless user experience."
+,,,
+Goal: Understand Turborepo Monorepo Management,habit_count: 2,task_count: 8,"Extra: 5-week code organization; full-stack team student managing multiple projects, targeting Turborepo through workspace setup, build optimization, dependency management, shared configurations, deployment strategies, performance monitoring, team workflows, and scalable architecture."
+,,,
+Goal: Learn Remix Full-Stack Framework,habit_count: 3,task_count: 9,"Extra: 8-week modern React; web development student building fast applications, targeting Remix mastery through routing system, data loading, form handling, error boundaries, progressive enhancement, server-side rendering, deployment options, performance optimization, and user experience focus."
+,,,
+Goal: Master Upstash Serverless Redis,habit_count: 2,task_count: 7,"Extra: 5-week caching solutions; backend student optimizing application performance, targeting Upstash implementation through cache setup, data structures, expiration policies, connection management, performance monitoring, cost optimization, and scalable caching strategies."
+,,,
+Goal: Understand Neon Serverless Postgres,habit_count: 2,task_count: 8,"Extra: 6-week modern database; full-stack student building scalable applications, targeting Neon usage through database creation, connection pooling, branching workflows, query optimization, backup strategies, monitoring setup, cost management, and production deployment."
+,,,
+Goal: Learn Raycast Extension Development,habit_count: 2,task_count: 6,"Extra: 4-week productivity tools; Mac user student building custom workflows, targeting Raycast extensions through TypeScript development, API integration, command creation, UI components, store publishing, and productivity enhancement."
+,,,
+Goal: Master Deno Runtime Development,habit_count: 3,task_count: 8,"Extra: 7-week JavaScript runtime; systems programming student exploring Node.js alternatives, targeting Deno proficiency through TypeScript integration, built-in tools, security model, standard library, web APIs, deployment options, performance characteristics, and modern development practices."
+,,,
+Goal: Understand Bun JavaScript Runtime,habit_count: 2,task_count: 7,"Extra: 5-week fast development; performance-focused student optimizing build times, targeting Bun usage through package management, bundling optimization, test runner, development server, TypeScript support, compatibility testing, and development workflow enhancement."
+,,,
+Goal: Learn Cal.com Scheduling Platform,habit_count: 2,task_count: 6,"Extra: 4-week open-source calendaring; service business student building booking system, targeting Cal.com through self-hosting, customization options, payment integration, team scheduling, workflow automation, and business process optimization."
+,,,
+Goal: Master Temporal Workflow Engine,habit_count: 2,task_count: 9,"Extra: 8-week distributed systems; backend engineering student building reliable workflows, targeting Temporal implementation through workflow definition, activity creation, error handling, retry policies, monitoring setup, scaling strategies, failure recovery, state management, and microservices orchestration."
+,,,
+Goal: Understand Grafana Monitoring Dashboards,habit_count: 3,task_count: 8,"Extra: 6-week observability; DevOps student monitoring application performance, targeting Grafana mastery through dashboard creation, data source integration, alert configuration, visualization options, team collaboration, performance analysis, troubleshooting workflows, and operational insights."
+,,,
+Goal: Learn Astro Static Site Generator,habit_count: 2,task_count: 7,"Extra: 5-week modern static sites; frontend student building fast websites, targeting Astro development through component islands, framework integration, build optimization, content collections, deployment strategies, SEO features, and performance-first development."
+,,,
+Goal: Master Coolify Self-Hosting Platform,habit_count: 2,task_count: 8,"Extra: 6-week infrastructure management; systems administration student deploying applications, targeting Coolify through server setup, application deployment, database management, monitoring configuration, backup automation, security hardening, cost optimization, and self-hosting independence."
+,,,
+Goal: Understand EdgeDB Graph-Relational Database,habit_count: 3,task_count: 9,"Extra: 7-week next-generation database; data engineering student exploring modern storage, targeting EdgeDB through schema design, query language, migration management, type safety, performance optimization, integration patterns, development workflows, data modeling, and application architecture."
+,,,
+Goal: Learn Tauri Desktop App Development,habit_count: 2,task_count: 8,"Extra: 6-week cross-platform apps; software engineering student building desktop applications, targeting Tauri mastery through Rust backend, web frontend integration, system API access, security model, build optimization, distribution setup, platform compatibility, and native performance."
+,,,
+Goal: Master Wasm WebAssembly Programming,habit_count: 3,task_count: 7,"Extra: 8-week high-performance web; systems programming student optimizing browser applications, targeting WebAssembly through Rust compilation, JavaScript interop, memory management, performance benchmarking, browser compatibility, debugging tools, and compute-intensive applications."
+,,,
+Goal: Understand SvelteKit Full-Stack Framework,habit_count: 2,task_count: 9,"Extra: 7-week reactive development; frontend student building modern applications, targeting SvelteKit through component reactivity, routing system, server-side rendering, API routes, form handling, static generation, deployment options, performance optimization, and developer experience."
+,,,
+Goal: Learn Pocketbase Backend-as-a-Service,habit_count: 2,task_count: 6,"Extra: 4-week rapid prototyping; indie developer student building MVP applications, targeting Pocketbase through database setup, user authentication, real-time subscriptions, file storage, admin dashboard, and rapid development workflows."
+,,,
+Goal: Master Solid.js Reactive Framework,habit_count: 3,task_count: 8,"Extra: 6-week fine-grained reactivity; performance-focused student exploring React alternatives, targeting Solid.js through reactive primitives, component composition, state management, performance optimization, ecosystem integration, migration strategies, build tools, and modern development patterns."
+,,,
+Goal: Understand Fresh Deno Framework,habit_count: 2,task_count: 7,"Extra: 5-week islands architecture; web development student building edge-first applications, targeting Fresh through Deno runtime, TypeScript integration, island components, edge deployment, performance optimization, SEO features, and modern web standards."
+,,,
+Goal: Learn Qwik Resumable Framework,habit_count: 2,task_count: 8,"Extra: 6-week instant loading; performance student building zero-hydration applications, targeting Qwik through resumable execution, component lazy loading, serialization strategies, edge-side rendering, performance monitoring, build optimization, deployment options, and user experience enhancement."
+,,,
+Goal: Master Capacitor Mobile Development,habit_count: 3,task_count: 9,"Extra: 8-week hybrid apps; mobile development student building cross-platform applications, targeting Capacitor through web-to-native bridge, plugin ecosystem, device API access, performance optimization, app store deployment, native integration, testing strategies, platform-specific features, and user experience polish."
+,,,
+Goal: Understand Electron Desktop Framework,habit_count: 2,task_count: 8,"Extra: 7-week desktop applications; software engineering student building native-feeling apps, targeting Electron through main process, renderer process, IPC communication, native menus, system integration, packaging strategies, security considerations, and performance optimization."
+,,,
+Goal: Learn NestJS Node.js Framework,habit_count: 3,task_count: 9,"Extra: 8-week enterprise backend; server-side student building scalable APIs, targeting NestJS through dependency injection, decorators system, module architecture, database integration, authentication guards, testing strategies, microservices patterns, documentation generation, and production deployment."
+,,,
+Goal: Master Fastify Web Framework,habit_count: 2,task_count: 7,"Extra: 5-week high-performance APIs; backend development student optimizing server speed, targeting Fastify through request handling, plugin ecosystem, schema validation, logging integration, testing setup, performance benchmarking, and production optimization."
+,,,
+Goal: Understand Hono Edge Runtime Framework,habit_count: 2,task_count: 6,"Extra: 4-week edge computing; serverless student building ultra-fast APIs, targeting Hono through edge deployment, request routing, middleware system, TypeScript integration, performance optimization, and multi-platform compatibility."
+,,,
+Goal: Learn tRPC Type-Safe APIs,habit_count: 3,task_count: 8,"Extra: 6-week full-stack type safety; TypeScript student building end-to-end applications, targeting tRPC through procedure definition, client generation, middleware integration, error handling, real-time subscriptions, testing strategies, performance optimization, and developer experience."
+,,,
+Goal: Master Drizzle ORM Database Toolkit,habit_count: 2,task_count: 7,"Extra: 5-week type-safe database; backend student optimizing data access, targeting Drizzle through schema definition, query building, migration management, type inference, performance optimization, database compatibility, and development workflows."
+,,,
+Goal: Understand Lucia Authentication Library,habit_count: 2,task_count: 8,"Extra: 6-week secure authentication; security-focused student implementing user management, targeting Lucia through session handling, password security, OAuth integration, CSRF protection, rate limiting, security best practices, framework compatibility, and user experience."
+,,,
+Goal: Learn Mantine UI Component Library,habit_count: 2,task_count: 6,"Extra: 4-week React components; frontend student building consistent interfaces, targeting Mantine through component usage, theme customization, form handling, hooks utilities, accessibility features, and design system implementation."
+,,,
+Goal: Master Chakra UI Design System,habit_count: 3,task_count: 7,"Extra: 5-week component design; React developer student creating accessible interfaces, targeting Chakra UI through component composition, theme configuration, responsive design, accessibility standards, custom components, performance optimization, and team collaboration."
+,,,
+Goal: Understand Radix UI Primitives,habit_count: 2,task_count: 8,"Extra: 6-week headless components; advanced frontend student building custom design systems, targeting Radix through primitive composition, accessibility implementation, styling flexibility, keyboard navigation, focus management, ARIA compliance, custom theming, and component architecture."
+,,,
+Goal: Learn Stitches CSS-in-JS,habit_count: 2,task_count: 6,"Extra: 4-week performant styling; design systems student optimizing CSS delivery, targeting Stitches through variant creation, theme tokens, responsive utilities, performance optimization, TypeScript integration, and maintainable styling architecture."
+,,,
+Goal: Master Vanilla Extract CSS,habit_count: 3,task_count: 7,"Extra: 5-week zero-runtime CSS; performance-focused student eliminating runtime styling costs, targeting Vanilla Extract through build-time generation, type safety, theme systems, utility creation, performance optimization, framework integration, and scalable styling patterns."
+,,,
+Goal: Understand Windi CSS Utility Framework,habit_count: 2,task_count: 6,"Extra: 4-week utility-first styling; rapid development student speeding up UI creation, targeting Windi CSS through utility classes, variant generation, attributify mode, build optimization, IDE integration, and development workflow enhancement."
+,,,
+Goal: Learn UnoCSS Atomic Framework,habit_count: 2,task_count: 7,"Extra: 5-week instant CSS; performance student building zero-config styling, targeting UnoCSS through preset configuration, rule creation, build integration, performance optimization, IDE support, framework compatibility, and atomic CSS methodology."
+,,,
+Goal: Master Headless UI Components,habit_count: 3,task_count: 8,"Extra: 6-week accessible primitives; accessibility-focused student building inclusive interfaces, targeting Headless UI through component implementation, keyboard navigation, screen reader support, focus management, ARIA patterns, styling flexibility, framework integration, and inclusive design."
+,,,
+Goal: Understand React Hook Form,habit_count: 2,task_count: 7,"Extra: 5-week performant forms; React student optimizing form handling, targeting React Hook Form through validation setup, performance optimization, error handling, submission management, field arrays, custom hooks, and user experience enhancement."
+,,,
+Goal: Learn Formik Form Management,habit_count: 2,task_count: 6,"Extra: 4-week form state; frontend student handling complex forms, targeting Formik through field management, validation schemas, error handling, submission flow, performance optimization, and form architecture."
+,,,
+Goal: Master React Query Data Fetching,habit_count: 3,task_count: 8,"Extra: 6-week server state; data-heavy application student optimizing API interactions, targeting React Query through cache management, mutation handling, optimistic updates, background refetching, error boundaries, performance optimization, offline support, and data synchronization."
+,,,
+Goal: Understand SWR Data Fetching,habit_count: 2,task_count: 7,"Extra: 5-week stale-while-revalidate; React developer student implementing smart caching, targeting SWR through cache strategies, error handling, revalidation triggers, mutation support, performance optimization, offline functionality, and data consistency."
+,,,
+Goal: Learn Zustand State Management,habit_count: 2,task_count: 6,"Extra: 4-week simple state; React student avoiding Redux complexity, targeting Zustand through store creation, state updates, async actions, middleware integration, DevTools support, and performance optimization."
+,,,
+Goal: Master Jotai Atomic State,habit_count: 3,task_count: 7,"Extra: 5-week bottom-up state; complex application student managing granular state, targeting Jotai through atom creation, derived state, async atoms, persistence integration, DevTools usage, performance optimization, and state composition."
+,,,
+Goal: Understand Valtio Proxy State,habit_count: 2,task_count: 6,"Extra: 4-week mutable state; React student wanting simple state mutations, targeting Valtio through proxy creation, snapshot usage, subscription handling, async actions, performance considerations, and development patterns."
+,,,
+Goal: Learn Redux Toolkit Modern Redux,habit_count: 3,task_count: 8,"Extra: 6-week enterprise state; large application student managing complex state, targeting Redux Toolkit through slice creation, async thunks, entity adapters, middleware setup, DevTools integration, testing strategies, performance optimization, and scalable architecture."
+,,,
+Goal: Master MobX Reactive State,habit_count: 2,task_count: 7,"Extra: 5-week observable state; object-oriented student implementing reactive patterns, targeting MobX through observable creation, computed values, reactions, actions, strict mode, performance optimization, and architectural patterns."
+,,,
+Goal: Understand Recoil Experimental State,habit_count: 2,task_count: 8,"Extra: 6-week Facebook state; advanced React student exploring experimental patterns, targeting Recoil through atom definition, selector creation, async queries, state persistence, concurrent features, performance optimization, debugging tools, and future-ready patterns."
+,,,
+Goal: Learn React Router Navigation,habit_count: 2,task_count: 6,"Extra: 4-week client routing; SPA student implementing navigation, targeting React Router through route definition, dynamic routing, route guards, code splitting, SEO optimization, and navigation patterns."
+,,,
+Goal: Master Next.js App Router,habit_count: 3,task_count: 9,"Extra: 7-week full-stack React; modern web student building production applications, targeting Next.js through file-based routing, server components, API routes, middleware, image optimization, deployment strategies, performance optimization, SEO features, and production readiness."
+,,,
+Goal: Understand Gatsby Static Generation,habit_count: 2,task_count: 7,"Extra: 5-week JAMstack sites; content-focused student building fast websites, targeting Gatsby through GraphQL data layer, plugin ecosystem, image processing, build optimization, deployment strategies, performance optimization, and content management."
+,,,
+Goal: Learn Nuxt.js Vue Framework,habit_count: 2,task_count: 8,"Extra: 6-week Vue full-stack; Vue developer student building universal applications, targeting Nuxt.js through auto-routing, server-side rendering, static generation, module ecosystem, deployment options, performance optimization, SEO features, and developer experience."
+,,,
+Goal: Master SvelteKit Svelte Framework,habit_count: 3,task_count: 8,"Extra: 6-week reactive full-stack; performance student building efficient applications, targeting SvelteKit through component reactivity, routing system, server-side rendering, API endpoints, form actions, deployment strategies, performance optimization, and modern web patterns."
+,,,
+Goal: Understand Remix React Framework,habit_count: 2,task_count: 9,"Extra: 7-week web fundamentals; progressive enhancement student building resilient applications, targeting Remix through nested routing, data loading, form handling, error boundaries, progressive enhancement, deployment options, performance optimization, accessibility features, and web standards."
+,,,
+Goal: Learn Astro Multi-Framework,habit_count: 2,task_count: 7,"Extra: 5-week component islands; multi-framework student building optimized sites, targeting Astro through framework integration, partial hydration, content collections, build optimization, deployment strategies, performance monitoring, and modern static generation."
+,,,
+Goal: Master Qwik City Framework,habit_count: 3,task_count: 8,"Extra: 6-week resumable applications; performance-first student building instant-loading sites, targeting Qwik City through resumable execution, routing system, server functions, edge deployment, performance optimization, SEO features, development experience, and zero-hydration patterns."
+,,,
+Goal: Understand Fresh Deno Framework,habit_count: 2,task_count: 7,"Extra: 5-week edge-first development; modern runtime student building fast applications, targeting Fresh through Deno integration, islands architecture, TypeScript support, edge deployment, performance optimization, development experience, and web standards compliance."
+,,,
+Goal: Learn Angular Modern Framework,habit_count: 3,task_count: 9,"Extra: 8-week enterprise frontend; large-scale application student building complex interfaces, targeting Angular through component architecture, dependency injection, reactive forms, routing system, HTTP client, testing strategies, performance optimization, enterprise patterns, and production deployment."
+,,,
+Goal: Master Vue.js Composition API,habit_count: 2,task_count: 7,"Extra: 5-week reactive development; component-focused student building maintainable applications, targeting Vue.js through composition functions, reactivity system, component communication, lifecycle hooks, performance optimization, testing approaches, and modern development patterns."
+,,,
+Goal: Understand Solid.js Performance,habit_count: 2,task_count: 8,"Extra: 6-week fine-grained reactivity; performance student exploring React alternatives, targeting Solid.js through reactive primitives, component composition, performance optimization, ecosystem integration, migration strategies, development tools, testing approaches, and production considerations."
+,,,
+Goal: Learn Lit Web Components,habit_count: 2,task_count: 6,"Extra: 4-week standard components; web standards student building reusable elements, targeting Lit through component definition, property management, event handling, styling strategies, performance optimization, and framework interop."
+,,,
+Goal: Master Stencil Component Compiler,habit_count: 3,task_count: 8,"Extra: 6-week universal components; component library student building framework-agnostic elements, targeting Stencil through TypeScript components, build optimization, testing strategies, documentation generation, framework integration, performance optimization, distribution strategies, and design system creation."
+,,,
+Goal: Understand Alpine.js Minimal Framework,habit_count: 2,task_count: 5,"Extra: 3-week progressive enhancement; lightweight student adding interactivity to static sites, targeting Alpine.js through directive usage, component creation, state management, event handling, and performance optimization."
+,,,
+Goal: Learn HTMX Hypermedia Framework,habit_count: 2,task_count: 6,"Extra: 4-week server-driven UIs; backend-focused student building interactive interfaces, targeting HTMX through attribute-driven interactivity, AJAX requests, partial updates, form handling, WebSocket integration, and progressive enhancement."
+,,,
+Goal: Master Stimulus Modest JavaScript,habit_count: 2,task_count: 7,"Extra: 5-week Rails integration; full-stack student enhancing server-rendered applications, targeting Stimulus through controller definition, action handling, target management, value passing, lifecycle callbacks, testing strategies, and Rails integration."
+,,,
+Goal: Understand Hotwire Turbo Framework,habit_count: 2,task_count: 8,"Extra: 6-week SPA-like experience; Rails developer student building fast navigation, targeting Hotwire through Turbo Drive, Turbo Frames, Turbo Streams, WebSocket integration, form handling, caching strategies, performance optimization, and user experience enhancement."
+,,,
+Goal: Learn Phoenix LiveView Elixir,habit_count: 3,task_count: 9,"Extra: 8-week real-time web; functional programming student building interactive applications, targeting LiveView through process management, state handling, event processing, real-time updates, component composition, testing strategies, deployment options, performance optimization, and Elixir integration."
+,,,
+Goal: Master Django Web Framework,habit_count: 2,task_count: 8,"Extra: 6-week Python web development; backend student building robust applications, targeting Django through model definition, view creation, template system, URL routing, admin interface, authentication, testing framework, and deployment strategies."
+,,,
+Goal: Understand Flask Micro Framework,habit_count: 2,task_count: 7,"Extra: 5-week lightweight Python; minimalist student building flexible applications, targeting Flask through route handling, template rendering, database integration, extension usage, testing approaches, deployment options, and scalability patterns."
+,,,
+Goal: Learn FastAPI Modern Python,habit_count: 3,task_count: 8,"Extra: 6-week async API development; API-first student building high-performance services, targeting FastAPI through type hints, automatic documentation, async support, dependency injection, authentication, testing strategies, performance optimization, and production deployment."
+,,,
+Goal: Master Express.js Node Framework,habit_count: 2,task_count: 7,"Extra: 5-week JavaScript backend; full-stack student building REST APIs, targeting Express.js through middleware creation, routing system, error handling, database integration, authentication, testing approaches, and deployment strategies."
+,,,
+Goal: Understand Koa.js Async Framework,habit_count: 2,task_count: 6,"Extra: 4-week modern Node.js; async-focused student building clean APIs, targeting Koa.js through async middleware, context handling, error management, routing integration, testing strategies, and performance optimization."
+,,,
+Goal: Learn Hapi.js Configuration Framework,habit_count: 2,task_count: 8,"Extra: 6-week enterprise Node; configuration-centric student building scalable services, targeting Hapi.js through plugin architecture, validation system, authentication, caching strategies, testing framework, monitoring integration, security features, and enterprise patterns."
+,,,
+Goal: Master Ruby on Rails Framework,habit_count: 3,task_count: 9,"Extra: 8-week convention-driven development; rapid development student building full-stack applications, targeting Rails through MVC architecture, Active Record, routing system, asset pipeline, testing framework, deployment strategies, performance optimization, security practices, and Rails conventions."
+,,,
+Goal: Understand Sinatra Ruby Framework,habit_count: 2,task_count: 6,"Extra: 4-week minimal Ruby; lightweight student building simple web services, targeting Sinatra through route definition, template integration, middleware usage, testing approaches, deployment options, and scaling considerations."
+,,,
+Goal: Learn Laravel PHP Framework,habit_count: 2,task_count: 8,"Extra: 6-week elegant PHP; modern PHP student building web applications, targeting Laravel through Eloquent ORM, Blade templates, routing system, middleware, authentication, testing framework, deployment strategies, and ecosystem integration."
+,,,
+Goal: Master Symfony PHP Framework,habit_count: 3,task_count: 9,"Extra: 8-week enterprise PHP; component-based student building scalable applications, targeting Symfony through component architecture, dependency injection, routing system, form handling, security features, testing strategies, performance optimization, enterprise patterns, and ecosystem integration."
+,,,
+Goal: Understand Spring Boot Java Framework,habit_count: 2,task_count: 8,"Extra: 6-week Java microservices; enterprise student building production services, targeting Spring Boot through auto-configuration, dependency injection, data access, security integration, testing framework, monitoring setup, deployment strategies, and microservices patterns."
+,,,
+Goal: Learn ASP.NET Core Framework,habit_count: 2,task_count: 9,"Extra: 7-week .NET development; Microsoft stack student building web applications, targeting ASP.NET Core through MVC pattern, dependency injection, Entity Framework, authentication, API development, testing strategies, deployment options, performance optimization, and cloud integration."
+,,,
+Goal: Master Go Web Development,habit_count: 3,task_count: 8,"Extra: 6-week efficient backend; systems programming student building performant services, targeting Go through HTTP handlers, middleware creation, database integration, concurrent programming, testing approaches, performance optimization, deployment strategies, and microservices architecture."
+,,,
+Goal: Understand Rust Web Frameworks,habit_count: 2,task_count: 7,"Extra: 5-week systems web development; performance-critical student building safe services, targeting Rust web through framework selection, async programming, database integration, error handling, testing strategies, performance optimization, and memory safety."
+,,,
+Goal: Learn Elixir Phoenix Framework,habit_count: 2,task_count: 8,"Extra: 6-week functional web development; concurrent systems student building fault-tolerant applications, targeting Phoenix through process model, OTP patterns, real-time features, database integration, testing strategies, deployment options, performance characteristics, and distributed systems."
+,,,
+Goal: Master Kotlin Spring Development,habit_count: 3,task_count: 9,"Extra: 7-week modern JVM; Java alternative student building enterprise applications, targeting Kotlin Spring through language features, Spring integration, coroutines usage, database access, testing strategies, performance optimization, deployment patterns, enterprise architecture, and ecosystem integration."
+,,,
+Goal: Understand Scala Play Framework,habit_count: 2,task_count: 8,"Extra: 6-week functional JVM; functional programming student building reactive applications, targeting Play Framework through actor model, reactive streams, database integration, testing approaches, performance optimization, deployment strategies, and functional patterns."
+,,,
+Goal: Learn C# Minimal APIs,habit_count: 2,task_count: 7,"Extra: 5-week lightweight .NET; modern C# student building efficient services, targeting Minimal APIs through endpoint definition, dependency injection, middleware usage, authentication, testing strategies, performance optimization, and cloud deployment."
+,,,
+Goal: Master Node.js Performance Optimization,habit_count: 3,task_count: 8,"Extra: 6-week backend optimization; performance-focused student scaling Node applications, targeting optimization through profiling tools, memory management, async patterns, clustering strategies, caching implementation, database optimization, monitoring setup, and production tuning."
+,,,
+Goal: Understand Deno Backend Development,habit_count: 2,task_count: 7,"Extra: 5-week secure runtime; modern JavaScript student exploring Node alternatives, targeting Deno through TypeScript integration, security model, standard library, web APIs, deployment options, performance characteristics, and ecosystem compatibility."
+,,,
+Goal: Learn Bun Runtime Development,habit_count: 2,task_count: 6,"Extra: 4-week fast JavaScript; speed-focused student optimizing development workflow, targeting Bun through package management, bundling optimization, test running, development server, TypeScript support, and performance benefits."
+,,,
+Goal: Learn Basic Accounting Principles,habit_count: 3,task_count: 7,"Extra: 8-week financial foundation; business freshman understanding money flow, targeting accounting literacy through journal entries, balance sheets, income statements, cash flow analysis, ratio calculations, software usage, and financial report interpretation."
+,,,
+Goal: Master Excel Spreadsheet Skills,habit_count: 2,task_count: 6,"Extra: 5-week data analysis; business student preparing for internships, targeting Excel proficiency through formula creation, pivot tables, chart generation, data validation, macro basics, and business modeling."
+,,,
+Goal: Understand Market Research Methods,habit_count: 2,task_count: 8,"Extra: 6-week consumer insights; marketing student learning customer behavior, targeting research skills through survey design, interview techniques, data collection, analysis methods, report writing, competitor analysis, trend identification, and actionable recommendations."
+,,,
+Goal: Learn Social Media Marketing Basics,habit_count: 3,task_count: 5,"Extra: 4-week digital presence; marketing freshman building online skills, targeting social media through platform understanding, content creation, audience engagement, hashtag strategy, and performance metrics."
+,,,
+Goal: Master Email Marketing Fundamentals,habit_count: 2,task_count: 7,"Extra: 5-week customer communication; marketing student building relationships, targeting email skills through list building, campaign creation, automation setup, A/B testing, deliverability optimization, performance tracking, and customer retention."
+,,,
+Goal: Understand Customer Service Excellence,habit_count: 3,task_count: 6,"Extra: 6-week service quality; hospitality student improving interactions, targeting service skills through communication techniques, problem resolution, complaint handling, phone etiquette, empathy development, and customer satisfaction measurement."
+,,,
+Goal: Learn Basic Financial Planning,habit_count: 2,task_count: 8,"Extra: 7-week money management; finance student understanding personal wealth, targeting financial literacy through budgeting methods, investment basics, retirement planning, tax fundamentals, insurance understanding, debt management, emergency funds, and goal setting."
+,,,
+Goal: Master Presentation Skills,habit_count: 3,task_count: 6,"Extra: 4-week public speaking; business student overcoming stage fright, targeting presentation mastery through slide design, storytelling techniques, audience engagement, voice projection, body language, and confidence building."
+,,,
+Goal: Understand Sales Process Fundamentals,habit_count: 2,task_count: 7,"Extra: 6-week revenue generation; business development student learning persuasion, targeting sales skills through prospecting methods, needs assessment, objection handling, closing techniques, follow-up strategies, CRM usage, and relationship building."
+,,,
+Goal: Learn Project Management Basics,habit_count: 2,task_count: 8,"Extra: 5-week workflow organization; business student managing complex tasks, targeting PM skills through project planning, timeline creation, resource allocation, risk management, team coordination, progress tracking, budget management, and deliverable quality."
+,,,
+Goal: Master Basic Negotiation Skills,habit_count: 3,task_count: 6,"Extra: 4-week deal making; business student improving bargaining, targeting negotiation through preparation strategies, communication tactics, compromise techniques, win-win solutions, relationship preservation, and outcome optimization."
+,,,
+Goal: Understand Brand Identity Creation,habit_count: 2,task_count: 7,"Extra: 6-week brand building; marketing student developing visual identity, targeting branding through logo design, color psychology, typography selection, brand voice development, style guide creation, consistency maintenance, and brand positioning."
+,,,
+Goal: Learn Basic Copywriting Skills,habit_count: 3,task_count: 5,"Extra: 5-week persuasive writing; marketing student crafting compelling content, targeting copywriting through headline creation, benefit highlighting, call-to-action writing, audience targeting, and conversion optimization."
+,,,
+Goal: Master Google Analytics Setup,habit_count: 2,task_count: 6,"Extra: 3-week web analytics; digital marketing student tracking performance, targeting analytics through account configuration, goal setup, audience analysis, traffic interpretation, conversion tracking, and reporting automation."
+,,,
+Goal: Understand Basic Investment Concepts,habit_count: 2,task_count: 8,"Extra: 7-week wealth building; finance student learning markets, targeting investment knowledge through stock basics, bond understanding, mutual funds, ETF comparison, risk assessment, portfolio diversification, market analysis, and long-term strategy."
+,,,
+Goal: Learn Customer Relationship Management,habit_count: 3,task_count: 7,"Extra: 6-week relationship building; sales student maintaining client connections, targeting CRM through contact organization, interaction tracking, follow-up scheduling, pipeline management, customer segmentation, retention strategies, and lifetime value optimization."
+,,,
+Goal: Master Basic Business Writing,habit_count: 2,task_count: 6,"Extra: 4-week professional communication; business student improving documentation, targeting writing skills through email etiquette, memo creation, report structure, proposal writing, clarity improvement, and professional tone."
+,,,
+Goal: Understand Supply Chain Basics,habit_count: 2,task_count: 8,"Extra: 6-week operations management; business student learning logistics, targeting supply chain through vendor management, inventory control, quality assurance, cost optimization, delivery tracking, relationship building, risk mitigation, and efficiency improvement."
+,,,
+Goal: Learn Event Planning Fundamentals,habit_count: 3,task_count: 9,"Extra: 8-week event coordination; hospitality student organizing gatherings, targeting event skills through venue selection, vendor management, budget planning, timeline creation, guest coordination, marketing promotion, day-of execution, problem solving, and post-event analysis."
+,,,
+Goal: Master Time Management Techniques,habit_count: 3,task_count: 6,"Extra: 4-week productivity optimization; overwhelmed student improving efficiency, targeting time management through priority setting, calendar organization, task batching, distraction elimination, energy optimization, and goal achievement."
+,,,
+Goal: Understand Basic Economics Principles,habit_count: 2,task_count: 7,"Extra: 6-week market understanding; business student grasping economic forces, targeting economics through supply and demand, market structures, inflation concepts, interest rates, economic indicators, policy impacts, and business cycle analysis."
+,,,
+Goal: Learn Content Marketing Strategy,habit_count: 2,task_count: 8,"Extra: 7-week audience building; marketing student creating valuable content, targeting content strategy through audience research, editorial planning, content creation, distribution channels, SEO optimization, engagement measurement, community building, and brand authority."
+,,,
+Goal: Master Basic HR Practices,habit_count: 3,task_count: 7,"Extra: 6-week people management; management student understanding workforce, targeting HR skills through recruitment basics, interview techniques, onboarding processes, performance evaluation, conflict resolution, policy understanding, and employee engagement."
+,,,
+Goal: Understand Digital Marketing Fundamentals,habit_count: 2,task_count: 9,"Extra: 8-week online promotion; marketing student building digital presence, targeting digital skills through SEO basics, PPC advertising, social media strategy, email campaigns, content marketing, analytics tracking, conversion optimization, mobile marketing, and omnichannel approach."
+,,,
+Goal: Learn Basic Statistics for Business,habit_count: 3,task_count: 8,"Extra: 7-week data interpretation; business analytics student understanding numbers, targeting statistics through descriptive analysis, probability concepts, hypothesis testing, regression basics, correlation understanding, survey analysis, forecasting methods, and business applications."
+,,,
+Goal: Master LinkedIn Professional Networking,habit_count: 2,task_count: 6,"Extra: 4-week career building; business student expanding connections, targeting LinkedIn through profile optimization, content sharing, connection strategies, message crafting, group participation, and relationship nurturing."
+,,,
+Goal: Understand Entrepreneurship Basics,habit_count: 2,task_count: 8,"Extra: 6-week startup foundation; aspiring entrepreneur student launching ventures, targeting entrepreneurship through idea validation, market research, business model design, funding options, legal basics, team building, product development, and launch strategy."
+,,,
+Goal: Learn Basic Graphic Design Principles,habit_count: 3,task_count: 7,"Extra: 5-week visual communication; marketing student creating appealing materials, targeting design through color theory, typography basics, layout principles, composition rules, software introduction, brand consistency, and visual hierarchy."
+,,,
+Goal: Master Customer Survey Design,habit_count: 2,task_count: 6,"Extra: 4-week feedback collection; market research student gathering insights, targeting survey skills through question formulation, response scales, bias elimination, distribution methods, data collection, and actionable analysis."
+,,,
+Goal: Understand Business Ethics Fundamentals,habit_count: 2,task_count: 7,"Extra: 5-week moral decision making; business student navigating ethical dilemmas, targeting ethics through case study analysis, stakeholder consideration, decision frameworks, corporate responsibility, transparency principles, integrity maintenance, and reputation management."
+,,,
+Goal: Learn Human Anatomy Basics,habit_count: 3,task_count: 8,"Extra: 10-week body systems; pre-med student building foundation, targeting anatomy through system memorization, organ identification, function understanding, medical terminology, diagram labeling, clinical correlations, practical applications, and exam preparation."
+,,,
+Goal: Master Basic Nutrition Principles,habit_count: 2,task_count: 7,"Extra: 6-week healthy eating; health science student understanding food, targeting nutrition through macronutrient balance, vitamin functions, meal planning, dietary guidelines, label reading, supplement evaluation, and lifestyle integration."
+,,,
+Goal: Understand Exercise Physiology,habit_count: 3,task_count: 6,"Extra: 8-week fitness science; kinesiology student learning body responses, targeting physiology through cardiovascular adaptations, muscle function, energy systems, training principles, recovery processes, and performance optimization."
+,,,
+Goal: Learn Medical Terminology,habit_count: 3,task_count: 9,"Extra: 8-week healthcare language; pre-health student building vocabulary, targeting terminology through root words, prefixes, suffixes, body systems, disease processes, procedure names, abbreviation meanings, pronunciation practice, and clinical usage."
+,,,
+Goal: Master Basic First Aid Skills,habit_count: 2,task_count: 6,"Extra: 4-week emergency response; health student preparing for emergencies, targeting first aid through CPR techniques, wound care, choking response, injury assessment, emergency calling, and safety protocols."
+,,,
+Goal: Understand Mental Health Awareness,habit_count: 2,task_count: 7,"Extra: 6-week psychological wellness; psychology student promoting wellbeing, targeting mental health through disorder recognition, support strategies, crisis intervention, resource identification, stigma reduction, self-care practices, and professional referrals."

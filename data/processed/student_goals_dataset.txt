@@ -1,0 +1,355 @@
+Goal: React.js Full-Stack Development | habit_count: 3 | task_count: 10 | Extra: 14-week web development mastery; computer science junior building modern web applications through component architecture, state management, API integration, responsive design, testing frameworks, deployment strategies, performance optimization, user authentication, database connectivity, and portfolio project creation.
+
+Goal: AWS Cloud Practitioner Certification | habit_count: 2 | task_count: 8 | Extra: 10-week cloud computing foundation; IT student preparing for cloud careers through EC2 management, S3 storage solutions, networking concepts, security best practices, cost optimization, monitoring tools, certification exam preparation, and hands-on lab exercises.
+
+Goal: Python Data Science Specialization | habit_count: 2 | task_count: 9 | Extra: 12-week analytics pathway; statistics major transitioning to tech through pandas mastery, NumPy operations, matplotlib visualization, machine learning basics, Jupyter notebooks, data cleaning techniques, statistical analysis, and capstone project development.
+
+Goal: Cybersecurity Fundamentals Certification | habit_count: 3 | task_count: 11 | Extra: 16-week security expertise; computer engineering student building defense skills through network security, ethical hacking basics, vulnerability assessment, incident response, cryptography principles, security tools mastery, compliance frameworks, risk management, penetration testing, and industry certification pursuit.
+
+Goal: Google Analytics and SEO Certification | habit_count: 2 | task_count: 7 | Extra: 8-week digital marketing focus; business student enhancing online presence skills through website analytics, keyword research, content optimization, conversion tracking, A/B testing, technical SEO, reporting dashboards, and Google certification achievement.
+
+Goal: AutoCAD Professional Certification | habit_count: 2 | task_count: 8 | Extra: 10-week design software mastery; mechanical engineering student developing technical drawing skills through 2D drafting, 3D modeling, dimensioning standards, layer management, block creation, plotting techniques, industry workflows, and professional certification pursuit.
+
+Goal: Node.js Backend Development | habit_count: 3 | task_count: 9 | Extra: 12-week server-side programming; software engineering student building scalable applications through Express.js framework, database integration, RESTful API design, authentication systems, middleware implementation, error handling, testing strategies, deployment automation, and production optimization.
+
+Goal: Tableau Data Visualization Certification | habit_count: 2 | task_count: 8 | Extra: 10-week business intelligence focus; data science student creating compelling visualizations through dashboard design, calculated fields, data connections, interactive filters, storytelling techniques, performance optimization, sharing strategies, and professional certification achievement.
+
+Goal: CompTIA Security+ Certification | habit_count: 3 | task_count: 10 | Extra: 14-week cybersecurity foundation; information systems student building security expertise through threat identification, risk assessment, cryptography implementation, network defense, incident handling, compliance understanding, security architecture, vulnerability management, access control, and certification exam preparation.
+
+Goal: Machine Learning with Python | habit_count: 2 | task_count: 9 | Extra: 12-week AI fundamentals; computer science student exploring artificial intelligence through scikit-learn library, supervised learning algorithms, unsupervised clustering, neural network basics, model evaluation, feature engineering, cross-validation techniques, hyperparameter tuning, and practical project implementation.
+
+Goal: Adobe Premiere Pro Video Editing | habit_count: 2 | task_count: 8 | Extra: 10-week multimedia production; communications student developing video skills through timeline editing, color correction, audio mixing, visual effects, motion graphics, export optimization, workflow efficiency, and professional portfolio creation.
+
+Goal: Oracle Database Administration | habit_count: 3 | task_count: 11 | Extra: 16-week database expertise; information technology student mastering enterprise systems through SQL optimization, backup strategies, performance tuning, user management, security implementation, installation procedures, troubleshooting techniques, monitoring tools, disaster recovery, maintenance scheduling, and certification preparation.
+
+Goal: Kubernetes Container Orchestration | habit_count: 3 | task_count: 10 | Extra: 14-week DevOps specialization; software engineering student learning container management through cluster deployment, pod configuration, service networking, ingress controllers, persistent storage, monitoring setup, security policies, scaling strategies, troubleshooting methods, and certification pursuit.
+
+Goal: Salesforce Administrator Certification | habit_count: 2 | task_count: 9 | Extra: 12-week CRM mastery; business administration student building customer management skills through user setup, data modeling, workflow automation, report creation, dashboard design, security configuration, integration basics, customization techniques, and professional certification achievement.
+
+Goal: Unity Game Development | habit_count: 3 | task_count: 10 | Extra: 14-week game programming; computer science student creating interactive experiences through C# scripting, physics implementation, animation systems, user interface design, audio integration, mobile optimization, multiplayer networking, monetization strategies, performance profiling, and game portfolio development.
+
+Goal: Microsoft Power BI Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week business intelligence; data analytics student mastering visualization tools through data modeling, DAX formulas, interactive dashboards, report sharing, gateway configuration, security implementation, performance optimization, and professional certification preparation.
+
+Goal: Docker Containerization Fundamentals | habit_count: 2 | task_count: 7 | Extra: 8-week DevOps foundation; software development student learning container technology through image creation, dockerfile optimization, container networking, volume management, compose orchestration, registry usage, and deployment automation.
+
+Goal: Figma UI/UX Design Certification | habit_count: 2 | task_count: 9 | Extra: 12-week design thinking; graphic design student building user experience skills through wireframing techniques, prototyping methods, design systems, user research, accessibility principles, collaboration workflows, handoff processes, portfolio development, and industry certification pursuit.
+
+Goal: Jenkins CI/CD Pipeline Development | habit_count: 3 | task_count: 10 | Extra: 14-week automation expertise; DevOps student implementing continuous integration through pipeline configuration, build automation, testing integration, deployment strategies, plugin management, security scanning, notification systems, monitoring setup, troubleshooting techniques, and enterprise workflow optimization.
+
+Goal: MongoDB Database Development | habit_count: 2 | task_count: 8 | Extra: 10-week NoSQL mastery; database administration student learning document databases through schema design, query optimization, indexing strategies, aggregation pipelines, replication setup, sharding implementation, backup procedures, and performance monitoring.
+
+Goal: Ansible Automation Certification | habit_count: 3 | task_count: 9 | Extra: 12-week infrastructure automation; systems administration student mastering configuration management through playbook development, inventory management, role creation, variable handling, template usage, error handling, testing strategies, security implementation, and certification achievement.
+
+Goal: Firebase Mobile Backend Development | habit_count: 2 | task_count: 8 | Extra: 10-week mobile app foundation; mobile development student building serverless applications through authentication implementation, real-time database, cloud storage, push notifications, analytics integration, hosting setup, security rules, and cross-platform deployment.
+
+Goal: Terraform Infrastructure as Code | habit_count: 3 | task_count: 10 | Extra: 14-week cloud automation; cloud engineering student managing infrastructure through configuration files, state management, module development, provider integration, workspace organization, security implementation, cost optimization, version control, testing strategies, and enterprise deployment practices.
+
+Goal: Spring Boot Java Development | habit_count: 2 | task_count: 9 | Extra: 12-week enterprise programming; computer science student building microservices through RESTful API creation, database integration, security implementation, testing frameworks, actuator monitoring, configuration management, deployment strategies, performance optimization, and production readiness.
+
+Goal: Vue.js Frontend Framework | habit_count: 2 | task_count: 8 | Extra: 10-week JavaScript advancement; web development student creating dynamic interfaces through component composition, state management, routing implementation, API integration, testing strategies, build optimization, deployment automation, and progressive web app development.
+
+Goal: Splunk Log Analysis Certification | habit_count: 3 | task_count: 11 | Extra: 16-week data operations; information security student mastering log management through search processing, dashboard creation, alert configuration, data modeling, knowledge objects, clustering setup, index management, security monitoring, performance tuning, reporting automation, and professional certification.
+
+Goal: Wireshark Network Analysis | habit_count: 2 | task_count: 7 | Extra: 8-week network troubleshooting; network engineering student developing packet analysis skills through protocol understanding, traffic capture, filter creation, performance analysis, security investigation, troubleshooting methodology, and forensic examination techniques.
+
+Goal: Postman API Testing Certification | habit_count: 2 | task_count: 8 | Extra: 10-week API quality assurance; software testing student mastering request automation through collection organization, environment management, test scripting, automation workflows, mock server setup, monitoring configuration, collaboration features, and certification achievement.
+
+Goal: Git Version Control Mastery | habit_count: 2 | task_count: 7 | Extra: 8-week development workflow; programming student learning collaborative coding through branching strategies, merge conflict resolution, remote repository management, workflow automation, code review processes, release management, and team collaboration best practices.
+
+Goal: Elasticsearch Search Engine Development | habit_count: 3 | task_count: 9 | Extra: 12-week search technology; data engineering student building search solutions through index management, query optimization, aggregation analysis, cluster configuration, performance tuning, security implementation, monitoring setup, backup strategies, and scalability planning.
+
+Goal: Apache Kafka Stream Processing | habit_count: 3 | task_count: 10 | Extra: 14-week data streaming; big data student implementing real-time processing through producer configuration, consumer groups, topic management, stream processing, connector setup, cluster administration, monitoring implementation, performance optimization, fault tolerance, and enterprise integration.
+
+Goal: Selenium Web Automation Testing | habit_count: 2 | task_count: 8 | Extra: 10-week test automation; quality assurance student developing testing frameworks through element identification, test script creation, page object modeling, cross-browser testing, continuous integration, reporting systems, maintenance strategies, and framework optimization.
+
+Goal: Jira Project Management Certification | habit_count: 2 | task_count: 7 | Extra: 8-week agile workflow; project management student mastering issue tracking through workflow configuration, dashboard creation, reporting setup, integration management, user administration, automation rules, and professional certification achievement.
+
+Goal: Redis Cache Database Management | habit_count: 2 | task_count: 8 | Extra: 10-week performance optimization; backend development student implementing caching solutions through data structure usage, expiration policies, cluster setup, persistence configuration, monitoring implementation, security hardening, memory optimization, and application integration.
+
+Goal: Grafana Monitoring Dashboard Creation | habit_count: 3 | task_count: 9 | Extra: 12-week observability platform; DevOps student building monitoring solutions through data source integration, visualization creation, alert configuration, dashboard templating, user management, plugin development, performance optimization, automation scripting, and enterprise deployment.
+
+Goal: Photoshop Digital Art Certification | habit_count: 2 | task_count: 8 | Extra: 10-week creative development; digital arts student mastering image manipulation through layer management, selection techniques, color correction, retouching methods, effect application, typography integration, workflow optimization, and Adobe certification pursuit.
+
+Goal: WordPress Custom Theme Development | habit_count: 2 | task_count: 9 | Extra: 12-week web development specialization; web design student creating custom solutions through PHP programming, template hierarchy, custom post types, plugin integration, responsive design, SEO optimization, performance tuning, security implementation, and client project delivery.
+
+Goal: MySQL Database Optimization | habit_count: 3 | task_count: 10 | Extra: 14-week database performance; database administration student mastering query optimization through index design, performance analysis, backup strategies, replication setup, security implementation, monitoring tools, troubleshooting techniques, capacity planning, maintenance scheduling, and enterprise deployment.
+
+Goal: Flutter Mobile App Development | habit_count: 2 | task_count: 9 | Extra: 12-week cross-platform programming; mobile development student building native applications through Dart programming, widget composition, state management, API integration, database connectivity, testing frameworks, deployment processes, performance optimization, and app store publication.
+
+Goal: Blender 3D Animation Certification | habit_count: 3 | task_count: 10 | Extra: 14-week 3D graphics; animation student creating digital content through modeling techniques, rigging systems, animation principles, lighting setup, material creation, rendering optimization, compositing workflows, physics simulation, scripting automation, and portfolio development.
+
+Goal: Linux System Administration | habit_count: 3 | task_count: 11 | Extra: 16-week server management; systems administration student mastering command-line operations through user management, file permissions, process monitoring, network configuration, package installation, security hardening, backup automation, log analysis, performance tuning, shell scripting, and certification preparation.
+
+Goal: Azure Cloud Solutions Architecture | habit_count: 3 | task_count: 12 | Extra: 18-week cloud platform mastery; cloud computing student designing scalable solutions through virtual machine management, storage solutions, networking configuration, identity management, security implementation, monitoring setup, cost optimization, automation scripting, disaster recovery, high availability, compliance management, and professional certification.
+
+Goal: Angular Frontend Development | habit_count: 2 | task_count: 9 | Extra: 12-week TypeScript framework; frontend development student building enterprise applications through component architecture, service integration, routing configuration, form handling, HTTP client usage, testing implementation, build optimization, deployment automation, and performance monitoring.
+
+Goal: TensorFlow Machine Learning | habit_count: 3 | task_count: 10 | Extra: 14-week AI development; data science student implementing neural networks through model architecture, training optimization, dataset preparation, evaluation metrics, hyperparameter tuning, deployment strategies, performance monitoring, version control, production scaling, and research project completion.
+
+Goal: Sketch Digital Design Mastery | habit_count: 2 | task_count: 8 | Extra: 10-week interface design; UX/UI student creating digital experiences through symbol management, artboard organization, plugin utilization, design systems, prototyping workflows, handoff processes, collaboration features, and design portfolio development.
+
+Goal: PostgreSQL Advanced Administration | habit_count: 3 | task_count: 11 | Extra: 16-week database expertise; database engineering student mastering enterprise systems through performance tuning, backup strategies, replication setup, partitioning implementation, security configuration, monitoring tools, query optimization, maintenance automation, disaster recovery, capacity planning, and certification pursuit.
+
+Goal: GitHub Actions CI/CD Automation | habit_count: 2 | task_count: 8 | Extra: 10-week workflow automation; software engineering student implementing continuous deployment through workflow configuration, action creation, secret management, environment setup, testing integration, deployment strategies, monitoring implementation, and collaboration optimization.
+
+Goal: Shopify E-commerce Development | habit_count: 2 | task_count: 9 | Extra: 12-week online business; e-commerce student building digital storefronts through theme customization, app integration, payment processing, inventory management, SEO optimization, analytics implementation, marketing automation, customer service, and business growth strategies.
+
+Goal: Hadoop Big Data Processing | habit_count: 3 | task_count: 10 | Extra: 14-week distributed computing; data engineering student managing large datasets through HDFS configuration, MapReduce programming, Hive querying, Spark processing, cluster management, security implementation, performance optimization, monitoring setup, data pipeline creation, and certification preparation.
+
+Goal: InDesign Layout Design Certification | habit_count: 2 | task_count: 8 | Extra: 10-week publication design; graphic design student mastering print media through typography management, grid systems, color management, image placement, style consistency, print production, digital publishing, automation features, and Adobe certification achievement.
+
+Goal: Xamarin Cross-Platform Development | habit_count: 3 | task_count: 9 | Extra: 12-week mobile framework; mobile development student creating native applications through C# programming, shared code architecture, platform-specific implementation, UI design, data binding, navigation patterns, testing strategies, deployment processes, and performance optimization.
+
+Goal: SolidWorks CAD Engineering | habit_count: 2 | task_count: 10 | Extra: 14-week mechanical design; engineering student mastering 3D modeling through part creation, assembly design, drawing generation, simulation analysis, material selection, rendering techniques, collaboration tools, file management, automation scripting, and professional certification pursuit.
+
+Goal: Magento E-commerce Platform | habit_count: 3 | task_count: 11 | Extra: 16-week online retail; web development student building commercial websites through module development, theme customization, payment integration, inventory management, SEO optimization, performance tuning, security implementation, multi-store setup, API integration, migration processes, and certification achievement.
+
+Goal: Swift iOS App Development | habit_count: 2 | task_count: 9 | Extra: 12-week mobile programming; computer science student creating iPhone applications through UIKit framework, Core Data integration, networking implementation, user interface design, testing strategies, App Store submission, performance optimization, accessibility features, and portfolio development.
+
+Goal: Sketch-to-Code Workflow Mastery | habit_count: 2 | task_count: 8 | Extra: 10-week design-development bridge; frontend student streamlining creative processes through design system creation, component libraries, automated workflows, version control, collaboration tools, handoff optimization, code generation, and team productivity enhancement.
+
+Goal: Serverless Architecture with AWS Lambda | habit_count: 3 | task_count: 10 | Extra: 14-week cloud functions; cloud development student building scalable applications through function creation, event triggers, API Gateway integration, database connectivity, monitoring implementation, security configuration, cost optimization, deployment automation, error handling, and architectural design patterns.
+
+Goal: Drupal Content Management System | habit_count: 2 | task_count: 9 | Extra: 12-week web content platform; web development student mastering enterprise CMS through module development, theme creation, content architecture, user management, workflow automation, performance optimization, security hardening, migration processes, and certification preparation.
+
+Goal: Maya 3D Modeling and Animation | habit_count: 3 | task_count: 11 | Extra: 16-week digital content creation; animation student developing professional skills through polygonal modeling, character rigging, keyframe animation, lighting techniques, rendering pipelines, texture creation, dynamics simulation, compositing workflows, scripting automation, pipeline optimization, and demo reel production.
+
+Goal: Kubernetes Security Implementation | habit_count: 3 | task_count: 10 | Extra: 14-week container security; cybersecurity student hardening orchestration platforms through RBAC configuration, network policies, pod security standards, secret management, image scanning, admission controllers, audit logging, compliance frameworks, threat detection, and security monitoring.
+
+Goal: Looker Business Intelligence | habit_count: 2 | task_count: 8 | Extra: 10-week data analytics; business intelligence student creating insights through LookML modeling, dashboard design, report automation, data exploration, visualization creation, user management, performance optimization, and enterprise deployment strategies.
+
+Goal: Cinema 4D Motion Graphics | habit_count: 2 | task_count: 9 | Extra: 12-week visual effects; motion graphics student creating dynamic content through 3D modeling, animation techniques, lighting setup, material creation, rendering optimization, compositing workflows, client projects, portfolio development, and industry networking.
+
+Goal: Ethereum Blockchain Development | habit_count: 3 | task_count: 10 | Extra: 14-week cryptocurrency programming; blockchain student building decentralized applications through Solidity programming, smart contract development, web3 integration, testing frameworks, deployment strategies, security auditing, gas optimization, frontend connectivity, wallet integration, and DApp architecture.
+
+Goal: Sketch UI Animation Prototyping | habit_count: 2 | task_count: 8 | Extra: 10-week interactive design; UX student creating engaging experiences through micro-interactions, transition design, prototype creation, user testing, feedback integration, design iteration, presentation skills, and portfolio enhancement.
+
+Goal: Apache Spark Data Processing | habit_count: 3 | task_count: 11 | Extra: 16-week big data analytics; data engineering student implementing distributed computing through RDD operations, DataFrame manipulation, SQL querying, streaming processing, machine learning integration, cluster management, performance tuning, monitoring setup, job optimization, resource allocation, and certification pursuit.
+
+Goal: Webflow No-Code Development | habit_count: 2 | task_count: 7 | Extra: 8-week visual web design; web design student building responsive websites through visual editor, CMS integration, animation creation, SEO optimization, hosting setup, client handoff, maintenance workflows, and business development skills.
+
+Goal: Ionic Hybrid App Development | habit_count: 2 | task_count: 9 | Extra: 12-week mobile framework; mobile development student creating cross-platform applications through Angular integration, native plugin usage, UI component design, performance optimization, testing strategies, app store deployment, maintenance processes, user feedback integration, and market analysis.
+
+Goal: After Effects Motion Design | habit_count: 2 | task_count: 8 | Extra: 10-week animation mastery; motion graphics student creating visual effects through keyframe animation, expression scripting, plugin integration, rendering optimization, client collaboration, project management, creative problem-solving, and professional portfolio development.
+
+Goal: Snowflake Data Warehouse | habit_count: 3 | task_count: 10 | Extra: 14-week cloud analytics; data engineering student mastering data warehousing through SQL optimization, data loading, virtual warehouse management, security implementation, cost optimization, performance monitoring, integration development, backup strategies, user management, and certification preparation.
+
+Goal: Flask Python Web Framework | habit_count: 2 | task_count: 8 | Extra: 10-week web development; backend student building lightweight applications through route configuration, template rendering, database integration, authentication implementation, API development, testing frameworks, deployment strategies, and production optimization.
+
+Goal: Revit BIM Architecture | habit_count: 3 | task_count: 11 | Extra: 16-week building design; architecture student mastering building information modeling through 3D modeling, parametric design, collaboration workflows, documentation generation, rendering techniques, quantity takeoffs, project coordination, family creation, template development, standards compliance, and professional certification.
+
+Goal: GitLab DevOps Platform | habit_count: 2 | task_count: 9 | Extra: 12-week development lifecycle; software engineering student implementing complete DevOps workflows through repository management, CI/CD pipelines, issue tracking, merge request workflows, container registry, monitoring integration, security scanning, deployment automation, and team collaboration.
+
+Goal: Power Automate Workflow Automation | habit_count: 2 | task_count: 8 | Extra: 10-week process optimization; business automation student streamlining operations through flow creation, connector integration, approval processes, data transformation, error handling, monitoring setup, template development, and organizational efficiency improvement.
+
+Goal: Premiere Pro Advanced Editing | habit_count: 3 | task_count: 10 | Extra: 14-week video production; film student mastering professional editing through multi-camera workflows, color grading, audio mixing, motion graphics integration, proxy workflows, collaboration features, export optimization, client feedback, project management, and creative storytelling.
+
+Goal: Sketch Design System Development | habit_count: 2 | task_count: 9 | Extra: 12-week design consistency; UX/UI student creating scalable design frameworks through symbol libraries, style guides, component documentation, version control, team collaboration, handoff processes, maintenance workflows, design tokens, and cross-platform implementation.
+
+Goal: Neo4j Graph Database | habit_count: 3 | task_count: 10 | Extra: 14-week graph technology; database student implementing connected data solutions through Cypher querying, data modeling, performance optimization, visualization creation, application integration, security configuration, clustering setup, backup strategies, monitoring implementation, and use case development.
+
+Goal: Kubernetes Helm Package Management | habit_count: 2 | task_count: 8 | Extra: 10-week container orchestration; DevOps student simplifying deployments through chart creation, template development, release management, repository setup, dependency handling, configuration management, testing strategies, and production deployment workflows.
+
+Goal: Lightroom Photo Editing Mastery | habit_count: 2 | task_count: 7 | Extra: 8-week photography workflow; photography student optimizing image processing through RAW development, batch processing, catalog organization, preset creation, export optimization, client delivery, backup strategies, and creative enhancement techniques.
+
+Goal: Express.js API Development | habit_count: 2 | task_count: 9 | Extra: 12-week backend programming; web development student building RESTful services through middleware implementation, routing configuration, database integration, authentication systems, error handling, testing frameworks, performance optimization, security implementation, and API documentation.
+
+Goal: Bitbucket Code Collaboration | habit_count: 2 | task_count: 8 | Extra: 10-week team development; software engineering student managing collaborative coding through repository organization, branching strategies, pull request workflows, pipeline configuration, issue tracking, code review processes, deployment automation, and team productivity optimization.
+
+Goal: Sketch Plugin Development | habit_count: 3 | task_count: 9 | Extra: 12-week design automation; UX student creating workflow tools through JavaScript programming, API integration, UI development, plugin distribution, user feedback, iteration cycles, documentation creation, community engagement, and design process optimization.
+
+Goal: Cassandra NoSQL Database | habit_count: 3 | task_count: 11 | Extra: 16-week distributed systems; database engineering student implementing scalable data storage through data modeling, cluster configuration, query optimization, replication strategies, backup procedures, monitoring setup, performance tuning, security implementation, capacity planning, troubleshooting, and certification preparation.
+
+Goal: Sketch-to-React Code Generation | habit_count: 2 | task_count: 8 | Extra: 10-week design-development automation; frontend student bridging creative and technical workflows through automated conversion, component optimization, style consistency, responsive adaptation, code quality, testing integration, deployment automation, and team collaboration enhancement.
+
+Goal: Figma Advanced Prototyping | habit_count: 2 | task_count: 9 | Extra: 12-week interaction design; UX student creating sophisticated prototypes through component systems, interactive overlays, micro-animations, user testing, feedback integration, design handoff, collaboration workflows, version control, and presentation skills development.
+
+Goal: Solr Search Platform | habit_count: 3 | task_count: 10 | Extra: 14-week enterprise search; search engineering student implementing full-text search through schema configuration, indexing optimization, query processing, faceting implementation, highlighting features, clustering setup, performance tuning, security configuration, monitoring implementation, and integration development.
+
+Goal: Sketch Design Tokens Implementation | habit_count: 2 | task_count: 8 | Extra: 10-week design system scaling; design student creating consistent experiences through token management, automated workflows, cross-platform synchronization, documentation systems, version control, team collaboration, implementation guides, and maintenance processes.
+
+Goal: RabbitMQ Message Queuing | habit_count: 3 | task_count: 9 | Extra: 12-week distributed messaging; backend development student implementing asynchronous communication through queue management, exchange configuration, routing patterns, clustering setup, monitoring implementation, performance optimization, security hardening, error handling, and scalability planning.
+
+Goal: Sketch Design Review Workflows | habit_count: 2 | task_count: 7 | Extra: 8-week collaborative design; UX student optimizing feedback processes through version control, comment management, approval workflows, stakeholder communication, iteration tracking, presentation techniques, and team productivity enhancement.
+
+Goal: MongoDB Aggregation Framework | habit_count: 2 | task_count: 8 | Extra: 10-week data processing; database student mastering complex queries through pipeline operations, data transformation, performance optimization, index utilization, result formatting, real-time analytics, reporting automation, and application integration.
+
+Goal: Sketch Design Documentation | habit_count: 2 | task_count: 8 | Extra: 10-week design communication; UX student creating comprehensive guides through style documentation, component specifications, interaction patterns, usage guidelines, accessibility standards, implementation notes, maintenance procedures, and team knowledge sharing.
+
+Goal: Airflow Workflow Orchestration | habit_count: 3 | task_count: 10 | Extra: 14-week data pipeline automation; data engineering student managing complex workflows through DAG creation, task scheduling, dependency management, monitoring setup, error handling, scaling configuration, security implementation, performance optimization, troubleshooting, and production deployment.
+
+Goal: Sketch Design Handoff Optimization | habit_count: 2 | task_count: 7 | Extra: 8-week developer collaboration; UX student streamlining design-to-code processes through specification accuracy, asset preparation, annotation systems, developer communication, feedback integration, quality assurance, and workflow efficiency improvement.
+
+Goal: ClickHouse Analytics Database | habit_count: 3 | task_count: 9 | Extra: 12-week real-time analytics; data engineering student implementing high-performance querying through columnar storage, query optimization, data ingestion, cluster management, monitoring implementation, performance tuning, security configuration, backup strategies, and integration development.
+
+Goal: Sketch Design Version Control | habit_count: 2 | task_count: 8 | Extra: 10-week collaborative design; design student managing design evolution through branching strategies, merge workflows, conflict resolution, history tracking, team synchronization, backup procedures, rollback processes, and version management best practices.
+
+Goal: Vault Secrets Management | habit_count: 3 | task_count: 10 | Extra: 14-week security infrastructure; DevOps student implementing secure credential storage through policy configuration, authentication methods, encryption management, audit logging, high availability, backup strategies, integration development, security hardening, monitoring setup, and compliance frameworks.
+
+Goal: Sketch Design Testing Automation | habit_count: 2 | task_count: 8 | Extra: 10-week quality assurance; UX student automating design validation through consistency checking, accessibility testing, specification verification, automated exports, quality metrics, regression testing, error detection, and design system compliance.
+
+Goal: Prometheus Monitoring System | habit_count: 3 | task_count: 11 | Extra: 16-week observability platform; site reliability student implementing comprehensive monitoring through metric collection, alerting configuration, query optimization, visualization integration, service discovery, high availability, performance tuning, troubleshooting, capacity planning, integration development, and operational excellence.
+
+Goal: Sketch Design Performance Optimization | habit_count: 2 | task_count: 7 | Extra: 8-week workflow efficiency; design student optimizing creative processes through file optimization, plugin management, memory usage, rendering performance, collaboration speed, sync optimization, and productivity enhancement techniques.
+
+Goal: Jaeger Distributed Tracing | habit_count: 3 | task_count: 9 | Extra: 12-week microservices observability; backend development student implementing request tracing through instrumentation setup, trace analysis, performance monitoring, dependency mapping, error tracking, sampling strategies, integration development, troubleshooting, and system optimization.
+
+Goal: Sketch Design Asset Management | habit_count: 2 | task_count: 8 | Extra: 10-week resource organization; design student managing creative assets through library organization, sharing protocols, version control, backup systems, team access, usage tracking, maintenance procedures, and workflow optimization.
+
+Goal: Consul Service Discovery | habit_count: 3 | task_count: 10 | Extra: 14-week microservices infrastructure; DevOps student implementing service mesh through service registration, health checking, configuration management, load balancing, security policies, monitoring integration, troubleshooting, scaling strategies, integration development, and operational management.
+
+Goal: Sketch Design Accessibility Implementation | habit_count: 2 | task_count: 9 | Extra: 12-week inclusive design; UX student creating accessible experiences through WCAG compliance, color contrast validation, screen reader optimization, keyboard navigation, alternative text, semantic markup, accessibility testing, documentation standards, and inclusive design practices.
+
+Goal: Istio Service Mesh | habit_count: 3 | task_count: 11 | Extra: 16-week microservices networking; cloud native student implementing advanced connectivity through traffic management, security policies, observability configuration, policy enforcement, certificate management, performance optimization, troubleshooting techniques, integration development, operational procedures, monitoring setup, and enterprise deployment.
+
+Goal: Sketch Design Collaboration Enhancement | habit_count: 2 | task_count: 8 | Extra: 10-week team productivity; design student optimizing collaborative workflows through sharing protocols, feedback systems, version synchronization, communication tools, project organization, workflow automation, conflict resolution, and team efficiency improvement.
+
+Goal: Nomad Container Orchestration | habit_count: 3 | task_count: 10 | Extra: 14-week workload management; DevOps student implementing flexible scheduling through job configuration, resource allocation, service discovery, monitoring integration, security implementation, scaling strategies, troubleshooting, performance optimization, cluster management, and operational excellence.
+
+Goal: Sketch Design System Governance | habit_count: 2 | task_count: 9 | Extra: 12-week organizational consistency; design operations student establishing design standards through governance frameworks, adoption strategies, compliance monitoring, training programs, documentation systems, change management, quality assurance, metrics tracking, and organizational alignment.
+
+Goal: Packer Image Building | habit_count: 2 | task_count: 8 | Extra: 10-week infrastructure automation; DevOps student creating consistent environments through template development, multi-platform builds, provisioning automation, image optimization, version control, testing strategies, deployment integration, and infrastructure standardization.
+
+Goal: Sketch Design Metrics and Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week design measurement; UX student implementing data-driven design through usage analytics, performance metrics, user behavior tracking, A/B testing, design impact measurement, reporting automation, insight generation, and continuous improvement processes.
+
+Goal: Vagrant Development Environments | habit_count: 2 | task_count: 7 | Extra: 8-week development standardization; software engineering student creating consistent development setups through environment configuration, provisioning automation, multi-machine orchestration, networking setup, shared folder management, plugin integration, and team development efficiency.
+
+Goal: Sketch Design Innovation Processes | habit_count: 3 | task_count: 9 | Extra: 12-week creative methodology; design student developing innovation frameworks through ideation techniques, concept validation, prototype iteration, user research, market analysis, design thinking, collaboration methods, presentation skills, and creative problem-solving.
+
+Goal: Terraform Cloud Infrastructure | habit_count: 3 | task_count: 10 | Extra: 14-week infrastructure as code; cloud engineering student automating deployments through configuration management, state handling, module development, workspace organization, policy enforcement, cost optimization, security implementation, version control, collaboration workflows, and enterprise scaling.
+
+Goal: React Native Mobile Development | habit_count: 2 | task_count: 9 | Extra: 12-week cross-platform programming; mobile development student building native applications through component architecture, navigation implementation, state management, API integration, platform-specific features, testing frameworks, performance optimization, deployment processes, and app store submission.
+
+Goal: Elastic Stack Log Management | habit_count: 3 | task_count: 11 | Extra: 16-week data observability; DevOps student implementing comprehensive logging through Elasticsearch indexing, Logstash processing, Kibana visualization, Beats collection, cluster management, security configuration, performance tuning, alerting setup, data retention, monitoring implementation, and operational excellence.
+
+Goal: Adobe XD Prototyping Mastery | habit_count: 2 | task_count: 8 | Extra: 10-week interaction design; UX student creating interactive experiences through wireframing techniques, prototype development, component systems, voice prototyping, user testing, design specifications, collaboration workflows, and handoff optimization.
+
+Goal: Kubernetes Operators Development | habit_count: 3 | task_count: 10 | Extra: 14-week cloud native automation; platform engineering student building custom controllers through operator framework, custom resource definitions, reconciliation logic, testing strategies, deployment packaging, monitoring integration, troubleshooting, documentation, and enterprise distribution.
+
+Goal: Figma Design Systems Architecture | habit_count: 2 | task_count: 9 | Extra: 12-week scalable design; design systems student creating enterprise frameworks through component libraries, token management, documentation systems, governance processes, adoption strategies, maintenance workflows, version control, team training, and organizational scaling.
+
+Goal: Apache NiFi Data Flow Management | habit_count: 3 | task_count: 10 | Extra: 14-week data pipeline orchestration; data engineering student implementing ETL processes through flow design, processor configuration, data routing, transformation logic, monitoring setup, security implementation, performance optimization, cluster management, troubleshooting, and integration development.
+
+Goal: Unity AR/VR Development | habit_count: 3 | task_count: 11 | Extra: 16-week immersive technology; game development student creating extended reality experiences through spatial computing, interaction design, performance optimization, platform deployment, user experience, content creation, testing methodologies, distribution strategies, hardware integration, accessibility implementation, and portfolio development.
+
+Goal: Sketch Advanced Animation Techniques | habit_count: 2 | task_count: 8 | Extra: 10-week motion design; UX student enhancing interfaces through micro-interactions, transition design, timeline animation, easing functions, prototype enhancement, user engagement, feedback systems, and animation optimization.
+
+Goal: Apache Airflow Data Engineering | habit_count: 3 | task_count: 10 | Extra: 14-week workflow automation; data engineering student orchestrating complex pipelines through DAG development, task dependencies, scheduling optimization, monitoring implementation, error handling, scaling configuration, security hardening, performance tuning, troubleshooting, and production deployment.
+
+Goal: InVision Collaborative Design | habit_count: 2 | task_count: 7 | Extra: 8-week design workflow; UX student optimizing team collaboration through prototype sharing, feedback collection, design handoff, version management, stakeholder communication, presentation tools, and workflow efficiency.
+
+Goal: Kubernetes Service Mesh Security | habit_count: 3 | task_count: 11 | Extra: 16-week cloud security; cybersecurity student implementing zero-trust networking through mTLS configuration, policy enforcement, identity management, traffic encryption, audit logging, compliance frameworks, threat detection, incident response, security monitoring, vulnerability assessment, and security automation.
+
+Goal: Marvel App Prototyping | habit_count: 2 | task_count: 8 | Extra: 10-week rapid prototyping; product design student creating interactive mockups through wireframe development, user flow design, prototype testing, feedback integration, design iteration, presentation skills, client communication, and validation processes.
+
+Goal: Apache Kafka Connect Integration | habit_count: 3 | task_count: 9 | Extra: 12-week data integration; data engineering student implementing streaming connectors through connector configuration, data transformation, schema management, monitoring setup, error handling, performance optimization, security implementation, troubleshooting, and enterprise integration.
+
+Goal: Principle Animation Design | habit_count: 2 | task_count: 8 | Extra: 10-week interface animation; interaction design student creating engaging experiences through timeline animation, driver-based interactions, component behaviors, prototype testing, user feedback, animation optimization, presentation techniques, and portfolio development.
+
+Goal: Dremio Data Lake Analytics | habit_count: 3 | task_count: 10 | Extra: 14-week self-service analytics; data engineering student implementing query acceleration through data virtualization, query optimization, semantic layer design, security configuration, performance monitoring, catalog management, integration development, user training, governance implementation, and enterprise deployment.
+
+Goal: Framer Advanced Prototyping | habit_count: 2 | task_count: 9 | Extra: 12-week interactive design; UX student building sophisticated prototypes through code components, data integration, responsive design, animation libraries, user testing, feedback loops, design systems, collaboration workflows, and client presentation.
+
+Goal: Apache Beam Stream Processing | habit_count: 3 | task_count: 10 | Extra: 14-week unified processing; data engineering student implementing batch and stream processing through pipeline development, transformation logic, windowing strategies, triggers configuration, monitoring implementation, performance optimization, testing frameworks, deployment automation, troubleshooting, and scalability planning.
+
+Goal: ProtoPie Sensor Prototyping | habit_count: 2 | task_count: 8 | Extra: 10-week IoT interaction design; interaction design student creating sensor-based prototypes through hardware integration, gesture recognition, voice interaction, data visualization, user testing, prototype validation, presentation skills, and innovative interface development.
+
+Goal: Apache Storm Real-time Processing | habit_count: 3 | task_count: 11 | Extra: 16-week stream computing; big data student implementing real-time analytics through topology design, spout configuration, bolt development, clustering setup, fault tolerance, performance tuning, monitoring implementation, troubleshooting, capacity planning, integration development, and operational management.
+
+Goal: Origami Facebook Prototyping | habit_count: 2 | task_count: 7 | Extra: 8-week visual prototyping; mobile UX student creating interactive prototypes through patch-based design, device simulation, gesture implementation, animation creation, user testing, feedback integration, and design validation.
+
+Goal: Apache Flink Stream Processing | habit_count: 3 | task_count: 10 | Extra: 14-week stateful streaming; data engineering student implementing event-driven applications through stream processing, state management, windowing operations, checkpoint configuration, monitoring setup, performance optimization, deployment strategies, troubleshooting, scalability planning, and enterprise integration.
+
+Goal: Axure Advanced Wireframing | habit_count: 2 | task_count: 9 | Extra: 12-week documentation design; UX researcher student creating detailed specifications through interactive wireframes, conditional logic, dynamic panels, data-driven prototypes, user testing, documentation generation, stakeholder communication, requirement validation, and design handoff.
+
+Goal: Apache Pulsar Messaging Platform | habit_count: 3 | task_count: 10 | Extra: 14-week distributed messaging; backend development student implementing pub-sub systems through topic management, schema evolution, geo-replication, security configuration, monitoring implementation, performance optimization, integration development, troubleshooting, capacity planning, and enterprise deployment.
+
+Goal: UXPin Design Systems | habit_count: 2 | task_count: 8 | Extra: 10-week systematic design; design systems student creating scalable frameworks through component libraries, design tokens, documentation systems, code integration, version control, team collaboration, maintenance workflows, and adoption strategies.
+
+Goal: Apache Hudi Data Lakes | habit_count: 3 | task_count: 11 | Extra: 16-week transactional data lakes; data engineering student implementing ACID transactions through incremental processing, time travel queries, data versioning, compaction strategies, monitoring setup, performance optimization, integration development, troubleshooting, governance implementation, schema evolution, and enterprise scaling.
+
+Goal: Balsamiq Rapid Wireframing | habit_count: 2 | task_count: 7 | Extra: 8-week low-fidelity design; product design student accelerating ideation through quick sketching, user flow mapping, requirement gathering, stakeholder communication, iteration cycles, feedback integration, and concept validation.
+
+Goal: Apache Iceberg Table Format | habit_count: 3 | task_count: 9 | Extra: 12-week modern data architecture; data engineering student implementing table evolution through schema management, partition evolution, time travel queries, metadata handling, performance optimization, integration development, monitoring setup, troubleshooting, and data governance.
+
+Goal: MockFlow User Experience Design | habit_count: 2 | task_count: 8 | Extra: 10-week collaborative wireframing; UX team student streamlining design processes through team collaboration, revision tracking, component libraries, user story mapping, client presentations, feedback management, design documentation, and workflow optimization.
+
+Goal: Delta Lake Data Management | habit_count: 3 | task_count: 10 | Extra: 14-week reliable data lakes; data engineering student implementing ACID transactions through versioning control, time travel, schema enforcement, performance optimization, data quality, monitoring setup, integration development, troubleshooting, governance frameworks, and enterprise deployment.
+
+Goal: Whimsical Flowchart Design | habit_count: 2 | task_count: 7 | Extra: 8-week visual communication; systems analyst student creating clear documentation through process mapping, user journey visualization, system architecture, team collaboration, stakeholder communication, documentation standards, and workflow optimization.
+
+Goal: Databricks Analytics Platform | habit_count: 3 | task_count: 11 | Extra: 16-week unified analytics; data science student implementing collaborative analytics through notebook development, cluster management, ML pipeline creation, data visualization, job scheduling, security configuration, performance optimization, collaboration workflows, model deployment, monitoring implementation, and enterprise integration.
+
+Goal: Lucidchart Systems Design | habit_count: 2 | task_count: 8 | Extra: 10-week visual documentation; business analyst student creating comprehensive diagrams through flowchart design, network mapping, organizational charts, process documentation, team collaboration, presentation skills, template creation, and workflow standardization.
+
+Goal: Snowflake Data Cloud Platform | habit_count: 3 | task_count: 10 | Extra: 14-week cloud data warehouse; data analyst student mastering analytics through SQL optimization, data sharing, virtual warehouse management, security implementation, cost optimization, performance monitoring, integration development, backup strategies, user management, and certification preparation.
+
+Goal: Draw.io Technical Diagramming | habit_count: 2 | task_count: 7 | Extra: 8-week technical visualization; software architect student creating system documentation through architecture diagrams, network layouts, database schemas, integration flows, version control, team sharing, template development, and documentation standards.
+
+Goal: Palantir Foundry Data Integration | habit_count: 3 | task_count: 11 | Extra: 16-week enterprise data platform; data operations student implementing data fusion through ontology design, pipeline development, data lineage, security frameworks, collaboration tools, application building, monitoring implementation, governance processes, user training, workflow automation, and organizational scaling.
+
+Goal: Miro Collaborative Whiteboarding | habit_count: 2 | task_count: 8 | Extra: 10-week visual collaboration; design thinking student facilitating creative processes through workshop design, ideation techniques, user journey mapping, stakeholder alignment, template creation, facilitation skills, documentation methods, and team productivity enhancement.
+
+Goal: Tableau Advanced Analytics | habit_count: 3 | task_count: 10 | Extra: 14-week business intelligence mastery; data analyst student creating sophisticated visualizations through calculated fields, parameter controls, advanced charts, dashboard optimization, data blending, performance tuning, server administration, automation scripting, user training, and certification achievement.
+
+Goal: Mural Design Thinking Facilitation | habit_count: 2 | task_count: 9 | Extra: 12-week collaborative innovation; service design student leading creative sessions through workshop planning, stakeholder engagement, ideation facilitation, synthesis techniques, prototype validation, presentation skills, follow-up processes, methodology development, and organizational change management.
+
+Goal: Power BI Advanced Development | habit_count: 3 | task_count: 11 | Extra: 16-week Microsoft analytics; business intelligence student mastering enterprise reporting through DAX programming, data modeling, custom visuals, gateway configuration, security implementation, performance optimization, automation scripting, user training, deployment strategies, governance frameworks, and certification pursuit.
+
+Goal: Conceptboard Visual Collaboration | habit_count: 2 | task_count: 8 | Extra: 10-week remote teamwork; project management student optimizing distributed collaboration through board organization, template development, workflow automation, stakeholder engagement, documentation systems, presentation techniques, feedback collection, and team productivity enhancement.
+
+Goal: QlikSense Self-Service Analytics | habit_count: 3 | task_count: 10 | Extra: 14-week associative analytics; business analyst student implementing data discovery through app development, data modeling, visualization creation, security configuration, performance optimization, user training, governance implementation, mobile deployment, automation scripting, and enterprise scaling.
+
+Goal: RealtimeBoard Agile Planning | habit_count: 2 | task_count: 7 | Extra: 8-week agile facilitation; scrum master student optimizing team processes through sprint planning, retrospective facilitation, user story mapping, workflow visualization, stakeholder communication, continuous improvement, template development, and team coaching.
+
+Goal: Looker Studio Data Visualization | habit_count: 2 | task_count: 8 | Extra: 10-week Google analytics; marketing analyst student creating compelling reports through data connector setup, custom calculations, interactive dashboards, sharing protocols, performance optimization, automation features, template creation, and stakeholder presentation.
+
+Goal: Stormboard Digital Brainstorming | habit_count: 2 | task_count: 8 | Extra: 10-week idea management; innovation student facilitating creative processes through structured brainstorming, idea categorization, voting mechanisms, action planning, follow-up tracking, template customization, facilitation techniques, and organizational innovation culture.
+
+Goal: Sisense Embedded Analytics | habit_count: 3 | task_count: 9 | Extra: 12-week integrated intelligence; software developer student implementing analytics solutions through API integration, custom dashboards, white-label deployment, security configuration, performance optimization, user experience design, testing strategies, documentation creation, and client delivery.
+
+Goal: Jamboard Collaborative Learning | habit_count: 2 | task_count: 7 | Extra: 8-week educational technology; education student enhancing classroom engagement through interactive lessons, student collaboration, visual learning, assessment integration, template development, pedagogical innovation, technology integration, and learning outcome measurement.
+
+Goal: Domo Business Intelligence | habit_count: 3 | task_count: 10 | Extra: 14-week cloud analytics; business operations student implementing executive dashboards through data pipeline creation, ETL development, visualization design, alert configuration, mobile optimization, user management, security implementation, performance monitoring, automation scripting, and organizational adoption.
+
+Goal: Padlet Digital Collaboration | habit_count: 2 | task_count: 7 | Extra: 8-week content curation; communications student organizing collaborative content through board creation, multimedia integration, moderation techniques, sharing protocols, engagement strategies, assessment methods, and digital literacy development.
+
+Goal: Chartio SQL Analytics | habit_count: 2 | task_count: 8 | Extra: 10-week data exploration; data analyst student creating ad-hoc analysis through SQL querying, chart creation, dashboard building, data pipeline setup, collaboration features, automation scheduling, performance optimization, and business insight generation.
+
+Goal: Loom Asynchronous Communication | habit_count: 2 | task_count: 7 | Extra: 8-week video messaging; remote work student optimizing team communication through screen recording, video messaging, feedback delivery, knowledge sharing, training content creation, workflow documentation, and distributed team collaboration.
+
+Goal: Mode Analytics Advanced SQL | habit_count: 3 | task_count: 9 | Extra: 12-week data science platform; analytics engineer student implementing complex analysis through SQL optimization, Python integration, visualization creation, report automation, collaboration workflows, version control, performance tuning, documentation standards, and enterprise deployment.
+
+Goal: Notion Productivity System | habit_count: 2 | task_count: 8 | Extra: 10-week knowledge management; productivity student creating comprehensive systems through database design, template development, automation setup, collaboration workflows, project tracking, goal management, habit tracking, and personal productivity optimization.
+
+Goal: Hex Data Science Platform | habit_count: 3 | task_count: 10 | Extra: 14-week collaborative analytics; data scientist student implementing end-to-end workflows through notebook development, SQL analysis, Python scripting, visualization creation, model deployment, version control, collaboration features, presentation tools, automation scheduling, and enterprise integration.
+
+Goal: Obsidian Knowledge Management | habit_count: 2 | task_count: 8 | Extra: 10-week personal knowledge system; research student building connected learning through note-taking methods, linking strategies, plugin utilization, workflow automation, research organization, idea development, knowledge synthesis, and academic productivity.
+
+Goal: Observable Data Visualization | habit_count: 3 | task_count: 9 | Extra: 12-week interactive notebooks; data visualization student creating dynamic content through JavaScript programming, D3.js integration, data storytelling, interactive charts, collaboration features, version control, publishing workflows, performance optimization, and portfolio development.
+
+Goal: Roam Research Networked Thought | habit_count: 2 | task_count: 8 | Extra: 10-week connected learning; knowledge worker student developing thinking systems through bidirectional linking, graph database concepts, daily notes, block references, query building, workflow automation, idea synthesis, and research methodology.
+
+Goal: Streamlit Data Apps | habit_count: 2 | task_count: 9 | Extra: 12-week Python web apps; data science student creating interactive applications through widget development, data visualization, caching optimization, deployment strategies, user interface design, sharing protocols, version control, performance monitoring, and portfolio showcase.
+
+Goal: LogSeq Local-First Notes | habit_count: 2 | task_count: 7 | Extra: 8-week privacy-focused knowledge; digital minimalist student building personal systems through local storage, block-based notes, graph connections, plugin ecosystem, workflow automation, backup strategies, and sustainable learning practices.
+
+Goal: Gradio ML Interface Creation | habit_count: 2 | task_count: 8 | Extra: 10-week machine learning deployment; AI student creating user interfaces through model wrapping, component design, sharing mechanisms, deployment automation, user experience optimization, feedback collection, iteration cycles, and portfolio development.
+
+Goal: Dendron Structured Knowledge | habit_count: 2 | task_count: 8 | Extra: 10-week hierarchical notes; information science student organizing complex knowledge through schema design, note hierarchies, lookup systems, publishing workflows, collaboration features, automation tools, template development, and knowledge architecture.
+
+Goal: Dash Interactive Analytics | habit_count: 3 | task_count: 9 | Extra: 12-week Python dashboards; data engineer student building web applications through callback programming, component design, styling customization, deployment strategies, performance optimization, user authentication, testing frameworks, documentation creation, and enterprise integration.
+
+Goal: Foam Knowledge Graph | habit_count: 2 | task_count: 7 | Extra: 8-week VSCode knowledge system; developer student creating connected notes through markdown linking, graph visualization, workspace organization, extension utilization, automation scripting, collaboration workflows, and integrated development environments.
+
+Goal: Panel Data Visualization Apps | habit_count: 3 | task_count: 9 | Extra: 12-week Python dashboards; visualization student creating interactive applications through widget development, server deployment, template customization, data pipeline integration, performance optimization, user experience design, testing strategies, documentation creation, and portfolio development.
+
+Goal: TiddlyWiki Non-Linear Documentation | habit_count: 2 | task_count: 8 | Extra: 10-week personal wiki; information architect student building knowledge systems through tiddler creation, macro programming, plugin development, customization techniques, backup strategies, sharing methods, workflow automation, and knowledge management methodologies.
+
+Goal: Voilà Jupyter Dashboard Deployment | habit_count: 2 | task_count: 8 | Extra: 10-week notebook applications; data science student converting analysis to apps through widget integration, template customization, deployment automation, security configuration, performance optimization, user experience design, sharing protocols, and production deployment.
+
+Goal: Zettlr Academic Writing | habit_count: 2 | task_count: 8 | Extra: 10-week scholarly productivity; graduate student optimizing research workflows through markdown writing, citation management, project organization, export automation, collaboration features, version control, bibliography integration, and academic publishing preparation.
+
+Goal: Bokeh Interactive Visualization | habit_count: 3 | task_count: 10 | Extra: 14-week Python plotting; data visualization student creating web-ready graphics through server applications, widget interaction, layout design, performance optimization, deployment strategies, custom extensions, testing frameworks, documentation development, collaboration workflows, and portfolio showcase.
+
+Goal: Zotero Reference Management | habit_count: 2 | task_count: 7 | Extra: 8-week research organization; academic student mastering citation workflows through library organization, PDF annotation, group collaboration, plugin utilization, bibliography generation, writing integration, backup strategies, and research productivity optimization.

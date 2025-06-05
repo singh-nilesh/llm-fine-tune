@@ -1,0 +1,253 @@
+Goal: Junior Developer to Senior Full Stack Engineer | habit_count: 3 | task_count: 11 | Extra: 24-week advanced full-stack mastery; junior developer advancing through microservices architecture, cloud deployment strategies, advanced React patterns, Node.js optimization, database scaling, API design principles, testing automation, code review leadership, performance monitoring, security best practices, and senior engineer responsibilities.
+
+Goal: CS Student to Machine Learning Engineer | habit_count: 2 | task_count: 10 | Extra: 20-week ML engineering specialization; computer science undergraduate progressing through deep learning frameworks, MLOps implementation, model deployment pipelines, feature engineering, algorithm optimization, distributed computing, data preprocessing, model monitoring, A/B testing, and ML engineer positions.
+
+Goal: IT Support to DevOps Engineer | habit_count: 3 | task_count: 12 | Extra: 28-week DevOps transformation; IT support professional transitioning through containerization mastery, CI/CD pipeline automation, infrastructure as code, monitoring systems, cloud platforms, configuration management, security integration, disaster recovery, cost optimization, and DevOps engineering roles.
+
+Goal: Finance Graduate to Quantitative Developer | habit_count: 2 | task_count: 9 | Extra: 18-week quantitative programming; finance graduate advancing through Python/C++ mastery, algorithmic trading systems, risk modeling, derivatives pricing, backtesting frameworks, market data analysis, performance optimization, and quantitative developer positions.
+
+Goal: Biology Student to Bioinformatics Engineer | habit_count: 3 | task_count: 11 | Extra: 22-week computational biology transition; biology major progressing through genomic data pipelines, cloud computing platforms, statistical analysis, database management, visualization tools, machine learning applications, research methodology, and bioinformatics engineer roles.
+
+Goal: Software Engineer to Cloud Architect | habit_count: 2 | task_count: 10 | Extra: 20-week cloud architecture specialization; software engineer advancing through multi-cloud strategies, serverless computing, microservices design, security frameworks, cost optimization, disaster recovery, scalability planning, and cloud architect positions.
+
+Goal: Data Analyst to Senior Data Scientist | habit_count: 3 | task_count: 12 | Extra: 26-week advanced data science; data analyst transitioning through advanced statistics, deep learning, MLOps practices, experiment design, causal inference, model interpretation, stakeholder communication, and senior data scientist responsibilities.
+
+Goal: Medical Student to Healthcare Data Engineer | habit_count: 2 | task_count: 9 | Extra: 16-week healthcare informatics; medical student progressing through FHIR standards, healthcare databases, privacy compliance, clinical data pipelines, interoperability solutions, analytics platforms, and healthcare data engineer positions.
+
+Goal: Junior Analyst to Investment Banking Associate | habit_count: 1 | task_count: 8 | Extra: 14-week IB acceleration; junior analyst advancing through advanced financial modeling, LBO analysis, merger evaluation, pitch deck creation, client presentation skills, industry expertise, and associate-level responsibilities.
+
+Goal: Web Developer to Lead Frontend Engineer | habit_count: 3 | task_count: 11 | Extra: 22-week frontend leadership; web developer transitioning through advanced JavaScript frameworks, performance optimization, accessibility standards, design systems, team mentoring, code architecture, testing strategies, and lead engineer positions.
+
+Goal: CS Graduate to Cybersecurity Specialist | habit_count: 2 | task_count: 10 | Extra: 18-week security specialization; computer science graduate progressing through penetration testing, incident response, security frameworks, threat analysis, compliance standards, forensic analysis, risk assessment, and cybersecurity specialist roles.
+
+Goal: Business Analyst to Product Manager | habit_count: 2 | task_count: 9 | Extra: 16-week product management transition; business analyst advancing through user research, agile methodologies, roadmap planning, stakeholder management, market analysis, A/B testing, metrics tracking, and product manager positions.
+
+Goal: Junior Doctor to Clinical Informatics Manager | habit_count: 3 | task_count: 12 | Extra: 24-week healthcare technology leadership; junior doctor transitioning through EHR optimization, workflow analysis, clinical decision support, quality improvement, team management, vendor relations, and clinical informatics manager roles.
+
+Goal: Financial Analyst to Portfolio Manager | habit_count: 2 | task_count: 8 | Extra: 14-week portfolio management; financial analyst progressing through asset allocation, risk management, performance attribution, client relations, market research, investment strategy, and portfolio manager responsibilities.
+
+Goal: Backend Developer to Site Reliability Engineer | habit_count: 3 | task_count: 11 | Extra: 20-week SRE specialization; backend developer advancing through system monitoring, incident management, capacity planning, automation tools, performance optimization, disaster recovery, on-call procedures, and SRE positions.
+
+Goal: Mathematics Student to Algorithmic Trader | habit_count: 2 | task_count: 10 | Extra: 18-week quantitative trading; mathematics major transitioning through market microstructure, strategy development, backtesting systems, risk management, execution algorithms, performance analysis, and algorithmic trading roles.
+
+Goal: Database Administrator to Data Architect | habit_count: 3 | task_count: 12 | Extra: 26-week data architecture evolution; DBA advancing through data modeling, ETL design, cloud migration, governance frameworks, security implementation, performance tuning, team leadership, and data architect positions.
+
+Goal: Pharmacy Student to Clinical Data Manager | habit_count: 2 | task_count: 9 | Extra: 16-week clinical data specialization; pharmacy student progressing through clinical trial data, regulatory compliance, database design, quality control, statistical analysis, protocol development, and clinical data manager roles.
+
+Goal: Software Tester to Automation Engineer | habit_count: 3 | task_count: 11 | Extra: 22-week test automation mastery; manual tester transitioning through framework development, CI/CD integration, performance testing, API automation, mobile testing, security testing, tool evaluation, and automation engineer positions.
+
+Goal: Economics Graduate to Risk Manager | habit_count: 2 | task_count: 8 | Extra: 14-week risk management specialization; economics graduate advancing through credit risk modeling, market risk analysis, operational risk assessment, regulatory compliance, stress testing, and risk manager responsibilities.
+
+Goal: Mobile Developer to Technical Lead | habit_count: 3 | task_count: 10 | Extra: 20-week technical leadership; mobile developer progressing through architecture design, team mentoring, code review processes, technology evaluation, project planning, stakeholder communication, and technical lead positions.
+
+Goal: Research Assistant to Senior Data Engineer | habit_count: 2 | task_count: 12 | Extra: 28-week data engineering advancement; research assistant transitioning through big data technologies, streaming systems, data lake architecture, pipeline optimization, monitoring tools, team leadership, and senior data engineer roles.
+
+Goal: Nursing Student to Healthcare Analytics Manager | habit_count: 3 | task_count: 11 | Extra: 24-week healthcare analytics leadership; nursing student advancing through clinical metrics, population health, quality indicators, team management, reporting systems, stakeholder engagement, and analytics manager positions.
+
+Goal: Junior Consultant to Senior Business Consultant | habit_count: 2 | task_count: 9 | Extra: 18-week consulting excellence; junior consultant progressing through client management, solution architecture, team leadership, proposal development, industry expertise, change management, and senior consultant responsibilities.
+
+Goal: Frontend Developer to UX Engineering Manager | habit_count: 3 | task_count: 12 | Extra: 26-week UX engineering leadership; frontend developer transitioning through design systems, user research, accessibility standards, team management, cross-functional collaboration, and UX engineering manager roles.
+
+Goal: Finance Student to Credit Risk Analyst | habit_count: 2 | task_count: 8 | Extra: 14-week credit risk specialization; finance undergraduate advancing through credit modeling, portfolio analysis, regulatory requirements, stress testing, reporting systems, and credit risk analyst positions.
+
+Goal: Systems Administrator to Cloud Solutions Architect | habit_count: 3 | task_count: 11 | Extra: 22-week cloud architecture transition; sysadmin progressing through multi-cloud design, serverless solutions, cost optimization, security architecture, migration strategies, and cloud solutions architect roles.
+
+Goal: Medical Resident to Digital Health Product Manager | habit_count: 2 | task_count: 10 | Extra: 20-week digital health product management; medical resident transitioning through health tech products, user experience design, regulatory compliance, clinical workflows, and digital health product manager positions.
+
+Goal: Quality Assurance to Test Engineering Manager | habit_count: 3 | task_count: 12 | Extra: 28-week QA leadership evolution; QA engineer advancing through test strategy, automation frameworks, team management, process improvement, tool evaluation, and test engineering manager responsibilities.
+
+Goal: Accounting Graduate to Financial Systems Analyst | habit_count: 2 | task_count: 9 | Extra: 16-week fintech specialization; accounting graduate progressing through ERP systems, financial software, process automation, data analysis, system integration, and financial systems analyst roles.
+
+Goal: Full Stack Developer to Engineering Manager | habit_count: 3 | task_count: 11 | Extra: 24-week engineering leadership; full stack developer transitioning through team management, technical strategy, hiring processes, performance management, project coordination, and engineering manager positions.
+
+Goal: Statistics Student to Senior Business Intelligence Analyst | habit_count: 2 | task_count: 10 | Extra: 18-week BI advancement; statistics major advancing through advanced analytics, dashboard development, data warehousing, stakeholder management, and senior BI analyst responsibilities.
+
+Goal: IT Specialist to Information Security Manager | habit_count: 3 | task_count: 12 | Extra: 26-week security leadership; IT specialist progressing through security governance, compliance management, incident response, team leadership, risk assessment, and information security manager roles.
+
+Goal: Biomedical Student to Regulatory Affairs Manager | habit_count: 2 | task_count: 8 | Extra: 14-week regulatory leadership; biomedical student advancing through FDA processes, submission management, compliance oversight, team coordination, and regulatory affairs manager positions.
+
+Goal: Junior Developer to Principal Software Engineer | habit_count: 3 | task_count: 12 | Extra: 32-week senior engineering path; junior developer progressing through system architecture, technical mentoring, strategic planning, innovation leadership, cross-team collaboration, and principal engineer responsibilities.
+
+Goal: Financial Advisor to Wealth Management Director | habit_count: 2 | task_count: 9 | Extra: 18-week wealth management leadership; financial advisor transitioning through portfolio strategies, client relationships, team management, business development, and wealth management director roles.
+
+Goal: Database Developer to Senior Data Architect | habit_count: 3 | task_count: 11 | Extra: 24-week data architecture mastery; database developer advancing through enterprise architecture, cloud migration, governance frameworks, strategic planning, and senior data architect positions.
+
+Goal: Public Health Student to Epidemiology Data Manager | habit_count: 2 | task_count: 10 | Extra: 20-week epidemiological data specialization; public health major progressing through disease surveillance systems, statistical analysis, data quality, research coordination, and epidemiology data manager roles.
+
+Goal: Network Administrator to Senior Infrastructure Engineer | habit_count: 3 | task_count: 12 | Extra: 28-week infrastructure advancement; network admin transitioning through cloud infrastructure, automation tools, security implementation, capacity planning, and senior infrastructure engineer positions.
+
+Goal: Chemistry Graduate to Pharmaceutical Data Scientist | habit_count: 2 | task_count: 9 | Extra: 16-week pharma data science; chemistry graduate advancing through drug discovery analytics, clinical trial analysis, regulatory data, machine learning applications, and pharmaceutical data scientist roles.
+
+Goal: Software Architect to VP of Engineering | habit_count: 3 | task_count: 11 | Extra: 26-week executive leadership; software architect progressing through organizational leadership, strategic planning, talent management, technology vision, and VP of engineering responsibilities.
+
+Goal: Marketing Analyst to Senior Product Marketing Manager | habit_count: 2 | task_count: 8 | Extra: 14-week product marketing advancement; marketing analyst transitioning through go-to-market strategy, competitive analysis, product positioning, team leadership, and senior product marketing manager roles.
+
+Goal: Clinical Research Coordinator to Clinical Operations Manager | habit_count: 3 | task_count: 10 | Extra: 20-week clinical operations leadership; CRC advancing through protocol management, site oversight, team coordination, regulatory compliance, and clinical operations manager positions.
+
+Goal: Security Analyst to Chief Information Security Officer | habit_count: 2 | task_count: 12 | Extra: 30-week CISO preparation; security analyst progressing through security strategy, risk governance, executive communication, compliance oversight, and CISO responsibilities.
+
+Goal: Business Intelligence Developer to Analytics Director | habit_count: 3 | task_count: 11 | Extra: 24-week analytics leadership; BI developer transitioning through advanced analytics, team management, strategic planning, stakeholder engagement, and analytics director roles.
+
+Goal: Actuarial Student to Senior Risk Modeler | habit_count: 2 | task_count: 9 | Extra: 18-week actuarial advancement; actuarial science student progressing through advanced modeling, regulatory capital, stress testing, model validation, and senior risk modeler positions.
+
+Goal: DevOps Engineer to Platform Engineering Manager | habit_count: 3 | task_count: 12 | Extra: 28-week platform leadership; DevOps engineer advancing through platform strategy, team management, tooling evaluation, developer experience, and platform engineering manager roles.
+
+Goal: Medical Informatics Student to Chief Medical Information Officer | habit_count: 2 | task_count: 10 | Extra: 22-week CMIO preparation; medical informatics student transitioning through clinical systems, healthcare strategy, physician leadership, and CMIO responsibilities.
+
+Goal: Investment Analyst to Senior Portfolio Manager | habit_count: 3 | task_count: 8 | Extra: 16-week portfolio management mastery; investment analyst advancing through asset allocation, client management, risk oversight, team leadership, and senior portfolio manager roles.
+
+Goal: API Developer to Senior Integration Architect | habit_count: 2 | task_count: 11 | Extra: 24-week integration architecture; API developer progressing through enterprise integration, microservices design, system architecture, technical leadership, and senior integration architect positions.
+
+Goal: Data Engineer to Head of Data Engineering | habit_count: 3 | task_count: 12 | Extra: 30-week data engineering leadership; data engineer transitioning through team management, technical strategy, infrastructure planning, cross-functional collaboration, and head of data engineering roles.
+
+Goal: Pharmacy Informatics Student to Healthcare Technology Director | habit_count: 2 | task_count: 9 | Extra: 18-week healthcare tech leadership; pharmacy informatics student advancing through system implementation, vendor management, strategic planning, and healthcare technology director positions.
+
+Goal: Junior Quantitative Analyst to Senior Quant Researcher | habit_count: 3 | task_count: 10 | Extra: 20-week quantitative research advancement; junior quant progressing through advanced modeling, research methodology, publication standards, team collaboration, and senior quant researcher roles.
+
+Goal: Cloud Engineer to Principal Cloud Architect | habit_count: 2 | task_count: 11 | Extra: 26-week cloud architecture mastery; cloud engineer advancing through enterprise architecture, multi-cloud strategy, cost optimization, technical leadership, and principal cloud architect positions.
+
+Goal: Bioinformatics Student to Computational Biology Manager | habit_count: 3 | task_count: 12 | Extra: 28-week computational biology leadership; bioinformatics student transitioning through research management, team leadership, grant writing, publication strategy, and computational biology manager roles.
+
+Goal: Financial Systems Analyst to Fintech Product Director | habit_count: 2 | task_count: 8 | Extra: 14-week fintech product leadership; financial systems analyst progressing through product strategy, market analysis, team management, stakeholder engagement, and fintech product director positions.
+
+Goal: Security Engineer to Principal Security Architect | habit_count: 3 | task_count: 11 | Extra: 24-week security architecture mastery; security engineer advancing through enterprise security, threat modeling, compliance frameworks, technical leadership, and principal security architect roles.
+
+Goal: Clinical Data Analyst to Senior Clinical Research Manager | habit_count: 2 | task_count: 10 | Extra: 20-week clinical research leadership; clinical data analyst transitioning through protocol development, team management, regulatory oversight, and senior clinical research manager positions.
+
+Goal: Machine Learning Engineer to AI Research Director | habit_count: 3 | task_count: 12 | Extra: 30-week AI research leadership; ML engineer progressing through research strategy, team leadership, publication goals, grant acquisition, and AI research director responsibilities.
+
+Goal: Treasury Analyst to Senior Corporate Finance Manager | habit_count: 2 | task_count: 9 | Extra: 18-week corporate finance advancement; treasury analyst advancing through capital structure, financial planning, risk management, team leadership, and senior corporate finance manager roles.
+
+Goal: Platform Engineer to Senior Site Reliability Manager | habit_count: 3 | task_count: 11 | Extra: 26-week SRE management; platform engineer transitioning through reliability engineering, incident management, team leadership, process improvement, and senior SRE manager positions.
+
+Goal: Healthcare Data Analyst to Chief Data Officer | habit_count: 2 | task_count: 12 | Extra: 32-week CDO preparation; healthcare data analyst progressing through data strategy, governance frameworks, executive leadership, organizational transformation, and CDO responsibilities.
+
+Goal: Quantitative Developer to Head of Quantitative Research | habit_count: 3 | task_count: 10 | Extra: 22-week quant research leadership; quantitative developer advancing through research strategy, team management, model development, publication standards, and head of quantitative research roles.
+
+Goal: Solutions Architect to Senior Principal Consultant | habit_count: 2 | task_count: 8 | Extra: 16-week consulting excellence; solutions architect transitioning through client engagement, solution design, thought leadership, business development, and senior principal consultant positions.
+
+Goal: Database Architect to Senior Data Platform Manager | habit_count: 3 | task_count: 11 | Extra: 24-week data platform leadership; database architect progressing through platform strategy, team management, vendor relations, technology evaluation, and senior data platform manager roles.
+
+Goal: Medical Device Engineer to Regulatory Strategy Director | habit_count: 2 | task_count: 9 | Extra: 18-week regulatory strategy leadership; medical device engineer advancing through regulatory pathways, strategic planning, team leadership, and regulatory strategy director positions.
+
+Goal: Senior Developer to Chief Technology Officer | habit_count: 3 | task_count: 12 | Extra: 34-week CTO preparation; senior developer transitioning through technology strategy, organizational leadership, innovation management, board communication, and CTO responsibilities.
+
+Goal: Risk Analyst to Senior Credit Risk Manager | habit_count: 2 | task_count: 10 | Extra: 20-week credit risk leadership; risk analyst advancing through portfolio management, model oversight, regulatory compliance, team leadership, and senior credit risk manager roles.
+
+Goal: Infrastructure Engineer to Senior DevOps Manager | habit_count: 3 | task_count: 11 | Extra: 26-week DevOps management; infrastructure engineer progressing through automation strategy, team leadership, process improvement, vendor management, and senior DevOps manager positions.
+
+Goal: Biostatistician to Senior Clinical Biostatistics Manager | habit_count: 2 | task_count: 8 | Extra: 14-week biostatistics leadership; biostatistician transitioning through statistical methodology, regulatory submissions, team management, and senior clinical biostatistics manager roles.
+
+Goal: Technology Consultant to Senior Digital Transformation Director | habit_count: 3 | task_count: 12 | Extra: 30-week digital transformation leadership; technology consultant advancing through transformation strategy, change management, executive engagement, and senior digital transformation director positions.
+
+Goal: Algorithmic Trading Developer to Senior Quantitative Strategist | habit_count: 2 | task_count: 9 | Extra: 18-week quantitative strategy advancement; algo trading developer progressing through strategy development, risk management, performance attribution, and senior quantitative strategist roles.
+
+Goal: Systems Engineer to Principal Technical Architect | habit_count: 3 | task_count: 11 | Extra: 24-week technical architecture mastery; systems engineer transitioning through enterprise architecture, technology evaluation, design patterns, and principal technical architect positions.
+
+Goal: Clinical Systems Analyst to Healthcare Innovation Director | habit_count: 2 | task_count: 10 | Extra: 22-week healthcare innovation leadership; clinical systems analyst advancing through innovation strategy, technology evaluation, partnership development, and healthcare innovation director roles.
+
+Goal: Senior Analyst to Investment Management Director | habit_count: 3 | task_count: 12 | Extra: 28-week investment management leadership; senior analyst progressing through portfolio strategy, client relations, team management, business development, and investment management director positions.
+
+Goal: Quality Engineer to Senior Software Quality Manager | habit_count: 2 | task_count: 8 | Extra: 16-week quality management advancement; quality engineer transitioning through quality processes, team leadership, tool evaluation, and senior software quality manager roles.
+
+Goal: Data Scientist to Senior Analytics Manager | habit_count: 3 | task_count: 11 | Extra: 26-week analytics management; data scientist advancing through team leadership, strategic planning, stakeholder management, methodology development, and senior analytics manager positions.
+
+Goal: Pharmaceutical Scientist to Senior Drug Development Manager | habit_count: 2 | task_count: 9 | Extra: 18-week drug development leadership; pharmaceutical scientist progressing through development strategy, regulatory planning, team coordination, and senior drug development manager roles.
+
+Goal: Network Engineer to Senior Infrastructure Architect | habit_count: 3 | task_count: 10 | Extra: 20-week infrastructure architecture; network engineer transitioning through enterprise networking, cloud integration, security design, and senior infrastructure architect positions.
+
+Goal: Financial Engineer to Senior Derivatives Strategist | habit_count: 2 | task_count: 12 | Extra: 24-week derivatives strategy mastery; financial engineer advancing through complex derivatives, risk modeling, trading strategies, and senior derivatives strategist roles.
+
+Goal: Software Quality Assurance to Principal QA Architect | habit_count: 3 | task_count: 11 | Extra: 22-week QA architecture; SQA engineer progressing through testing frameworks, automation strategy, quality standards, and principal QA architect positions.
+
+Goal: Regulatory Affairs Specialist to Senior Regulatory Strategy Manager | habit_count: 2 | task_count: 8 | Extra: 14-week regulatory strategy advancement; regulatory specialist transitioning through strategic planning, regulatory intelligence, team leadership, and senior regulatory strategy manager roles.
+
+Goal: Backend Engineer to Senior Platform Manager | habit_count: 3 | task_count: 12 | Extra: 28-week platform management; backend engineer advancing through platform strategy, developer experience, team leadership, and senior platform manager positions.
+
+Goal: Clinical Research Manager to Senior Clinical Development Director | habit_count: 2 | task_count: 9 | Extra: 18-week clinical development leadership; clinical research manager progressing through development strategy, regulatory oversight, team management, and senior clinical development director roles.
+
+Goal: Security Consultant to Principal Cybersecurity Strategist | habit_count: 3 | task_count: 10 | Extra: 20-week cybersecurity strategy; security consultant transitioning through strategic security, threat intelligence, executive advisory, and principal cybersecurity strategist positions.
+
+Goal: Business Intelligence Analyst to Senior Data Strategy Manager | habit_count: 2 | task_count: 11 | Extra: 24-week data strategy leadership; BI analyst advancing through data governance, strategic planning, cross-functional collaboration, and senior data strategy manager roles.
+
+Goal: Quantitative Risk Analyst to Senior Model Risk Manager | habit_count: 3 | task_count: 12 | Extra: 26-week model risk management; quantitative risk analyst progressing through model validation, governance frameworks, regulatory compliance, and senior model risk manager positions.
+
+Goal: Integration Developer to Senior API Strategy Manager | habit_count: 2 | task_count: 8 | Extra: 16-week API strategy leadership; integration developer transitioning through API governance, developer experience, platform strategy, and senior API strategy manager roles.
+
+Goal: Healthcare Analyst to Senior Population Health Manager | habit_count: 3 | task_count: 11 | Extra: 22-week population health leadership; healthcare analyst advancing through population analytics, quality improvement, program management, and senior population health manager positions.
+
+Goal: Portfolio Analyst to Senior Investment Strategy Director | habit_count: 2 | task_count: 9 | Extra: 18-week investment strategy leadership; portfolio analyst progressing through strategic asset allocation, client advisory, team leadership, and senior investment strategy director roles.
+
+Goal: Application Developer to Senior Software Engineering Manager | habit_count: 3 | task_count: 12 | Extra: 30-week software engineering leadership; application developer transitioning through team management, technical strategy, process improvement, and senior software engineering manager positions.
+
+Goal: Clinical Data Manager to Senior Clinical Operations Director | habit_count: 2 | task_count: 10 | Extra: 20-week clinical operations leadership; clinical data manager advancing through operational strategy, vendor management, quality oversight, and senior clinical operations director roles.
+
+Goal: Machine Learning Researcher to Senior AI Product Manager | habit_count: 3 | task_count: 11 | Extra: 24-week AI product management; ML researcher progressing through product strategy, technical roadmaps, stakeholder management, and senior AI product manager positions.
+
+Goal: Treasury Manager to Senior Corporate Development Director | habit_count: 2 | task_count: 8 | Extra: 14-week corporate development leadership; treasury manager transitioning through M&A analysis, strategic planning, deal execution, and senior corporate development director roles.
+
+Goal: Site Reliability Engineer to Senior Platform Engineering Director | habit_count: 3 | task_count: 12 | Extra: 28-week platform engineering leadership; SRE advancing through platform strategy, organizational transformation, technical vision, and senior platform engineering director positions.
+
+Goal: Medical Informatics Specialist to Senior Digital Health Strategy Manager | habit_count: 2 | task_count: 9 | Extra: 18-week digital health strategy; medical informatics specialist progressing through health tech strategy, innovation management, partnership development, and senior digital health strategy manager roles.
+
+Goal: Derivatives Trader to Senior Quantitative Portfolio Manager | habit_count: 3 | task_count: 10 | Extra: 20-week quantitative portfolio management; derivatives trader transitioning through systematic strategies, risk management, performance analysis, and senior quantitative portfolio manager positions.
+
+Goal: Enterprise Architect to Senior Technology Strategy Director | habit_count: 2 | task_count: 11 | Extra: 26-week technology strategy leadership; enterprise architect advancing through strategic planning, digital transformation, executive advisory, and senior technology strategy director roles.
+
+Goal: Biomedical Data Scientist to Senior Precision Medicine Manager | habit_count: 3 | task_count: 12 | Extra: 24-week precision medicine leadership; biomedical data scientist progressing through genomic analytics, clinical integration, research coordination, and senior precision medicine manager positions.
+
+Goal: Credit Risk Manager to Senior Financial Risk Director | habit_count: 2 | task_count: 8 | Extra: 16-week financial risk leadership; credit risk manager transitioning through enterprise risk, regulatory strategy, executive reporting, and senior financial risk director roles.
+
+Goal: Cloud Solutions Architect to Senior Multi-Cloud Strategy Manager | habit_count: 3 | task_count: 11 | Extra: 22-week multi-cloud strategy; cloud solutions architect advancing through cloud strategy, vendor management, cost optimization, and senior multi-cloud strategy manager positions.
+
+Goal: Clinical Biostatistician to Senior Statistical Science Manager | habit_count: 2 | task_count: 9 | Extra: 18-week statistical science leadership; clinical biostatistician progressing through methodology development, regulatory strategy, team leadership, and senior statistical science manager roles.
+
+Goal: Technology Program Manager to Senior Digital Innovation Director | habit_count: 3 | task_count: 12 | Extra: 30-week digital innovation leadership; technology program manager transitioning through innovation strategy, emerging technologies, organizational change, and senior digital innovation director positions.
+
+Goal: Investment Banking Analyst to Senior Structured Products Manager | habit_count: 2 | task_count: 10 | Extra: 20-week structured products leadership; IB analyst advancing through product development, client solutions, risk management, and senior structured products manager roles.
+
+Goal: Principal Engineer to Senior Engineering Strategy Director | habit_count: 3 | task_count: 11 | Extra: 24-week engineering strategy leadership; principal engineer progressing through technical vision, organizational scaling, innovation management, and senior engineering strategy director positions.
+
+Goal: Pharmaceutical Analyst to Senior Drug Safety Manager | habit_count: 2 | task_count: 8 | Extra: 14-week drug safety leadership; pharmaceutical analyst transitioning through pharmacovigilance, regulatory compliance, signal detection, and senior drug safety manager roles.
+
+Goal: Infrastructure Architect to Senior Cloud Transformation Director | habit_count: 3 | task_count: 12 | Extra: 28-week cloud transformation leadership; infrastructure architect advancing through transformation strategy, organizational change, technical roadmaps, and senior cloud transformation director positions.
+
+Goal: Quantitative Analyst to Senior Alternative Investment Manager | habit_count: 2 | task_count: 9 | Extra: 18-week alternative investment leadership; quantitative analyst progressing through alternative strategies, risk assessment, investor relations, and senior alternative investment manager roles.
+
+Goal: Data Platform Engineer to Senior Data Engineering Director | habit_count: 3 | task_count: 11 | Extra: 26-week data engineering leadership; data platform engineer transitioning through platform strategy, team scaling, technology evaluation, and senior data engineering director positions.
+
+Goal: Medical Device Analyst to Senior Regulatory Science Manager | habit_count: 2 | task_count: 10 | Extra: 20-week regulatory science leadership; medical device analyst advancing through scientific strategy, regulatory pathway optimization, and senior regulatory science manager roles.
+
+Goal: Software Test Manager to Senior Quality Engineering Director | habit_count: 3 | task_count: 12 | Extra: 24-week quality engineering leadership; software test manager progressing through quality strategy, process innovation, organizational transformation, and senior quality engineering director positions.
+
+Goal: Healthcare Technology Consultant to Senior Health Innovation Strategy Director | habit_count: 2 | task_count: 8 | Extra: 16-week health innovation strategy; healthcare tech consultant transitioning through innovation frameworks, partnership strategy, and senior health innovation strategy director roles.
+
+Goal: Senior Financial Analyst to Chief Financial Technology Officer | habit_count: 3 | task_count: 11 | Extra: 22-week fintech leadership; senior financial analyst advancing through financial technology strategy, digital transformation, and chief financial technology officer responsibilities.
+
+Goal: Database Systems Manager to Senior Data Architecture Director | habit_count: 2 | task_count: 9 | Extra: 18-week data architecture leadership; database systems manager progressing through enterprise data strategy, governance frameworks, and senior data architecture director positions.
+
+Goal: Clinical Research Director to Senior Translational Medicine Manager | habit_count: 3 | task_count: 12 | Extra: 30-week translational medicine leadership; clinical research director transitioning through translational research, biomarker development, and senior translational medicine manager roles.
+
+Goal: Senior Security Engineer to Chief Information Security Strategy Director | habit_count: 2 | task_count: 10 | Extra: 20-week security strategy leadership; senior security engineer advancing through security governance, risk strategy, and chief information security strategy director positions.
+
+Goal: Analytics Manager to Senior Business Intelligence Strategy Director | habit_count: 3 | task_count: 11 | Extra: 24-week BI strategy leadership; analytics manager progressing through BI strategy, organizational analytics, and senior business intelligence strategy director roles.
+
+Goal: Senior Risk Modeler to Chief Risk Technology Officer | habit_count: 2 | task_count: 8 | Extra: 14-week risk technology leadership; senior risk modeler transitioning through risk technology strategy, model governance, and chief risk technology officer responsibilities.
+
+Goal: Platform Engineering Manager to Senior Developer Experience Director | habit_count: 3 | task_count: 12 | Extra: 28-week developer experience leadership; platform engineering manager advancing through developer productivity, tooling strategy, and senior developer experience director positions.
+
+Goal: Senior Healthcare Analyst to Chief Health Data Strategy Officer | habit_count: 2 | task_count: 9 | Extra: 18-week health data strategy leadership; senior healthcare analyst progressing through health data governance, strategic analytics, and chief health data strategy officer roles.
+
+Goal: Senior Portfolio Manager to Chief Investment Strategy Officer | habit_count: 3 | task_count: 11 | Extra: 26-week investment strategy leadership; senior portfolio manager transitioning through investment philosophy, strategic allocation, and chief investment strategy officer responsibilities.
+
+Goal: Principal Software Engineer to Senior Technology Innovation Director | habit_count: 2 | task_count: 10 | Extra: 22-week technology innovation leadership; principal software engineer advancing through innovation strategy, emerging technologies, and senior technology innovation director positions.
+
+Goal: Senior Clinical Operations Manager to Chief Clinical Development Officer | habit_count: 3 | task_count: 12 | Extra: 32-week clinical development leadership; senior clinical operations manager progressing through clinical strategy, regulatory oversight, and chief clinical development officer responsibilities.
+
+Goal: Senior ML Engineer to Chief Artificial Intelligence Officer | habit_count: 2 | task_count: 8 | Extra: 16-week AI strategy leadership; senior ML engineer transitioning through AI strategy, organizational transformation, and chief artificial intelligence officer roles.
+
+Goal: Senior Treasury Director to Chief Corporate Development Officer | habit_count: 3 | task_count: 11 | Extra: 24-week corporate development leadership; senior treasury director advancing through strategic transactions, capital allocation, and chief corporate development officer positions.
+
+Goal: Senior DevOps Director to Chief Platform Strategy Officer | habit_count: 2 | task_count: 9 | Extra: 18-week platform strategy leadership; senior DevOps director progressing through platform vision, organizational scaling, and chief platform strategy officer responsibilities.
+
+Goal: Senior Digital Health Manager to Chief Medical Technology Officer | habit_count: 3 | task_count: 12 | Extra: 30-week medical technology
