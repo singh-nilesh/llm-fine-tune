@@ -1,0 +1,267 @@
+Goal: Advanced Excel VBA Automation | habit_count: 2 | task_count: 8 | Extra: 10-week automation mastery; working professional enhancing productivity through macro development, user form creation, database connectivity, automated reporting, error handling, optimization techniques, advanced formulas, and business process automation.
+
+Goal: Power Platform Developer Certification | habit_count: 3 | task_count: 9 | Extra: 12-week Microsoft specialization; business analyst transitioning to low-code development through Power Apps creation, Power Automate workflows, Power BI integration, custom connectors, governance frameworks, security implementation, and solution architecture.
+
+Goal: Tableau Advanced Analytics | habit_count: 2 | task_count: 10 | Extra: 14-week data visualization mastery; data analyst advancing skills through calculated fields, table calculations, advanced mapping, statistical modeling, R/Python integration, dashboard optimization, and executive storytelling.
+
+Goal: SQL Server Database Performance Tuning | habit_count: 3 | task_count: 11 | Extra: 16-week database optimization; database administrator enhancing expertise through query optimization, index strategies, execution plan analysis, memory management, storage optimization, monitoring implementation, and troubleshooting methodologies.
+
+Goal: Kubernetes Administrator Certification (CKA) | habit_count: 2 | task_count: 10 | Extra: 14-week container orchestration; DevOps engineer advancing through cluster management, networking configuration, security implementation, troubleshooting, backup strategies, monitoring setup, and production deployment.
+
+Goal: Advanced Python for Data Analysis | habit_count: 3 | task_count: 9 | Extra: 12-week analytical programming; data scientist enhancing skills through pandas optimization, statistical modeling, machine learning pipelines, data visualization, API development, testing frameworks, and production deployment.
+
+Goal: Adobe Creative Suite Mastery | habit_count: 2 | task_count: 8 | Extra: 10-week creative professional development; marketing specialist building design skills through Photoshop advanced techniques, Illustrator vector mastery, InDesign layout design, After Effects motion graphics, and creative workflow optimization.
+
+Goal: Google Analytics 4 and Tag Manager | habit_count: 2 | task_count: 9 | Extra: 12-week digital marketing analytics; marketing manager advancing through GA4 implementation, custom event tracking, attribution modeling, audience segmentation, conversion optimization, and advanced reporting.
+
+Goal: Cybersecurity Risk Assessment Framework | habit_count: 3 | task_count: 11 | Extra: 16-week security specialization; IT manager transitioning to cybersecurity through risk methodology, compliance frameworks, threat modeling, security controls, incident response, audit preparation, and governance implementation.
+
+Goal: Agile Scrum Master Certification (PSM) | habit_count: 2 | task_count: 8 | Extra: 10-week agile leadership; project coordinator advancing to Scrum Master through facilitation techniques, team coaching, impediment removal, stakeholder management, metrics tracking, and organizational change.
+
+Goal: Advanced Financial Modeling in Excel | habit_count: 3 | task_count: 10 | Extra: 14-week finance specialization; financial analyst enhancing modeling through DCF construction, scenario analysis, Monte Carlo simulation, sensitivity analysis, merger models, and presentation development.
+
+Goal: Salesforce Administrator Certification | habit_count: 2 | task_count: 9 | Extra: 12-week CRM specialization; sales operations specialist advancing through custom objects, workflow automation, report building, user management, security settings, data management, and integration setup.
+
+Goal: AWS Solutions Architect Associate | habit_count: 3 | task_count: 11 | Extra: 16-week cloud architecture; system administrator transitioning to cloud through VPC design, security implementation, cost optimization, high availability, disaster recovery, monitoring, and best practices.
+
+Goal: Digital Marketing Automation Platform | habit_count: 2 | task_count: 8 | Extra: 10-week marketing technology; marketing coordinator advancing through HubSpot mastery, lead nurturing, campaign automation, analytics integration, CRM alignment, and ROI optimization.
+
+Goal: Advanced JavaScript and Node.js | habit_count: 3 | task_count: 10 | Extra: 14-week full-stack development; front-end developer advancing to full-stack through server-side programming, API development, database integration, authentication, testing, deployment, and performance optimization.
+
+Goal: Project Management Professional (PMP) | habit_count: 2 | task_count: 9 | Extra: 12-week project leadership; team lead advancing to project manager through PMBOK methodology, stakeholder management, risk planning, schedule optimization, budget control, and team leadership.
+
+Goal: Six Sigma Green Belt Certification | habit_count: 3 | task_count: 8 | Extra: 10-week process improvement; operations analyst advancing through DMAIC methodology, statistical analysis, process mapping, waste elimination, quality control, and continuous improvement.
+
+Goal: Certified Ethical Hacker (CEH) | habit_count: 2 | task_count: 11 | Extra: 16-week cybersecurity specialization; network administrator transitioning to security through penetration testing, vulnerability assessment, security tools, incident response, and ethical hacking methodologies.
+
+Goal: UX/UI Design Certification | habit_count: 2 | task_count: 9 | Extra: 12-week design transition; product manager building design skills through user research, wireframing, prototyping, usability testing, design systems, and user-centered design principles.
+
+Goal: Advanced Excel Dashboard Development | habit_count: 3 | task_count: 8 | Extra: 10-week business intelligence; business analyst enhancing reporting through dynamic dashboards, pivot table mastery, chart optimization, conditional formatting, interactive elements, and executive presentation.
+
+Goal: Google Cloud Professional Architect | habit_count: 2 | task_count: 12 | Extra: 18-week cloud specialization; infrastructure engineer advancing through GCP services, security implementation, cost optimization, migration strategies, disaster recovery, and architecture design.
+
+Goal: Advanced WordPress Development | habit_count: 3 | task_count: 9 | Extra: 12-week web development; marketing specialist building technical skills through custom theme development, plugin creation, performance optimization, security implementation, and e-commerce integration.
+
+Goal: Business Intelligence with Power BI | habit_count: 2 | task_count: 10 | Extra: 14-week data analytics; financial analyst advancing through data modeling, DAX formulas, advanced visualizations, gateway configuration, security implementation, and organizational deployment.
+
+Goal: LinkedIn Marketing and Lead Generation | habit_count: 2 | task_count: 7 | Extra: 8-week professional networking; sales representative enhancing prospecting through profile optimization, content strategy, connection building, messaging automation, and lead qualification.
+
+Goal: Advanced Photoshop for Marketing | habit_count: 3 | task_count: 8 | Extra: 10-week creative skills; marketing coordinator building design capabilities through advanced retouching, composite creation, brand asset development, web graphics, and creative workflow.
+
+Goal: Certified Information Systems Auditor (CISA) | habit_count: 2 | task_count: 12 | Extra: 18-week audit specialization; IT professional advancing through information systems auditing, risk assessment, governance frameworks, compliance validation, and audit methodology.
+
+Goal: Advanced Google Ads and PPC Management | habit_count: 3 | task_count: 9 | Extra: 12-week digital advertising; marketing manager enhancing skills through campaign optimization, keyword research, ad creation, bid strategies, conversion tracking, and performance analysis.
+
+Goal: Azure Administrator Certification (AZ-104) | habit_count: 2 | task_count: 11 | Extra: 16-week cloud administration; system administrator transitioning to Azure through resource management, virtual networking, security implementation, monitoring, backup strategies, and cost management.
+
+Goal: Certified Product Manager | habit_count: 3 | task_count: 10 | Extra: 14-week product leadership; business analyst transitioning to product management through market research, roadmap development, user story creation, metrics analysis, and stakeholder management.
+
+Goal: Advanced SEO and Technical Optimization | habit_count: 2 | task_count: 9 | Extra: 12-week search marketing; content manager advancing through technical SEO, site speed optimization, schema markup, international SEO, local optimization, and analytics implementation.
+
+Goal: Certified ScrumMaster (CSM) | habit_count: 2 | task_count: 8 | Extra: 10-week agile coaching; team leader advancing through Scrum framework, team facilitation, sprint planning, retrospective leading, stakeholder communication, and agile transformation.
+
+Goal: Advanced Excel for Financial Analysis | habit_count: 3 | task_count: 9 | Extra: 12-week finance specialization; accounting professional enhancing skills through financial modeling, budget analysis, forecasting techniques, variance analysis, and executive reporting.
+
+Goal: Shopify Development and E-commerce | habit_count: 2 | task_count: 8 | Extra: 10-week e-commerce specialization; web designer advancing through theme customization, app integration, payment setup, inventory management, and conversion optimization.
+
+Goal: Microsoft Teams Administration | habit_count: 2 | task_count: 7 | Extra: 8-week collaboration technology; IT administrator enhancing skills through governance setup, security configuration, compliance management, user training, and integration implementation.
+
+Goal: Advanced Social Media Marketing | habit_count: 3 | task_count: 8 | Extra: 10-week social strategy; communications specialist advancing through content strategy, paid advertising, influencer collaboration, community management, and ROI measurement.
+
+Goal: Certified Information Security Manager (CISM) | habit_count: 2 | task_count: 12 | Extra: 18-week security leadership; IT manager advancing through security governance, risk management, incident response, and security program development.
+
+Goal: Advanced QuickBooks and Bookkeeping | habit_count: 3 | task_count: 8 | Extra: 10-week accounting technology; small business owner enhancing financial management through advanced bookkeeping, payroll processing, tax preparation, financial reporting, and business analysis.
+
+Goal: HubSpot Marketing Automation | habit_count: 2 | task_count: 9 | Extra: 12-week inbound marketing; marketing coordinator advancing through lead nurturing, email automation, content optimization, analytics tracking, and sales alignment.
+
+Goal: Advanced Presentation and Public Speaking | habit_count: 2 | task_count: 7 | Extra: 8-week communication mastery; manager enhancing leadership through presentation design, storytelling techniques, audience engagement, virtual presentation, and executive communication.
+
+Goal: Certified Business Analyst (CBAP) | habit_count: 3 | task_count: 11 | Extra: 16-week business analysis; systems analyst advancing through requirements gathering, process modeling, stakeholder management, solution evaluation, and change management.
+
+Goal: Advanced Email Marketing Strategy | habit_count: 2 | task_count: 8 | Extra: 10-week email optimization; marketing specialist enhancing campaigns through segmentation strategies, automation workflows, A/B testing, deliverability optimization, and performance analytics.
+
+Goal: Docker and Container Management | habit_count: 3 | task_count: 10 | Extra: 14-week containerization; software developer advancing through Docker mastery, container orchestration, microservices architecture, security implementation, and production deployment.
+
+Goal: Advanced Content Marketing Strategy | habit_count: 2 | task_count: 9 | Extra: 12-week content leadership; marketing manager building expertise through content planning, SEO optimization, distribution strategies, performance measurement, and team management.
+
+Goal: Certified Data Management Professional (CDMP) | habit_count: 2 | task_count: 11 | Extra: 16-week data governance; database analyst advancing through data architecture, quality management, governance frameworks, privacy compliance, and metadata management.
+
+Goal: Advanced Video Marketing and Production | habit_count: 3 | task_count: 8 | Extra: 10-week video content; social media manager enhancing skills through video editing, content strategy, live streaming, YouTube optimization, and engagement analytics.
+
+Goal: Terraform Infrastructure as Code | habit_count: 2 | task_count: 10 | Extra: 14-week infrastructure automation; DevOps engineer advancing through infrastructure provisioning, state management, module development, security implementation, and multi-cloud deployment.
+
+Goal: Advanced Customer Success Management | habit_count: 2 | task_count: 8 | Extra: 10-week customer experience; account manager transitioning to customer success through onboarding optimization, retention strategies, expansion planning, health scoring, and churn prevention.
+
+Goal: Certified Fraud Examiner (CFE) | habit_count: 3 | task_count: 11 | Extra: 16-week fraud investigation; auditor specializing in fraud through investigation techniques, legal procedures, financial crime analysis, prevention strategies, and case documentation.
+
+Goal: Advanced Influencer Marketing Management | habit_count: 2 | task_count: 7 | Extra: 8-week influencer strategy; brand manager building expertise through influencer identification, campaign management, contract negotiation, performance tracking, and ROI optimization.
+
+Goal: Jenkins CI/CD Pipeline Development | habit_count: 3 | task_count: 9 | Extra: 12-week DevOps automation; software engineer advancing through pipeline creation, automated testing, deployment strategies, monitoring integration, and security scanning.
+
+Goal: Advanced Grant Writing and Fundraising | habit_count: 2 | task_count: 8 | Extra: 10-week nonprofit development; program coordinator enhancing skills through proposal writing, donor research, relationship building, campaign planning, and impact measurement.
+
+Goal: Certified Supply Chain Professional (CSCP) | habit_count: 2 | task_count: 10 | Extra: 14-week supply chain mastery; logistics coordinator advancing through demand planning, inventory optimization, supplier management, risk mitigation, and performance metrics.
+
+Goal: Advanced Webinar and Virtual Event Production | habit_count: 3 | task_count: 8 | Extra: 10-week event technology; event coordinator building digital skills through platform management, engagement strategies, technical troubleshooting, attendee experience, and ROI measurement.
+
+Goal: Certified Human Resources Professional (CHRP) | habit_count: 2 | task_count: 11 | Extra: 16-week HR leadership; HR coordinator advancing through talent acquisition, performance management, employee relations, compensation design, and organizational development.
+
+Goal: Advanced Conversion Rate Optimization | habit_count: 2 | task_count: 9 | Extra: 12-week e-commerce optimization; digital marketer enhancing skills through A/B testing, user experience analysis, funnel optimization, heat mapping, and revenue growth.
+
+Goal: Git and GitHub Advanced Workflow | habit_count: 3 | task_count: 8 | Extra: 10-week version control mastery; developer enhancing collaboration through advanced Git commands, branching strategies, code review processes, automation integration, and team workflow.
+
+Goal: Advanced Market Research and Analytics | habit_count: 2 | task_count: 9 | Extra: 12-week research methodology; marketing analyst building expertise through survey design, data collection, statistical analysis, insight generation, and strategic recommendations.
+
+Goal: Certified Project Management Associate (CAPM) | habit_count: 2 | task_count: 8 | Extra: 10-week project fundamentals; team coordinator advancing through project lifecycle, stakeholder communication, risk management, schedule development, and quality assurance.
+
+Goal: Advanced Podcast Production and Marketing | habit_count: 3 | task_count: 8 | Extra: 10-week audio content; content creator building expertise through recording techniques, editing mastery, distribution strategies, audience growth, and monetization methods.
+
+Goal: Salesforce Marketing Cloud | habit_count: 2 | task_count: 10 | Extra: 14-week marketing automation; CRM administrator advancing through email marketing, customer journeys, data management, personalization, and campaign optimization.
+
+Goal: Advanced Financial Planning and Analysis | habit_count: 3 | task_count: 11 | Extra: 16-week finance leadership; senior analyst enhancing skills through budget modeling, variance analysis, forecasting techniques, KPI development, and executive reporting.
+
+Goal: Certified Compensation Professional (CCP) | habit_count: 2 | task_count: 9 | Extra: 12-week compensation design; HR specialist advancing through pay structure design, market analysis, incentive planning, job evaluation, and equity management.
+
+Goal: Advanced Affiliate Marketing Management | habit_count: 2 | task_count: 8 | Extra: 10-week partnership marketing; digital marketer building expertise through affiliate recruitment, program management, performance tracking, fraud prevention, and revenue optimization.
+
+Goal: MongoDB Database Administration | habit_count: 3 | task_count: 10 | Extra: 14-week NoSQL expertise; database administrator advancing through MongoDB deployment, performance tuning, security implementation, backup strategies, and scaling techniques.
+
+Goal: Advanced B2B Lead Generation | habit_count: 2 | task_count: 9 | Extra: 12-week sales development; business development representative enhancing skills through prospect research, outreach automation, qualification techniques, and pipeline management.
+
+Goal: Certified Quality Auditor (CQA) | habit_count: 2 | task_count: 10 | Extra: 14-week quality management; quality coordinator advancing through audit planning, compliance verification, corrective action, process improvement, and quality systems.
+
+Goal: Advanced WordPress Security and Performance | habit_count: 3 | task_count: 9 | Extra: 12-week web optimization; web developer enhancing skills through security hardening, performance optimization, backup strategies, monitoring implementation, and maintenance procedures.
+
+Goal: Certified Treasury Professional (CTP) | habit_count: 2 | task_count: 11 | Extra: 16-week treasury management; finance professional advancing through cash management, risk assessment, investment strategies, banking relationships, and financial controls.
+
+Goal: Advanced Instagram Marketing and Growth | habit_count: 2 | task_count: 8 | Extra: 10-week social media mastery; social media coordinator building expertise through content strategy, story optimization, reels creation, influencer collaboration, and engagement analytics.
+
+Goal: Apache Kafka Streaming Data | habit_count: 3 | task_count: 10 | Extra: 14-week data streaming; data engineer advancing through stream processing, cluster management, security configuration, monitoring setup, and real-time analytics.
+
+Goal: Advanced Negotiation and Sales Closing | habit_count: 2 | task_count: 7 | Extra: 8-week sales mastery; account executive enhancing skills through negotiation psychology, objection handling, closing techniques, relationship building, and deal structuring.
+
+Goal: Certified Internal Auditor (CIA) | habit_count: 2 | task_count: 12 | Extra: 18-week internal audit; finance professional advancing through risk assessment, control evaluation, audit execution, report writing, and governance advisory.
+
+Goal: Advanced TikTok Marketing Strategy | habit_count: 3 | task_count: 8 | Extra: 10-week viral marketing; content creator building expertise through algorithm understanding, trend analysis, content creation, influencer partnerships, and brand collaboration.
+
+Goal: Redis Cache and Database Optimization | habit_count: 2 | task_count: 9 | Extra: 12-week performance tuning; backend developer advancing through caching strategies, data structures, cluster setup, monitoring implementation, and application optimization.
+
+Goal: Advanced Employee Training and Development | habit_count: 2 | task_count: 9 | Extra: 12-week learning design; HR specialist enhancing skills through training needs analysis, curriculum development, delivery methods, assessment design, and impact measurement.
+
+Goal: Certified Information Systems Security Professional (CISSP) | habit_count: 3 | task_count: 12 | Extra: 18-week security leadership; IT manager advancing through security architecture, risk management, access control, cryptography, and security operations.
+
+Goal: Advanced Pinterest Marketing for E-commerce | habit_count: 2 | task_count: 8 | Extra: 10-week visual marketing; e-commerce manager building expertise through pin optimization, board strategy, Pinterest SEO, shopping ads, and conversion tracking.
+
+Goal: Elasticsearch and Search Optimization | habit_count: 3 | task_count: 10 | Extra: 14-week search technology; software developer advancing through search implementation, query optimization, analytics setup, cluster management, and performance tuning.
+
+Goal: Advanced Recruitment and Talent Acquisition | habit_count: 2 | task_count: 9 | Extra: 12-week talent strategy; recruiter enhancing skills through sourcing techniques, candidate assessment, interview optimization, offer negotiation, and recruitment analytics.
+
+Goal: Certified Management Accountant (CMA) | habit_count: 2 | task_count: 11 | Extra: 16-week management accounting; financial analyst advancing through cost analysis, budgeting, performance measurement, strategic planning, and decision support.
+
+Goal: Advanced YouTube Channel Growth | habit_count: 3 | task_count: 8 | Extra: 10-week video marketing; content creator building expertise through algorithm optimization, thumbnail design, audience retention, monetization strategies, and brand partnerships.
+
+Goal: Splunk Data Analysis and Monitoring | habit_count: 2 | task_count: 10 | Extra: 14-week data analytics; IT administrator advancing through log analysis, dashboard creation, search optimization, alert configuration, and security monitoring.
+
+Goal: Advanced Customer Experience Design | habit_count: 2 | task_count: 9 | Extra: 12-week CX strategy; customer service manager transitioning through journey mapping, touchpoint optimization, feedback analysis, service design, and experience measurement.
+
+Goal: Certified Purchasing Professional (CPP) | habit_count: 3 | task_count: 10 | Extra: 14-week procurement mastery; purchasing agent advancing through supplier evaluation, contract negotiation, cost analysis, risk management, and strategic sourcing.
+
+Goal: Advanced Snapchat Marketing and AR | habit_count: 2 | task_count: 7 | Extra: 8-week emerging social media; digital marketer building skills through Snapchat ads, AR lens creation, audience targeting, content strategy, and campaign optimization.
+
+Goal: GraphQL API Development | habit_count: 3 | task_count: 9 | Extra: 12-week API specialization; full-stack developer advancing through GraphQL schema design, resolver implementation, performance optimization, security implementation, and integration strategies.
+
+Goal: Advanced Workplace Wellness Program | habit_count: 2 | task_count: 8 | Extra: 10-week employee wellbeing; HR coordinator building expertise through program design, health assessment, engagement strategies, vendor management, and ROI measurement.
+
+Goal: Certified Risk Management Professional (PMP) | habit_count: 2 | task_count: 11 | Extra: 16-week risk leadership; project manager advancing through risk identification, assessment methodologies, mitigation strategies, monitoring systems, and crisis management.
+
+Goal: Advanced WhatsApp Business Marketing | habit_count: 3 | task_count: 8 | Extra: 10-week messaging marketing; customer service manager building skills through WhatsApp Business API, chatbot creation, customer support, broadcast messaging, and engagement analytics.
+
+Goal: RabbitMQ Message Queue Systems | habit_count: 2 | task_count: 10 | Extra: 14-week distributed systems; backend developer advancing through message broker setup, queue management, routing configuration, monitoring implementation, and scalability optimization.
+
+Goal: Advanced Performance Management Systems | habit_count: 2 | task_count: 9 | Extra: 12-week HR technology; people operations specialist enhancing skills through goal setting, feedback systems, career development, succession planning, and performance analytics.
+
+Goal: Certified Financial Planner (CFP) | habit_count: 3 | task_count: 12 | Extra: 18-week financial planning; financial advisor advancing through retirement planning, investment strategies, tax optimization, estate planning, and client relationship management.
+
+Goal: Advanced Discord Community Management | habit_count: 2 | task_count: 7 | Extra: 8-week community building; community manager building expertise through server setup, moderation strategies, engagement tactics, event planning, and member retention.
+
+Goal: Apache Airflow Workflow Orchestration | habit_count: 3 | task_count: 10 | Extra: 14-week data pipeline automation; data engineer advancing through DAG development, task scheduling, monitoring setup, error handling, and workflow optimization.
+
+Goal: Advanced Diversity and Inclusion Strategy | habit_count: 2 | task_count: 9 | Extra: 12-week organizational development; HR director building expertise through bias training, inclusive hiring, culture assessment, program development, and impact measurement.
+
+Goal: Certified Public Accountant (CPA) | habit_count: 2 | task_count: 12 | Extra: 18-week accounting mastery; accounting professional advancing through audit procedures, tax preparation, financial reporting, ethics compliance, and client advisory services.
+
+Goal: Advanced Clubhouse Marketing Strategy | habit_count: 3 | task_count: 7 | Extra: 8-week audio networking; marketing specialist building skills through room hosting, audience building, conversation facilitation, brand positioning, and networking strategies.
+
+Goal: Apache Spark Big Data Processing | habit_count: 2 | task_count: 11 | Extra: 16-week big data analytics; data analyst advancing through distributed computing, data processing, machine learning, cluster management, and performance optimization.
+
+Goal: Advanced Change Management Methodology | habit_count: 2 | task_count: 9 | Extra: 12-week organizational change; project manager enhancing skills through change strategy, stakeholder engagement, communication planning, resistance management, and change measurement.
+
+Goal: Certified Information Privacy Professional (CIPP) | habit_count: 3 | task_count: 10 | Extra: 14-week privacy compliance; compliance officer advancing through privacy frameworks, GDPR compliance, data governance, risk assessment, and privacy program development.
+
+Goal: Advanced Twitch Streaming for Business | habit_count: 2 | task_count: 8 | Extra: 10-week live streaming; content creator building expertise through streaming setup, audience engagement, monetization strategies, brand partnerships, and community building.
+
+Goal: Ansible Automation and Configuration | habit_count: 3 | task_count: 9 | Extra: 12-week IT automation; system administrator advancing through playbook development, infrastructure automation, configuration management, security implementation, and deployment strategies.
+
+Goal: Advanced Organizational Psychology | habit_count: 2 | task_count: 9 | Extra: 12-week workplace behavior; HR business partner building expertise through team dynamics, motivation strategies, conflict resolution, leadership development, and organizational assessment.
+
+Goal: Certified Valuation Analyst (CVA) | habit_count: 2 | task_count: 11 | Extra: 16-week business valuation; financial analyst advancing through valuation methods, market analysis, financial modeling, due diligence, and expert testimony preparation.
+
+Goal: Advanced Reddit Marketing Strategy | habit_count: 3 | task_count: 7 | Extra: 8-week community marketing; social media manager building skills through community engagement, content strategy, reputation management, advertising optimization, and viral marketing.
+
+Goal: Prometheus Monitoring and Alerting | habit_count: 2 | task_count: 10 | Extra: 14-week infrastructure monitoring; DevOps engineer advancing through metrics collection, dashboard creation, alert configuration, performance analysis, and troubleshooting procedures.
+
+Goal: Advanced Executive Coaching Certification | habit_count: 2 | task_count: 9 | Extra: 12-week leadership development; senior manager transitioning to coaching through coaching methodologies, assessment tools, goal setting, feedback delivery, and program development.
+
+Goal: Certified Anti-Money Laundering Specialist (CAMS) | habit_count: 3 | task_count: 11 | Extra: 16-week financial crimes; compliance analyst advancing through AML procedures, risk assessment, transaction monitoring, investigation techniques, and regulatory reporting.
+
+Goal: Advanced LinkedIn Live Broadcasting | habit_count: 2 | task_count: 8 | Extra: 10-week professional video; business development manager building skills through live streaming, audience engagement, content planning, technical setup, and lead generation.
+
+Goal: HashiCorp Vault Security Management | habit_count: 3 | task_count: 10 | Extra: 14-week secrets management; security engineer advancing through secret storage, access control, encryption, audit logging, and security automation.
+
+Goal: Advanced Succession Planning Strategy | habit_count: 2 | task_count: 9 | Extra: 12-week talent development; HR director enhancing skills through talent assessment, development planning, leadership pipeline, knowledge transfer, and continuity planning.
+
+Goal: Certified Merger and Acquisition Professional (CMAP) | habit_count: 2 | task_count: 12 | Extra: 18-week M&A expertise; investment analyst advancing through deal evaluation, due diligence, valuation analysis, integration planning, and transaction execution.
+
+Goal: Advanced Spaces Audio Marketing | habit_count: 3 | task_count: 7 | Extra: 8-week audio content; podcast host building expertise through live audio hosting, audience interaction, content strategy, monetization, and brand building.
+
+Goal: Consul Service Discovery and Networking | habit_count: 2 | task_count: 10 | Extra: 14-week microservices architecture; software architect advancing through service mesh, network segmentation, health checking, configuration management, and security implementation.
+
+Goal: Advanced Learning and Development Strategy | habit_count: 2 | task_count: 9 | Extra: 12-week corporate training; training manager building expertise through learning needs analysis, program design, delivery innovation, assessment methods, and impact evaluation.
+
+Goal: Certified Business Continuity Professional (CBCP) | habit_count: 3 | task_count: 11 | Extra: 16-week continuity planning; risk manager advancing through business impact analysis, continuity strategies, crisis management, recovery planning, and program testing.
+
+Goal: Advanced BeReal Marketing for Brands | habit_count: 2 | task_count: 7 | Extra: 8-week authentic marketing; brand manager building skills through authentic content, engagement strategies, brand transparency, user-generated content, and community building.
+
+Goal: Nomad Workload Orchestration | habit_count: 3 | task_count: 9 | Extra: 12-week container orchestration; platform engineer advancing through job scheduling, resource allocation, service discovery, security configuration, and cluster management.
+
+Goal: Advanced Organizational Development | habit_count: 2 | task_count: 10 | Extra: 14-week culture transformation; OD consultant building expertise through culture assessment, intervention design, change facilitation, team development, and organizational effectiveness.
+
+Goal: Certified Fraud Data Analytics (CFDA) | habit_count: 2 | task_count: 10 | Extra: 14-week fraud analytics; data analyst specializing in fraud through anomaly detection, pattern analysis, machine learning, investigation support, and prevention strategies.
+
+Goal: Advanced Pinterest Shopping Ads | habit_count: 3 | task_count: 8 | Extra: 10-week visual commerce; e-commerce specialist building skills through product catalogs, shopping campaigns, conversion tracking, audience targeting, and ROI optimization.
+
+Goal: Jaeger Distributed Tracing | habit_count: 2 | task_count: 9 | Extra: 12-week application monitoring; software engineer advancing through trace collection, performance analysis, debugging techniques, service mapping, and optimization strategies.
+
+Goal: Advanced Corporate Communications | habit_count: 2 | task_count: 8 | Extra: 10-week internal communications; communications manager enhancing skills through message strategy, channel optimization, crisis communication, employee engagement, and stakeholder management.
+
+Goal: Certified Government Financial Manager (CGFM) | habit_count: 3 | task_count: 11 | Extra: 16-week public sector finance; government accountant advancing through public budgeting, financial reporting, audit compliance, grant management, and fiscal responsibility.
+
+Goal: Advanced Facebook Live Strategy | habit_count: 2 | task_count: 7 | Extra: 8-week live video marketing; social media strategist building expertise through live streaming, audience engagement, content planning, monetization, and community building.
+
+Goal: Fluentd Log Collection and Processing | habit_count: 3 | task_count: 9 | Extra: 12-week log management; infrastructure engineer advancing through log aggregation, data processing, routing configuration, performance optimization, and troubleshooting.
+
+Goal: Advanced Talent Analytics and Metrics | habit_count: 2 | task_count: 10 | Extra: 14-week people analytics; HR analyst building expertise through workforce planning, predictive modeling, dashboard development, metric selection, and strategic insights.
+
+Goal: Certified Investment Management Analyst (CIMA) | habit_count: 2 | task_count: 12 | Extra: 18-week investment advisory; wealth advisor advancing through portfolio construction, asset allocation, risk management, client consultation, and fiduciary responsibility.
+
+Goal: Advanced Instagram Reels for Business | habit_count: 3 | task_count: 8 | Extra: 10-week short-form video; content marketing manager building skills through video creation, trend analysis, hashtag strategy, collaboration tactics, and performance tracking.
+
+Goal: Istio Service Mesh Management | habit_count: 2 | task_count: 11 | Extra: 16-week microservices security; cloud architect advancing through traffic management, security policies, observability, configuration management, and troubleshooting procedures.
+
+Goal: Advanced Corporate Wellness Programs | habit_count: 2 | task_count: 9 | Extra: 12-week employee health; benefits administrator building expertise through program design, vendor management, health assessments, engagement strategies, and outcome measurement.
+
+Goal: Certified Credit Professional (CCP) | habit_count: 3 | task_count: 10 | Extra: 14-week credit management; credit analyst advancing through risk assessment, credit scoring, collection strategies, portfolio management, and regulatory compliance.
+
+Goal: Advanced YouTube Shorts Marketing | habit_count: 2 | task_count: 8 | Extra: 10-week micro-content; video marketing specialist building skills through short-form content, algorithm optimization, trend leveraging, cross-promotion, and monetization strategies.
+
+Goal: Linkerd Service Mesh

@@ -1,0 +1,237 @@
+Goal: Marketing Professional to AI Marketing Strategist | habit_count: 3 | task_count: 11 | Extra: 24-week AI marketing mastery; marketing professional transitioning through machine learning applications, predictive customer analytics, automated campaign optimization, chatbot development, personalization algorithms, AI content generation, marketing automation, performance tracking, and AI-driven marketing strategy implementation.
+
+Goal: Finance Analyst to Cryptocurrency Portfolio Manager | habit_count: 2 | task_count: 9 | Extra: 18-week crypto finance specialization; finance analyst advancing through blockchain fundamentals, DeFi protocols, cryptocurrency valuation, portfolio diversification, risk management, regulatory compliance, trading strategies, market analysis, and digital asset management.
+
+Goal: Content Writer to YouTube Creator Strategist | habit_count: 3 | task_count: 10 | Extra: 20-week YouTube mastery program; content writer progressing through video scriptwriting, thumbnail design, SEO optimization, audience analytics, monetization strategies, brand partnerships, content calendars, live streaming, and creator economy navigation.
+
+Goal: Software Developer to DevOps Engineer | habit_count: 2 | task_count: 12 | Extra: 26-week DevOps transformation; developer advancing through containerization, CI/CD pipelines, cloud infrastructure, monitoring systems, security automation, infrastructure as code, performance optimization, incident response, and deployment strategies.
+
+Goal: Graphic Designer to UX Research Specialist | habit_count: 3 | task_count: 8 | Extra: 16-week UX research certification; designer transitioning through user interview techniques, usability testing, persona development, journey mapping, A/B testing, data analysis, research synthesis, and design validation methodologies.
+
+Goal: Data Analyst to Machine Learning Engineer | habit_count: 2 | task_count: 11 | Extra: 22-week ML engineering bootcamp; analyst progressing through algorithm development, model deployment, feature engineering, data pipeline optimization, MLOps practices, model monitoring, performance tuning, and production system integration.
+
+Goal: Accountant to Financial Technology Consultant | habit_count: 3 | task_count: 9 | Extra: 18-week FinTech specialization; accountant advancing through digital payment systems, robo-advisory platforms, regulatory technology, blockchain accounting, API integrations, financial automation, compliance frameworks, and technology implementation strategies.
+
+Goal: Sales Representative to Social Selling Expert | habit_count: 2 | task_count: 7 | Extra: 14-week social selling mastery; sales professional transitioning through LinkedIn optimization, content marketing, relationship building, personal branding, social listening, lead generation, engagement strategies, and digital sales funnel management.
+
+Goal: Project Manager to Agile Transformation Coach | habit_count: 3 | task_count: 12 | Extra: 24-week agile coaching certification; PM progressing through Scrum mastery, team facilitation, organizational change management, coaching methodologies, continuous improvement, conflict resolution, leadership development, and agile scaling frameworks.
+
+Goal: HR Specialist to People Analytics Manager | habit_count: 2 | task_count: 10 | Extra: 20-week people analytics program; HR professional advancing through workforce data analysis, predictive modeling, employee engagement metrics, retention forecasting, performance analytics, diversity tracking, compensation analysis, and strategic HR insights.
+
+Goal: Photographer to NFT Digital Artist | habit_count: 3 | task_count: 8 | Extra: 16-week NFT creation mastery; photographer transitioning through digital art techniques, blockchain technology, smart contracts, marketplace navigation, community building, royalty optimization, crypto wallet management, and digital collectible strategies.
+
+Goal: Teacher to Corporate E-Learning Developer | habit_count: 2 | task_count: 11 | Extra: 22-week instructional design certification; educator progressing through learning management systems, multimedia content creation, assessment design, engagement strategies, microlearning development, gamification techniques, analytics tracking, and corporate training methodologies.
+
+Goal: Customer Service Rep to Customer Success Manager | habit_count: 3 | task_count: 9 | Extra: 18-week customer success transformation; service rep advancing through client onboarding, retention strategies, account expansion, health scoring, proactive outreach, renewal management, customer advocacy, and success metrics optimization.
+
+Goal: Administrative Assistant to Virtual Assistant Business Owner | habit_count: 2 | task_count: 7 | Extra: 14-week VA entrepreneurship program; assistant transitioning through service packaging, client acquisition, pricing strategies, workflow automation, team building, platform management, marketing systems, and business scaling techniques.
+
+Goal: Retail Manager to E-commerce Growth Hacker | habit_count: 3 | task_count: 12 | Extra: 24-week growth hacking specialization; manager progressing through conversion optimization, customer acquisition funnels, retention campaigns, viral marketing, product-market fit, analytics interpretation, experiment design, and growth strategy implementation.
+
+Goal: Engineer to Technical Content Creator | habit_count: 2 | task_count: 8 | Extra: 16-week tech content mastery; engineer advancing through video production, technical writing, audience building, monetization strategies, course creation, community management, brand partnerships, and thought leadership development.
+
+Goal: Journalist to Podcast Network Producer | habit_count: 3 | task_count: 10 | Extra: 20-week podcast production specialization; journalist transitioning through audio editing, show development, guest booking, sponsorship acquisition, distribution strategies, audience analytics, monetization models, and network management.
+
+Goal: Consultant to Online Course Creator | habit_count: 2 | task_count: 11 | Extra: 22-week course creation mastery; consultant progressing through curriculum design, video production, student engagement, platform optimization, marketing funnels, community building, pricing strategies, and passive income generation.
+
+Goal: Lawyer to Legal Technology Specialist | habit_count: 3 | task_count: 9 | Extra: 18-week LegalTech certification; attorney advancing through document automation, AI legal research, contract analysis tools, case management systems, compliance technology, billing optimization, client portal development, and legal innovation strategies.
+
+Goal: Nurse to Telehealth Coordinator | habit_count: 2 | task_count: 8 | Extra: 16-week telehealth specialization; nurse transitioning through remote patient monitoring, virtual consultation management, health technology platforms, regulatory compliance, patient engagement, care coordination, and digital health implementation.
+
+Goal: Real Estate Agent to PropTech Consultant | habit_count: 3 | task_count: 12 | Extra: 24-week property technology mastery; agent progressing through virtual reality tours, smart home integration, blockchain transactions, AI property valuation, digital marketing automation, CRM optimization, market analytics, and technology adoption strategies.
+
+Goal: Chef to Food Content Influencer | habit_count: 2 | task_count: 7 | Extra: 14-week culinary content creation; chef advancing through recipe development, food photography, social media strategy, brand partnerships, cooking video production, audience engagement, monetization techniques, and influencer marketing.
+
+Goal: Banker to Financial Wellness Coach | habit_count: 3 | task_count: 10 | Extra: 20-week financial coaching certification; banker transitioning through behavior modification, financial planning, debt management, investment education, coaching methodologies, client relationship building, program development, and wellness strategy implementation.
+
+Goal: Operations Manager to Process Automation Specialist | habit_count: 2 | task_count: 11 | Extra: 22-week automation mastery program; manager progressing through robotic process automation, workflow optimization, system integration, change management, ROI analysis, vendor selection, implementation strategies, and continuous improvement methodologies.
+
+Goal: Insurance Agent to InsurTech Innovation Manager | habit_count: 3 | task_count: 9 | Extra: 18-week insurance technology specialization; agent advancing through digital underwriting, claims automation, customer experience platforms, data analytics, risk assessment tools, product innovation, regulatory compliance, and technology transformation strategies.
+
+Goal: Therapist to Mental Health App Developer | habit_count: 2 | task_count: 8 | Extra: 16-week digital mental health certification; therapist transitioning through app development basics, user experience design, clinical validation, privacy compliance, engagement strategies, outcome measurement, monetization models, and therapeutic technology integration.
+
+Goal: Architect to Smart Building Consultant | habit_count: 3 | task_count: 12 | Extra: 24-week smart building specialization; architect progressing through IoT integration, energy management systems, building automation, sustainability technology, sensor networks, data analytics, cost optimization, and intelligent infrastructure design.
+
+Goal: Event Planner to Virtual Event Producer | habit_count: 2 | task_count: 7 | Extra: 14-week virtual event mastery; planner advancing through platform management, audience engagement, technical production, sponsorship integration, networking facilitation, analytics tracking, and hybrid event coordination.
+
+Goal: Librarian to Digital Information Architect | habit_count: 3 | task_count: 10 | Extra: 20-week information architecture certification; librarian transitioning through database design, search optimization, content management, user experience, metadata standards, digital preservation, accessibility compliance, and information system development.
+
+Goal: Fitness Trainer to Wellness Technology Developer | habit_count: 2 | task_count: 11 | Extra: 22-week fitness technology program; trainer progressing through app development, wearable integration, health analytics, workout personalization, nutrition tracking, community building, monetization strategies, and wellness platform creation.
+
+Goal: Pharmacist to Digital Health Strategist | habit_count: 3 | task_count: 9 | Extra: 18-week digital health specialization; pharmacist advancing through medication management apps, clinical decision support, health informatics, regulatory compliance, patient engagement, outcome tracking, technology assessment, and healthcare innovation strategies.
+
+Goal: Supply Chain Manager to Logistics Technology Consultant | habit_count: 2 | task_count: 8 | Extra: 16-week logistics tech certification; manager transitioning through supply chain automation, inventory optimization, transportation management, predictive analytics, blockchain implementation, IoT tracking, cost reduction strategies, and technology integration planning.
+
+Goal: Quality Assurance Analyst to Automation Testing Lead | habit_count: 3 | task_count: 12 | Extra: 24-week test automation mastery; analyst progressing through testing frameworks, continuous integration, performance testing, security validation, mobile testing, API testing, tool selection, and team leadership development.
+
+Goal: Business Analyst to Product Owner | habit_count: 2 | task_count: 7 | Extra: 14-week product ownership certification; analyst advancing through product strategy, backlog management, stakeholder collaboration, user story creation, market research, competitive analysis, and product lifecycle management.
+
+Goal: Network Administrator to Cloud Security Architect | habit_count: 3 | task_count: 10 | Extra: 20-week cloud security specialization; administrator transitioning through cloud architecture, security frameworks, compliance standards, threat assessment, incident response, identity management, risk mitigation, and security strategy development.
+
+Goal: Database Administrator to Data Engineer | habit_count: 2 | task_count: 11 | Extra: 22-week data engineering bootcamp; DBA progressing through data pipeline development, ETL processes, big data technologies, stream processing, data warehousing, performance optimization, quality assurance, and analytics infrastructure.
+
+Goal: Web Developer to Blockchain Developer | habit_count: 3 | task_count: 9 | Extra: 18-week blockchain development program; developer advancing through smart contract development, DeFi protocols, cryptocurrency integration, security auditing, consensus mechanisms, tokenization strategies, and decentralized application creation.
+
+Goal: Social Media Manager to Creator Economy Strategist | habit_count: 2 | task_count: 8 | Extra: 16-week creator economy mastery; manager transitioning through influencer partnerships, content monetization, platform optimization, audience analytics, brand collaboration, revenue diversification, and creator success strategies.
+
+Goal: Interior Designer to Virtual Reality Experience Designer | habit_count: 3 | task_count: 12 | Extra: 24-week VR design specialization; designer progressing through 3D modeling, immersive experience creation, user interaction design, VR platform development, spatial computing, accessibility standards, and virtual environment optimization.
+
+Goal: Travel Agent to Digital Nomad Consultant | habit_count: 2 | task_count: 7 | Extra: 14-week remote work specialization; agent advancing through location independence strategies, visa requirements, co-working spaces, technology setup, cultural adaptation, income diversification, and lifestyle optimization.
+
+Goal: Manufacturing Manager to Industry 4.0 Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week smart manufacturing certification; manager transitioning through IoT implementation, predictive maintenance, digital twins, automation integration, data analytics, quality optimization, and technological transformation strategies.
+
+Goal: Public Relations Specialist to Influencer Marketing Manager | habit_count: 2 | task_count: 11 | Extra: 22-week influencer marketing mastery; PR professional progressing through creator identification, campaign development, contract negotiation, performance tracking, relationship management, ROI measurement, and influencer ecosystem navigation.
+
+Goal: Electrician to Smart Home Integration Specialist | habit_count: 3 | task_count: 9 | Extra: 18-week smart home technology program; electrician advancing through home automation systems, IoT device installation, network configuration, security integration, energy management, troubleshooting protocols, and customer training.
+
+Goal: Veterinarian to Pet Technology Entrepreneur | habit_count: 2 | task_count: 8 | Extra: 16-week pet tech innovation certification; veterinarian transitioning through health monitoring devices, telemedicine platforms, pet care apps, wearable technology, data analytics, business development, and veterinary technology integration.
+
+Goal: Security Guard to Cybersecurity Analyst | habit_count: 3 | task_count: 12 | Extra: 24-week cybersecurity transformation; security professional progressing through threat detection, incident response, security monitoring, vulnerability assessment, compliance frameworks, risk analysis, and cyber defense strategies.
+
+Goal: Logistics Coordinator to Drone Operations Manager | habit_count: 2 | task_count: 7 | Extra: 14-week drone technology specialization; coordinator advancing through UAV operations, flight planning, regulatory compliance, payload optimization, data collection, safety protocols, and commercial drone applications.
+
+Goal: Market Research Analyst to AI Insights Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week AI analytics certification; analyst transitioning through machine learning applications, predictive modeling, natural language processing, sentiment analysis, automated reporting, data visualization, and AI-driven market intelligence.
+
+Goal: Bookkeeper to Financial Automation Consultant | habit_count: 2 | task_count: 11 | Extra: 22-week financial automation mastery; bookkeeper progressing through accounting software integration, process automation, financial reporting optimization, client advisory services, technology implementation, and business efficiency strategies.
+
+Goal: Maintenance Technician to Predictive Maintenance Specialist | habit_count: 3 | task_count: 9 | Extra: 18-week predictive maintenance certification; technician advancing through sensor technology, condition monitoring, data analysis, maintenance scheduling, equipment optimization, cost reduction strategies, and reliability engineering.
+
+Goal: Recruiter to Talent Acquisition Technology Manager | habit_count: 2 | task_count: 8 | Extra: 16-week recruitment technology specialization; recruiter transitioning through applicant tracking systems, AI screening tools, candidate experience optimization, recruitment analytics, employer branding, and hiring process automation.
+
+Goal: Restaurant Manager to Food Delivery Platform Optimizer | habit_count: 3 | task_count: 12 | Extra: 24-week delivery optimization program; manager progressing through platform management, menu optimization, delivery analytics, customer experience, cost control, technology integration, and multi-platform strategy development.
+
+Goal: Environmental Scientist to Sustainability Technology Consultant | habit_count: 2 | task_count: 7 | Extra: 14-week green technology certification; scientist advancing through carbon tracking systems, renewable energy integration, environmental monitoring, sustainability reporting, green finance, and climate technology solutions.
+
+Goal: Carpenter to Construction Technology Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week construction tech mastery; carpenter transitioning through building information modeling, drone surveying, 3D printing applications, project management software, safety technology, and construction innovation strategies.
+
+Goal: Financial Advisor to Robo-Advisory Developer | habit_count: 2 | task_count: 11 | Extra: 22-week robo-advisor specialization; advisor progressing through algorithm development, portfolio optimization, risk assessment automation, client onboarding systems, regulatory compliance, and automated financial planning.
+
+Goal: Store Manager to Omnichannel Experience Designer | habit_count: 3 | task_count: 9 | Extra: 18-week omnichannel strategy certification; manager advancing through customer journey mapping, technology integration, inventory synchronization, personalization strategies, analytics implementation, and unified commerce development.
+
+Goal: Translator to Language Technology Specialist | habit_count: 2 | task_count: 8 | Extra: 16-week language AI certification; translator transitioning through machine translation optimization, natural language processing, localization technology, quality assurance automation, and linguistic technology development.
+
+Goal: Paramedic to Emergency Response Technology Coordinator | habit_count: 3 | task_count: 12 | Extra: 24-week emergency tech specialization; paramedic progressing through dispatch optimization, telemedicine integration, patient monitoring systems, response analytics, technology training, and emergency service innovation.
+
+Goal: Mechanic to Automotive Technology Diagnostician | habit_count: 2 | task_count: 7 | Extra: 14-week automotive tech certification; mechanic advancing through electric vehicle systems, diagnostic software, connected car technology, predictive maintenance, and automotive innovation strategies.
+
+Goal: Fashion Designer to Sustainable Fashion Technology Developer | habit_count: 3 | task_count: 10 | Extra: 20-week sustainable fashion tech program; designer transitioning through eco-friendly materials, circular economy principles, supply chain transparency, sustainable production methods, and fashion technology innovation.
+
+Goal: Flight Attendant to Aviation Safety Technology Specialist | habit_count: 2 | task_count: 11 | Extra: 22-week aviation safety tech certification; attendant progressing through safety system optimization, passenger experience technology, crew resource management, emergency response protocols, and aviation innovation strategies.
+
+Goal: Postal Worker to Logistics Automation Specialist | habit_count: 3 | task_count: 9 | Extra: 18-week logistics automation program; postal worker advancing through sorting automation, delivery optimization, tracking systems, route planning technology, and postal service modernization.
+
+Goal: Insurance Adjuster to Claims Technology Analyst | habit_count: 2 | task_count: 8 | Extra: 16-week claims tech specialization; adjuster transitioning through automated claims processing, fraud detection systems, damage assessment technology, customer experience optimization, and insurance technology innovation.
+
+Goal: Personal Trainer to Fitness App Developer | habit_count: 3 | task_count: 12 | Extra: 24-week fitness app development program; trainer progressing through mobile app creation, workout personalization, progress tracking, community features, monetization strategies, and fitness technology entrepreneurship.
+
+Goal: Taxi Driver to Mobility-as-a-Service Coordinator | habit_count: 2 | task_count: 7 | Extra: 14-week mobility technology certification; driver advancing through ride-sharing optimization, route efficiency, customer experience, platform management, and transportation innovation strategies.
+
+Goal: Plumber to Smart Water Systems Technician | habit_count: 3 | task_count: 10 | Extra: 20-week smart plumbing technology program; plumber transitioning through IoT water monitoring, leak detection systems, water conservation technology, smart home integration, and plumbing innovation strategies.
+
+Goal: Dental Hygienist to Oral Health Technology Specialist | habit_count: 2 | task_count: 11 | Extra: 22-week dental technology certification; hygienist progressing through digital dentistry, patient management systems, teledentistry platforms, oral health apps, and dental practice optimization.
+
+Goal: Art Teacher to Digital Art NFT Creator | habit_count: 3 | task_count: 9 | Extra: 18-week NFT art specialization; teacher advancing through digital art creation, blockchain technology, marketplace navigation, community building, royalty optimization, and digital art entrepreneurship.
+
+Goal: Police Officer to Public Safety Technology Coordinator | habit_count: 2 | task_count: 8 | Extra: 16-week public safety tech certification; officer transitioning through crime analytics, surveillance technology, emergency response systems, community policing platforms, and law enforcement innovation.
+
+Goal: Farmer to Precision Agriculture Specialist | habit_count: 3 | task_count: 12 | Extra: 24-week agtech specialization; farmer progressing through drone monitoring, soil sensors, crop analytics, automated irrigation, yield optimization, and agricultural technology implementation.
+
+Goal: Radiologist to Medical AI Implementation Specialist | habit_count: 2 | task_count: 7 | Extra: 14-week medical AI certification; radiologist advancing through AI diagnostic tools, image analysis automation, workflow optimization, quality assurance, and medical technology integration.
+
+Goal: Property Manager to PropTech Innovation Coordinator | habit_count: 3 | task_count: 10 | Extra: 20-week property technology program; manager transitioning through smart building systems, tenant experience platforms, maintenance automation, energy optimization, and real estate technology innovation.
+
+Goal: Bank Teller to Financial Services Digitization Specialist | habit_count: 2 | task_count: 11 | Extra: 22-week banking technology certification; teller progressing through digital banking platforms, customer experience optimization, mobile banking, security protocols, and financial technology implementation.
+
+Goal: Electrician to Electric Vehicle Charging Infrastructure Technician | habit_count: 3 | task_count: 9 | Extra: 18-week EV charging specialization; electrician advancing through charging station installation, grid integration, smart charging systems, maintenance protocols, and electric vehicle infrastructure development.
+
+Goal: Pastry Chef to Food Technology Innovation Developer | habit_count: 2 | task_count: 8 | Extra: 16-week food tech certification; chef transitioning through food science applications, product development, quality control systems, nutrition optimization, and culinary technology innovation.
+
+Goal: Warehouse Worker to Inventory Automation Specialist | habit_count: 3 | task_count: 12 | Extra: 24-week warehouse automation program; worker progressing through robotic systems, inventory management, automated sorting, quality control, and warehouse technology optimization.
+
+Goal: Tour Guide to Virtual Tourism Experience Creator | habit_count: 2 | task_count: 7 | Extra: 14-week virtual tourism certification; guide advancing through VR experience development, 360-degree content creation, virtual tour platforms, audience engagement, and tourism technology innovation.
+
+Goal: Construction Worker to Building Safety Technology Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week construction safety tech program; worker transitioning through safety monitoring systems, wearable technology, hazard detection, compliance tracking, and construction safety innovation.
+
+Goal: Massage Therapist to Wellness Technology Developer | habit_count: 2 | task_count: 11 | Extra: 22-week wellness tech specialization; therapist progressing through health monitoring apps, wellness platforms, client management systems, outcome tracking, and wellness technology entrepreneurship.
+
+Goal: Landscaper to Smart Irrigation Technology Specialist | habit_count: 3 | task_count: 9 | Extra: 18-week irrigation technology certification; landscaper advancing through smart sprinkler systems, soil monitoring, water conservation, automated maintenance, and landscape technology innovation.
+
+Goal: Optician to Vision Technology Specialist | habit_count: 2 | task_count: 8 | Extra: 16-week vision tech certification; optician transitioning through digital eye exams, lens technology, vision tracking systems, patient management, and optical technology innovation.
+
+Goal: Physical Therapist to Rehabilitation Technology Developer | habit_count: 3 | task_count: 12 | Extra: 24-week rehab technology program; therapist progressing through motion analysis, virtual reality therapy, wearable devices, progress tracking, and rehabilitation technology innovation.
+
+Goal: Cashier to Point-of-Sale Technology Specialist | habit_count: 2 | task_count: 7 | Extra: 14-week POS technology certification; cashier advancing through payment systems, inventory integration, customer analytics, mobile payments, and retail technology optimization.
+
+Goal: Hairstylist to Beauty Technology Entrepreneur | habit_count: 3 | task_count: 10 | Extra: 20-week beauty tech specialization; stylist transitioning through beauty apps, virtual consultations, color matching technology, booking systems, and beauty industry innovation.
+
+Goal: Delivery Driver to Last-Mile Delivery Optimization Specialist | habit_count: 2 | task_count: 11 | Extra: 22-week delivery optimization program; driver progressing through route planning, delivery analytics, customer experience, technology integration, and logistics innovation strategies.
+
+Goal: Bartender to Beverage Industry Technology Consultant | habit_count: 3 | task_count: 9 | Extra: 18-week beverage tech certification; bartender advancing through inventory management, ordering systems, customer analytics, recipe optimization, and hospitality technology innovation.
+
+Goal: Security Officer to IoT Security Specialist | habit_count: 2 | task_count: 8 | Extra: 16-week IoT security certification; officer transitioning through device security, network monitoring, threat detection, vulnerability assessment, and IoT security implementation.
+
+Goal: Janitor to Facility Management Technology Coordinator | habit_count: 3 | task_count: 12 | Extra: 24-week facility tech program; janitor progressing through smart building systems, maintenance automation, energy monitoring, space optimization, and facility technology innovation.
+
+Goal: Bus Driver to Transportation Analytics Specialist | habit_count: 2 | task_count: 7 | Extra: 14-week transportation analytics certification; driver advancing through route optimization, passenger analytics, fleet management, safety monitoring, and transit technology innovation.
+
+Goal: Seamstress to Fashion Technology Developer | habit_count: 3 | task_count: 10 | Extra: 20-week fashion tech specialization; seamstress transitioning through 3D design software, automated cutting systems, supply chain technology, quality control, and fashion manufacturing innovation.
+
+Goal: Groundskeeper to Turf Management Technology Specialist | habit_count: 2 | task_count: 11 | Extra: 22-week turf technology certification; groundskeeper progressing through soil monitoring, irrigation automation, pest management, growth optimization, and grounds maintenance technology.
+
+Goal: Mail Carrier to Package Delivery Optimization Analyst | habit_count: 3 | task_count: 9 | Extra: 18-week delivery analytics program; carrier advancing through route efficiency, package tracking, customer communication, delivery optimization, and postal service innovation.
+
+Goal: Locksmith to Smart Lock Technology Specialist | habit_count: 2 | task_count: 8 | Extra: 16-week smart security certification; locksmith transitioning through electronic locks, access control systems, mobile integration, security protocols, and lock technology innovation.
+
+Goal: Wedding Planner to Event Technology Coordinator | habit_count: 3 | task_count: 12 | Extra: 24-week event tech specialization; planner progressing through virtual events, live streaming, guest management, technology integration, and event innovation strategies.
+
+Goal: Crossing Guard to School Safety Technology Coordinator | habit_count: 2 | task_count: 7 | Extra: 14-week school safety tech certification; guard advancing through safety monitoring systems, communication platforms, emergency protocols, and educational safety innovation.
+
+Goal: House Cleaner to Smart Home Maintenance Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week smart home technology program; cleaner transitioning through IoT devices, automated systems, maintenance scheduling, customer portals, and home service technology.
+
+Goal: Food Server to Restaurant Technology Coordinator | habit_count: 2 | task_count: 11 | Extra: 22-week restaurant tech certification; server progressing through POS systems, order management, customer analytics, kitchen technology, and hospitality innovation strategies.
+
+Goal: Garden Center Worker to Plant Care Technology Developer | habit_count: 3 | task_count: 9 | Extra: 18-week plant care tech specialization; worker advancing through growing automation, plant monitoring, customer apps, care scheduling, and horticulture technology innovation.
+
+Goal: Pet Groomer to Pet Care Technology Entrepreneur | habit_count: 2 | task_count: 8 | Extra: 16-week pet tech certification; groomer transitioning through appointment systems, health monitoring, customer communication, service optimization, and pet care technology innovation.
+
+Goal: Pool Cleaner to Aquatic Systems Technology Specialist | habit_count: 3 | task_count: 12 | Extra: 24-week pool technology program; cleaner progressing through automated cleaning systems, water quality monitoring, chemical automation, maintenance scheduling, and pool technology innovation.
+
+Goal: Shoe Repair to Footwear Technology Consultant | habit_count: 2 | task_count: 7 | Extra: 14-week footwear tech certification; repairer advancing through 3D printing, material innovation, custom fitting technology, manufacturing processes, and footwear industry innovation.
+
+Goal: Window Cleaner to Building Maintenance Technology Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week building maintenance tech program; cleaner transitioning through automated systems, scheduling platforms, quality monitoring, customer portals, and building service technology.
+
+Goal: Parking Attendant to Smart Parking Technology Coordinator | habit_count: 2 | task_count: 11 | Extra: 22-week parking technology certification; attendant progressing through automated parking systems, payment platforms, space optimization, traffic flow, and parking innovation strategies.
+
+Goal: Laundromat Attendant to Laundry Technology Specialist | habit_count: 3 | task_count: 9 | Extra: 18-week laundry tech specialization; attendant advancing through smart machines, mobile payments, customer apps, maintenance automation, and laundry service innovation.
+
+Goal: Gas Station Attendant to Fuel Technology Coordinator | habit_count: 2 | task_count: 8 | Extra: 16-week fuel technology certification; attendant transitioning through payment systems, inventory monitoring, customer analytics, safety technology, and fuel service innovation.
+
+Goal: Grocery Clerk to Retail Analytics Specialist | habit_count: 3 | task_count: 12 | Extra: 24-week retail analytics program; clerk progressing through inventory optimization, customer behavior analysis, pricing strategies, supply chain analytics, and retail technology innovation.
+
+Goal: Library Assistant to Digital Information Management Specialist | habit_count: 2 | task_count: 7 | Extra: 14-week digital library certification; assistant advancing through digital cataloging, database management, user experience, accessibility, and library technology innovation.
+
+Goal: Movie Theater Worker to Entertainment Technology Coordinator | habit_count: 3 | task_count: 10 | Extra: 20-week entertainment tech specialization; worker transitioning through projection technology, sound systems, customer experience, ticketing platforms, and entertainment innovation strategies.
+
+Goal: Gym Receptionist to Fitness Technology Administrator | habit_count: 2 | task_count: 11 | Extra: 22-week fitness tech certification; receptionist progressing through membership management, workout tracking, customer engagement, equipment monitoring, and fitness technology optimization.
+
+Goal: Hotel Housekeeper to Hospitality Technology Specialist | habit_count: 3 | task_count: 9 | Extra: 18-week hospitality tech program; housekeeper advancing through room automation, maintenance systems, guest services, quality control, and hotel technology innovation.
+
+Goal: Valet to Vehicle Technology Specialist | habit_count: 2 | task_count: 8 | Extra: 16-week automotive tech certification; valet transitioning through keyless systems, vehicle tracking, customer service platforms, parking optimization, and automotive service innovation.
+
+Goal: Theme Park Worker to Guest Experience Technology Coordinator | habit_count: 3 | task_count: 12 | Extra: 24-week theme park tech specialization; worker progressing through queue management, mobile apps, guest analytics, safety systems, and entertainment technology innovation.
+
+Goal: Concierge to Digital Hospitality Consultant | habit_count: 2 | task_count: 7 | Extra: 14-week digital hospitality certification; concierge advancing through guest services platforms, recommendation systems, communication technology, experience optimization, and hospitality innovation strategies.
+
+Goal: Lifeguard to Aquatic Safety Technology Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week aquatic safety tech program; lifeguard transitioning through monitoring systems, emergency response, safety analytics, training technology, and aquatic safety innovation.
+
+Goal: Amusement Park Operator to Ride Technology Specialist | habit_count: 2 | task_count: 11 | Extra: 22-week ride technology certification; operator progressing through safety systems, maintenance automation, guest experience, operational efficiency, and amusement technology innovation.
+
+Goal: Cruise Ship Worker to Maritime Technology Coordinator | habit_count: 3 | task_count: 9 | Extra: 18-week maritime tech specialization; worker advancing through navigation systems, guest services, safety technology, operational optimization, and cruise technology innovation.
+
+Goal: Stadium Worker to Sports Technology Specialist | habit_count: 2 | task_count: 8 | Extra: 16-week sports facility tech certification; worker transitioning through fan experience technology, safety systems, operations management, analytics platforms, and sports venue innovation.
+
+Goal: Convention Center Staff to Event Technology Manager | habit_count: 3 | task_count: 12 | Extra: 24-week convention tech program; staff progressing through AV systems, registration platforms, attendee engagement, space management, and convention technology innovation.
+
+Goal: Shopping Mall Worker to Retail Experience Technology Coordinator | habit_count: 2 | task_count: 7 | Extra: 14-week retail experience tech certification; worker advancing through customer analytics, navigation systems, tenant services, safety technology, and retail innovation strategies.
+
+Goal: Airport Worker to Aviation Technology Specialist | habit_count: 3 | task_count: 10 | Extra: 20-week aviation tech specialization; worker transitioning through passenger processing, baggage systems, security technology, operational efficiency, and airport

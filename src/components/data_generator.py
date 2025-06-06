@@ -31,12 +31,12 @@ def main():
     logging.info(" supabase init")
     
     # read goal list
-    goal_file_path = '/home/dk/code_base/ml_projects/llm_fine_tune/data/career_education_goals.txt'
+    goal_file_path = '/home/dk/code_base/ml_projects/llm_fine_tune/src/components/artifacts/professional_career_goals.txt'
     df = load_goals(goal_file_path) 
     total_rows = len(df)
     
     # Variable init
-    start_goal = 'Goal: Business Student to E-commerce Entrepreneur'
+    start_goal = 'Goal: Advanced Excel VBA Automation'
     matching_index = df[df['Goal'] == start_goal].index
     index = 5
     start_idx = matching_index[0]
