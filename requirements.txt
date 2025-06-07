@@ -5,4 +5,7 @@ google-generativeai
 supabase
 python-dotenv
 scikit-learn
--e .
+transformers
+torch
+datasets
+#-e .

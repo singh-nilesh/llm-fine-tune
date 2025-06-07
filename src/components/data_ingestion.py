@@ -32,7 +32,7 @@ class DataIngestion:
         df = self.fetch_all_rows_paginated(supabase)
         
         # train-test split
-        train_df,test_df = train_test_split(df, test_size=0.2, random_state=42)
+        train_df,test_df = train_test_split(df, test_size=0.1, random_state=42)
         logging.info("split data into train-test set")
         
         # write to JSON
