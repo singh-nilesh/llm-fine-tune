@@ -8,4 +8,7 @@ scikit-learn
 transformers
 torch
 datasets
+peft
+bitsandbytes
+accelerate
 #-e .

@@ -1,5 +1,5 @@
 """
-    Parse Supabase recodrs to , Q&A pairs (.json) for model
+    Parse Supabase records to , Q&A pairs (.json) for model
 """
 import os
 import sys

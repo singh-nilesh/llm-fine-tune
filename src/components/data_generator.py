@@ -1,4 +1,4 @@
-''' this file make request to Gemini api for roadmaps, and insert the records to Supabase'''
+''' this file make request to Gemini api for roadmap, and insert the records to Supabase'''
 from supabase import create_client, Client
 import pandas as pd
 import google.generativeai as genai

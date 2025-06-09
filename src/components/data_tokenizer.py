@@ -1,3 +1,6 @@
+"""
+    this file tokenizes raw data for model inputs
+"""
 import json
 from transformers import AutoTokenizer
 from dataclasses import dataclass
@@ -6,7 +9,6 @@ import os
 
 from src.exception import CustomException
 from src.logger import logging
-from src.components.data_ingestion import DataIngestion, DataIngestionConfig
 
 @dataclass
 class DataTokenizerConfig:
