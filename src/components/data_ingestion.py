@@ -59,12 +59,13 @@ class DataIngestion:
         with open(filename, "w", encoding="utf-8") as f:
             for _, row in df.iterrows():
                 try:
+                    # Store response as string instead of parsing JSON
                     f.write(json.dumps({
                         "instruction": row["prompt"],
-                        "response": json.loads(row["response"])  # assumes response is a JSON string
+                        "response": row["response"]  # Keep as string, don't parse JSON
                     }) + "\n")
-                except json.JSONDecodeError as e:
-                    logging.error(f"Failed to parse response at row {_}: {e}")
+                except Exception as e:
+                    logging.error(f"Failed to process row {_}: {e}")
         logging.info(f"Saved {filename} with {len(df)} records.")
         
         
