@@ -31,20 +31,32 @@ class DataTokenizer:
         return self.tokenize_and_save(raw_data)
     
     
-    def func_tokenize(self, example):
+    def func_tokenize(self, examples):
+        """
+        Process examples in batches, ensuring all inputs are properly cast to strings
+        """
+        # For batched processing, handle lists of inputs
+        if isinstance(examples['instruction'], list):
+            instructions = [str(inst) if inst is not None else "" for inst in examples['instruction']]
+            responses = [str(resp) if resp is not None else "" for resp in examples['response']]
+        else:
+            # Handle single example case
+            instructions = str(examples['instruction']) if examples['instruction'] is not None else ""
+            responses = str(examples['response']) if examples['response'] is not None else ""
+        
         return self.tokenizer(
-            example['instruction'],
-            text_target = example['response'],
-            truncation = True,
-            padding = "max_length",
-            max_length = 512,
+            instructions,
+            text_target=responses,
+            truncation=True,
+            padding="max_length",
+            max_length=512,
         )
         
     def load_raw_data(self):
-        train_data = load_dataset("json", self.train_data_path, split='train')
-        test_data =  load_dataset('json', self.test_data_path, split='train')
+        train_data = load_dataset("json", data_files=self.train_data_path, split='train')
+        test_data = load_dataset('json', data_files=self.test_data_path, split='train')
         logging.info("raw data loaded for Tokenization")
-        return DatasetDict(train_data, test_data)
+        return DatasetDict({"train": train_data, "test": test_data})
     
     def tokenize_and_save(self, raw_data_dict: DatasetDict):
         tokenized_data = raw_data_dict.map(self.func_tokenize, batched=True)
@@ -54,4 +66,9 @@ class DataTokenizer:
 
 
 if __name__ == "__main__":
-    pass
+    model_id = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+    train_path = 'artifacts/train.jsonl'
+    test_path = 'artifacts/test.jsonl'
+    
+    tokenizer = DataTokenizer(train_path, test_path, model_id)
+    toke_data = tokenizer.init_tokenizer()

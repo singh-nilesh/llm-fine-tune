@@ -72,13 +72,13 @@ class DataIngestion:
             try:
                 res = supabase.table(table).select("*").order("id").range(offset, offset + page_size - 1).execute()
             except Exception as e:
-                CustomException(f"supabase query error: {e}", sys)
+                raise CustomException(f"supabase query error: {e}", sys)
                 
             batch = res.data
             if not batch:
                 break
             all_data.extend(batch)
-            logging(f"Fetched rows {offset} to {offset + len(batch) - 1}")
+            logging.info(f"Fetched rows {offset} to {offset + len(batch) - 1}")
             if len(batch) < page_size:
                 break
             offset += page_size
