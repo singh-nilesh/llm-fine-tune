@@ -7,6 +7,7 @@ from src.components.trainer import Trainer
 import torch
 import gc
 import os
+import sys
 
 def main():
     model = None
@@ -14,6 +15,10 @@ def main():
         # Set environment variable for better CUDA OOM handling
         os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:128"
         base_model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+        
+        # Define the static artifacts_path to os.env
+        artifacts_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "artifacts")
+        os.environ["ARTIFACTS_DIR"] = artifacts_dir
         
         logging.info("Starting data ingestion")
         try:

@@ -12,25 +12,40 @@ from src.logger import logging
 
 @dataclass
 class DataTokenizerConfig:
-    save_tokenizer_path =  os.path.join("artifacts", "tokenized")
+    artifacts_dir: str = os.environ.get('ARTIFACTS_DIR', os.path.join(os.path.dirname(__file__), 'artifacts'))
+    
+    @property
+    def save_tokenizer_path(self):
+        path = os.path.join(self.artifacts_dir, "tokenized")
+        logging.info(f"Tokenized data path: {path}")
+        return path
 
 class DataTokenizer:
     def __init__(self, train_path, test_path, model_name):
         self.tokenizer_config = DataTokenizerConfig()
-        self.train_data_path = os.path.join(os.path.dirname(__file__), train_path)
-        self.test_data_path = os.path.join(os.path.dirname(__file__), test_path)
+        # Use the train and test paths as provided (don't join with dirname)
+        self.train_data_path = train_path
+        self.test_data_path = test_path
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
     
     def init_tokenizer(self):
-        # load from disk if available
-        if os.path.exists(self.tokenizer_config.save_tokenizer_path):
-            logging.info("loading Tokenized data from disk")
+        # Create tokenized directory if it doesn't exist
+        os.makedirs(self.tokenizer_config.save_tokenizer_path, exist_ok=True)
+        logging.info(f"Checking for tokenized data at: {self.tokenizer_config.save_tokenizer_path}")
+        
+        # Check if directory exists AND contains dataset files
+        if os.path.exists(self.tokenizer_config.save_tokenizer_path) and any(
+            f.endswith('.arrow') for f in os.listdir(self.tokenizer_config.save_tokenizer_path)
+            if os.path.exists(self.tokenizer_config.save_tokenizer_path)
+        ):
+            logging.info("Loading Tokenized data from disk")
             return load_from_disk(self.tokenizer_config.save_tokenizer_path)
         
+        logging.info("No tokenized data found, proceeding to tokenize raw data")
         raw_data = self.load_raw_data()
         return self.tokenize_and_save(raw_data)
-    
-    
+        
+        
     def func_tokenize(self, examples):
         """
         Process examples in batches, ensuring all inputs are properly cast to strings
@@ -53,13 +68,16 @@ class DataTokenizer:
         )
         
     def load_raw_data(self):
+        logging.info(f"Loading raw data from: {self.train_data_path} and {self.test_data_path}")
         train_data = load_dataset("json", data_files=self.train_data_path, split='train')
         test_data = load_dataset('json', data_files=self.test_data_path, split='train')
-        logging.info("raw data loaded for Tokenization")
+        logging.info("Raw data loaded for Tokenization")
         return DatasetDict({"train": train_data, "test": test_data})
     
     def tokenize_and_save(self, raw_data_dict: DatasetDict):
+        logging.info("Tokenizing raw data...")
         tokenized_data = raw_data_dict.map(self.func_tokenize, batched=True)
+        logging.info(f"Saving tokenized data to: {self.tokenizer_config.save_tokenizer_path}")
         tokenized_data.save_to_disk(self.tokenizer_config.save_tokenizer_path)
         logging.info("Finished Tokenizing the raw data")
         return tokenized_data

@@ -14,8 +14,9 @@ from supabase import create_client, Client
 
 @dataclass
 class DataIngestionConfig:
-    train_data_path: str = os.path.join('artifacts', 'train.jsonl')
-    test_data_path: str = os.path.join('artifacts', 'test.jsonl')
+    artifacts_dir: str = os.environ.get('ARTIFACTS_DIR', os.path.join(os.path.dirname(__file__), 'artifacts'))
+    train_data_path: str = os.path.join(artifacts_dir, 'train.jsonl')
+    test_data_path: str = os.path.join(artifacts_dir, 'test.jsonl')
 
 
 class DataIngestion:
@@ -35,6 +36,9 @@ class DataIngestion:
         train_df,test_df = train_test_split(df, test_size=0.1, random_state=42)
         logging.info("split data into train-test set")
         
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
+        
         # write to JSON
         self.write_to_json(train_df, self.ingestion_config.train_data_path)
         self.write_to_json(test_df, self.ingestion_config.test_data_path)
@@ -49,6 +53,9 @@ class DataIngestion:
         """
         this function saves Df to .jsonl format
         """
+        # Create directory if it doesn't exist
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        
         with open(filename, "w", encoding="utf-8") as f:
             for _, row in df.iterrows():
                 try:
