@@ -54,9 +54,4 @@ class DataTokenizer:
 
 
 if __name__ == "__main__":
-    tokenizer = DataTokenizer(
-        train_path= "..",
-        test_path= "..",
-        model_name= "gema"
-    )
-    tokenizer.init_tokenizer
+    pass
