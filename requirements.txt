@@ -11,4 +11,5 @@ datasets
 peft
 bitsandbytes
 accelerate
+trl
 #-e .
