@@ -7,9 +7,11 @@ python-dotenv
 scikit-learn
 transformers
 torch
+fsspec==2025.3.2
 datasets
 peft
 bitsandbytes
 accelerate
 trl
+wandb
 #-e .
