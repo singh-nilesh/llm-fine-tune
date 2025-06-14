@@ -2,6 +2,7 @@
 Contains configurations for training pipeline
 """
 from dataclasses import dataclass, field
+from peft import TaskType
 from typing import List
 import os
 import torch
@@ -18,6 +19,7 @@ class Config:
     max_length: int = 512
     
     # LoRA parameters
+    use_quantization:bool = True
     lora_r: int = 16
     lora_alpha: int = 32
     lora_dropout: float = 0.1
@@ -25,6 +27,8 @@ class Config:
         "q_proj", "k_proj", "v_proj", "o_proj",
         "gate_proj", "up_proj", "down_proj"
     ])
+    bias:str = "none"
+    task_type:TaskType = TaskType.CAUSAL_LM 
     
     # Training parameters
     per_device_train_batch_size: int = 2
@@ -58,6 +62,7 @@ class Config:
     load_in_4bit: bool = True
     bnb_4bit_compute_dtype: torch.dtype = torch.bfloat16
     bnb_4bit_quant_type: str = "nf4"
+    bnb_4bit_use_double_quant:bool = True
     
     # WandB config
     wandb_project: str = "tinyllama-finetune"
@@ -73,6 +78,7 @@ class Config:
         os.makedirs(self.artifacts_dir, exist_ok=True)
         
         self.output_dir = os.path.join(self.artifacts_dir, "lora_output")
+        self.lora_adapter_path = os.path.join(self.artifacts_dir, "lora_adapter")
         self.tokenizer_path = os.path.join(self.artifacts_dir, "tokenizer")
         self.tokenize_data_path = os.path.join(self.artifacts_dir, "tokenized_data")
         self.train_data_path = os.path.join(self.artifacts_dir, "train.jsonl")
