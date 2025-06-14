@@ -9,13 +9,18 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 import json
 from supabase import create_client, Client
-from config import Config
+from src.components.config import Config
 
 class DataIngestion:
     def __init__(self):
         self.Config = Config()
         self.SUPABASE_URL = os.getenv('SUPABASE_URL')
+        if not self.SUPABASE_URL:
+            raise CustomException("SUPABASE_URL environment variable not set", sys)
+        
         self.SUPABASE_KEY = os.getenv('SUPABASE_KEY')
+        if not self.SUPABASE_KEY:
+            raise CustomException("SUPABASE_KEY environment variable not set", sys)
 
     def init_ingestion(self):
         supabase = create_client(self.SUPABASE_URL, self.SUPABASE_KEY)
@@ -27,12 +32,12 @@ class DataIngestion:
         os.makedirs(os.path.dirname(self.Config.train_data_path), exist_ok=True)
 
         self.write_to_jsonl(train_df, self.Config.train_data_path)
-        self.write_to_jsonl(test_df, self.Config.test_data_path)
+        self.write_to_jsonl(test_df, self.Config.eval_data_path)
         logging.info("Data successfully exported to .jsonl format")
 
         return (
             self.Config.train_data_path,
-            self.Config.test_data_path
+            self.Config.eval_data_path
         )
 
     def format_text(self, prompt: str, response: str, model_type: str = "default") -> str:
@@ -44,9 +49,9 @@ class DataIngestion:
             )
         else:
             return (
-            f"<|user|>\n{prompt}\n<|end|>\n"
-            f"<|assistant|>\n{response}<|end|>"
-        )
+                f"<|user|>\n{prompt}\n<|end|>\n"
+                f"<|assistant|>\n{response}<|end|>"
+            )
 
     def write_to_jsonl(self, df: pd.DataFrame, filename: str):
         """Convert each row into formatted text field and save as .jsonl"""

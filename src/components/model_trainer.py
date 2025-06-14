@@ -58,7 +58,7 @@ class ModelTrainer:
             logging.warning(f"Failed to initialize wandb: {str(e)}. Continuing without wandb tracking.")
             return False
     
-    def train(self, dataset):
+    def train(self, train_data, test_data):
         try:
             # Check if TF32 is supported
             use_tf32 = False
@@ -84,43 +84,32 @@ class ModelTrainer:
  
             args = TrainingArguments(
                 output_dir=self.trainer_config.output_dir,
+                per_device_train_batch_size=2,
+                per_device_eval_batch_size=2,
+                gradient_accumulation_steps=8,
                 num_train_epochs=3,
-                per_device_train_batch_size=3,
-                gradient_accumulation_steps=2,
-                gradient_checkpointing=True,
-                optim="adamw_torch_fused",
-                logging_steps=10,
-                save_strategy="epoch",
                 learning_rate=2e-4,
+                lr_scheduler_type="cosine",
+                warmup_ratio=0.05,
+                logging_steps=10,
+                save_strategy="steps",
+                save_steps=100,
+                eval_strategy="steps",
+                eval_steps=100,
                 bf16=True,
-                tf32=use_tf32,  # Use TF32 only if supported
-                max_grad_norm=0.3,
-                warmup_ratio=0.03,
-                lr_scheduler_type="constant",
-                push_to_hub=True,
-                report_to=report_to,  # Include wandb if initialized
-            )
-            
-            max_seq_length = 3072
-            
-            # Create SFTConfig object
-            sft_config = SFTConfig(
-                max_seq_length=max_seq_length,
-                packing=True,
-                dataset_kwargs={
-                    "add_special_tokens": False,
-                    "append_concat_token": False,
-                    "skip_prepare_dataset": True
-                }
+                gradient_checkpointing=True,
+                dataloader_pin_memory=False,
+                remove_unused_columns=False,
+                report_to=report_to,
+                seed=42,
             )
 
             trainer = SFTTrainer(
                 model=self.model,
                 args=args,
-                train_dataset=dataset,
+                train_dataset=train_data,
                 peft_config=ModelLoaderConfig.lora_config,
                 tokenizer=self.tokenizer,
-                config=sft_config
             )
             
             logging.info("Starting training")

@@ -73,8 +73,10 @@ class Config:
         os.makedirs(self.artifacts_dir, exist_ok=True)
         
         self.output_dir = os.path.join(self.artifacts_dir, "lora_output")
+        self.tokenizer_path = os.path.join(self.artifacts_dir, "tokenizer")
+        self.tokenize_data_path = os.path.join(self.artifacts_dir, "tokenized_data")
         self.train_data_path = os.path.join(self.artifacts_dir, "train.jsonl")
-        self.test_data_path = os.path.join(self.artifacts_dir, "test.jsonl")
+        self.eval_data_path = os.path.join(self.artifacts_dir, "eval.jsonl")
     
     def get_config_info(self):
         """Convert config to dictionary for logging"""

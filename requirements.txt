@@ -14,4 +14,4 @@ bitsandbytes
 accelerate
 trl
 wandb
-#-e .
+#-e .   
