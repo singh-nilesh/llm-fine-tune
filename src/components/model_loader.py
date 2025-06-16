@@ -10,42 +10,42 @@ from peft import (
     PeftModel,
 )
 from transformers import AutoModelForCausalLM, BitsAndBytesConfig
-
 from src.logger import logging
 from src.exception import CustomException
 from src.components.config import Config
 
-
 class ModelLoader:
     def __init__(self):
         self.config = Config()
-
+    
     def loader_init(self):
         """Main function to load base model and apply LoRA adapters"""
         try:
             model = self._load_base_model()
             
-            # load peft from disk
-            if os.path.exists(self.config.lora_adapter_path):
+            # Check if adapter_config.json exists (proper way to check for valid LoRA adapters)
+            adapter_config_path = os.path.join(self.config.lora_adapter_path, "adapter_config.json")
+            
+            if os.path.exists(adapter_config_path):
                 logging.info(f"Loading LoRA adapters from {self.config.lora_adapter_path}")
                 model = PeftModel.from_pretrained(model, self.config.lora_adapter_path)
-            else:   # load new peft
+            else:   
+                # Create directory if it doesn't exist
+                os.makedirs(self.config.lora_adapter_path, exist_ok=True)
                 logging.info("Creating new LoRA adapters.")
                 lora_config = self._get_lora_config()
                 model = get_peft_model(model, lora_config)
                 model.save_pretrained(self.config.lora_adapter_path)
                 logging.info(f"LoRA adapters saved to {self.config.lora_adapter_path}")
-
+            
             return model
-
+            
         except Exception as e:
             raise CustomException(f"Model loading failed: {e}", sys)
-
-
+    
     def _load_base_model(self):
         """Loads the base (optionally quantized) model"""
         quant_config = self._get_quantization_config()
-
         model = AutoModelForCausalLM.from_pretrained(
             self.config.model_name,
             quantization_config=quant_config,
@@ -54,25 +54,23 @@ class ModelLoader:
             trust_remote_code=True
         )
         
-        # load quantized model is required
+        # Prepare quantized model if required
         if self.config.use_quantization:
             model = prepare_model_for_kbit_training(model)
-
         return model
-
-
+    
     def _get_quantization_config(self):
         """Returns quantization config if enabled"""
         if not self.config.use_quantization:
             return None
-
+        
         return BitsAndBytesConfig(
             load_in_4bit=self.config.load_in_4bit,
             bnb_4bit_use_double_quant=self.config.bnb_4bit_use_double_quant,
             bnb_4bit_quant_type=self.config.bnb_4bit_quant_type,
             bnb_4bit_compute_dtype=self.config.bnb_4bit_compute_dtype
         )
-
+    
     def _get_lora_config(self):
         """Returns a configured LoraConfig object"""
         try:
@@ -86,7 +84,6 @@ class ModelLoader:
             )
         except Exception as e:
             raise CustomException(f"Error during LoRA config: {e}", sys)
-
 
 if __name__ == "__main__":
     loader = ModelLoader()
