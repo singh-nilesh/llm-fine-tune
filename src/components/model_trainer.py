@@ -39,6 +39,7 @@ class ModelTrainer:
                 dataset_text_field="text",
                 max_seq_length=self.config.max_length,
                 packing=False,
+                formatting_func=None,
             )
             
             # Start training
@@ -66,9 +67,11 @@ class ModelTrainer:
         try:
             logging.info("Data collator compiled")
             return DataCollatorForLanguageModeling(
-                tokenizer= tokenizer,
+                tokenizer=tokenizer,
                 mlm=False,
-                pad_to_multiple_of=8
+                pad_to_multiple_of=8,
+                return_tensors="pt",  # Return PyTorch tensors
+                padding=True          # Ensure padding is applied
             )
         except Exception as e:
             logging.error(f"Error creating data collator: {str(e)}")

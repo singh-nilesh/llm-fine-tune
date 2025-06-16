@@ -96,7 +96,8 @@ class DataTokenizer:
                 texts,
                 truncation=True,
                 max_length=self.config.max_length,
-                padding=False  # Handled dynamically by collator
+                padding="max_length",  # Changed to use max_length padding
+                return_tensors=None    # Don't convert to tensors yet (handled by trainer)
             )
             return tokenized
             
