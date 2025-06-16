@@ -1,8 +1,6 @@
 """
-This file configures and loads the base model for training,
-including quantization and LoRA adapter setup.
+This file configures and loads the base model for training, including quantization and LoRA adapter setup.
 """
-
 import os
 import sys
 from peft import (
@@ -16,35 +14,33 @@ from transformers import AutoModelForCausalLM, BitsAndBytesConfig
 from src.logger import logging
 from src.exception import CustomException
 from src.components.config import Config
-from src.components.data_tokenizer import DataTokenizer
 
 
 class ModelLoader:
-    def __init__(self, model_tokenizer):
+    def __init__(self):
         self.config = Config()
-        self.tokenizer = model_tokenizer
-        self.model = None
 
     def loader_init(self):
         """Main function to load base model and apply LoRA adapters"""
         try:
             model = self._load_base_model()
-
+            
+            # load peft from disk
             if os.path.exists(self.config.lora_adapter_path):
                 logging.info(f"Loading LoRA adapters from {self.config.lora_adapter_path}")
                 model = PeftModel.from_pretrained(model, self.config.lora_adapter_path)
-            else:
+            else:   # load new peft
                 logging.info("Creating new LoRA adapters.")
                 lora_config = self._get_lora_config()
                 model = get_peft_model(model, lora_config)
                 model.save_pretrained(self.config.lora_adapter_path)
                 logging.info(f"LoRA adapters saved to {self.config.lora_adapter_path}")
 
-            self.model = model
             return model
 
         except Exception as e:
             raise CustomException(f"Model loading failed: {e}", sys)
+
 
     def _load_base_model(self):
         """Loads the base (optionally quantized) model"""
@@ -63,6 +59,7 @@ class ModelLoader:
             model = prepare_model_for_kbit_training(model)
 
         return model
+
 
     def _get_quantization_config(self):
         """Returns quantization config if enabled"""
@@ -92,6 +89,5 @@ class ModelLoader:
 
 
 if __name__ == "__main__":
-    tokenizer = DataTokenizer()
-    loader = ModelLoader(tokenizer)
+    loader = ModelLoader()
     model = loader.loader_init()

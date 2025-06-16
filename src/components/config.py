@@ -54,9 +54,7 @@ class Config:
     torch_dtype: torch.dtype = torch.float16
     
     # Trainer config
-    use_wandb: bool = True
-    project_name: str = "model_training"
-    run_name: str = "lora_training_run"
+    use_wandb:bool = True
     
     # 4-bit BNB Config
     load_in_4bit: bool = True
@@ -83,6 +81,15 @@ class Config:
         self.tokenize_data_path = os.path.join(self.artifacts_dir, "tokenized_data")
         self.train_data_path = os.path.join(self.artifacts_dir, "train.jsonl")
         self.eval_data_path = os.path.join(self.artifacts_dir, "eval.jsonl")
+        
+        # Create all required directories
+        for directory in [
+            self.output_dir,
+            self.lora_adapter_path,
+            self.tokenizer_path,
+            self.tokenize_data_path
+        ]:
+            os.makedirs(directory, exist_ok=True)
     
     def get_config_info(self):
         """Convert config to dictionary for logging"""

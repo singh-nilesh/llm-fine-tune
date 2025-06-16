@@ -22,7 +22,9 @@ class DataIngestion:
         if not self.SUPABASE_KEY:
             raise CustomException("SUPABASE_KEY environment variable not set", sys)
 
+
     def init_ingestion(self):
+        """main controler"""
         supabase = create_client(self.SUPABASE_URL, self.SUPABASE_KEY)
         df = self.fetch_all_rows_paginated(supabase)
 
@@ -40,6 +42,7 @@ class DataIngestion:
             self.Config.eval_data_path
         )
 
+
     def format_text(self, prompt: str, response: str, model_type: str = "default") -> str:
         """Format instruction and response into a structured prompt-completion string."""
         if model_type == "gemma":
@@ -53,6 +56,7 @@ class DataIngestion:
                 f"<|assistant|>\n{response}<|end|>"
             )
 
+
     def write_to_jsonl(self, df: pd.DataFrame, filename: str):
         """Convert each row into formatted text field and save as .jsonl"""
         os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -65,6 +69,7 @@ class DataIngestion:
                 except Exception as e:
                     logging.error(f"Failed to process row {idx}: {e}")
         logging.info(f"Saved {filename} with {len(df)} records.")
+
 
     def fetch_all_rows_paginated(self, supabase, table="roadmap", page_size=1000):
         """Retrieve records from Supabase using pagination"""
