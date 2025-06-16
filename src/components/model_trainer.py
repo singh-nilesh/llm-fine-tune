@@ -36,6 +36,7 @@ class ModelTrainer:
                 eval_dataset=dataset["eval"],
                 tokenizer=tokenizer,
                 data_collator=self._data_collator(tokenizer),
+                dataset_text_field="text",
                 packing=False,
             )
             

@@ -72,10 +72,10 @@ class TrainingPipeline:
             self.tokenizer = tokenizer_inst.tokenizer_init()
             self.dataset = tokenizer_inst.load_data()
             
-            # Step 3: Model Loading
+            # Step 3: Model Loading (pass tokenizer for embedding resize)
             logging.info("Loading model...")
             loader = ModelLoader()
-            self.model = loader.loader_init()
+            self.model = loader.loader_init(tokenizer=self.tokenizer)
             
             # Step 4: Model Training
             logging.info("Starting model training...")

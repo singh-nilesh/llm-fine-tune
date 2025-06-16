@@ -46,7 +46,7 @@ class Config:
     bf16: bool = True
     gradient_checkpointing: bool = True
     dataloader_pin_memory: bool = False
-    remove_unused_columns: bool = False
+    remove_unused_columns: bool = True
     
     # System parameters
     seed: int = 42

@@ -13,15 +13,21 @@ from transformers import AutoModelForCausalLM, BitsAndBytesConfig
 from src.logger import logging
 from src.exception import CustomException
 from src.components.config import Config
+from src.components.data_tokenizer import DataTokenizer
 
 class ModelLoader:
     def __init__(self):
         self.config = Config()
     
-    def loader_init(self):
-        """Main function to load base model and apply LoRA adapters"""
+    def loader_init(self, tokenizer=None):
+        """Main function to load base model and apply LoRA adapters. Accepts tokenizer for embedding resize."""
         try:
             model = self._load_base_model()
+            
+            # Resize model embeddings if tokenizer is provided
+            if tokenizer is not None:
+                model.resize_token_embeddings(len(tokenizer))
+                logging.info("Resized model embeddings to match tokenizer vocab size.")
             
             # Check if adapter_config.json exists (proper way to check for valid LoRA adapters)
             adapter_config_path = os.path.join(self.config.lora_adapter_path, "adapter_config.json")
@@ -86,5 +92,7 @@ class ModelLoader:
             raise CustomException(f"Error during LoRA config: {e}", sys)
 
 if __name__ == "__main__":
+    tokenizer_inst = DataTokenizer()
+    tokenizer = tokenizer_inst.tokenizer_init()
     loader = ModelLoader()
-    model = loader.loader_init()
+    model = loader.loader_init(tokenizer=tokenizer)
