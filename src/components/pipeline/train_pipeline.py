@@ -66,11 +66,11 @@ class TrainingPipeline:
             ingestor = DataIngestion()
             ingestor.init_ingestion()
             
-            # Step 2: Data Tokenization
-            logging.info("Starting data tokenization...")
+            # Step 2: Load raw dataset (no tokenization here)
+            logging.info("Loading raw dataset for training...")
             tokenizer_inst = DataTokenizer()
             self.tokenizer = tokenizer_inst.tokenizer_init()
-            self.dataset = tokenizer_inst.get_tokenized_data(self.tokenizer)
+            self.dataset = tokenizer_inst.load_data()
             
             # Step 3: Model Loading
             logging.info("Loading model...")

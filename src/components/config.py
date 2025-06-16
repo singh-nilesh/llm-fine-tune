@@ -82,16 +82,14 @@ class Config:
         self.output_dir = os.path.join(self.artifacts_dir, "lora_output")
         self.lora_adapter_path = os.path.join(self.artifacts_dir, "lora_adapter")
         self.tokenizer_path = os.path.join(self.artifacts_dir, "tokenizer")
-        self.tokenize_data_path = os.path.join(self.artifacts_dir, "tokenized_data")
         self.train_data_path = os.path.join(self.artifacts_dir, "train.jsonl")
         self.eval_data_path = os.path.join(self.artifacts_dir, "eval.jsonl")
         
-        # Create all required directories
+        # Create all required directories (removed tokenize_data_path)
         for directory in [
             self.output_dir,
             self.lora_adapter_path,
-            self.tokenizer_path,
-            self.tokenize_data_path
+            self.tokenizer_path
         ]:
             os.makedirs(directory, exist_ok=True)
     

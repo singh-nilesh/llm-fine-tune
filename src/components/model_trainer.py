@@ -22,7 +22,7 @@ class ModelTrainer:
     
     
     def train(self, model, tokenizer, dataset) -> SFTTrainer:
-        """Complete training pipeline with wandb integration"""
+        """Complete training pipeline with wandb integration. Expects raw text dataset with 'text' field."""
         try:
             # Initialize wandb
             self._initialize_wandb()
@@ -36,10 +36,7 @@ class ModelTrainer:
                 eval_dataset=dataset["eval"],
                 tokenizer=tokenizer,
                 data_collator=self._data_collator(tokenizer),
-                dataset_text_field="text",
-                max_seq_length=self.config.max_length,
                 packing=False,
-                formatting_func=None,
             )
             
             # Start training
@@ -71,7 +68,6 @@ class ModelTrainer:
                 mlm=False,
                 pad_to_multiple_of=8,
                 return_tensors="pt",  # Return PyTorch tensors
-                padding=True          # Ensure padding is applied
             )
         except Exception as e:
             logging.error(f"Error creating data collator: {str(e)}")
