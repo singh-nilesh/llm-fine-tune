@@ -9,7 +9,7 @@ from datasets import Dataset, DatasetDict
 
 from src.exception import CustomException
 from src.logger import logging
-from config import Config
+from src.components.config import Config
 
 class DataTokenizer:
     def __init__(self):
