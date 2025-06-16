@@ -118,7 +118,7 @@ class ModelTrainer:
                 logging_steps= self.config.logging_steps,
                 save_strategy= self.config.save_strategy,
                 save_steps= self.config.save_steps,
-                evaluation_strategy= self.config.eval_strategy,  # Fixed parameter name
+                eval_strategy= self.config.eval_strategy,  # Fixed parameter name
                 eval_steps= self.config.eval_steps,
                 bf16= self.config.bf16,
                 gradient_checkpointing= self.config.gradient_checkpointing,

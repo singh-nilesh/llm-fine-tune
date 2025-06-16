@@ -73,7 +73,7 @@ class DataTokenizer:
             
             dataset = DatasetDict({
                 "train": Dataset.from_list(train_data),
-                "test": Dataset.from_list(eval_data)
+                "eval": Dataset.from_list(eval_data)
             })
             logging.info("Dataset loaded manually using DatasetDict")
             return dataset
