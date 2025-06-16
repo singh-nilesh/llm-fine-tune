@@ -18,14 +18,14 @@ class DataTokenizer:
     def tokenizer_init(self):
         """ Load tokenizer and add special tokens"""
         try:
-            # try to load tokenizer from disk
-            if os.path.exists(self.config.tokenizer_path):
+            # try to load tokenizer from disk - check if it's a valid tokenizer directory
+            if os.path.exists(os.path.join(self.config.tokenizer_path, "tokenizer_config.json")):
                 tokenizer = AutoTokenizer.from_pretrained(self.config.tokenizer_path)
                 logging.info(f"Finished loading tokenizer from {self.config.tokenizer_path}")
             
             # new tokenizer
             else:
-                logging.info("Tokenizer not found Loading new Tokenizer")
+                logging.info(f"Tokenizer not found at {self.config.tokenizer_path}. Loading new tokenizer from {self.config.model_name}")
                 tokenizer = AutoTokenizer.from_pretrained(self.config.model_name)
                 special_tokens = {
                     "additional_special_tokens": [

@@ -11,8 +11,8 @@ import torch
 class Config:
     """Configuration class for fine-tuning parameters"""
     
-    # Set artifacts directory at the same level as this file
-    artifacts_dir: str = "artifacts"
+    # Set artifacts directory path
+    artifacts_dir: str = os.path.join(os.path.dirname(__file__), "artifacts")
     
     # Model parameters
     model_name: str = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
@@ -74,6 +74,10 @@ class Config:
         """Set up derived paths after initialization"""
         # Create artifacts directory if it doesn't exist
         os.makedirs(self.artifacts_dir, exist_ok=True)
+        
+        # Log the artifacts directory path to confirm it's correct
+        from src.logger import logging
+        logging.info(f"Using artifacts directory: {os.path.abspath(self.artifacts_dir)}")
         
         self.output_dir = os.path.join(self.artifacts_dir, "lora_output")
         self.lora_adapter_path = os.path.join(self.artifacts_dir, "lora_adapter")
