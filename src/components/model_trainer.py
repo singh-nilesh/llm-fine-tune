@@ -49,7 +49,6 @@ class ModelTrainer:
             trainer.save_model()
             logging.info(f"Model saved to {self.config.output_dir}")
             
-            
             logging.info("Training completed successfully")
             return trainer
             
@@ -131,3 +130,7 @@ class ModelTrainer:
         except Exception as e:
             logging.error(f"Error creating training arguments: {str(e)}")
             raise CustomException(e, sys)
+
+
+if __name__ == "__main__":
+    model_trainer = ModelTrainer()

@@ -2,7 +2,6 @@ import os
 import sys
 import gc
 import torch
-
 from src.exception import CustomException
 from src.logger import logging
 from src.components.data_ingestion import DataIngestion
@@ -14,15 +13,18 @@ from src.components.config import Config
 
 class TrainingPipeline:
     """Main training pipeline for model fine-tuning."""
+    
     def __init__(self):
         self.tokenizer = None
-        self. model = None
+        self.model = None
+        self.dataset = None
         self.config = Config()
     
     def _setup_environment(self):
         """Set up environment variables and configurations."""
         # Set environment variable for better CUDA OOM handling
         os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:128"
+        logging.info("Environment setup completed")
     
     def _cleanup_memory(self):
         """Clean up GPU memory and resources."""
@@ -37,53 +39,64 @@ class TrainingPipeline:
                 del self.tokenizer
                 self.tokenizer = None
             
+            if self.dataset is not None:
+                del self.dataset
+                self.dataset = None
+            
             # Clear CUDA cache
             if torch.cuda.is_available():
                 torch.cuda.empty_cache()
             
             # Force Python garbage collection
             gc.collect()
+            
             logging.info("Memory cleanup completed")
             
         except Exception as e:
             logging.warning(f"Memory cleanup encountered an issue: {str(e)}")
     
-    
-    def run_pipeline(self):
+    def main(self):
         """Execute the complete training pipeline."""
         try:
-            # Env setup
+            # Environment setup
             self._setup_environment()
             
             # Step 1: Data Ingestion
+            logging.info("Starting data ingestion...")
             ingestor = DataIngestion()
-            train_data_path, test_data_path = ingestor.init_ingestion()
+            ingestor.init_ingestion()
             
             # Step 2: Data Tokenization
-            tokenizer_obj = DataTokenizer()
-            dataset = tokenizer_obj.get_tokenized_data()
+            logging.info("Starting data tokenization...")
+            tokenizer_inst = DataTokenizer()
+            self.tokenizer = tokenizer_inst.tokenizer_init()
+            self.dataset = tokenizer_inst.get_tokenized_data(self.tokenizer)
             
             # Step 3: Model Loading
-            loader = ModelLoader(tokenizer_obj.tokenizer)
-            model = loader.loader_init()
+            logging.info("Loading model...")
+            loader = ModelLoader()
+            self.model = loader.loader_init()
             
             # Step 4: Model Training
-            trainer = ModelTrainer(model, tokenizer_obj.tokenizer)
-            trainer.train(dataset)
+            logging.info("Starting model training...")
+            model_trainer = ModelTrainer()
+            model_trainer.train(
+                model=self.model,
+                tokenizer=self.tokenizer,
+                dataset=self.dataset
+            )
             
             logging.info("Training pipeline completed successfully!")
             
         except Exception as e:
-            raise CustomException("Unexpected error occurred in training pipeline", sys)
+            logging.error(f"Error in training pipeline: {str(e)}")
+            raise CustomException(f"Unexpected error occurred in training pipeline: {str(e)}", sys)
+        
         finally:
-            
             # Always clean up memory
             self._cleanup_memory()
 
 
-def main():
-    pipeline = TrainingPipeline()
-    pipeline.run_pipeline()
-
 if __name__ == "__main__":
-    main()
+    pipeline = TrainingPipeline()
+    pipeline.main()
