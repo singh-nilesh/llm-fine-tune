@@ -6,6 +6,7 @@ from peft import TaskType
 from typing import List
 import os
 import torch
+from pathlib import Path
 
 @dataclass
 class Config:
@@ -71,13 +72,18 @@ class Config:
     test_size: float = 0.15
     
     def __post_init__(self):
-        """Set up derived paths after initialization"""
-        # Create artifacts directory if it doesn't exist
-        os.makedirs(self.artifacts_dir, exist_ok=True)
+        """Set up derived paths after initialization, prefer Google Drive if available"""
         
-        # Log the artifacts directory path to confirm it's correct
-        from src.logger import logging
-        logging.info(f"Using artifacts directory: {os.path.abspath(self.artifacts_dir)}")
+        # Prefer Google Drive for artifacts if available
+        gdrive_artifacts = "/content/drive/MyDrive/llm-artifacts"
+        if os.path.exists(gdrive_artifacts):
+            self.artifacts_dir = gdrive_artifacts
+            from src.logger import logging
+            logging.info(f"Using Google Drive artifacts directory: {os.path.abspath(self.artifacts_dir)}")
+        else:
+            os.makedirs(self.artifacts_dir, exist_ok=True)
+            from src.logger import logging
+            logging.info(f"Using local artifacts directory: {os.path.abspath(self.artifacts_dir)}")
         
         self.output_dir = os.path.join(self.artifacts_dir, "lora_output")
         self.lora_adapter_path = os.path.join(self.artifacts_dir, "lora_adapter")
@@ -85,7 +91,7 @@ class Config:
         self.train_data_path = os.path.join(self.artifacts_dir, "train.jsonl")
         self.eval_data_path = os.path.join(self.artifacts_dir, "eval.jsonl")
         
-        # Create all required directories (removed tokenize_data_path)
+        # Create all required directories (if not present)
         for directory in [
             self.output_dir,
             self.lora_adapter_path,
