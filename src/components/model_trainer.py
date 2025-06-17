@@ -41,8 +41,9 @@ class ModelTrainer:
             )
             
             # Start/resume training
-            logging.info("Starting model training" + (f" from checkpoint: {self.config.resume_from_checkpoint}" if self.config.resume_from_checkpoint else ""))
-            trainer.train(resume_from_checkpoint=self.config.resume_from_checkpoint)
+            resume_from_checkpoint = self.config.resume_from_checkpoint
+            logging.info("Starting model training" + (f" from checkpoint: {resume_from_checkpoint}" if resume_from_checkpoint else ""))
+            trainer.train(resume_from_checkpoint=resume_from_checkpoint)
             
             # Save the final model
             trainer.save_model()
