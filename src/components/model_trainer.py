@@ -40,9 +40,9 @@ class ModelTrainer:
                 packing=False,
             )
             
-            # Start training
-            logging.info("Starting model training")
-            trainer.train()
+            # Start/resume training
+            logging.info("Starting model training" + (f" from checkpoint: {self.config.resume_from_checkpoint}" if self.config.resume_from_checkpoint else ""))
+            trainer.train(resume_from_checkpoint=self.config.resume_from_checkpoint)
             
             # Save the final model
             trainer.save_model()
@@ -126,6 +126,7 @@ class ModelTrainer:
                 remove_unused_columns= self.config.remove_unused_columns,
                 report_to= self.report_to,
                 seed= self.config.seed,
+                save_total_limit=self.config.save_total_limit,  # Only keep 3 checkpoints
             )
         except Exception as e:
             logging.error(f"Error creating training arguments: {str(e)}")

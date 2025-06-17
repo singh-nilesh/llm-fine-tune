@@ -83,7 +83,8 @@ class TrainingPipeline:
             model_trainer.train(
                 model=self.model,
                 tokenizer=self.tokenizer,
-                dataset=self.dataset
+                dataset=self.dataset,
+                resume_from_checkpoint=self.config.resume_from_checkpoint
             )
             
             logging.info("Training pipeline completed successfully!")

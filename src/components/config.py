@@ -10,7 +10,10 @@ from pathlib import Path
 
 @dataclass
 class Config:
-    """Configuration class for fine-tuning parameters"""
+    """Configuration class for fine-tuning parameters
+    
+    To resume training after a disconnect, set resume_from_checkpoint to the checkpoint path (e.g., output_dir/checkpoint-100/).
+    """
     
     # Set artifacts directory path
     artifacts_dir: str = os.path.join(os.path.dirname(__file__), "artifacts")
@@ -41,13 +44,14 @@ class Config:
     warmup_ratio: float = 0.05
     logging_steps: int = 10
     save_strategy: str = "steps"
-    save_steps: int = 100
+    save_steps: int = 50
     eval_strategy: str = "steps"
-    eval_steps: int = 100
+    eval_steps: int = 50
     bf16: bool = True
     gradient_checkpointing: bool = True
     dataloader_pin_memory: bool = False
     remove_unused_columns: bool = True
+    save_total_limit: int = 3  # Only keep the 3 most recent checkpoints
     
     # System parameters
     seed: int = 42
@@ -70,6 +74,9 @@ class Config:
     
     # Test size
     test_size: float = 0.15
+    
+    # Checkpointing
+    resume_from_checkpoint: str = None  # Path to checkpoint directory, or None to start fresh
     
     def __post_init__(self):
         """Set up derived paths after initialization, prefer Google Drive if available"""
@@ -98,6 +105,17 @@ class Config:
             self.tokenizer_path
         ]:
             os.makedirs(directory, exist_ok=True)
+        
+        # Optionally, auto-detect latest checkpoint if resume_from_checkpoint is not set
+        if self.resume_from_checkpoint is None:
+            checkpoints_dir = self.output_dir
+            if os.path.exists(checkpoints_dir):
+                checkpoints = [d for d in os.listdir(checkpoints_dir) if d.startswith('checkpoint-')]
+                if checkpoints:
+                    latest = sorted(checkpoints, key=lambda x: int(x.split('-')[-1]))[-1]
+                    self.resume_from_checkpoint = os.path.join(checkpoints_dir, latest)
+                    from src.logger import logging
+                    logging.info(f"Auto-detected latest checkpoint: {self.resume_from_checkpoint}")
     
     def get_config_info(self):
         """Convert config to dictionary for logging"""
