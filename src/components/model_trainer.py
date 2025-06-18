@@ -44,11 +44,19 @@ class ModelTrainer:
             resume_from_checkpoint = self.config.resume_from_checkpoint
             logging.info("Starting model training" + (f" from checkpoint: {resume_from_checkpoint}" if resume_from_checkpoint else ""))
             trainer.train(resume_from_checkpoint=resume_from_checkpoint)
-            
-            # Save the final model
-            trainer.save_model()
-            logging.info(f"Model saved to {self.config.output_dir}")
-            
+
+            # Save full model checkpoints during training (handled by Trainer)
+            # Save only the LoRA adapter after training is complete
+            if hasattr(trainer.model, 'peft_config') or 'peft' in str(type(trainer.model)).lower():
+                from peft import PeftModel
+                logging.info("Saving only LoRA adapter weights after training...")
+                trainer.model.save_pretrained(self.config.lora_adapter_path)
+                logging.info(f"LoRA adapter saved to {self.config.lora_adapter_path}")
+            else:
+                logging.warning("Model does not appear to be a PEFT/LoRA model. Saving full model as fallback.")
+                trainer.save_model()
+                logging.info(f"Model saved to {self.config.output_dir}")
+
             logging.info("Training completed successfully")
             return trainer
             
