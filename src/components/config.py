@@ -93,7 +93,8 @@ class Config:
             logging.info(f"Using local artifacts directory: {os.path.abspath(self.artifacts_dir)}")
         
         self.output_dir = os.path.join(self.artifacts_dir, "lora_output")
-        self.lora_adapter_path = os.path.join(self.artifacts_dir, "lora_adapter")
+        self.final_model_path = os.path.join(self.artifacts_dir, "final_model")
+        self.train_model_path = os.path.join(self.artifacts_dir, "train_model")
         self.tokenizer_path = os.path.join(self.artifacts_dir, "tokenizer")
         self.train_data_path = os.path.join(self.artifacts_dir, "train.jsonl")
         self.eval_data_path = os.path.join(self.artifacts_dir, "eval.jsonl")
@@ -101,8 +102,9 @@ class Config:
         # Create all required directories (if not present)
         for directory in [
             self.output_dir,
-            self.lora_adapter_path,
-            self.tokenizer_path
+            self.train_model_path,
+            self.tokenizer_path,
+            self.final_model_path
         ]:
             os.makedirs(directory, exist_ok=True)
         

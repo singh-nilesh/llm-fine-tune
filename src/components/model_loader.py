@@ -30,19 +30,19 @@ class ModelLoader:
                 logging.info("Resized model embeddings to match tokenizer vocab size.")
             
             # Check if adapter_config.json exists (proper way to check for valid LoRA adapters)
-            adapter_config_path = os.path.join(self.config.lora_adapter_path, "adapter_config.json")
+            adapter_config_path = os.path.join(self.config.train_model_path, "adapter_config.json")
             
             if os.path.exists(adapter_config_path):
-                logging.info(f"Loading LoRA adapters from {self.config.lora_adapter_path}")
-                model = PeftModel.from_pretrained(model, self.config.lora_adapter_path)
+                logging.info(f"Loading LoRA adapters from {self.config.train_model_path}")
+                model = PeftModel.from_pretrained(model, self.config.train_model_path)
             else:   
                 # Create directory if it doesn't exist
-                os.makedirs(self.config.lora_adapter_path, exist_ok=True)
+                os.makedirs(self.config.train_model_path, exist_ok=True)
                 logging.info("Creating new LoRA adapters.")
                 lora_config = self._get_lora_config()
                 model = get_peft_model(model, lora_config)
-                model.save_pretrained(self.config.lora_adapter_path)
-                logging.info(f"LoRA adapters saved to {self.config.lora_adapter_path}")
+                model.save_pretrained(self.config.train_model_path)
+                logging.info(f"LoRA adapters saved to {self.config.train_model_path}")
             
             return model
             
